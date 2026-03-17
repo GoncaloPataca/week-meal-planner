@@ -1,5 +1,6 @@
 import React from 'react'
 import useStore from '../store'
+import { Tab } from '@headlessui/react'
 
 interface Props {
   selectedDate?: Date
@@ -41,24 +42,25 @@ export default function WeekBanner(_: Props): JSX.Element {
     return {
       date,
       label: dayNames[i],
-      dayNumber: date.getDate()
+      dayNumber: date.getDate(),
+      iso: date.toISOString().slice(0, 10)
     }
   })
 
+  const selectedIndex = days.findIndex((d) => d.iso === selectedISO)
+
   return (
     <section className="week-banner">
-      <div className="week-banner-inner">
-        {days.map((d) => (
-          <button
-            key={d.label}
-            className={`day-card ${sameDay(d.date, new Date(selectedISO)) ? 'selected' : ''}`}
-            onClick={() => setSelectedDate(d.date)}
-          >
-            <div className="day-label">{d.label}</div>
-            <div className="day-number">{d.dayNumber}</div>
-          </button>
-        ))}
-      </div>
+      <Tab.Group selectedIndex={selectedIndex >= 0 ? selectedIndex : 0} onChange={(i) => setSelectedDate(days[i].date)}>
+        <Tab.List className="week-banner-inner">
+          {days.map((d) => (
+            <Tab key={d.iso} className={({ selected }) => `day-card ${selected ? 'selected' : ''}`}>
+              <div className="day-label">{d.label}</div>
+              <div className="day-number">{d.dayNumber}</div>
+            </Tab>
+          ))}
+        </Tab.List>
+      </Tab.Group>
     </section>
   )
 }
