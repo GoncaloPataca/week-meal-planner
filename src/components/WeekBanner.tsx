@@ -1,5 +1,10 @@
 import React from 'react'
 
+interface Props {
+  selectedDate?: Date
+  onSelect?: (date: Date) => void
+}
+
 function getMonday(d: Date) {
   const date = new Date(d)
   const day = date.getDay() // 0 (Sun) - 6 (Sat)
@@ -12,12 +17,18 @@ function getMonday(d: Date) {
 function addDays(d: Date, days: number) {
   const r = new Date(d)
   r.setDate(r.getDate() + days)
+  r.setHours(0, 0, 0, 0)
   return r
 }
 
 const dayNames = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
-export default function WeekBanner(): JSX.Element {
+function sameDay(a?: Date, b?: Date) {
+  if (!a || !b) return false
+  return a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth() && a.getDate() === b.getDate()
+}
+
+export default function WeekBanner({ selectedDate, onSelect }: Props): JSX.Element {
   const today = new Date()
   const monday = getMonday(today)
 
@@ -34,10 +45,14 @@ export default function WeekBanner(): JSX.Element {
     <section className="week-banner">
       <div className="week-banner-inner">
         {days.map((d) => (
-          <div className="day-card" key={d.label}>
+          <button
+            key={d.label}
+            className={`day-card ${sameDay(d.date, selectedDate) ? 'selected' : ''}`}
+            onClick={() => onSelect && onSelect(d.date)}
+          >
             <div className="day-label">{d.label}</div>
             <div className="day-number">{d.dayNumber}</div>
-          </div>
+          </button>
         ))}
       </div>
     </section>
