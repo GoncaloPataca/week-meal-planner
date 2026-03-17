@@ -47,18 +47,46 @@ export default function WeekBanner(_: Props): JSX.Element {
     }
   })
 
+  const mealsMap = useStore((s) => s.meals)
+
+  function tagColor(tag?: string) {
+    switch ((tag || '').toLowerCase()) {
+      case 'vegetarian':
+        return '#EA580C'
+      case 'vegan':
+        return '#059669'
+      case 'dessert':
+        return '#E11D48'
+      case 'gluten-free':
+        return '#7C3AED'
+      default:
+        return '#6B7280'
+    }
+  }
+
   const selectedIndex = days.findIndex((d) => d.iso === selectedISO)
 
   return (
     <section className="week-banner">
       <Tab.Group selectedIndex={selectedIndex >= 0 ? selectedIndex : 0} onChange={(i) => setSelectedDate(days[i].date)}>
         <Tab.List className="week-banner-inner">
-          {days.map((d) => (
-            <Tab key={d.iso} className={({ selected }) => `day-card ${selected ? 'selected' : ''}`}>
-              <div className="day-label">{d.label}</div>
-              <div className="day-number">{d.dayNumber}</div>
-            </Tab>
-          ))}
+          {days.map((d) => {
+            const meals = mealsMap[d.iso] ?? []
+            const dots = meals.slice(0, 3).map((m) => tagColor(m.tags && m.tags[0]))
+
+            return (
+              <Tab key={d.iso} className={({ selected }) => `day-card ${selected ? 'selected' : ''}`}>
+                <div className="day-label">{d.label}</div>
+                <div className="day-dots">
+                  {dots.map((c, i) => (
+                    <span key={i} className="day-dot" style={{ backgroundColor: c }} />
+                  ))}
+                </div>
+                <div className="day-number">{d.dayNumber}</div>
+                <div className="day-count">{meals.length} meals</div>
+              </Tab>
+            )
+          })}
         </Tab.List>
       </Tab.Group>
     </section>
