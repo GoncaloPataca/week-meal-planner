@@ -1,10 +1,14 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
+import WeekBanner from './components/WeekBanner'
+import './styles.css'
 
 const App: React.FC = () => (
-  <main style={{fontFamily: "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial", display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100vh'}}>
-    <h1>Hello World</h1>
-  </main>
+  <div>
+    <h1 style={{fontFamily: "Georgia, 'Times New Roman', serif", margin: 0}}>This Week's Table</h1>
+    <p style={{marginTop:6, color:'#666'}}>Seven days of meals. Tap a day to see the detail.</p>
+    <WeekBanner />
+  </div>
 )
 
 const rootElement = document.getElementById('app') as HTMLElement
