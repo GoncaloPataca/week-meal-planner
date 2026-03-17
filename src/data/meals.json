@@ -1,0 +1,47 @@
+{
+  "2026-03-16": [],
+  "2026-03-17": [
+    {
+      "id": "oats-1",
+      "label": "Morning",
+      "title": "Berry Overnight Oats",
+      "servings": 2,
+      "prep": "5m",
+      "cook": "0m",
+      "tags": ["Vegetarian"],
+      "ingredients": [
+        { "amount": "1 cup", "name": "rolled oats" },
+        { "amount": "1 cup", "name": "milk" },
+        { "amount": "1/2 cup", "name": "Greek yoghurt" },
+        { "amount": "1 tbsp", "name": "honey" },
+        { "amount": "1/2 cup", "name": "mixed berries" }
+      ],
+      "steps": [
+        "Combine oats, milk, yoghurt, and honey in a jar.",
+        "Refrigerate overnight.",
+        "Top with berries before serving."
+      ],
+      "notes": "Prepare the night before — grab and go."
+    },
+    {
+      "id": "rice-1",
+      "label": "Evening",
+      "title": "Veggie Fried Rice",
+      "servings": 2,
+      "prep": "10m",
+      "cook": "12m",
+      "tags": ["Vegan"],
+      "ingredients": [
+        { "amount": "2 cups", "name": "cooked rice" },
+        { "amount": "1 cup", "name": "mixed vegetables" },
+        { "amount": "2 tbsp", "name": "soy sauce" }
+      ],
+      "steps": ["Sauté vegetables.", "Add rice and soy sauce, stir fry until heated."]
+    }
+  ],
+  "2026-03-18": [],
+  "2026-03-19": [],
+  "2026-03-20": [],
+  "2026-03-21": [],
+  "2026-03-22": []
+}
