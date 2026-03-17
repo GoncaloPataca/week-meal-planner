@@ -32,11 +32,19 @@ export default function App() {
   const selectedISO = useStore((s) => s.selectedISO)
 
   return (
-    <div>
-      <h1 style={{ fontFamily: "Georgia, 'Times New Roman', serif", margin: 0 }}>This Week's Table</h1>
-      <p style={{ marginTop: 6, color: '#666' }}>Seven days of meals. Tap a day to see the detail.</p>
-      <WeekBanner />
-      <DayDetail />
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-blue-50">
+      <div className="max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
+        <header className="mb-10">
+          <h1 className="text-4xl lg:text-5xl font-serif font-semibold text-slate-900 mb-2">
+            This Week's Table
+          </h1>
+          <p className="text-base text-slate-600">
+            Seven days of meals. Tap a day to see the detail.
+          </p>
+        </header>
+        <WeekBanner />
+        <DayDetail />
+      </div>
     </div>
   )
 }

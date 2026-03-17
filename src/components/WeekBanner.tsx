@@ -55,23 +55,50 @@ export default function WeekBanner(_: Props): JSX.Element {
   const selectedIndex = days.findIndex((d) => d.iso === selectedISO)
 
   return (
-    <section className="week-banner">
+    <section className="mb-12">
       <Tab.Group selectedIndex={selectedIndex >= 0 ? selectedIndex : 0} onChange={(i) => setSelectedDate(days[i].date)}>
-        <Tab.List className="week-banner-inner">
+        <Tab.List className="flex gap-3 overflow-x-auto pb-2 scrollbar-hide">
           {days.map((d) => {
             const meals = mealsMap[d.iso] ?? []
             const dots = meals.slice(0, 3).map((_, i) => mealColors[i % mealColors.length])
+            const isToday = sameDay(d.date, today)
 
             return (
-              <Tab key={d.iso} className={({ selected }) => `day-card ${selected ? 'selected' : ''}`}>
-                <div className="day-label">{d.label}</div>
-                <div className="day-dots">
-                  {dots.map((c, i) => (
-                    <span key={i} className="day-dot" style={{ backgroundColor: c }} />
-                  ))}
+              <Tab
+                key={d.iso}
+                className={({ selected }) => `
+                  flex-shrink-0 relative flex flex-col items-center gap-2 px-4 py-3 min-w-[100px]
+                  rounded-2xl border-2 transition-all duration-200
+                  ${selected 
+                    ? 'bg-white border-indigo-500 shadow-lg shadow-indigo-100' 
+                    : 'bg-white border-slate-200 hover:border-slate-300 hover:shadow-md'
+                  }
+                  focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2
+                `}
+              >
+                <div className="text-xs font-semibold text-slate-500 uppercase tracking-wide">
+                  {d.label}
                 </div>
-                <div className="day-number">{d.dayNumber}</div>
-                <div className="day-count">{meals.length} meals</div>
+                {isToday && (
+                  <div className="absolute top-2 right-2 w-2 h-2 rounded-full bg-emerald-500"></div>
+                )}
+                {dots.length > 0 && (
+                  <div className="flex gap-1.5">
+                    {dots.map((color, i) => (
+                      <div
+                        key={i}
+                        className="w-2 h-2 rounded-full"
+                        style={{ backgroundColor: color }}
+                      />
+                    ))}
+                  </div>
+                )}
+                <div className="text-2xl font-bold text-slate-900">
+                  {d.dayNumber}
+                </div>
+                <div className="text-xs text-slate-500 font-medium">
+                  {meals.length} {meals.length === 1 ? 'meal' : 'meals'}
+                </div>
               </Tab>
             )
           })}

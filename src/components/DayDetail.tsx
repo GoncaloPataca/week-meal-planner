@@ -13,9 +13,16 @@ export default function DayDetail({ date }: { date?: Date }) {
 
   const dayName = currentDate.toLocaleDateString(undefined, { weekday: 'long' })
   return (
-    <section className="day-detail">
-      <h2 className="day-detail-title">{dayName} <span className="muted">{meals.length} meals planned</span></h2>
-      <div className="meals-list">
+    <section className="space-y-6">
+      <div className="flex items-baseline gap-3">
+        <h2 className="text-3xl font-serif font-semibold text-slate-900">
+          {dayName}
+        </h2>
+        <span className="text-sm text-slate-500 font-medium">
+          {meals.length} {meals.length === 1 ? 'meal' : 'meals'} planned
+        </span>
+      </div>
+      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {meals.map((m) => (
           <MealCard key={m.id} meal={m} />
         ))}
