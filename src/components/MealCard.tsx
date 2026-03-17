@@ -8,18 +8,25 @@ export default function MealCard({ meal }: { meal: Meal }) {
       {({ open }) => (
         <article className="meal-card">
           <Disclosure.Button className="meal-header" as="div">
-            <div style={{display:'flex', alignItems:'center', gap:12}}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
               <span className="meal-label">{meal.label}</span>
               <h3 className="meal-title">{meal.title}</h3>
             </div>
-            <div className="meal-meta">
-              {meal.servings ? <span>{meal.servings} servings</span> : null}
-              {meal.prep ? <span>· {meal.prep} prep</span> : null}
-              {meal.cook ? <span>· {meal.cook} cook</span> : null}
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+              <div className="meal-meta">
+                {meal.servings ? <span>{meal.servings} servings</span> : null}
+                {meal.prep ? <span>· {meal.prep} prep</span> : null}
+                {meal.cook ? <span>· {meal.cook} cook</span> : null}
+              </div>
+              <span className={`chev ${open ? 'open' : ''}`} aria-hidden>
+                <svg width="16" height="16" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M6 8L10 12L14 8" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+              </span>
             </div>
           </Disclosure.Button>
 
-          <Disclosure.Panel>
+          <Disclosure.Panel className={`disclosure-panel ${open ? 'open' : 'closed'}`}>
             {meal.tags && (
               <div className="meal-tags">
                 {meal.tags.map((t) => (

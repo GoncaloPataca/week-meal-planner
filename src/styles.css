@@ -19,12 +19,18 @@ body{font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue'
 .meals-list{display:flex;flex-direction:column;gap:18px;margin-top:12px}
 .meal-card{background:#fff;border-radius:12px;padding:18px;box-shadow:0 6px 0 rgba(0,0,0,0.04)}
 .meal-header{display:flex;align-items:center;gap:12px}
+.meal-header{display:flex;align-items:center;justify-content:space-between}
 .meal-label{display:inline-block;background:#f8f6f4;border-radius:12px;padding:6px 8px;font-size:12px;color:#a64}
+.chev{display:inline-flex;align-items:center;justify-content:center;transition:transform .18s ease,color .12s ease;color:#888}
+.chev.open{transform:rotate(180deg);color:#333}
 .meal-title{margin:0;font-family: Georgia, 'Times New Roman', serif}
 .meal-meta{color:#666;font-size:13px;margin-top:6px}
 .meal-tags{margin-top:8px}
 .tag{display:inline-block;background:#eef2f1;padding:6px 8px;border-radius:6px;margin-right:6px;font-size:12px}
 .ingredients h4,.steps h4{margin:12px 0 6px 0;font-size:12px;color:#666}
+.disclosure-panel{transition:opacity .18s ease, max-height .18s ease;overflow:hidden}
+.disclosure-panel.closed{opacity:0;max-height:0;padding:0;margin:0}
+.disclosure-panel.open{opacity:1;max-height:2000px;padding-top:12px}
 .ingredients ul{padding-left:18px;margin:0}
 .steps ol{padding-left:18px;margin:0}
 .notes{margin-top:12px;background:#f5f3f1;padding:10px;border-radius:8px;color:#666}
