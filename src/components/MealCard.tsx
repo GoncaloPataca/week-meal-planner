@@ -4,7 +4,7 @@ import { Disclosure } from '@headlessui/react'
 
 export default function MealCard({ meal }: { meal: Meal }) {
   return (
-    <Disclosure>
+    <Disclosure defaultOpen>
       {({ open }) => (
         <article className="meal-card">
           <Disclosure.Button className="meal-header" as="div">
