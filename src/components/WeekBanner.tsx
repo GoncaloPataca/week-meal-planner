@@ -49,20 +49,8 @@ export default function WeekBanner(_: Props): JSX.Element {
 
   const mealsMap = useStore((s) => s.meals)
 
-  function tagColor(tag?: string) {
-    switch ((tag || '').toLowerCase()) {
-      case 'vegetarian':
-        return '#EA580C'
-      case 'vegan':
-        return '#059669'
-      case 'dessert':
-        return '#E11D48'
-      case 'gluten-free':
-        return '#7C3AED'
-      default:
-        return '#6B7280'
-    }
-  }
+  // Predefined color palette for meal dots
+  const mealColors = ['#EA580C', '#059669', '#7C3AED', '#E11D48', '#0EA5E9', '#F59E0B']
 
   const selectedIndex = days.findIndex((d) => d.iso === selectedISO)
 
@@ -72,7 +60,7 @@ export default function WeekBanner(_: Props): JSX.Element {
         <Tab.List className="week-banner-inner">
           {days.map((d) => {
             const meals = mealsMap[d.iso] ?? []
-            const dots = meals.slice(0, 3).map((m) => tagColor(m.tags && m.tags[0]))
+            const dots = meals.slice(0, 3).map((_, i) => mealColors[i % mealColors.length])
 
             return (
               <Tab key={d.iso} className={({ selected }) => `day-card ${selected ? 'selected' : ''}`}>
