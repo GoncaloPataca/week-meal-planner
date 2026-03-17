@@ -1,4 +1,5 @@
 import React from 'react'
+import useStore from '../store'
 
 interface Props {
   selectedDate?: Date
@@ -28,7 +29,10 @@ function sameDay(a?: Date, b?: Date) {
   return a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth() && a.getDate() === b.getDate()
 }
 
-export default function WeekBanner({ selectedDate, onSelect }: Props): JSX.Element {
+export default function WeekBanner(_: Props): JSX.Element {
+  const selectedISO = useStore((s) => s.selectedISO)
+  const setSelectedDate = useStore((s) => s.setSelectedDate)
+
   const today = new Date()
   const monday = getMonday(today)
 
@@ -47,8 +51,8 @@ export default function WeekBanner({ selectedDate, onSelect }: Props): JSX.Eleme
         {days.map((d) => (
           <button
             key={d.label}
-            className={`day-card ${sameDay(d.date, selectedDate) ? 'selected' : ''}`}
-            onClick={() => onSelect && onSelect(d.date)}
+            className={`day-card ${sameDay(d.date, new Date(selectedISO)) ? 'selected' : ''}`}
+            onClick={() => setSelectedDate(d.date)}
           >
             <div className="day-label">{d.label}</div>
             <div className="day-number">{d.dayNumber}</div>
