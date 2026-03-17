@@ -114,10 +114,10 @@ export default function WeekBanner(_: Props): JSX.Element {
                 key={d.iso}
                 className={({ selected }) => `
                   flex-1 relative flex flex-col items-center gap-1 sm:gap-2 px-1.5 py-2 sm:px-3 sm:py-3 min-w-0
-                  rounded-xl sm:rounded-2xl border transition-all duration-200
+                  rounded-xl sm:rounded-2xl transition-all duration-200
                   ${selected 
-                    ? 'bg-white dark:bg-neutral-800 border-slate-400 dark:border-slate-600 shadow-md' 
-                    : 'bg-white dark:bg-neutral-800 border-neutral-200 dark:border-neutral-700 hover:border-neutral-300 dark:hover:border-neutral-600 hover:shadow-sm'
+                    ? 'bg-white dark:bg-neutral-800 border-2 border-slate-300 dark:border-neutral-500 shadow-lg' 
+                    : 'bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:border-neutral-300 dark:hover:border-neutral-600 hover:shadow-sm'
                   }
                   focus:outline-none focus-visible:outline-none
                 `}
