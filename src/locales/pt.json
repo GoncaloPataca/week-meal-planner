@@ -1,0 +1,43 @@
+{
+  "app": {
+    "title": "Mesa da Semana",
+    "subtitle": "Sete dias de refeições. Toque num dia para ver os detalhes."
+  },
+  "days": {
+    "monday": "Seg",
+    "tuesday": "Ter",
+    "wednesday": "Qua",
+    "thursday": "Qui",
+    "friday": "Sex",
+    "saturday": "Sáb",
+    "sunday": "Dom",
+    "mondayFull": "Segunda-feira",
+    "tuesdayFull": "Terça-feira",
+    "wednesdayFull": "Quarta-feira",
+    "thursdayFull": "Quinta-feira",
+    "fridayFull": "Sexta-feira",
+    "saturdayFull": "Sábado",
+    "sundayFull": "Domingo"
+  },
+  "meal": {
+    "singular": "refeição",
+    "plural": "refeições",
+    "planned": "planeadas",
+    "servings": "doses",
+    "prep": "preparação",
+    "cook": "cozedura",
+    "ingredients": "Ingredientes",
+    "steps": "Passos"
+  },
+  "theme": {
+    "toggle": "Alternar tema"
+  },
+  "language": {
+    "toggle": "Mudar idioma"
+  },
+  "navigation": {
+    "previousWeek": "Semana anterior",
+    "nextWeek": "Próxima semana",
+    "today": "Hoje"
+  }
+}

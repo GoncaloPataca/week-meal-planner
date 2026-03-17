@@ -1,0 +1,43 @@
+{
+  "app": {
+    "title": "This Week's Table",
+    "subtitle": "Seven days of meals. Tap a day to see the detail."
+  },
+  "days": {
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat",
+    "sunday": "Sun",
+    "mondayFull": "Monday",
+    "tuesdayFull": "Tuesday",
+    "wednesdayFull": "Wednesday",
+    "thursdayFull": "Thursday",
+    "fridayFull": "Friday",
+    "saturdayFull": "Saturday",
+    "sundayFull": "Sunday"
+  },
+  "meal": {
+    "singular": "meal",
+    "plural": "meals",
+    "planned": "planned",
+    "servings": "servings",
+    "prep": "prep",
+    "cook": "cook",
+    "ingredients": "Ingredients",
+    "steps": "Steps"
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "language": {
+    "toggle": "Change language"
+  },
+  "navigation": {
+    "previousWeek": "Previous week",
+    "nextWeek": "Next week",
+    "today": "Today"
+  }
+}
