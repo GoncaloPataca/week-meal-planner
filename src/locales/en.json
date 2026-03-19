@@ -39,5 +39,13 @@
     "previousWeek": "Previous week",
     "nextWeek": "Next week",
     "today": "Today"
+  },
+  "calendar": {
+    "addToCalendar": "Add to Calendar",
+    "calendar": "Calendar",
+    "addIngredients": "Add Ingredients",
+    "ingredients": "Ingredients",
+    "exportDay": "Export Day",
+    "exportWeek": "Export Week"
   }
 }

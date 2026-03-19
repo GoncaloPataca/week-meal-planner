@@ -2,6 +2,7 @@ import React from 'react'
 import { Tab } from '@headlessui/react'
 import { useTranslation } from 'react-i18next'
 import useStore from '../store'
+import { downloadMultipleICS } from '../utils/calendar'
 
 interface Props {
   selectedDate?: Date

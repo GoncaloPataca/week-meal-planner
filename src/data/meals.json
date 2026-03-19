@@ -4,6 +4,7 @@
       "id": "toast-1",
       "label": "Morning",
       "title": "Avocado Toast",
+      "time": "08:00",
       "servings": 1,
       "prep": "5m",
       "cook": "3m",
@@ -24,6 +25,7 @@
       "id": "salad-1",
       "label": "Lunch",
       "title": "Greek Salad",
+      "time": "12:30",
       "servings": 2,
       "prep": "10m",
       "cook": "0m",
@@ -46,6 +48,7 @@
       "id": "pasta-1",
       "label": "Dinner",
       "title": "Spaghetti Aglio e Olio",
+      "time": "19:00",
       "servings": 2,
       "prep": "5m",
       "cook": "12m",
@@ -68,6 +71,7 @@
       "id": "oats-1",
       "label": "Morning",
       "title": "Berry Overnight Oats",
+      "time": "08:00",
       "servings": 2,
       "prep": "5m",
       "cook": "0m",
@@ -90,6 +94,7 @@
       "id": "rice-1",
       "label": "Evening",
       "title": "Veggie Fried Rice",
+      "time": "20:00",
       "servings": 2,
       "prep": "10m",
       "cook": "12m",
@@ -107,6 +112,7 @@
       "id": "smoothie-1",
       "label": "Morning",
       "title": "Green Smoothie",
+      "time": "07:30",
       "servings": 1,
       "prep": "5m",
       "cook": "0m",
@@ -126,6 +132,7 @@
       "id": "wrap-1",
       "label": "Lunch",
       "title": "Hummus Veggie Wrap",
+      "time": "12:30",
       "servings": 2,
       "prep": "8m",
       "cook": "0m",
@@ -149,6 +156,7 @@
       "id": "pancakes-1",
       "label": "Morning",
       "title": "Fluffy Pancakes",
+      "time": "08:30",
       "servings": 2,
       "prep": "10m",
       "cook": "15m",
@@ -170,6 +178,7 @@
       "id": "curry-1",
       "label": "Dinner",
       "title": "Chickpea Curry",
+      "time": "19:00",
       "servings": 3,
       "prep": "10m",
       "cook": "20m",
@@ -193,6 +202,7 @@
       "id": "eggs-1",
       "label": "Morning",
       "title": "Scrambled Eggs & Toast",
+      "time": "08:00",
       "servings": 1,
       "prep": "3m",
       "cook": "5m",
@@ -213,6 +223,7 @@
       "id": "soup-1",
       "label": "Lunch",
       "title": "Tomato Basil Soup",
+      "time": "12:30",
       "servings": 2,
       "prep": "5m",
       "cook": "20m",
@@ -235,6 +246,7 @@
       "id": "granola-1",
       "label": "Morning",
       "title": "Yogurt Parfait",
+      "time": "08:00",
       "servings": 1,
       "prep": "5m",
       "cook": "0m",
@@ -254,6 +266,7 @@
       "id": "tacos-1",
       "label": "Dinner",
       "title": "Black Bean Tacos",
+      "time": "19:00",
       "servings": 2,
       "prep": "10m",
       "cook": "10m",
@@ -277,6 +290,7 @@
       "id": "french-1",
       "label": "Morning",
       "title": "French Toast",
+      "time": "09:00",
       "servings": 2,
       "prep": "5m",
       "cook": "10m",
@@ -297,6 +311,7 @@
       "id": "stir-1",
       "label": "Dinner",
       "title": "Tofu Stir-Fry",
+      "time": "19:00",
       "servings": 2,
       "prep": "10m",
       "cook": "12m",
@@ -317,6 +332,7 @@
       "id": "brownies-1",
       "label": "Dessert",
       "title": "Fudgy Brownies",
+      "time": "15:00",
       "servings": 8,
       "prep": "15m",
       "cook": "25m",
@@ -334,6 +350,96 @@
         "Bake at 350°F for 25 minutes."
       ],
       "notes": "Let cool before cutting into squares."
+    }
+  ],
+  "2026-03-23": [
+    {
+      "id": "bagel-1",
+      "label": "Morning",
+      "title": "Cream Cheese Bagel",
+      "time": "08:00",
+      "servings": 1,
+      "prep": "3m",
+      "cook": "2m",
+      "tags": ["Vegetarian"],
+      "ingredients": [
+        { "amount": "1", "name": "bagel" },
+        { "amount": "2 tbsp", "name": "cream cheese" },
+        { "amount": "2 slices", "name": "tomato" }
+      ],
+      "steps": [
+        "Toast bagel until golden.",
+        "Spread cream cheese on both halves.",
+        "Top with tomato slices."
+      ]
+    }
+  ],
+  "2026-03-25": [
+    {
+      "id": "bowl-1",
+      "label": "Lunch",
+      "title": "Buddha Bowl",
+      "time": "12:30",
+      "servings": 2,
+      "prep": "15m",
+      "cook": "20m",
+      "tags": ["Vegan", "Gluten-Free"],
+      "ingredients": [
+        { "amount": "1 cup", "name": "quinoa" },
+        { "amount": "1", "name": "sweet potato" },
+        { "amount": "1 cup", "name": "chickpeas" },
+        { "amount": "2 cups", "name": "kale" },
+        { "amount": "2 tbsp", "name": "tahini" }
+      ],
+      "steps": [
+        "Cook quinoa according to package instructions.",
+        "Roast sweet potato cubes at 400°F for 20 minutes.",
+        "Massage kale with a bit of olive oil.",
+        "Arrange quinoa, sweet potato, chickpeas, and kale in bowls.",
+        "Drizzle with tahini dressing."
+      ]
+    },
+    {
+      "id": "pizza-1",
+      "label": "Dinner",
+      "title": "Margherita Pizza",
+      "time": "19:30",
+      "servings": 2,
+      "prep": "10m",
+      "cook": "15m",
+      "tags": ["Vegetarian"],
+      "ingredients": [
+        { "amount": "1", "name": "pizza dough" },
+        { "amount": "1/2 cup", "name": "tomato sauce" },
+        { "amount": "1 cup", "name": "mozzarella" },
+        { "amount": "1/4 cup", "name": "fresh basil" }
+      ],
+      "steps": [
+        "Preheat oven to 475°F.",
+        "Roll out pizza dough on a floured surface.",
+        "Spread tomato sauce and top with mozzarella.",
+        "Bake for 12-15 minutes until crust is golden.",
+        "Top with fresh basil before serving."
+      ]
+    }
+  ],
+  "2026-03-27": [
+    {
+      "id": "muffin-1",
+      "label": "Morning",
+      "title": "Blueberry Muffin",
+      "time": "08:30",
+      "servings": 1,
+      "prep": "2m",
+      "cook": "0m",
+      "tags": ["Vegetarian"],
+      "ingredients": [
+        { "amount": "1", "name": "blueberry muffin" }
+      ],
+      "steps": [
+        "Warm muffin if desired.",
+        "Enjoy with coffee or tea."
+      ]
     }
   ]
 }

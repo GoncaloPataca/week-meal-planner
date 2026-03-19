@@ -2,9 +2,12 @@ import React from 'react'
 import { Disclosure } from '@headlessui/react'
 import { useTranslation } from 'react-i18next'
 import { Meal } from '../types'
+import { downloadICS, downloadIngredientsICS } from '../utils/calendar'
+import useStore from '../store'
 
 export default function MealCard({ meal }: { meal: Meal }) {
   const { t } = useTranslation()
+  const selectedISO = useStore((s) => s.selectedISO)
   const labelColors: Record<string, string> = {
     'Morning': 'bg-amber-100 text-amber-800',
     'Lunch': 'bg-emerald-100 text-emerald-800',
@@ -96,6 +99,37 @@ export default function MealCard({ meal }: { meal: Meal }) {
                 </p>
               </div>
             )}
+
+            <div className="pt-2 flex flex-col sm:flex-row gap-2">
+              <button
+                onClick={(e) => {
+                  e.stopPropagation()
+                  downloadICS(meal, selectedISO)
+                }}
+                className="flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500"
+              >
+                <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                </svg>
+                <span className="hidden sm:inline">{t('calendar.addToCalendar')}</span>
+                <span className="sm:hidden">{t('calendar.calendar')}</span>
+              </button>
+              {meal.ingredients && meal.ingredients.length > 0 && (
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation()
+                    downloadIngredientsICS(meal, selectedISO)
+                  }}
+                  className="flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500"
+                >
+                  <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
+                  </svg>
+                  <span className="hidden sm:inline">{t('calendar.addIngredients')}</span>
+                  <span className="sm:hidden">{t('calendar.ingredients')}</span>
+                </button>
+              )}
+            </div>
           </Disclosure.Panel>
         </article>
       )}

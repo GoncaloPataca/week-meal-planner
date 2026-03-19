@@ -5,7 +5,7 @@ import mealsData from './data/meals.json'
 
 type MealsMap = Record<string, Meal[]>
 
-function getMonday(d: Date) {
+export function getMonday(d: Date) {
   const date = new Date(d)
   const day = date.getDay()
   const diff = (day === 0 ? -6 : 1) - day
