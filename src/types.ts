@@ -15,4 +15,6 @@ export interface Meal {
   ingredients?: Ingredient[]
   steps?: string[]
   notes?: string
+  url?: string // URL to the original recipe
+  image?: string // Path to local image file
 }

@@ -32,7 +32,7 @@ interface AppState {
   goToCurrentWeek: () => void
 }
 
-export const useStore = create<AppState>((set) => ({
+export const useStore = create<AppState>((set, get) => ({
   selectedISO: toISO(today),
   viewedWeekStart: mondayOfCurrentWeek,
   meals: mealsData as MealsMap,
@@ -57,7 +57,7 @@ export const useStore = create<AppState>((set) => ({
   goToCurrentWeek: () => set({ 
     viewedWeekStart: mondayOfCurrentWeek,
     selectedISO: toISO(today)
-  }),
+  })
 }))
 
 export default useStore

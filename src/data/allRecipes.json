@@ -1,0 +1,6020 @@
+[
+  {
+    "id": 1,
+    "name": "Panquecas de Banana e Aveia sem Glúten",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Banana madura"
+      },
+      {
+        "amount": "1 xícara (80g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Amasse as bananas com um garfo num recipiente até formar um purê liso.",
+      "Adicione os ovos e misture bem com um fouet ou garfo.",
+      "Junte a aveia em flocos, a canela, o fermento e o sal. Mexa até a massa ficar homogénea.",
+      "Deixe a massa descansar 3 minutos para a aveia absorver a humidade.",
+      "Aqueça uma frigideira antiaderente em lume médio-baixo com um pouco de óleo de coco.",
+      "Coloque cerca de 2 colheres de sopa de massa por panqueca na frigideira.",
+      "Cozinhe por 2-3 minutos de cada lado até dourar. Vire com cuidado quando surgirem bolhas na superfície.",
+      "Sirva de imediato com frutas frescas a gosto."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "rápido",
+      "pequeno-almoço"
+    ],
+    "calories": 375,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-1",
+    "image": "/images/recipes/panquecas-banana-aveia.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Overnight Oats de Frutos Vermelhos",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "5 unidades",
+        "name": "Morangos frescos"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Mirtilos"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      }
+    ],
+    "steps": [
+      "Num frasco de vidro ou recipiente com tampa, coloque a aveia e as sementes de chia.",
+      "Adicione o leite de amêndoa, a canela e a essência de baunilha.",
+      "Mexa bem com uma colher para combinar todos os ingredientes.",
+      "Corte os morangos em fatias finas e coloque metade dentro da mistura.",
+      "Tampe o frasco e leve ao frigorífico por no mínimo 6 horas (idealmente durante a noite).",
+      "Pela manhã, mexa a mistura. Se estiver muito espessa, adicione um pouco mais de leite.",
+      "Decore com os morangos e mirtilos restantes por cima.",
+      "Consuma frio, diretamente do frasco. Pode adicionar frutos secos a gosto."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "sem forno",
+      "pequeno-almoço"
+    ],
+    "calories": 220,
+    "prepTime": "5 min",
+    "cookTime": "0 min (repouso de 6-8h)",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-2",
+    "image": "/images/recipes/overnight-oats.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Muffins de Cenoura e Especiarias",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (200g)",
+        "name": "Cenoura ralada finamente"
+      },
+      {
+        "amount": "1.5 xícaras (150g)",
+        "name": "Farinha de amêndoa"
+      },
+      {
+        "amount": "3 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "6 unidades (90g)",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1.5 colheres de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Noz-moscada ralada"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Gengibre em pó"
+      },
+      {
+        "amount": "1.5 colheres de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Bicarbonato de sódio"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C. Unte uma forma de muffins com óleo de coco ou use forminhas de papel.",
+      "Hidrate as tâmaras em água quente por 5 minutos. Escorra e triture no processador até formar uma pasta lisa.",
+      "Num recipiente grande, bata os ovos com a pasta de tâmaras e o óleo de coco derretido.",
+      "Noutro recipiente, misture a farinha de amêndoa, canela, noz-moscada, gengibre, fermento, bicarbonato e sal.",
+      "Combine os ingredientes secos com os húmidos, mexendo delicadamente até incorporar.",
+      "Adicione a cenoura ralada e mexa suavemente com uma espátula.",
+      "Distribua a massa igualmente nas 8 cavidades da forma de muffins (cerca de 3/4 de cada cavidade).",
+      "Leve ao forno por 20-22 minutos ou até um palito sair limpo.",
+      "Deixe arrefecer na forma por 5 minutos antes de desenformar. Arrefeça completamente numa grelha."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 195,
+    "prepTime": "10 min",
+    "cookTime": "22 min",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-3",
+    "image": "/images/recipes/muffins-cenoura.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smoothie Bowl Verde Energizante",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (60g)",
+        "name": "Espinafres frescos"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Banana congelada"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1/2 xícara (120ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de cânhamo"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Kiwi fatiado"
+      }
+    ],
+    "steps": [
+      "Coloque os espinafres, a banana congelada e o abacate no liquidificador.",
+      "Adicione o leite de coco e bata em velocidade alta por 30-40 segundos até ficar cremoso e espesso.",
+      "A consistência deve ser mais espessa que um smoothie normal — adicione leite aos poucos se necessário.",
+      "Transfira para uma tigela funda.",
+      "Decore com as sementes de cânhamo, sementes de abóbora, coco ralado e fatias de kiwi.",
+      "Organize os toppings em fileiras para um visual bonito.",
+      "Consuma imediatamente para aproveitar a textura cremosa e os nutrientes."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 395,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-4",
+    "image": "/images/recipes/smoothie-bowl-verde.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Energy Balls de Cacau e Coco",
+    "ingredients": [
+      {
+        "amount": "10 unidades (150g)",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Cacau em pó puro (sem açúcar)"
+      },
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Manteiga de amendoim natural (sem açúcar)"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Coco ralado extra (para envolver)"
+      }
+    ],
+    "steps": [
+      "Coloque as tâmaras no processador de alimentos e pulse até formar uma pasta pegajosa.",
+      "Adicione o cacau em pó, o coco ralado, a aveia, a manteiga de amendoim, as sementes de chia, a baunilha e o sal.",
+      "Processe até todos os ingredientes estarem bem combinados e a mistura se agarrar quando pressionada entre os dedos.",
+      "Se estiver muito seca, adicione 1 colher de chá de água. Se muito húmida, adicione mais coco ralado.",
+      "Com as mãos ligeiramente húmidas, divida a mistura em 12 porções iguais.",
+      "Enrole cada porção entre as palmas das mãos, formando bolas compactas.",
+      "Passe cada bola pelo coco ralado extra, pressionando levemente para aderir.",
+      "Disponha as bolinhas num tabuleiro forrado com papel vegetal.",
+      "Leve ao frigorífico por pelo menos 30 minutos antes de consumir.",
+      "Conserve num recipiente hermético no frigorífico por até 7 dias ou no congelador por 1 mês."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "sem forno",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 95,
+    "prepTime": "10 min",
+    "cookTime": "0 min (30 min no frigorífico)",
+    "servings": 12,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-5",
+    "image": "/images/recipes/energy-balls-cacau.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Panquecas de Batata-Doce e Canela",
+    "ingredients": [
+      {
+        "amount": "1 xícara (200g)",
+        "name": "Batata-doce cozida e amassada"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Farinha de aveia (certificada sem glúten)"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá (para a frigideira)",
+        "name": "Óleo de coco"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de noz-moscada"
+      }
+    ],
+    "steps": [
+      "Coza a batata-doce previamente: descasque, corte em cubos e coza em água por 15 minutos ou asse no forno a 200°C por 30 minutos até ficar macia. Amasse bem com um garfo.",
+      "Num recipiente, misture a batata-doce amassada com os ovos até ficar homogéneo.",
+      "Adicione a farinha de aveia, a canela, a noz-moscada e o fermento. Mexa bem.",
+      "Junte o leite de coco aos poucos até a massa atingir consistência de panqueca espessa (nem líquida, nem dura).",
+      "Aqueça uma frigideira antiaderente em lume médio-baixo com um pouco de óleo de coco.",
+      "Coloque cerca de 2 colheres de sopa de massa por panqueca.",
+      "Cozinhe 2-3 minutos por lado. Vire quando a base estiver firme e dourada.",
+      "Sirva com frutas frescas ou um fio de manteiga de amendoim natural."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 265,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-6",
+    "image": "/images/recipes/panquecas-batata-doce.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pudim de Chia com Manga Fresca",
+    "ingredients": [
+      {
+        "amount": "3 colheres de sopa (30g)",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Manga madura"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "3 folhas (decoração)",
+        "name": "Folhas de hortelã fresca"
+      }
+    ],
+    "steps": [
+      "Num frasco de vidro, misture as sementes de chia com o leite de coco e a essência de baunilha.",
+      "Mexa vigorosamente com uma colher por 30 segundos para evitar grumos.",
+      "Tampe e leve ao frigorífico por no mínimo 4 horas (idealmente durante a noite).",
+      "Após o tempo de repouso, mexa novamente — o pudim deve ter consistência firme e cremosa.",
+      "Descasque a manga e corte em cubos pequenos.",
+      "Distribua metade da manga no fundo de uma taça ou copo.",
+      "Coloque o pudim de chia por cima e decore com os cubos restantes de manga, coco ralado e folhas de hortelã.",
+      "Consuma frio. Conserva-se no frigorífico por até 2 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "sem forno",
+      "vegano",
+      "pequeno-almoço"
+    ],
+    "calories": 245,
+    "prepTime": "5 min",
+    "cookTime": "0 min (repouso de 4-6h)",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-7",
+    "image": "/images/recipes/pudim-chia-manga.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Granola Caseira Crocante sem Glúten",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (160g)",
+        "name": "Aveia em flocos grossos (certificada sem glúten)"
+      },
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Coco em lascas ou ralado"
+      },
+      {
+        "amount": "1/4 xícara (35g)",
+        "name": "Sementes de girassol"
+      },
+      {
+        "amount": "1/4 xícara (30g)",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1/4 xícara (25g)",
+        "name": "Amêndoas laminadas"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Pasta de tâmaras (ou 4 tâmaras trituradas com 2 colheres de água)"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160°C. Forre um tabuleiro grande com papel vegetal.",
+      "Num recipiente grande, misture a aveia, o coco, as sementes de girassol, as sementes de abóbora e as amêndoas.",
+      "Noutro recipiente, combine o óleo de coco derretido, a pasta de tâmaras, a canela e o sal.",
+      "Despeje a mistura líquida sobre os ingredientes secos e mexa bem até tudo ficar uniformemente coberto.",
+      "Espalhe a granola no tabuleiro numa camada fina e uniforme. Pressione levemente com as costas de uma colher.",
+      "Leve ao forno por 20-25 minutos, mexendo uma vez aos 12 minutos para dourar uniformemente.",
+      "Retire do forno quando estiver dourada (ficará mais crocante ao arrefecer).",
+      "Deixe arrefecer completamente no tabuleiro antes de partir em pedaços.",
+      "Armazene num recipiente hermético por até 2 semanas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 155,
+    "prepTime": "5 min",
+    "cookTime": "25 min",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-8",
+    "image": "/images/recipes/granola-caseira.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wraps de Alface com Frango e Abacate",
+    "ingredients": [
+      {
+        "amount": "1 unidade (200g)",
+        "name": "Peito de frango"
+      },
+      {
+        "amount": "4 folhas",
+        "name": "Folhas grandes de alface romana ou iceberg"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "6 unidades",
+        "name": "Tomates cereja"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Alho em pó"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Coentros frescos picados"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Tempere o peito de frango com azeite, alho em pó, sal e pimenta.",
+      "Grelhe o frango numa frigideira ou grelhador em lume médio-alto por 4 minutos de cada lado, até estar cozido por dentro e dourado por fora.",
+      "Deixe o frango descansar 3 minutos e depois corte em tiras finas.",
+      "Corte o abacate ao meio, retire o caroço e fatie em fatias finas. Tempere com sumo de limão para não escurecer.",
+      "Corte os tomates cereja ao meio.",
+      "Lave e seque bem as folhas de alface — elas serão o 'wrap'.",
+      "Monte os wraps: coloque tiras de frango, fatias de abacate e tomate cereja em cada folha de alface.",
+      "Finalize com coentros frescos picados e um fio de azeite. Sirva imediatamente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "sem forno",
+      "lanche",
+      "rápido"
+    ],
+    "calories": 280,
+    "prepTime": "10 min",
+    "cookTime": "8 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-9",
+    "image": "/images/recipes/wrap-alface-frango.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bolachas de Aveia, Banana e Coco",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Banana madura"
+      },
+      {
+        "amount": "1.5 xícaras (120g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "1/3 xícara (25g)",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Ovo"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C. Forre um tabuleiro com papel vegetal.",
+      "Amasse as bananas com um garfo até formar um purê liso, sem pedaços.",
+      "Adicione o ovo e bata com um garfo até incorporar bem.",
+      "Junte a aveia, o coco ralado e a canela. Mexa até a massa ficar uniforme.",
+      "Com as mãos ou com uma colher, forme pequenas bolas e achate-as no tabuleiro, formando bolachas de cerca de 1cm de espessura.",
+      "Deixe espaço entre elas pois expandem ligeiramente.",
+      "Leve ao forno por 12-15 minutos até as bordas ficarem douradas.",
+      "Retire do forno e deixe arrefecer no tabuleiro por 5 minutos (ficam mais firmes ao arrefecer).",
+      "Conserve num recipiente hermético por até 4 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep",
+      "rápido"
+    ],
+    "calories": 75,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 12,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-10",
+    "image": "/images/recipes/bolachas-aveia-coco.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Smoothie Cremoso de Abacate e Cacau",
+    "ingredients": [
+      {
+        "amount": "1/2 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Banana congelada"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Cacau em pó puro (sem açúcar)"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "3 cubos",
+        "name": "Gelo"
+      }
+    ],
+    "steps": [
+      "Coloque o abacate, a banana congelada e o leite de amêndoa no liquidificador.",
+      "Adicione o cacau em pó e as sementes de chia.",
+      "Junte os cubos de gelo para uma textura mais espessa e refrescante.",
+      "Bata em velocidade alta por 40-50 segundos até ficar completamente cremoso e homogéneo.",
+      "Prove e ajuste: se preferir mais doce, adicione mais banana; se preferir mais intenso, mais cacau.",
+      "Sirva num copo alto e consuma imediatamente.",
+      "Opcional: decore com nibs de cacau ou lascas de coco por cima."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "rápido",
+      "pequeno-almoço"
+    ],
+    "calories": 345,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-11",
+    "image": "/images/recipes/smoothie-abacate-cacau.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Tapioca Recheada com Ovo e Espinafres",
+    "ingredients": [
+      {
+        "amount": "3 colheres de sopa (45g)",
+        "name": "Goma de tapioca hidratada"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1 xícara (30g)",
+        "name": "Espinafres frescos"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1/2 dente",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Cúrcuma em pó (opcional)"
+      }
+    ],
+    "steps": [
+      "Aqueça uma frigideira antiaderente em lume médio. Espalhe a goma de tapioca uniformemente com uma colher, formando um disco fino.",
+      "Deixe a tapioca cozinhar sem mexer por 1-2 minutos até ficar translúcida e soltar-se da frigideira. Vire com cuidado e cozinhe mais 30 segundos. Reserve.",
+      "Na mesma frigideira, aqueça o azeite em lume médio.",
+      "Adicione o alho picado e refogue por 30 segundos até perfumar.",
+      "Junte os espinafres e mexa por 1 minuto até murcharem.",
+      "Bata os ovos com sal, pimenta e cúrcuma. Despeje sobre os espinafres.",
+      "Mexa delicadamente com uma espátula, fazendo ovos mexidos cremosos (retire do lume antes de ficarem completamente secos).",
+      "Recheie a tapioca com o ovo e espinafres. Dobre ao meio e sirva quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "rápido",
+      "pequeno-almoço"
+    ],
+    "calories": 250,
+    "prepTime": "5 min",
+    "cookTime": "8 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-12",
+    "image": "/images/recipes/tapioca-ovo-espinafres.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mousse de Abacate e Cacau",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "4 colheres de sopa",
+        "name": "Cacau em pó puro (sem açúcar)"
+      },
+      {
+        "amount": "4 unidades (60g)",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      },
+      {
+        "amount": "8 unidades",
+        "name": "Framboesas frescas (decoração)"
+      }
+    ],
+    "steps": [
+      "Hidrate as tâmaras em água quente por 5 minutos. Escorra.",
+      "Corte os abacates ao meio, retire o caroço e coloque a polpa no processador de alimentos.",
+      "Adicione as tâmaras hidratadas, o cacau em pó, o leite de coco, a baunilha e o sal.",
+      "Processe por 2-3 minutos, raspando as laterais conforme necessário, até obter uma textura completamente lisa e cremosa.",
+      "Prove e ajuste: mais cacau para sabor mais intenso, mais tâmaras para mais doçura.",
+      "Distribua em 4 taças ou copos pequenos.",
+      "Leve ao frigorífico por pelo menos 1 hora para firmar e intensificar o sabor.",
+      "Antes de servir, decore com framboesas frescas e, opcionalmente, nibs de cacau."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 210,
+    "prepTime": "10 min",
+    "cookTime": "0 min (1h no frigorífico)",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-13",
+    "image": "/images/recipes/mousse-abacate-cacau.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Barrinhas de Sementes e Frutos Secos",
+    "ingredients": [
+      {
+        "amount": "8 unidades (120g)",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "1/3 xícara (45g)",
+        "name": "Sementes de girassol"
+      },
+      {
+        "amount": "1/3 xícara (40g)",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1/3 xícara (40g)",
+        "name": "Amêndoas inteiras"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de sésamo"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de linhaça"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Forre uma forma retangular pequena (aproximadamente 20x15cm) com papel vegetal.",
+      "Coloque as tâmaras no processador e pulse até formar uma pasta pegajosa e uniforme.",
+      "Num recipiente, misture todas as sementes e amêndoas.",
+      "Adicione a pasta de tâmaras, o óleo de coco, a canela e o sal.",
+      "Misture bem com as mãos ou uma espátula até tudo ficar combinado e a mistura se agarrar.",
+      "Transfira para a forma forrada e pressione firmemente com as costas de uma colher ou com as mãos, criando uma camada compacta e uniforme.",
+      "Leve ao frigorífico por pelo menos 2 horas até ficar bem firme.",
+      "Retire da forma e corte em 10 barrinhas com uma faca afiada.",
+      "Embrulhe individualmente em papel vegetal. Conserve no frigorífico por até 10 dias ou no congelador por 1 mês."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 135,
+    "prepTime": "10 min",
+    "cookTime": "0 min (2h no frigorífico)",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-14",
+    "image": "/images/recipes/barrinhas-sementes.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Papas de Aveia com Maçã Caramelizada e Nozes",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Maçã verde"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Nozes partidas"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Óleo de coco"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Descasque a maçã, retire o centro e corte em fatias finas.",
+      "Numa frigideira pequena, aqueça o óleo de coco em lume médio.",
+      "Adicione as fatias de maçã e metade da canela. Salteie por 3-4 minutos até a maçã ficar macia e ligeiramente dourada. Reserve.",
+      "Numa panela, coloque a aveia, o leite de amêndoa, o restante da canela e a pitada de sal.",
+      "Cozinhe em lume médio-baixo por 5-6 minutos, mexendo regularmente, até as papas ficarem cremosas e espessas.",
+      "Transfira para uma tigela quente.",
+      "Cubra com a maçã caramelizada e as nozes partidas.",
+      "Sirva imediatamente enquanto está quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 310,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-15",
+    "image": "/images/recipes/papas-aveia-maca.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Açaí Bowl Energizante com Granola",
+    "ingredients": [
+      {
+        "amount": "1 pacote (100g)",
+        "name": "Polpa de açaí congelada (sem açúcar)"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Banana congelada"
+      },
+      {
+        "amount": "1/4 xícara (60ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Banana fresca fatiada (para cobertura)"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Granola caseira sem glúten"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco em lascas sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de chia"
+      }
+    ],
+    "steps": [
+      "Retire a polpa de açaí do congelador e parta-a em pedaços menores para facilitar a mistura.",
+      "Coloque a polpa de açaí, a banana congelada e o leite de coco no liquidificador.",
+      "Bata em velocidade alta por 30-40 segundos. A consistência deve ser muito espessa, como um gelado macio.",
+      "Se necessário, use a espátula para empurrar os ingredientes para as lâminas. Adicione leite aos poucos se estiver muito espesso.",
+      "Transfira para uma tigela funda.",
+      "Decore em fileiras organizadas: fatias de banana, granola, lascas de coco e sementes de chia.",
+      "Consuma imediatamente — o açaí derrete rápido."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "rápido",
+      "pequeno-almoço"
+    ],
+    "calories": 320,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-16",
+    "image": "/images/recipes/acai-bowl.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Frittatinhas de Batata-Doce e Curgete",
+    "ingredients": [
+      {
+        "amount": "1 xícara (150g)",
+        "name": "Batata-doce ralada"
+      },
+      {
+        "amount": "1 xícara (120g)",
+        "name": "Curgete ralada (espremida)"
+      },
+      {
+        "amount": "3 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Farinha de grão-de-bico"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Cebolinho picado"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Alho em pó"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190°C. Unte uma forma de muffins com azeite.",
+      "Rale a curgete e esprema bem com as mãos ou num pano limpo para retirar o excesso de água — isto é essencial para ficarem crocantes.",
+      "Num recipiente grande, bata os ovos com a farinha de grão-de-bico, alho em pó, sal e pimenta.",
+      "Adicione a batata-doce ralada, a curgete espremida e o cebolinho. Misture bem.",
+      "Distribua a mistura igualmente nas 8 cavidades da forma de muffins.",
+      "Regue cada uma com um fio de azeite por cima.",
+      "Leve ao forno por 18-20 minutos até ficarem douradas e firmes ao toque.",
+      "Deixe arrefecer 5 minutos antes de desenformar. Conservam-se no frigorífico por 3 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 85,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-17",
+    "image": "/images/recipes/frittatas-batata-doce.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Crepes de Farinha de Arroz com Cogumelos",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (70g)",
+        "name": "Farinha de arroz"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Água"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Ovo"
+      },
+      {
+        "amount": "1.5 xícaras (120g)",
+        "name": "Cogumelos frescos fatiados (paris ou shiitake)"
+      },
+      {
+        "amount": "1 xícara (20g)",
+        "name": "Rúcula fresca"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta preta moída"
+      },
+      {
+        "amount": "1 colher de chá (folhas)",
+        "name": "Tomilho fresco"
+      }
+    ],
+    "steps": [
+      "Para a massa: misture a farinha de arroz, a água, o ovo e uma pitada de sal até ficar lisa e sem grumos.",
+      "Deixe a massa descansar 5 minutos enquanto prepara o recheio.",
+      "Aqueça 1 colher de sopa de azeite numa frigideira e salteie o alho por 30 segundos.",
+      "Adicione os cogumelos fatiados e cozinhe em lume médio-alto por 5-6 minutos até dourarem e libertarem a humidade.",
+      "Tempere com sal, pimenta e tomilho. Reserve os cogumelos.",
+      "Na mesma frigideira limpa, aqueça um pouco de azeite em lume médio.",
+      "Despeje metade da massa e espalhe finamente rodando a frigideira. Cozinhe 2 minutos de cada lado.",
+      "Repita com o restante da massa para fazer o segundo crepe.",
+      "Recheie cada crepe com cogumelos salteados e rúcula fresca. Dobre e sirva quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 245,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-18",
+    "image": "/images/recipes/crepes-farinha-arroz.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Barras Energéticas de Tâmaras e Amêndoa",
+    "ingredients": [
+      {
+        "amount": "12 unidades (180g)",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "1 xícara (100g)",
+        "name": "Amêndoas inteiras"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Cacau em pó puro"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de girassol"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Coloque as amêndoas no processador e pulse 5-6 vezes até obter pedaços irregulares (não triture demais — queremos textura).",
+      "Adicione as tâmaras ao processador e processe até a mistura começar a agrupar-se.",
+      "Junte o cacau, as sementes de girassol, o coco ralado, a baunilha e o sal.",
+      "Processe até a mistura ficar pegajosa e homogénea. Se estiver muito seca, adicione 1 colher de chá de água.",
+      "Forre uma forma retangular pequena (cerca de 20x15cm) com película aderente.",
+      "Transfira a mistura para a forma e pressione firmemente com as costas de uma colher, criando uma camada uniforme de cerca de 2cm.",
+      "Leve ao frigorífico por no mínimo 1 hora.",
+      "Retire, corte em 10 barras iguais.",
+      "Conserve no frigorífico por até 10 dias ou congele por até 2 meses."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "sem forno",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 145,
+    "prepTime": "10 min",
+    "cookTime": "0 min (1h no frigorífico)",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-19",
+    "image": "/images/recipes/barras-tamaras-amendoa.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Ovos Assados em Abacate",
+    "ingredients": [
+      {
+        "amount": "1 unidade",
+        "name": "Abacate grande e maduro"
+      },
+      {
+        "amount": "2 unidades (pequenos)",
+        "name": "Ovos"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Tomates cereja"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Cebolinho picado"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta preta"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pimenta em flocos (opcional)"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Corte o abacate ao meio e retire o caroço. Com uma colher, alargue ligeiramente a cavidade para caber o ovo.",
+      "Coloque as metades de abacate num tabuleiro de forno (estabilize-as com papel de alumínio amassado se necessário).",
+      "Parta um ovo em cada cavidade de abacate. Comece pela gema e adicione clara até preencher.",
+      "Tempere com sal, pimenta e um fio de azeite.",
+      "Corte os tomates cereja ao meio e disponha à volta dos abacates no tabuleiro.",
+      "Leve ao forno por 12-15 minutos até a clara estar firme mas a gema ainda cremosa.",
+      "Retire do forno, polvilhe com cebolinho picado e pimenta em flocos.",
+      "Sirva imediatamente com os tomates assados ao lado."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 250,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-20",
+    "image": "/images/recipes/ovos-abacate.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Smoothie Tropical de Manga e Maracujá",
+    "ingredients": [
+      {
+        "amount": "1 xícara (150g)",
+        "name": "Manga madura congelada"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Polpa de maracujá"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Banana congelada (meio)"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Gengibre fresco ralado"
+      }
+    ],
+    "steps": [
+      "Coloque a manga congelada e a meia banana no liquidificador.",
+      "Adicione o leite de coco, a polpa de maracujá, o sumo de limão e o gengibre ralado.",
+      "Bata em velocidade alta por 40-50 segundos até ficar completamente liso e cremoso.",
+      "Prove e ajuste: se preferir mais ácido, adicione mais maracujá; se preferir mais doce, mais banana.",
+      "Sirva num copo alto com cubos de gelo se desejar.",
+      "Opcional: decore com sementes de maracujá por cima para textura e apresentação."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "rápido",
+      "pequeno-almoço"
+    ],
+    "calories": 235,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-21",
+    "image": "/images/recipes/smoothie-manga-maracuja.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Beiju Recheado com Tomate e Abacate",
+    "ingredients": [
+      {
+        "amount": "4 colheres de sopa (60g)",
+        "name": "Goma de tapioca hidratada"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Tomate maduro"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "4 folhas",
+        "name": "Manjericão fresco"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Orégãos secos"
+      }
+    ],
+    "steps": [
+      "Peneire a goma de tapioca para remover quaisquer grumos — isto garante um beiju uniforme.",
+      "Aqueça uma frigideira antiaderente em lume médio (sem óleo).",
+      "Espalhe a goma de tapioca uniformemente pela frigideira, formando uma camada fina como um crepe.",
+      "Deixe cozinhar sem mexer por 2-3 minutos até as bordas descolarem e a base ficar translúcida.",
+      "Enquanto o beiju cozinha, fatie o tomate e o abacate finamente.",
+      "Vire o beiju com cuidado e cozinhe mais 1 minuto do outro lado.",
+      "Recheie com as fatias de tomate, abacate, folhas de manjericão, orégãos, sal e um fio de azeite.",
+      "Dobre ao meio e sirva imediatamente enquanto crocante."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "rápido"
+    ],
+    "calories": 195,
+    "prepTime": "5 min",
+    "cookTime": "5 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-22",
+    "image": "/images/recipes/beiju-recheado.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Bolo de Banana com Farinha de Coco",
+    "ingredients": [
+      {
+        "amount": "3 unidades grandes",
+        "name": "Bananas maduras"
+      },
+      {
+        "amount": "1/2 xícara (55g)",
+        "name": "Farinha de coco"
+      },
+      {
+        "amount": "1 xícara (100g)",
+        "name": "Farinha de amêndoa"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1.5 colheres de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Bicarbonato de sódio"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 170°C. Unte uma forma de bolo retangular (25x12cm) com óleo de coco e forre o fundo com papel vegetal.",
+      "Amasse as bananas com um garfo até formar um purê liso. Quanto mais maduras, mais doce o bolo.",
+      "Num recipiente grande, misture o purê de banana com os ovos, o óleo de coco derretido e a essência de baunilha.",
+      "Noutro recipiente, combine a farinha de coco, a farinha de amêndoa, a canela, o fermento, o bicarbonato e o sal.",
+      "Incorpore os ingredientes secos nos húmidos, mexendo delicadamente até ficar homogéneo. A massa será espessa — é normal com farinha de coco.",
+      "Transfira a massa para a forma preparada e alise a superfície com uma espátula.",
+      "Opcional: coloque fatias de banana por cima para decoração.",
+      "Leve ao forno por 35-40 minutos ou até um palito inserido no centro sair limpo.",
+      "Deixe arrefecer na forma por 15 minutos e depois desenformar para uma grelha.",
+      "Fatia melhor quando completamente arrefecido. Conservar em recipiente hermético por até 4 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 175,
+    "prepTime": "10 min",
+    "cookTime": "40 min",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-23",
+    "image": "/images/recipes/bolo-banana-coco.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Pimentos Recheados com Quinoa e Legumes",
+    "ingredients": [
+      {
+        "amount": "4 unidades",
+        "name": "Pimentos grandes (vermelho, amarelo ou laranja)"
+      },
+      {
+        "amount": "1.5 xícaras (270g)",
+        "name": "Quinoa cozida"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Curgete em cubos pequenos"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Cebola picada"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Tomate maduro em cubos"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Oregãos secos"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Salsa fresca picada"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190°C.",
+      "Coza a quinoa conforme as instruções da embalagem (geralmente 1 parte de quinoa para 2 de água, ferver 15 minutos). Reserve.",
+      "Corte a parte de cima dos pimentos e retire as sementes e membranas internas.",
+      "Aqueça o azeite numa frigideira e salteie a cebola e o alho por 2 minutos em lume médio.",
+      "Adicione a curgete em cubos e cozinhe por 3-4 minutos até ficar al dente.",
+      "Junte o tomate em cubos, os oregãos, sal e pimenta. Cozinhe mais 2 minutos.",
+      "Retire do lume e misture a quinoa cozida e a salsa fresca.",
+      "Recheie cada pimento com a mistura de quinoa e legumes, pressionando suavemente.",
+      "Coloque os pimentos recheados em pé num tabuleiro de forno.",
+      "Regue com um fio de azeite e leve ao forno por 25-30 minutos até os pimentos estarem macios e ligeiramente dourados.",
+      "Sirva quente. Conservam-se no frigorífico por 3 dias — reaquecer no forno a 160°C por 10 minutos."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 210,
+    "prepTime": "10 min",
+    "cookTime": "30 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-24",
+    "image": "/images/recipes/pimentos-recheados.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Gelado de Banana com Cacau e Nozes",
+    "ingredients": [
+      {
+        "amount": "3 unidades",
+        "name": "Bananas maduras congeladas"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Cacau em pó puro (sem açúcar)"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Nozes picadas"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Chocolate negro 85%+ em lascas"
+      }
+    ],
+    "steps": [
+      "Descasque as bananas maduras, corte em rodelas e congele num tabuleiro forrado com papel vegetal por no mínimo 2 horas (idealmente na véspera).",
+      "Coloque as rodelas de banana congelada no processador de alimentos.",
+      "Processe por 1 minuto — inicialmente parecerá granulado, é normal.",
+      "Pare, raspe as laterais com uma espátula, e processe novamente por mais 1-2 minutos.",
+      "A banana vai transformar-se numa mistura cremosa semelhante a gelado soft serve.",
+      "Adicione o cacau em pó, o leite de coco e a baunilha. Processe mais 30 segundos até incorporar.",
+      "Transfira para taças de servir.",
+      "Cubra com nozes picadas e lascas de chocolate negro.",
+      "Consuma imediatamente para textura de gelado macio, ou congele 30 minutos para textura mais firme."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 230,
+    "prepTime": "5 min",
+    "cookTime": "0 min (2h de congelação prévia)",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-25",
+    "image": "/images/recipes/gelado-banana.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Mingau de Trigo Sarraceno com Mirtilos",
+    "ingredients": [
+      {
+        "amount": "1/3 xícara (60g)",
+        "name": "Trigo sarraceno em grão (cru)"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1/3 xícara (50g)",
+        "name": "Mirtilos frescos"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Amêndoas laminadas"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Lave bem o trigo sarraceno em água corrente até a água ficar transparente (remove o amido e sabor amargo).",
+      "Coloque o trigo sarraceno lavado numa panela pequena com o leite de amêndoa e o sal.",
+      "Leve a lume médio até levantar fervura, depois reduza para lume brando.",
+      "Cozinhe por 12-15 minutos, mexendo ocasionalmente, até os grãos estarem macios e o mingau cremoso.",
+      "Se ficar muito espesso, adicione mais leite aos poucos.",
+      "Retire do lume e adicione a canela e a baunilha. Mexa bem.",
+      "Transfira para uma tigela e cubra com mirtilos frescos e amêndoas laminadas.",
+      "Sirva quente. Pode adicionar um fio de manteiga de amêndoa por cima."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço"
+    ],
+    "calories": 265,
+    "prepTime": "2 min",
+    "cookTime": "15 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-26",
+    "image": "/images/recipes/mingau-trigo-sarraceno.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Panqueca Salgada de Grão-de-Bico",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (60g)",
+        "name": "Farinha de grão-de-bico"
+      },
+      {
+        "amount": "1/2 xícara (120ml)",
+        "name": "Água morna"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "6 unidades",
+        "name": "Tomates cereja"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Orégãos secos"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Sal"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pimenta preta moída"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Salsa fresca picada"
+      }
+    ],
+    "steps": [
+      "Num recipiente, misture a farinha de grão-de-bico com a água morna, 1 colher de sopa de azeite e o sal.",
+      "Bata com um fouet até não ter grumos. A consistência deve ser como um crepe líquido.",
+      "Idealmente, deixe descansar 15-30 minutos (mas pode usar de imediato se tiver pressa).",
+      "Aqueça a restante colher de sopa de azeite numa frigideira antiaderente em lume médio.",
+      "Despeje a massa e espalhe uniformemente pela frigideira.",
+      "Cozinhe por 4-5 minutos até a base estar firme e dourada.",
+      "Vire com cuidado e cozinhe mais 3-4 minutos do outro lado.",
+      "Corte os tomates cereja ao meio e disponha por cima da panqueca.",
+      "Finalize com orégãos, pimenta preta e salsa fresca. Sirva quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 290,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-27",
+    "image": "/images/recipes/panqueca-grao-bico.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Pudim de Chia e Kiwi com Coco",
+    "ingredients": [
+      {
+        "amount": "3 colheres de sopa (30g)",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Kiwi maduro"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      }
+    ],
+    "steps": [
+      "Num frasco de vidro, misture as sementes de chia com o leite de coco e a baunilha.",
+      "Mexa vigorosamente por 30 segundos para distribuir as sementes uniformemente.",
+      "Tampe e leve ao frigorífico por no mínimo 4 horas (idealmente durante a noite).",
+      "Pela manhã, mexa o pudim — deve ter consistência firme e cremosa.",
+      "Descasque o kiwi e corte em rodelas finas.",
+      "Monte em camadas num copo transparente: pudim de chia, rodelas de kiwi, mais pudim, mais kiwi.",
+      "Finalize com coco ralado por cima.",
+      "Consuma frio. Conserva-se no frigorífico por até 2 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "pequeno-almoço"
+    ],
+    "calories": 235,
+    "prepTime": "5 min",
+    "cookTime": "0 min (repouso de 4-6h)",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-28",
+    "image": "/images/recipes/pudim-chia-kiwi.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Cubos de Batata-Doce e Maçã Assados",
+    "ingredients": [
+      {
+        "amount": "1 grande (300g)",
+        "name": "Batata-doce"
+      },
+      {
+        "amount": "1 grande",
+        "name": "Maçã (Fuji ou Gala)"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Noz-moscada ralada"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      },
+      {
+        "amount": "1 ramo",
+        "name": "Ramo de alecrim fresco (opcional)"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C. Forre um tabuleiro com papel vegetal.",
+      "Descasque a batata-doce e corte em cubos de cerca de 2cm.",
+      "Retire o caroço da maçã e corte em cubos semelhantes (com ou sem casca, a gosto).",
+      "Num recipiente, misture os cubos com o óleo de coco derretido, a canela, a noz-moscada e o sal.",
+      "Espalhe os cubos no tabuleiro numa camada única — não empilhe, senão cozinham a vapor em vez de assar.",
+      "Coloque o ramo de alecrim por cima (se usar).",
+      "Leve ao forno por 20-25 minutos, virando uma vez aos 12 minutos.",
+      "Retire quando os cubos estiverem dourados e macios (a maçã ficará ligeiramente caramelizada).",
+      "Sirva morno como lanche ou acompanhamento. Conservam-se no frigorífico por 3 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 130,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "servings": 3,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-29",
+    "image": "/images/recipes/cubos-batata-doce-maca.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Muffins Verdes de Espinafre e Banana",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (60g)",
+        "name": "Espinafres frescos"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Bananas maduras"
+      },
+      {
+        "amount": "1.5 xícaras (150g)",
+        "name": "Farinha de amêndoa"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1.5 colheres de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C. Coloque forminhas de papel numa forma de muffins.",
+      "No liquidificador, bata os espinafres com os ovos e o óleo de coco até ficar um líquido verde homogéneo.",
+      "Adicione as bananas partidas e a baunilha. Bata novamente até ficar cremoso.",
+      "Num recipiente, misture a farinha de amêndoa, o fermento, a canela e o sal.",
+      "Despeje a mistura verde sobre os ingredientes secos e mexa delicadamente com uma espátula até incorporar.",
+      "Distribua a massa em 9 cavidades da forma (cerca de 3/4 de cada).",
+      "Leve ao forno por 18-20 minutos até um palito sair limpo.",
+      "Deixe arrefecer na forma por 5 minutos e depois numa grelha.",
+      "Conservam-se em recipiente hermético por 3 dias ou congelados por 1 mês."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 150,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 9,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-30",
+    "image": "/images/recipes/muffins-espinafre-banana.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Tostas de Arroz com Abacate e Rabanete",
+    "ingredients": [
+      {
+        "amount": "3 unidades",
+        "name": "Tostas de arroz integral (sem glúten)"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "3 unidades",
+        "name": "Rabanetes"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal em flocos e pimenta preta"
+      },
+      {
+        "amount": "1 punhado",
+        "name": "Microverdes ou brotos (decoração)"
+      }
+    ],
+    "steps": [
+      "Corte o abacate ao meio, retire a polpa e amasse com um garfo num recipiente.",
+      "Tempere com sumo de limão, sal e pimenta. Mexa bem.",
+      "Fatie os rabanetes em rodelas muito finas (use uma mandolina se tiver).",
+      "Espalhe o abacate amassado generosamente sobre cada tosta de arroz.",
+      "Disponha as rodelas de rabanete por cima, levemente sobrepostas.",
+      "Finalize com microverdes, um fio de azeite e sal em flocos.",
+      "Consuma imediatamente — as tostas amolecem se guardadas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "rápido"
+    ],
+    "calories": 185,
+    "prepTime": "3 min",
+    "cookTime": "0 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-31",
+    "image": "/images/recipes/tostas-arroz-abacate.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Parfait de Iogurte de Coco com Frutos Vermelhos",
+    "ingredients": [
+      {
+        "amount": "3/4 xícara (180g)",
+        "name": "Iogurte de coco natural (sem açúcar)"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Morangos frescos fatiados"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Mirtilos frescos"
+      },
+      {
+        "amount": "5 unidades",
+        "name": "Framboesas frescas"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de girassol torradas"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Essência de baunilha"
+      }
+    ],
+    "steps": [
+      "Misture o iogurte de coco com a essência de baunilha num recipiente.",
+      "Prepare os frutos vermelhos: fatie os morangos, lave os mirtilos e framboesas.",
+      "Num copo ou taça transparente, coloque uma camada de iogurte de coco no fundo (cerca de 1/3).",
+      "Adicione uma camada de morangos e mirtilos.",
+      "Repita: mais iogurte, mais frutos (framboesas e mirtilos desta vez).",
+      "Finalize com a última camada de iogurte e decore com as sementes de girassol e chia por cima.",
+      "Consuma imediatamente ou leve ao frigorífico por até 4 horas (não mais, senão amolece)."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 210,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-32",
+    "image": "/images/recipes/parfait-iogurte-coco.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Bolinhos de Legumes Assados",
+    "ingredients": [
+      {
+        "amount": "1 xícara (120g)",
+        "name": "Curgete ralada (espremida)"
+      },
+      {
+        "amount": "1/2 xícara (60g)",
+        "name": "Cenoura ralada"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1/3 xícara (40g)",
+        "name": "Farinha de grão-de-bico"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Cebola picada finamente"
+      },
+      {
+        "amount": "1 dente",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Salsa fresca picada"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Cominho em pó"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190°C. Forre um tabuleiro com papel vegetal e pincele com azeite.",
+      "Rale a curgete e esprema muito bem com as mãos ou num pano limpo — retirar a água é essencial para ficarem firmes.",
+      "Num recipiente grande, misture a curgete espremida, a cenoura ralada, a cebola e o alho.",
+      "Adicione os ovos batidos, a farinha de grão-de-bico, a salsa, o cominho, sal e pimenta.",
+      "Misture tudo até ficar uma massa coesa.",
+      "Com as mãos ou com uma colher, forme 10 bolinhos achatados (cerca de 2cm de espessura).",
+      "Disponha no tabuleiro preparado, deixando espaço entre eles.",
+      "Pincele a superfície de cada bolinho com um pouco de azeite.",
+      "Leve ao forno por 20-22 minutos, virando uma vez aos 12 minutos, até ficarem dourados dos dois lados.",
+      "Sirva mornos com uma salada verde ou molho de ervas. Conservam-se no frigorífico por 4 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 65,
+    "prepTime": "10 min",
+    "cookTime": "22 min",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-33",
+    "image": "/images/recipes/bolinhoslegumes.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Sumo Verde Detox de Maçã e Gengibre",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (60g)",
+        "name": "Espinafres frescos"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Maçã verde"
+      },
+      {
+        "amount": "1 talo grande",
+        "name": "Talo de aipo"
+      },
+      {
+        "amount": "1 cm (5g)",
+        "name": "Gengibre fresco"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1/2 xícara (120ml)",
+        "name": "Água"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Pepino"
+      }
+    ],
+    "steps": [
+      "Lave bem todos os ingredientes, especialmente os espinafres e o aipo.",
+      "Corte a maçã em quartos e retire o caroço (com ou sem casca, a gosto).",
+      "Corte o pepino em pedaços e o aipo em troços menores.",
+      "Descasque o gengibre e rale ou corte em fatias finas.",
+      "Coloque tudo no liquidificador: espinafres, maçã, aipo, pepino, gengibre, sumo de limão e água.",
+      "Bata em velocidade alta por 45-60 segundos até ficar completamente liso.",
+      "Se preferir sem fibra, coe com um coador fino ou pano de queijo (mas a fibra é benéfica!).",
+      "Sirva imediatamente com cubos de gelo. Consuma nos primeiros 30 minutos para máximo benefício nutricional."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 85,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-34",
+    "image": "/images/recipes/sumo-verde-detox.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Mini Pizzas de Tapioca com Legumes",
+    "ingredients": [
+      {
+        "amount": "1 xícara (150g)",
+        "name": "Goma de tapioca hidratada"
+      },
+      {
+        "amount": "1/3 xícara (80g)",
+        "name": "Abóbora cozida amassada (para a base/molho)"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Pimento vermelho em cubos"
+      },
+      {
+        "amount": "5 unidades",
+        "name": "Azeitonas pretas fatiadas"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Tomate cereja cortado ao meio"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Orégãos secos"
+      },
+      {
+        "amount": "5 folhas",
+        "name": "Manjericão fresco"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Peneire a goma de tapioca para remover grumos.",
+      "Aqueça uma frigideira antiaderente pequena (cerca de 15cm) em lume médio, sem óleo.",
+      "Espalhe 2 colheres de sopa de goma de tapioca numa camada fina e uniforme.",
+      "Cozinhe por 2 minutos até a base ficar translúcida e firme. Vire e cozinhe mais 1 minuto.",
+      "Repita até fazer 5 bases. Reserve-as num prato.",
+      "Pré-aqueça o forno a 200°C (ou use o grill).",
+      "Espalhe uma camada fina de puré de abóbora sobre cada base de tapioca (substitui o molho de tomate).",
+      "Distribua os cubos de pimento, tomate cereja e azeitonas por cima.",
+      "Regue com azeite e polvilhe com orégãos e sal.",
+      "Coloque as mini pizzas num tabuleiro e leve ao forno por 5-7 minutos até os legumes ficarem quentes e ligeiramente tostados.",
+      "Retire do forno e decore com folhas de manjericão fresco. Sirva imediatamente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche"
+    ],
+    "calories": 110,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "servings": 5,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-35",
+    "image": "/images/recipes/mini-pizzas-tapioca.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Waffles Salgados de Aveia com Salmão",
+    "ingredients": [
+      {
+        "amount": "1 xícara (80g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1/4 xícara (60ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Sal"
+      },
+      {
+        "amount": "80 g",
+        "name": "Salmão fumado"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1 colher de sopa (picado)",
+        "name": "Endro fresco"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sumo de limão"
+      }
+    ],
+    "steps": [
+      "Triture a aveia no liquidificador até virar farinha (ou use farinha de aveia pronta).",
+      "Misture a farinha de aveia, os ovos, o leite de amêndoa, o fermento e o sal até formar uma massa homogénea.",
+      "Aqueça a máquina de waffles e unte levemente com óleo de coco.",
+      "Despeje metade da massa na máquina de waffles e cozinhe por 4-5 minutos até dourar e ficar crocante.",
+      "Repita com o restante da massa.",
+      "Fatie o abacate e tempere com sumo de limão e sal.",
+      "Monte: coloque o waffle no prato, adicione fatias de salmão fumado e abacate por cima.",
+      "Finalize com endro fresco picado e pimenta preta moída."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 340,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-36",
+    "image": "/images/recipes/waffles-aveia-salgados.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Copinhos de Chocolate Negro e Manteiga de Amêndoa",
+    "ingredients": [
+      {
+        "amount": "100 g",
+        "name": "Chocolate negro 85%+ (sem leite)"
+      },
+      {
+        "amount": "4 colheres de sopa",
+        "name": "Manteiga de amêndoa natural (sem açúcar)"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal em flocos"
+      }
+    ],
+    "steps": [
+      "Parta o chocolate em pedaços e derreta em banho-maria com o óleo de coco, mexendo até ficar liso.",
+      "Coloque 8 forminhas de papel para bombons ou mini muffins num tabuleiro.",
+      "Despeje 1 colher de chá de chocolate derretido em cada forminha, espalhando para cobrir o fundo e laterais.",
+      "Leve ao congelador por 5 minutos até solidificar.",
+      "Coloque 1/2 colher de chá de manteiga de amêndoa no centro de cada copinho.",
+      "Cubra com mais chocolate derretido até tapar completamente a manteiga de amêndoa.",
+      "Polvilhe com sal em flocos por cima.",
+      "Leve ao frigorífico por 30 minutos até solidificar completamente.",
+      "Conserve no frigorífico por até 2 semanas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 115,
+    "prepTime": "15 min",
+    "cookTime": "0 min (30 min no frigorífico)",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-37",
+    "image": "/images/recipes/copinhos-chocolate-amendoa.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Tofu Mexido com Açafrão e Espinafres",
+    "ingredients": [
+      {
+        "amount": "200 g",
+        "name": "Tofu firme"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Açafrão-da-terra (cúrcuma) em pó"
+      },
+      {
+        "amount": "2 xícaras (60g)",
+        "name": "Espinafres frescos"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Pimento vermelho em cubos"
+      },
+      {
+        "amount": "1 dente",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Levedura nutricional"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta preta"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Cebolinho picado"
+      }
+    ],
+    "steps": [
+      "Escorra o tofu e pressione com papel absorvente para retirar o excesso de água.",
+      "Esfarele o tofu com as mãos ou um garfo num recipiente — os pedaços devem ser irregulares, semelhantes a ovos mexidos.",
+      "Aqueça o azeite numa frigideira grande em lume médio.",
+      "Salteie o alho e o pimento por 2 minutos até amolecerem.",
+      "Adicione o tofu esfarelado e o açafrão. Mexa bem para distribuir a cor uniformemente.",
+      "Cozinhe por 4-5 minutos, mexendo ocasionalmente, até o tofu ficar ligeiramente dourado.",
+      "Junte os espinafres e a levedura nutricional. Mexa até os espinafres murcharem (1-2 minutos).",
+      "Tempere com sal e pimenta. Sirva quente polvilhado com cebolinho."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 195,
+    "prepTime": "5 min",
+    "cookTime": "8 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-38",
+    "image": "/images/recipes/tofu-mexido.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Cookies de Banana com Sementes de Abóbora",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Bananas maduras"
+      },
+      {
+        "amount": "1 xícara (80g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C. Forre um tabuleiro com papel vegetal.",
+      "Amasse as bananas com um garfo até formar um purê liso.",
+      "Adicione a aveia, as sementes de abóbora, a canela, a baunilha e o sal. Misture bem.",
+      "Deixe a massa descansar 3 minutos para a aveia absorver a humidade.",
+      "Com uma colher de sopa, forme 10 montes no tabuleiro e achate ligeiramente com as costas da colher.",
+      "Pressione algumas sementes de abóbora extra no topo de cada cookie para decorar.",
+      "Leve ao forno por 13-15 minutos até as bordas ficarem douradas.",
+      "Deixe arrefecer no tabuleiro por 10 minutos — ficam mais firmes ao arrefecer.",
+      "Conserve em recipiente hermético por até 3 dias ou congele por 1 mês."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "rápido",
+      "meal-prep"
+    ],
+    "calories": 70,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-39",
+    "image": "/images/recipes/cookies-banana-sementes.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Overnight Oats com Pêssego e Pistáchio",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Pêssego maduro"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Pistáchios sem casca (sem sal)"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      }
+    ],
+    "steps": [
+      "Num frasco de vidro, misture a aveia, as sementes de chia, o leite de coco, a canela e a baunilha.",
+      "Mexa bem para distribuir as sementes de chia uniformemente.",
+      "Tampe e leve ao frigorífico por no mínimo 6 horas (idealmente durante a noite).",
+      "Pela manhã, mexa a mistura. Adicione um pouco mais de leite se estiver muito espessa.",
+      "Lave o pêssego, retire o caroço e fatie em fatias finas.",
+      "Disponha as fatias de pêssego por cima da aveia.",
+      "Polvilhe com pistáchios grosseiramente picados.",
+      "Consuma frio. Pode adicionar um fio de manteiga de amêndoa para extra cremosidade."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "pequeno-almoço"
+    ],
+    "calories": 280,
+    "prepTime": "5 min",
+    "cookTime": "0 min (repouso de 6-8h)",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-40",
+    "image": "/images/recipes/overnight-chia-pessego.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Húmus de Batata-Doce Assada",
+    "ingredients": [
+      {
+        "amount": "1 unidade (250g)",
+        "name": "Batata-doce média"
+      },
+      {
+        "amount": "1 xícara (170g)",
+        "name": "Grão-de-bico cozido (escorrido)"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Tahini (pasta de sésamo)"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1 dente",
+        "name": "Alho"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Cominho em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Pimentão doce (paprika)"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C. Fure a batata-doce com um garfo em vários pontos.",
+      "Embrulhe em papel de alumínio e asse por 30-35 minutos até ficar muito macia.",
+      "Deixe arrefecer ligeiramente, depois retire a casca e coloque a polpa no processador.",
+      "Adicione o grão-de-bico, o tahini, o sumo de limão, o alho, o azeite (reservar 1 colher para decorar), o cominho e o sal.",
+      "Processe por 2-3 minutos até ficar muito cremoso e liso. Raspe as laterais conforme necessário.",
+      "Se estiver muito espesso, adicione 1-2 colheres de sopa de água e processe novamente.",
+      "Transfira para uma tigela de servir.",
+      "Faça um poço no centro, regue com o azeite restante e polvilhe com pimentão doce.",
+      "Sirva com palitos de cenoura, pepino e aipo. Conserva-se no frigorífico por 5 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 145,
+    "prepTime": "10 min",
+    "cookTime": "30 min",
+    "servings": 6,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-41",
+    "image": "/images/recipes/humus-batata-doce.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Rolinhos de Papel de Arroz com Camarão e Abacate",
+    "ingredients": [
+      {
+        "amount": "4 folhas",
+        "name": "Folhas de papel de arroz"
+      },
+      {
+        "amount": "12 unidades",
+        "name": "Camarão cozido e descascado"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Abacate maduro fatiado"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Cenoura em juliana fina"
+      },
+      {
+        "amount": "4 folhas",
+        "name": "Alface romana ou iceberg"
+      },
+      {
+        "amount": "8 folhas",
+        "name": "Hortelã fresca"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Molho: sumo de lima"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Molho: azeite extra-virgem"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Molho: gengibre ralado"
+      }
+    ],
+    "steps": [
+      "Prepare todos os ingredientes antes de começar a enrolar: fatie o abacate, corte a cenoura em juliana, lave a alface e a hortelã.",
+      "Prepare o molho: misture o sumo de lima, o azeite e o gengibre ralado num recipiente pequeno. Reserve.",
+      "Mergulhe uma folha de papel de arroz em água morna por 10-15 segundos até amolecer (não deixe muito tempo ou rasga).",
+      "Coloque a folha amolecida numa superfície plana e limpa.",
+      "Na metade inferior, disponha: folha de alface, 3 camarões, fatias de abacate, cenoura em juliana e folhas de hortelã.",
+      "Dobre as laterais para dentro e enrole firmemente de baixo para cima, como um burrito.",
+      "Repita com as restantes 3 folhas de papel de arroz.",
+      "Corte cada rolinho ao meio na diagonal para mostrar o recheio colorido.",
+      "Sirva com o molho de lima e gengibre ao lado para mergulhar."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "sem forno",
+      "lanche",
+      "rápido"
+    ],
+    "calories": 150,
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-42",
+    "image": "/images/recipes/rolinhos-papel-arroz.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Maçã Assada com Crumble de Nozes",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Maçãs grandes (Fuji ou Gala)"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Nozes picadas"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Noz-moscada ralada"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190°C.",
+      "Corte as maçãs ao meio e retire o caroço com uma colher, criando uma pequena cavidade.",
+      "Coloque as metades de maçã num tabuleiro de forno, com o corte virado para cima.",
+      "Num recipiente, misture as nozes picadas, a aveia, o óleo de coco, a canela, a noz-moscada, a baunilha e o sal.",
+      "Distribua generosamente a mistura de crumble sobre cada metade de maçã, pressionando levemente.",
+      "Adicione 2-3 colheres de sopa de água ao fundo do tabuleiro (cria vapor que ajuda a cozinhar).",
+      "Cubra com papel de alumínio e asse por 15 minutos.",
+      "Retire o alumínio e asse mais 10 minutos até a maçã estar macia e o crumble dourado e crocante.",
+      "Sirva morno. Pode acompanhar com um fio de leite de coco ou iogurte de coco."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche"
+    ],
+    "calories": 135,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-43",
+    "image": "/images/recipes/maca-assada-crumble.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Smoothie de Açaí e Frutos do Bosque",
+    "ingredients": [
+      {
+        "amount": "1 pacote (100g)",
+        "name": "Polpa de açaí congelada (sem açúcar)"
+      },
+      {
+        "amount": "1/3 xícara (50g)",
+        "name": "Mirtilos congelados"
+      },
+      {
+        "amount": "1/4 xícara (35g)",
+        "name": "Framboesas congeladas"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Banana congelada"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de chia"
+      }
+    ],
+    "steps": [
+      "Retire a polpa de açaí do congelador 2 minutos antes para amolecer ligeiramente.",
+      "Parta a polpa de açaí em pedaços e coloque no liquidificador.",
+      "Adicione os mirtilos, as framboesas, a meia banana congelada e o leite de coco.",
+      "Bata em velocidade alta por 40-50 segundos até ficar completamente liso e cremoso.",
+      "Se estiver muito espesso, adicione mais leite de coco aos poucos.",
+      "Junte as sementes de chia e bata mais 5 segundos para incorporar.",
+      "Sirva num copo alto. Consuma imediatamente para máximo frescor e nutrientes."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "rápido",
+      "pequeno-almoço"
+    ],
+    "calories": 260,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-44",
+    "image": "/images/recipes/smoothie-acai-berry.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Muffins de Ovo com Cogumelos e Ervas",
+    "ingredients": [
+      {
+        "amount": "6 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1 xícara (80g)",
+        "name": "Cogumelos frescos fatiados"
+      },
+      {
+        "amount": "6 unidades",
+        "name": "Tomate cereja cortado ao meio"
+      },
+      {
+        "amount": "1 xícara (30g)",
+        "name": "Espinafres frescos picados"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Cebolinho picado"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta preta"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Orégãos secos"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C. Unte 6 cavidades de uma forma de muffins com azeite.",
+      "Aqueça uma frigideira com um fio de azeite e salteie os cogumelos por 3-4 minutos até dourarem. Reserve.",
+      "Num recipiente grande, bata os ovos com sal, pimenta e orégãos.",
+      "Distribua os cogumelos salteados, os espinafres picados e os tomates cereja igualmente nas 6 cavidades.",
+      "Despeje a mistura de ovos batidos sobre os legumes, enchendo cerca de 3/4 de cada cavidade.",
+      "Polvilhe cebolinho picado por cima de cada muffin.",
+      "Leve ao forno por 18-20 minutos até ficarem firmes e ligeiramente dourados no topo.",
+      "Deixe arrefecer 5 minutos na forma antes de desenformar.",
+      "Conservam-se no frigorífico por 4 dias. Reaquecer no microondas 30 segundos ou no forno a 160°C por 5 minutos."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep",
+      "rápido"
+    ],
+    "calories": 110,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 6,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-45",
+    "image": "/images/recipes/muffins-ovo-legumes.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Bowl de Quinoa com Ovo Estrelado e Abacate",
+    "ingredients": [
+      {
+        "amount": "1/3 xícara (60g)",
+        "name": "Quinoa (crua)"
+      },
+      {
+        "amount": "2/3 xícara (160ml)",
+        "name": "Água"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Ovo"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Tomates cereja"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta preta"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de sésamo"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Salsa fresca picada"
+      }
+    ],
+    "steps": [
+      "Lave a quinoa em água corrente por 30 segundos (remove saponinas amargas).",
+      "Cozinhe a quinoa com a água e uma pitada de sal: ferver, reduzir o lume e cozinhar 15 minutos até absorver toda a água.",
+      "Solte a quinoa com um garfo e tempere com um fio de azeite.",
+      "Enquanto a quinoa cozinha, aqueça um fio de azeite numa frigideira pequena.",
+      "Frite o ovo em lume médio-baixo por 2-3 minutos até a clara ficar firme e a gema ainda cremosa.",
+      "Corte o abacate em fatias e os tomates cereja ao meio.",
+      "Monte o bowl: quinoa na base, ovo estrelado por cima, fatias de abacate e tomate cereja ao lado.",
+      "Polvilhe com sementes de sésamo, salsa fresca, sal e pimenta. Sirva quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 370,
+    "prepTime": "5 min",
+    "cookTime": "18 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-46",
+    "image": "/images/recipes/bowl-quinoa-ovo.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Panquecas Fofas de Farinha de Coco com Morangos",
+    "ingredients": [
+      {
+        "amount": "1/4 xícara (28g)",
+        "name": "Farinha de coco"
+      },
+      {
+        "amount": "3 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1/4 xícara (60ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      },
+      {
+        "amount": "6 unidades",
+        "name": "Morangos frescos"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Creme de coco (parte sólida da lata refrigerada)"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Óleo de coco (para a frigideira)"
+      }
+    ],
+    "steps": [
+      "Num recipiente, bata os ovos com o leite de coco e a baunilha até ficar espumoso.",
+      "Adicione a farinha de coco, o fermento e o sal. Misture até ficar homogéneo.",
+      "Deixe a massa descansar 2-3 minutos — a farinha de coco absorve muito líquido e a massa vai engrossar. Isto é normal.",
+      "Aqueça uma frigideira antiaderente em lume médio-baixo com o óleo de coco.",
+      "Coloque 2 colheres de sopa de massa por panqueca. Espalhe ligeiramente com as costas da colher.",
+      "Cozinhe 2-3 minutos por lado. Vire com cuidado — panquecas de farinha de coco são mais delicadas.",
+      "Fatie os morangos enquanto as panquecas cozinham.",
+      "Sirva as panquecas empilhadas com morangos frescos e uma colher de creme de coco por cima."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 240,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-47",
+    "image": "/images/recipes/panquecas-farinha-coco.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Crackers Crocantes de Sementes e Alecrim",
+    "ingredients": [
+      {
+        "amount": "1/3 xícara (45g)",
+        "name": "Sementes de girassol"
+      },
+      {
+        "amount": "1/3 xícara (45g)",
+        "name": "Sementes de linhaça"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de sésamo"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1/2 xícara (120ml)",
+        "name": "Água"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Alecrim fresco picado"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Sal"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160°C. Forre um tabuleiro grande com papel vegetal.",
+      "Misture todas as sementes num recipiente grande.",
+      "Adicione a água, o azeite, o alecrim picado e o sal. Mexa bem.",
+      "Deixe descansar 10 minutos — as sementes de chia e linhaça vão absorver a água e criar um gel que liga tudo.",
+      "Despeje a mistura sobre o tabuleiro forrado.",
+      "Cubra com outra folha de papel vegetal e use um rolo da massa para espalhar numa camada muito fina e uniforme (2-3mm).",
+      "Retire o papel de cima e, com uma faca, marque quadrados ou retângulos na massa (facilita partir depois).",
+      "Leve ao forno por 30-35 minutos até ficarem dourados e secos ao toque.",
+      "Retire do forno e deixe arrefecer completamente — ficam mais crocantes ao arrefecer.",
+      "Parta pelos cortes marcados. Conserve em recipiente hermético por até 2 semanas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 55,
+    "prepTime": "10 min",
+    "cookTime": "35 min",
+    "servings": 20,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-48",
+    "image": "/images/recipes/crackers-sementes.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Chips de Banana-da-Terra com Guacamole",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Banana-da-terra verde (plátano)"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Sal"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Pimentão doce (paprika)"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Abacate maduro (para guacamole)"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de lima"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coentros frescos picados"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal para guacamole"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190°C. Forre dois tabuleiros com papel vegetal.",
+      "Descasque as bananas-da-terra (a casca é dura — faça um corte longitudinal com uma faca para ajudar).",
+      "Fatie em rodelas muito finas (2-3mm) com uma faca afiada ou mandolina.",
+      "Num recipiente, misture as rodelas com azeite, sal e pimentão doce.",
+      "Disponha as rodelas em camada única nos tabuleiros — não podem sobrepor-se.",
+      "Asse por 15-20 minutos, virando uma vez aos 10 minutos, até ficarem douradas e crocantes.",
+      "Enquanto as chips assam, prepare o guacamole: amasse o abacate, junte lima, coentros e sal.",
+      "Retire as chips do forno e deixe arrefecer 5 minutos (ficam mais crocantes).",
+      "Sirva as chips com o guacamole ao lado."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche"
+    ],
+    "calories": 190,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 3,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-49",
+    "image": "/images/recipes/chips-banana-da-terra.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Golden Milk — Leite Dourado de Cúrcuma",
+    "ingredients": [
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Cúrcuma em pó (açafrão-da-terra)"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Gengibre em pó (ou 1cm fresco ralado)"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pimenta preta moída"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Óleo de coco"
+      }
+    ],
+    "steps": [
+      "Aqueça o leite de coco numa panela pequena em lume médio-baixo.",
+      "Adicione a cúrcuma, a canela, o gengibre, a pimenta preta e o óleo de coco.",
+      "Mexa continuamente com um fouet por 3-4 minutos até aquecer bem (não deixe ferver).",
+      "A pimenta preta é essencial — aumenta a absorção da curcumina em até 2000%.",
+      "O óleo de coco ajuda na absorção da curcumina, que é lipossolúvel.",
+      "Prove e ajuste as especiarias a gosto.",
+      "Transfira para uma caneca e sirva quente.",
+      "Opcional: polvilhe com canela extra por cima para decorar."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "rápido",
+      "pequeno-almoço"
+    ],
+    "calories": 95,
+    "prepTime": "2 min",
+    "cookTime": "5 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-50",
+    "image": "/images/recipes/golden-milk.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Tâmaras Recheadas com Manteiga de Amêndoa e Chocolate",
+    "ingredients": [
+      {
+        "amount": "8 unidades",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Manteiga de amêndoa natural"
+      },
+      {
+        "amount": "30 g",
+        "name": "Chocolate negro 85%+ (sem leite)"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal em flocos (Maldon ou flor de sal)"
+      }
+    ],
+    "steps": [
+      "Abra cada tâmara ao meio com os dedos ou uma faca, sem cortar completamente (deve ficar tipo livro aberto).",
+      "Retire o caroço se ainda tiver.",
+      "Coloque cerca de 1/2 colher de chá de manteiga de amêndoa dentro de cada tâmara.",
+      "Feche ligeiramente as tâmaras sobre o recheio.",
+      "Derreta o chocolate em banho-maria ou no microondas em intervalos de 15 segundos, mexendo entre cada.",
+      "Com uma colher ou garfo, faça fios de chocolate derretido sobre cada tâmara recheada.",
+      "Polvilhe com sal em flocos por cima enquanto o chocolate ainda está húmido.",
+      "Leve ao frigorífico por 10 minutos até o chocolate solidificar.",
+      "Conserve no frigorífico por até 7 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "rápido"
+    ],
+    "calories": 85,
+    "prepTime": "10 min",
+    "cookTime": "0 min (10 min no frigorífico)",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-51",
+    "image": "/images/recipes/tamaras-recheadas.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Torrada de Batata-Doce com Abacate",
+    "ingredients": [
+      {
+        "amount": "1 unidade",
+        "name": "Batata-doce grande"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal em flocos e pimenta preta"
+      },
+      {
+        "amount": "1 punhado",
+        "name": "Microverdes ou coentros frescos"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pimenta em flocos (opcional)"
+      }
+    ],
+    "steps": [
+      "Corte a batata-doce em fatias longitudinais de cerca de 7-8mm de espessura (como fatias de pão).",
+      "Coloque as fatias diretamente nas ranhuras da torradeira (sim, funciona!) e torre no nível máximo, 2-3 ciclos até ficarem macias por dentro e ligeiramente tostadas por fora.",
+      "Alternativa ao tostador: asse no forno a 200°C por 10-12 minutos, virando uma vez.",
+      "Enquanto a batata-doce tosta, amasse o abacate com sumo de limão, sal e pimenta.",
+      "Retire as fatias de batata-doce e coloque num prato.",
+      "Espalhe o abacate amassado generosamente por cima de cada fatia.",
+      "Decore com microverdes ou coentros frescos, um fio de azeite e pimenta em flocos.",
+      "Sirva imediatamente enquanto a base está quente e o abacate fresco."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 195,
+    "prepTime": "5 min",
+    "cookTime": "12 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-52",
+    "image": "/images/recipes/torrada-batata-doce.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Bark de Iogurte de Coco Congelado com Frutos",
+    "ingredients": [
+      {
+        "amount": "1.5 xícaras (360g)",
+        "name": "Iogurte de coco natural (sem açúcar)"
+      },
+      {
+        "amount": "1/3 xícara",
+        "name": "Framboesas frescas"
+      },
+      {
+        "amount": "1/4 xícara",
+        "name": "Mirtilos frescos"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Amêndoas laminadas"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco ralado sem açúcar"
+      }
+    ],
+    "steps": [
+      "Forre um tabuleiro pequeno (cerca de 25x20cm) com papel vegetal.",
+      "Misture o iogurte de coco com a baunilha num recipiente.",
+      "Despeje o iogurte no tabuleiro e espalhe numa camada uniforme de cerca de 1cm de espessura.",
+      "Distribua as framboesas e mirtilos pela superfície, pressionando levemente para fixar.",
+      "Espalhe as amêndoas laminadas, sementes de abóbora e coco ralado por cima.",
+      "Leve ao congelador por no mínimo 2 horas até ficar completamente sólido.",
+      "Retire do congelador e parta em pedaços irregulares (como se fosse chocolate).",
+      "Consuma imediatamente ou conserve num recipiente hermético no congelador por até 1 mês.",
+      "Dica: retire 3-5 minutos antes de comer para amolecer ligeiramente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 90,
+    "prepTime": "10 min",
+    "cookTime": "0 min (2h de congelação)",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-53",
+    "image": "/images/recipes/bark-iogurte-congelado.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Omelete Vegana de Farinha de Grão-de-Bico com Cogumelos",
+    "ingredients": [
+      {
+        "amount": "1/3 xícara (40g)",
+        "name": "Farinha de grão-de-bico"
+      },
+      {
+        "amount": "1/3 xícara (80ml)",
+        "name": "Água"
+      },
+      {
+        "amount": "1 xícara (80g)",
+        "name": "Cogumelos frescos fatiados"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Levedura nutricional"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Cúrcuma em pó"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "2 colheres de chá",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Salsa fresca picada"
+      }
+    ],
+    "steps": [
+      "Num recipiente, misture a farinha de grão-de-bico, a água, a levedura nutricional, a cúrcuma e o sal até ficar uma massa lisa sem grumos.",
+      "A consistência deve ser como uma massa de crepe — nem muito líquida nem muito espessa.",
+      "Aqueça 1 colher de chá de azeite numa frigideira e salteie os cogumelos por 3-4 minutos até dourarem. Reserve.",
+      "Na mesma frigideira limpa, aqueça a restante colher de chá de azeite em lume médio.",
+      "Despeje a massa e espalhe uniformemente, como uma omelete.",
+      "Cozinhe por 3-4 minutos até a base estar firme e dourada.",
+      "Distribua os cogumelos salteados sobre metade da omelete.",
+      "Com uma espátula, dobre a omelete ao meio sobre o recheio.",
+      "Cozinhe mais 1 minuto e transfira para o prato. Finalize com salsa fresca."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 195,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-54",
+    "image": "/images/recipes/omelete-grao-bico.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Compota de Framboesa e Chia sem Açúcar",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (250g)",
+        "name": "Framboesas frescas ou congeladas"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      }
+    ],
+    "steps": [
+      "Coloque as framboesas numa panela pequena em lume médio.",
+      "Cozinhe por 5-7 minutos, esmagando com um garfo ou espátula enquanto cozinham, até libertarem sumo e se desfazerem.",
+      "Se usar framboesas congeladas, vão libertar mais líquido — cozinhe 2 minutos extra.",
+      "Retire do lume e adicione as sementes de chia, o sumo de limão e a baunilha.",
+      "Mexa bem e deixe descansar 10 minutos fora do lume — as sementes de chia vão gelificar e engrossar naturalmente a compota.",
+      "Mexa novamente após 10 minutos. A compota deve ter consistência espessa e gelatinosa.",
+      "Transfira para um frasco de vidro esterilizado.",
+      "Conserve no frigorífico por até 10 dias.",
+      "Use em tostas de arroz, com iogurte de coco, em overnight oats ou como recheio de panquecas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep",
+      "rápido"
+    ],
+    "calories": 25,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-55",
+    "image": "/images/recipes/compota-chia-framboesa.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Crepes de Farinha de Arroz com Morangos",
+    "ingredients": [
+      {
+        "amount": "1 xícara (120g)",
+        "name": "Farinha de arroz"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1/2 xícara (120ml)",
+        "name": "Água"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      },
+      {
+        "amount": "2 xícaras (300g)",
+        "name": "Morangos frescos fatiados"
+      },
+      {
+        "amount": "1/2 xícara",
+        "name": "Creme de coco batido (parte sólida)"
+      }
+    ],
+    "steps": [
+      "Num liquidificador, bata a farinha de arroz, leite de coco, água, ovos, óleo de coco, baunilha e sal até obter uma massa lisa e homogénea.",
+      "Deixe a massa descansar por 10 minutos para a farinha hidratar completamente.",
+      "Aqueça uma frigideira antiaderente em lume médio. Unte levemente com óleo de coco.",
+      "Coloque cerca de 3 colheres de sopa de massa e rode a frigideira para cobrir toda a superfície numa camada fina.",
+      "Cozinhe por 1-2 minutos até as bordas se soltarem e a base dourar levemente.",
+      "Vire com cuidado e cozinhe mais 30 segundos do outro lado.",
+      "Repita com a restante massa, obtendo cerca de 8 crepes finos.",
+      "Recheie cada crepe com morangos fatiados e uma colher de creme de coco batido.",
+      "Dobre em triângulo ou enrole e sirva de imediato."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 245,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-56",
+    "image": "/images/recipes/crepes-farinha-arroz.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Açaí Bowl com Granola Caseira",
+    "ingredients": [
+      {
+        "amount": "200 g",
+        "name": "Polpa de açaí congelada (sem açúcar)"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Banana congelada"
+      },
+      {
+        "amount": "1/4 xícara (60ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Granola caseira sem glúten"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Banana fresca fatiada"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de chia"
+      }
+    ],
+    "steps": [
+      "Retire a polpa de açaí do congelador e deixe amacisr ligeiramente por 2 minutos.",
+      "No liquidificador, coloque a polpa de açaí, a banana congelada e o leite de coco.",
+      "Bata em pulsos curtos, empurrando a mistura para baixo com uma espátula entre os pulsos.",
+      "A consistência deve ficar muito espessa, como um gelado macio — não adicione líquido a mais.",
+      "Transfira para uma tigela funda.",
+      "Disponha a granola, as fatias de banana fresca, o coco ralado e as sementes de chia por cima.",
+      "Consuma imediatamente para manter a textura gelada e cremosa."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 340,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-57",
+    "image": "/images/recipes/acai-bowl.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Granola Caseira Crocante sem Glúten",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (160g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1/4 xícara (35g)",
+        "name": "Sementes de girassol"
+      },
+      {
+        "amount": "1/4 xícara (30g)",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1/4 xícara (25g)",
+        "name": "Amêndoas laminadas"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Banana madura"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160°C. Forre um tabuleiro grande com papel vegetal.",
+      "Num processador, bata a banana e as tâmaras até formar uma pasta homogénea.",
+      "Num recipiente grande, misture a aveia, coco ralado, sementes de girassol, sementes de abóbora e amêndoas.",
+      "Adicione a pasta de banana e tâmaras, o óleo de coco derretido, a canela e o sal.",
+      "Mexa bem até todos os flocos estarem uniformemente cobertos pela mistura húmida.",
+      "Espalhe a granola no tabuleiro numa camada fina e uniforme. Pressione levemente com uma espátula.",
+      "Leve ao forno por 25 minutos, mexendo uma vez aos 15 minutos para dourar uniformemente.",
+      "Retire do forno e deixe arrefecer completamente no tabuleiro — vai ficar mais crocante ao arrefecer.",
+      "Parta em pedaços e guarde num frasco hermético por até 2 semanas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 165,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-58",
+    "image": "/images/recipes/granola-caseira.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Panquecas de Batata-Doce com Mirtilos",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (120g)",
+        "name": "Batata-doce cozida e amassada"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Farinha de aveia (certificada sem glúten)"
+      },
+      {
+        "amount": "1/4 xícara (60ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1/2 xícara (75g)",
+        "name": "Mirtilos frescos"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Óleo de coco"
+      }
+    ],
+    "steps": [
+      "Num recipiente, misture a batata-doce amassada com os ovos até ficar homogéneo.",
+      "Adicione a farinha de aveia, o leite de amêndoa, a canela e o fermento. Mexa até a massa ficar lisa.",
+      "Incorpore metade dos mirtilos na massa delicadamente.",
+      "Aqueça uma frigideira antiaderente em lume médio-baixo com um pouco de óleo de coco.",
+      "Coloque 2 colheres de sopa de massa por panqueca. Espalhe ligeiramente.",
+      "Cozinhe por 2-3 minutos até surgirem bolhas e a base esteja firme.",
+      "Vire com cuidado e cozinhe mais 2 minutos do outro lado.",
+      "Sirva empilhadas com os mirtilos restantes por cima."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 265,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-59",
+    "image": "/images/recipes/panquecas-batata-doce.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Pudim de Chia com Manga e Maracujá",
+    "ingredients": [
+      {
+        "amount": "4 colheres de sopa (40g)",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 unidade pequena",
+        "name": "Manga madura"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Maracujá"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco ralado sem açúcar"
+      }
+    ],
+    "steps": [
+      "Num frasco ou recipiente, misture as sementes de chia com o leite de coco e a baunilha.",
+      "Mexa vigorosamente por 1 minuto para evitar grumos.",
+      "Tampe e leve ao frigorífico por no mínimo 4 horas ou durante a noite.",
+      "Após o repouso, mexa o pudim. Se estiver muito espesso, adicione um pouco mais de leite.",
+      "Descasque a manga e corte em cubos pequenos.",
+      "Corte os maracujás ao meio e retire a polpa com uma colher.",
+      "Divida o pudim em 2 taças ou copos. Cubra com cubos de manga, polpa de maracujá e coco ralado.",
+      "Sirva fresco. Pode conservar no frigorífico por até 3 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 235,
+    "prepTime": "5 min",
+    "cookTime": "0 min (4h no frigorífico)",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-60",
+    "image": "/images/recipes/pudim-chia-manga.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Pimentos Recheados com Quinoa e Legumes",
+    "ingredients": [
+      {
+        "amount": "4 unidades",
+        "name": "Pimentos coloridos grandes"
+      },
+      {
+        "amount": "1.5 xícaras (270g)",
+        "name": "Quinoa cozida"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Cebola picada finamente"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Tomate maduro picado"
+      },
+      {
+        "amount": "1 unidade pequena",
+        "name": "Abobrinha ralada"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Cominhos em pó"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Salsa fresca picada"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190°C.",
+      "Corte os pimentos ao meio no sentido do comprimento. Retire as sementes e membranas.",
+      "Disponha as metades de pimento num tabuleiro de forno, com a abertura para cima.",
+      "Numa frigideira, aqueça o azeite e refogue a cebola e o alho por 3 minutos até ficarem translúcidos.",
+      "Adicione o tomate picado e a abobrinha ralada. Cozinhe por 3 minutos.",
+      "Junte a quinoa cozida, os cominhos, sal e pimenta. Mexa bem.",
+      "Recheie cada metade de pimento generosamente com a mistura de quinoa.",
+      "Cubra o tabuleiro com papel de alumínio e leve ao forno por 20 minutos.",
+      "Retire o papel e asse mais 5 minutos para dourar ligeiramente.",
+      "Decore com salsa fresca picada e sirva quente ou à temperatura ambiente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 210,
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-61",
+    "image": "/images/recipes/pimentos-recheados.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Smoothie de Abacate, Cacau e Banana",
+    "ingredients": [
+      {
+        "amount": "1/2 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Banana congelada"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Cacau em pó puro (sem açúcar)"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de linhaça moídas"
+      },
+      {
+        "amount": "3-4 cubos",
+        "name": "Gelo"
+      }
+    ],
+    "steps": [
+      "Coloque o abacate, a banana congelada e o cacau em pó no liquidificador.",
+      "Adicione o leite de amêndoa e as sementes de linhaça.",
+      "Junte os cubos de gelo para uma textura mais gelada.",
+      "Bata em velocidade alta por 40-50 segundos até ficar completamente cremoso e homogéneo.",
+      "Prove e ajuste: se preferir mais doce, adicione 1-2 tâmaras. Se preferir mais líquido, adicione mais leite.",
+      "Sirva imediatamente num copo alto. Polvilhe com cacau em pó extra se desejar."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 295,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-62",
+    "image": "/images/recipes/smoothie-abacate-cacau.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Wraps de Alface com Frango e Abacate",
+    "ingredients": [
+      {
+        "amount": "200 g",
+        "name": "Peito de frango"
+      },
+      {
+        "amount": "6 folhas",
+        "name": "Folhas grandes de alface romana"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Pimento vermelho"
+      },
+      {
+        "amount": "1 unidade pequena",
+        "name": "Cenoura ralada"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Coentros frescos"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de lima"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Cominhos em pó"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Tempere o peito de frango com cominhos, sal, pimenta e um fio de azeite.",
+      "Grelhe o frango numa frigideira quente por 4-5 minutos de cada lado até estar cozido por dentro.",
+      "Deixe o frango descansar 3 minutos e depois corte em tiras finas.",
+      "Corte o abacate ao meio, retire o caroço e fatie em lâminas.",
+      "Corte o pimento em tiras finas.",
+      "Lave e seque bem as folhas de alface — elas serão os wraps.",
+      "Monte cada wrap: coloque tiras de frango, fatias de abacate, pimento, cenoura ralada e coentros sobre cada folha.",
+      "Regue com sumo de lima fresco.",
+      "Enrole as folhas como um wrap e sirva de imediato."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "rápido"
+    ],
+    "calories": 285,
+    "prepTime": "15 min",
+    "cookTime": "10 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-63",
+    "image": "/images/recipes/wrap-alface-frango.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Bolachas de Aveia e Coco sem Açúcar",
+    "ingredients": [
+      {
+        "amount": "1.5 xícaras (120g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Banana madura"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 175°C. Forre um tabuleiro com papel vegetal.",
+      "Amasse as bananas com um garfo até obter um purê liso.",
+      "Adicione o óleo de coco derretido, a canela e a baunilha ao purê de banana. Misture bem.",
+      "Junte a aveia em flocos, o coco ralado, o fermento e o sal. Mexa até formar uma massa homogénea.",
+      "Deixe a massa descansar 5 minutos para a aveia absorver a humidade.",
+      "Com as mãos ou uma colher, forme 12 bolachas redondas e achatadas no tabuleiro, deixando espaço entre elas.",
+      "Leve ao forno por 14-16 minutos até as bordas ficarem douradas.",
+      "Retire e deixe arrefecer no tabuleiro por 5 minutos — vão firmar ao arrefecer.",
+      "Transfira para uma grelha e deixe arrefecer completamente. Guarde em recipiente hermético por até 5 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 85,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "servings": 12,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-64",
+    "image": "/images/recipes/bolachas-aveia-coco.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Mini Frittatas de Batata-Doce e Espinafres",
+    "ingredients": [
+      {
+        "amount": "6 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1 xícara (150g)",
+        "name": "Batata-doce cozida em cubos pequenos"
+      },
+      {
+        "amount": "2 xícaras (60g)",
+        "name": "Espinafres frescos picados"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Cebola roxa picada finamente"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Pimento vermelho picado"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Orégãos secos"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C. Unte uma forma de 6 muffins com azeite.",
+      "Numa frigideira, aqueça o azeite e refogue a cebola e o pimento por 3 minutos.",
+      "Adicione os espinafres e mexa por 1 minuto até murchar. Retire do lume.",
+      "Num recipiente, bata os ovos com os orégãos, sal e pimenta.",
+      "Distribua os cubos de batata-doce igualmente nas 6 cavidades da forma.",
+      "Coloque a mistura de espinafres refogados por cima da batata-doce.",
+      "Despeje a mistura de ovo batido sobre os legumes, enchendo cada cavidade até 3/4.",
+      "Leve ao forno por 20-22 minutos até os ovos estarem firmes e ligeiramente dourados.",
+      "Deixe arrefecer 3 minutos na forma antes de desenformar.",
+      "Sirva quentes ou à temperatura ambiente. Conservam-se no frigorífico por 4 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço",
+      "meal-prep"
+    ],
+    "calories": 145,
+    "prepTime": "15 min",
+    "cookTime": "22 min",
+    "servings": 6,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-65",
+    "image": "/images/recipes/frittatas-batata-doce.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Tapioca com Ovo e Espinafres",
+    "ingredients": [
+      {
+        "amount": "3 colheres de sopa (45g)",
+        "name": "Goma de tapioca hidratada"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1 xícara (30g)",
+        "name": "Espinafres frescos"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 dente",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Orégãos secos"
+      }
+    ],
+    "steps": [
+      "Aqueça uma frigideira antiaderente em lume médio. Espalhe a goma de tapioca numa camada fina e uniforme.",
+      "Cozinhe por 1-2 minutos sem mexer até a tapioca ficar translúcida e se agarrar. Vire e cozinhe mais 1 minuto.",
+      "Retire a tapioca da frigideira e reserve.",
+      "Na mesma frigideira, aqueça o azeite e refogue o alho por 30 segundos.",
+      "Adicione os espinafres e mexa por 1 minuto até murcharem.",
+      "Junte os ovos batidos com sal, pimenta e orégãos. Mexa suavemente até ficar em ovo mexido cremoso.",
+      "Coloque o recheio de ovo e espinafres sobre a tapioca.",
+      "Dobre ao meio e sirva de imediato."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 230,
+    "prepTime": "5 min",
+    "cookTime": "8 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-66",
+    "image": "/images/recipes/tapioca-ovo-espinafres.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Gelado de Banana com Nibs de Cacau",
+    "ingredients": [
+      {
+        "amount": "3 unidades",
+        "name": "Bananas maduras congeladas"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Nibs de cacau"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Canela em pó"
+      }
+    ],
+    "steps": [
+      "Descasque as bananas, corte em rodelas e congele num saco hermético por pelo menos 2 horas (idealmente durante a noite).",
+      "Coloque as rodelas de banana congeladas no processador de alimentos.",
+      "Adicione o leite de coco, a baunilha e a canela.",
+      "Processe em pulsos, parando para empurrar a mistura para baixo com uma espátula.",
+      "Continue a processar até obter uma textura cremosa como gelado — cerca de 2-3 minutos.",
+      "Transfira para taças e cubra com nibs de cacau e coco ralado.",
+      "Para gelado mais firme, leve ao congelador por 20 minutos antes de servir.",
+      "Consuma no mesmo dia para melhor textura."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 195,
+    "prepTime": "5 min",
+    "cookTime": "0 min (2h congelação prévia)",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-67",
+    "image": "/images/recipes/gelado-banana.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Beiju Recheado com Frango e Legumes",
+    "ingredients": [
+      {
+        "amount": "6 colheres de sopa (90g)",
+        "name": "Goma de tapioca hidratada"
+      },
+      {
+        "amount": "150 g",
+        "name": "Peito de frango cozido desfiado"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Pimento vermelho picado"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Cebola roxa picada"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Coentros frescos"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Cominhos em pó"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Numa tigela, tempere o frango desfiado com cominhos, sumo de limão, sal e pimenta.",
+      "Aqueça o azeite numa frigideira e refogue rapidamente o pimento e a cebola por 2 minutos.",
+      "Junte o frango temperado e aqueça por 2 minutos. Reserve.",
+      "Limpe a frigideira e aqueça em lume médio.",
+      "Espalhe metade da goma de tapioca numa camada fina. Cozinhe 1-2 minutos até translúcida.",
+      "Vire e cozinhe mais 30 segundos.",
+      "Coloque metade do recheio sobre o beiju, salpique com coentros e dobre.",
+      "Repita para o segundo beiju. Sirva de imediato."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche"
+    ],
+    "calories": 260,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-68",
+    "image": "/images/recipes/beiju-recheado.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Papas de Aveia com Maçã e Canela",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Maçã"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Óleo de coco"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Descasque a maçã e corte em cubos pequenos.",
+      "Numa panela, aqueça o óleo de coco em lume médio e salteie os cubos de maçã com metade da canela por 3 minutos.",
+      "Adicione a aveia, o leite de amêndoa, a restante canela e o sal.",
+      "Mexa e deixe cozinhar em lume brando por 5-7 minutos, mexendo ocasionalmente, até as papas ficarem cremosas.",
+      "Se ficarem muito espessas, adicione mais um pouco de leite.",
+      "Transfira para uma tigela e cubra com as sementes de abóbora.",
+      "Sirva quente. Pode adicionar uma pitada extra de canela por cima."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço"
+    ],
+    "calories": 250,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-69",
+    "image": "/images/recipes/papas-aveia-maca.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Ovos no Abacate Assado",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Abacates maduros"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Ovos pequenos"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Cebolinho fresco picado"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Pimenta preta moída"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal marinho"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Pimentão doce (páprica)"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Corte os abacates ao meio e retire o caroço. Com uma colher, alargue ligeiramente o buraco para caber o ovo.",
+      "Disponha as metades de abacate num tabuleiro, apoiadas umas nas outras para não tombarem (pode usar papel de alumínio enrolado como suporte).",
+      "Parta um ovo para dentro de cada metade de abacate com cuidado.",
+      "Tempere com sal, pimenta e pimentão doce.",
+      "Leve ao forno por 12-15 minutos até a clara estar firme mas a gema ainda cremosa.",
+      "Retire do forno, salpique com cebolinho fresco e sirva de imediato.",
+      "Acompanhe com tostas de arroz se desejar."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 290,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-70",
+    "image": "/images/recipes/ovos-abacate.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Barras de Tâmaras e Amêndoa sem Forno",
+    "ingredients": [
+      {
+        "amount": "12 unidades (180g)",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "1/2 xícara (70g)",
+        "name": "Amêndoas inteiras"
+      },
+      {
+        "amount": "1/4 xícara (35g)",
+        "name": "Sementes de girassol"
+      },
+      {
+        "amount": "1/4 xícara (20g)",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Cacau em pó puro"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Forre uma forma retangular pequena (20x10cm) com papel vegetal.",
+      "Coloque as tâmaras no processador e pulse até formar uma pasta pegajosa.",
+      "Adicione as amêndoas e as sementes de girassol. Pulse até ficarem em pedaços grosseiros (não triture demais).",
+      "Junte o coco ralado, o cacau, o óleo de coco, a baunilha e o sal.",
+      "Processe brevemente até tudo estar combinado mas com textura rústica.",
+      "Transfira a mistura para a forma preparada.",
+      "Pressione firmemente com as costas de uma colher ou com as mãos húmidas até nivelar.",
+      "Leve ao frigorífico por pelo menos 1 hora até firmar.",
+      "Corte em 8 barras iguais. Conserve no frigorífico por até 10 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 155,
+    "prepTime": "10 min",
+    "cookTime": "0 min (1h no frigorífico)",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-71",
+    "image": "/images/recipes/barras-tamaras-amendoa.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Mousse de Abacate e Cacau",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Abacates maduros"
+      },
+      {
+        "amount": "4 colheres de sopa",
+        "name": "Cacau em pó puro (sem açúcar)"
+      },
+      {
+        "amount": "6 unidades",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Nibs de cacau para decorar"
+      }
+    ],
+    "steps": [
+      "Hidrate as tâmaras em água quente por 5 minutos. Escorra bem.",
+      "Corte os abacates ao meio, retire o caroço e a polpa com uma colher.",
+      "Coloque a polpa de abacate, as tâmaras, o cacau em pó, o leite de coco, a baunilha e o sal no processador.",
+      "Processe por 1-2 minutos até obter uma mousse completamente lisa e cremosa.",
+      "Raspe os lados do processador e processe novamente se necessário.",
+      "Divida a mousse por 4 copinhos ou taças pequenas.",
+      "Leve ao frigorífico por pelo menos 30 minutos para firmar e intensificar o sabor.",
+      "Antes de servir, decore com nibs de cacau por cima."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 215,
+    "prepTime": "10 min",
+    "cookTime": "0 min (30 min no frigorífico)",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-72",
+    "image": "/images/recipes/mousse-abacate-cacau.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Smoothie Tropical de Manga e Maracujá",
+    "ingredients": [
+      {
+        "amount": "1 xícara (150g)",
+        "name": "Manga congelada em cubos"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Maracujá"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Banana congelada"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Gengibre fresco ralado"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de chia"
+      }
+    ],
+    "steps": [
+      "Corte os maracujás ao meio e retire a polpa com uma colher.",
+      "Coloque a manga congelada, a banana congelada e a polpa de maracujá no liquidificador.",
+      "Adicione o leite de coco e o gengibre fresco ralado.",
+      "Bata em velocidade alta por 30-40 segundos até ficar completamente liso.",
+      "Prove e ajuste: se preferir mais doce, adicione mais banana.",
+      "Sirva num copo alto, salpique com sementes de chia e consuma imediatamente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 240,
+    "prepTime": "3 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-73",
+    "image": "/images/recipes/smoothie-manga-maracuja.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Barrinhas de Sementes Multifuncionais",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (70g)",
+        "name": "Sementes de girassol"
+      },
+      {
+        "amount": "1/2 xícara (60g)",
+        "name": "Sementes de abóbora"
+      },
+      {
+        "amount": "1/4 xícara (35g)",
+        "name": "Sementes de sésamo"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de linhaça moídas"
+      },
+      {
+        "amount": "1/4 xícara (20g)",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Banana madura"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Manteiga de amendoim natural"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Forre uma forma retangular (20x15cm) com papel vegetal.",
+      "Numa tigela grande, misture todas as sementes e o coco ralado.",
+      "Amasse a banana com um garfo até formar um purê liso.",
+      "Adicione a manteiga de amendoim, a canela e o sal ao purê de banana. Misture bem.",
+      "Combine a mistura húmida com as sementes secas. Mexa até tudo estar uniformemente coberto.",
+      "Transfira para a forma e pressione firmemente numa camada compacta e uniforme.",
+      "Leve ao frigorífico por pelo menos 2 horas até firmar completamente.",
+      "Corte em 10 barrinhas iguais.",
+      "Conserve no frigorífico em recipiente hermético por até 7 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 135,
+    "prepTime": "10 min",
+    "cookTime": "0 min (2h no frigorífico)",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-74",
+    "image": "/images/recipes/barrinhas-sementes.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Bolo de Banana e Farinha de Coco",
+    "ingredients": [
+      {
+        "amount": "3 unidades",
+        "name": "Bananas maduras"
+      },
+      {
+        "amount": "1/2 xícara (60g)",
+        "name": "Farinha de coco"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1.5 colheres de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1.5 colheres de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Bicarbonato de sódio"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      },
+      {
+        "amount": "1/4 xícara (30g)",
+        "name": "Nozes picadas (opcional)"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 175°C. Unte e forre uma forma de bolo inglês (25x12cm) com papel vegetal.",
+      "Amasse as bananas com um garfo até obter um purê liso.",
+      "Num recipiente grande, bata os ovos com o purê de banana, o óleo de coco e a baunilha.",
+      "Noutro recipiente, misture a farinha de coco, a canela, o fermento, o bicarbonato e o sal.",
+      "Combine os ingredientes secos com os húmidos, mexendo delicadamente até incorporar.",
+      "Nota: A farinha de coco absorve muita humidade — a massa ficará espessa, é normal.",
+      "Adicione as nozes picadas, se usar, e mexa suavemente.",
+      "Verta a massa na forma preparada e nivele a superfície.",
+      "Leve ao forno por 30-35 minutos ou até um palito sair limpo.",
+      "Deixe arrefecer na forma por 10 minutos antes de desenformar.",
+      "Arrefeça completamente numa grelha antes de fatiar. Conserve num recipiente hermético por até 4 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 145,
+    "prepTime": "10 min",
+    "cookTime": "35 min",
+    "servings": 10,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-75",
+    "image": "/images/recipes/bolo-banana-coco.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Mingau de Trigo Sarraceno com Pêra e Nozes",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (50g)",
+        "name": "Flocos de trigo sarraceno"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Pêra madura"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Nozes picadas"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Pitada de sal"
+      }
+    ],
+    "steps": [
+      "Descasque a pêra, retire o caroço e corte em fatias finas.",
+      "Numa panela, aqueça o leite de coco em lume médio até ferver suavemente.",
+      "Adicione os flocos de trigo sarraceno, a canela, a baunilha e o sal.",
+      "Reduza para lume brando e cozinhe por 8-10 minutos, mexendo ocasionalmente, até ficar cremoso.",
+      "Nos últimos 2 minutos, adicione metade das fatias de pêra à panela para amolecerem.",
+      "Transfira para uma tigela e cubra com as fatias de pêra restantes e as nozes picadas.",
+      "Polvilhe com uma pitada extra de canela e sirva quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço"
+    ],
+    "calories": 320,
+    "prepTime": "5 min",
+    "cookTime": "12 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-76",
+    "image": "/images/recipes/mingau-sarraceno-pera.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Pataniscas de Abobrinha com Molho de Tahini",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Abobrinha grande ralada"
+      },
+      {
+        "amount": "1/2 xícara (50g)",
+        "name": "Farinha de grão-de-bico"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Ovo"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Cebolinho picado"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Cominhos em pó"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Tahini"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Água"
+      }
+    ],
+    "steps": [
+      "Rale as abobrinhas e esprema bem num pano limpo para remover o excesso de água — isto é crucial para ficarem crocantes.",
+      "Numa tigela, misture a abobrinha espremida com a farinha de grão-de-bico, o ovo, o cebolinho, os cominhos, sal e pimenta.",
+      "Aqueça o azeite numa frigideira em lume médio-alto.",
+      "Forme pequenas pataniscas achatadas com cerca de 2 colheres de sopa da mistura.",
+      "Frite por 3 minutos de cada lado até ficarem douradas e crocantes.",
+      "Transfira para papel absorvente para retirar o excesso de gordura.",
+      "Para o molho: misture o tahini com o sumo de limão e a água até obter uma consistência cremosa.",
+      "Sirva as pataniscas quentes com o molho de tahini ao lado."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche"
+    ],
+    "calories": 165,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-77",
+    "image": "/images/recipes/pataniscas-abobrinha.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Pudim de Chia em Camadas com Kiwi e Maracujá",
+    "ingredients": [
+      {
+        "amount": "4 colheres de sopa (40g)",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Kiwi"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Maracujá"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Coco ralado sem açúcar"
+      }
+    ],
+    "steps": [
+      "Misture as sementes de chia com o leite de coco e a baunilha num recipiente.",
+      "Mexa vigorosamente por 1 minuto para evitar grumos e leve ao frigorífico por 4 horas ou durante a noite.",
+      "Descasque e fatie os kiwis em rodelas finas.",
+      "Corte os maracujás ao meio e retire a polpa com uma colher.",
+      "Em copos ou frascos transparentes, monte em camadas: pudim de chia, rodelas de kiwi, pudim de chia, polpa de maracujá.",
+      "Termine com uma colher de polpa de maracujá e coco ralado por cima.",
+      "Sirva fresco. Conserva-se no frigorífico por até 2 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 225,
+    "prepTime": "10 min",
+    "cookTime": "0 min (4h no frigorífico)",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-78",
+    "image": "/images/recipes/pudim-chia-coco-maracuja.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Batata-Doce Recheada com Feijão Preto e Abacate",
+    "ingredients": [
+      {
+        "amount": "2 unidades",
+        "name": "Batatas-doces grandes"
+      },
+      {
+        "amount": "1 xícara (170g)",
+        "name": "Feijão preto cozido (escorrido)"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de lima"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Cominhos em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Pimentão doce (páprica)"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Coentros frescos"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Lave as batatas-doces e fure-as várias vezes com um garfo.",
+      "Envolva cada uma em papel de alumínio e asse por 35-40 minutos até estarem macias.",
+      "Enquanto as batatas assam, aqueça o azeite numa panela pequena e adicione o feijão preto, cominhos, pimentão, sal e pimenta.",
+      "Cozinhe por 3-4 minutos, amassando ligeiramente alguns feijões com um garfo para criar textura.",
+      "Corte o abacate em cubos e tempere com sumo de lima e sal.",
+      "Quando as batatas estiverem prontas, corte ao meio e abra com um garfo.",
+      "Recheie generosamente com o feijão preto temperado e os cubos de abacate.",
+      "Finalize com coentros frescos e sirva quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 340,
+    "prepTime": "10 min",
+    "cookTime": "40 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-79",
+    "image": "/images/recipes/batata-doce-recheada.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Muffins Verdes de Espinafre e Maçã",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (60g)",
+        "name": "Espinafres frescos"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Maçã ralada"
+      },
+      {
+        "amount": "1.5 xícaras (150g)",
+        "name": "Farinha de amêndoa"
+      },
+      {
+        "amount": "3 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Banana madura"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1.5 colheres de chá",
+        "name": "Fermento em pó"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 175°C. Forre uma forma de muffins com forminhas de papel.",
+      "No liquidificador, bata os espinafres com os ovos e a banana até obter uma mistura verde homogénea.",
+      "Num recipiente, misture a farinha de amêndoa, a canela, o fermento e o sal.",
+      "Adicione a mistura verde e o óleo de coco aos ingredientes secos. Mexa até combinar.",
+      "Incorpore a maçã ralada delicadamente com uma espátula.",
+      "Distribua a massa pelas 8 cavidades da forma.",
+      "Leve ao forno por 18-20 minutos até um palito sair limpo.",
+      "Deixe arrefecer na forma por 5 minutos antes de desenformar.",
+      "Conserve num recipiente hermético por até 4 dias ou congele por até 1 mês."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 175,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-80",
+    "image": "/images/recipes/muffins-verdes-espinafre.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Rolinhos de Papel de Arroz com Salmão Fumado",
+    "ingredients": [
+      {
+        "amount": "8 unidades",
+        "name": "Folhas de papel de arroz"
+      },
+      {
+        "amount": "150 g",
+        "name": "Salmão fumado fatiado"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Pepino"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Cenoura"
+      },
+      {
+        "amount": "1/4 xícara",
+        "name": "Coentros ou hortelã fresca"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de lima"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Molho de soja sem glúten (tamari)"
+      }
+    ],
+    "steps": [
+      "Corte o pepino, a cenoura e o abacate em palitos finos e compridos (juliana).",
+      "Prepare uma tigela larga com água morna.",
+      "Mergulhe uma folha de papel de arroz na água por 10-15 segundos até ficar maleável (não amolecer demais).",
+      "Coloque a folha numa superfície húmida e limpa.",
+      "Disponha no terço inferior: fatias de salmão, palitos de pepino, cenoura, abacate e folhas de coentros.",
+      "Dobre os lados para dentro e enrole de baixo para cima, apertando bem.",
+      "Repita para os restantes rolinhos.",
+      "Sirva com molho tamari ao lado para mergulhar. Consuma no mesmo dia."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "sem forno",
+      "lanche",
+      "rápido"
+    ],
+    "calories": 185,
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-81",
+    "image": "/images/recipes/rolinhos-salmao-pepino.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Overnight Oats Sabor Bolo de Cenoura",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Aveia em flocos (certificada sem glúten)"
+      },
+      {
+        "amount": "3/4 xícara (180ml)",
+        "name": "Leite de amêndoa sem açúcar"
+      },
+      {
+        "amount": "1/3 xícara (40g)",
+        "name": "Cenoura ralada finamente"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Noz-moscada ralada"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Nozes picadas"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Coco ralado sem açúcar"
+      }
+    ],
+    "steps": [
+      "Num frasco de vidro com tampa, coloque a aveia, as sementes de chia, a cenoura ralada, a canela e a noz-moscada.",
+      "Adicione o leite de amêndoa e a baunilha.",
+      "Mexa bem para combinar todos os ingredientes.",
+      "Tampe e leve ao frigorífico por no mínimo 6 horas ou durante a noite.",
+      "Pela manhã, mexa bem. Se estiver muito espesso, adicione um pouco mais de leite.",
+      "Cubra com as nozes picadas e o coco ralado.",
+      "Consuma frio ou aqueça 1-2 minutos no micro-ondas se preferir quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "sem forno",
+      "pequeno-almoço"
+    ],
+    "calories": 240,
+    "prepTime": "5 min",
+    "cookTime": "0 min (6-8h no frigorífico)",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-82",
+    "image": "/images/recipes/overnight-cenoura.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Tabule de Couve-Flor com Ervas Frescas",
+    "ingredients": [
+      {
+        "amount": "1 unidade média",
+        "name": "Couve-flor"
+      },
+      {
+        "amount": "1 xícara (30g)",
+        "name": "Salsa fresca picada"
+      },
+      {
+        "amount": "1/4 xícara (10g)",
+        "name": "Hortelã fresca picada"
+      },
+      {
+        "amount": "1 xícara (150g)",
+        "name": "Tomate cherry"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Pepino"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Cebola roxa picada finamente"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Corte a couve-flor em floretes e rale num ralador grosso ou pulse no processador até obter uma textura de cuscuz.",
+      "Corte os tomates cherry ao meio e o pepino em cubos pequenos.",
+      "Pique finamente a cebola roxa, a salsa e a hortelã.",
+      "Numa tigela grande, combine a couve-flor ralada, os tomates, o pepino, a cebola, a salsa e a hortelã.",
+      "Tempere com o sumo de limão, o azeite, sal e pimenta.",
+      "Mexa delicadamente e deixe repousar por 10 minutos para os sabores se combinarem.",
+      "Prove e ajuste o tempero. Sirva à temperatura ambiente ou fresco."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "rápido"
+    ],
+    "calories": 130,
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-83",
+    "image": "/images/recipes/tabule-couve-flor.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Picoletas de Banana com Chocolate Negro",
+    "ingredients": [
+      {
+        "amount": "4 unidades",
+        "name": "Bananas firmes (não muito maduras)"
+      },
+      {
+        "amount": "100 g",
+        "name": "Chocolate negro 85%+ cacau (sem açúcar)"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco"
+      },
+      {
+        "amount": "1/4 xícara (30g)",
+        "name": "Amêndoas picadas grosseiramente"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Palitos de gelado"
+      }
+    ],
+    "steps": [
+      "Descasque as bananas e corte ao meio no sentido transversal.",
+      "Espete um palito de gelado em cada metade de banana pela parte cortada.",
+      "Disponha num tabuleiro forrado com papel vegetal e congele por pelo menos 1 hora até ficarem firmes.",
+      "Derreta o chocolate negro com o óleo de coco em banho-maria ou no micro-ondas em intervalos de 20 segundos, mexendo entre cada.",
+      "Retire as bananas do congelador e mergulhe rapidamente cada uma no chocolate derretido, rodando para cobrir uniformemente.",
+      "O chocolate solidifica quase instantaneamente sobre a banana gelada.",
+      "Salpique imediatamente com as amêndoas picadas antes do chocolate endurecer.",
+      "Volte a colocar no tabuleiro e leve ao congelador por mais 30 minutos.",
+      "Conserve num recipiente hermético no congelador por até 2 semanas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 195,
+    "prepTime": "15 min",
+    "cookTime": "0 min (2h congelação)",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-84",
+    "image": "/images/recipes/picoletas-banana-chocolate.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Ovos Mexidos com Cogumelos e Tomate Cherry",
+    "ingredients": [
+      {
+        "amount": "4 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "150 g",
+        "name": "Cogumelos castanhos fatiados"
+      },
+      {
+        "amount": "8 unidades",
+        "name": "Tomates cherry"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 dente",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Salsa fresca picada"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Tomilho fresco (opcional)"
+      }
+    ],
+    "steps": [
+      "Aqueça o azeite numa frigideira larga em lume médio-alto.",
+      "Adicione os cogumelos fatiados e cozinhe sem mexer por 2 minutos até dourarem. Mexa e cozinhe mais 1 minuto.",
+      "Junte o alho e os tomates cherry inteiros. Cozinhe por 2 minutos até os tomates começarem a rebentar.",
+      "Reduza para lume baixo. Bata os ovos num recipiente com sal, pimenta e tomilho.",
+      "Verta os ovos batidos sobre os cogumelos e tomates na frigideira.",
+      "Mexa delicadamente com uma espátula de silicone, fazendo movimentos largos e lentos.",
+      "Retire do lume quando os ovos ainda estiverem ligeiramente cremosos — continuarão a cozinhar com o calor residual.",
+      "Salpique com salsa fresca e sirva imediatamente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 235,
+    "prepTime": "5 min",
+    "cookTime": "8 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-85",
+    "image": "/images/recipes/ovos-mexidos-cogumelos.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Socca — Pão de Grão-de-Bico com Alecrim",
+    "ingredients": [
+      {
+        "amount": "1 xícara (100g)",
+        "name": "Farinha de grão-de-bico"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Água morna"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Alecrim fresco picado"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Sal"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Pimenta preta"
+      }
+    ],
+    "steps": [
+      "Num recipiente, misture a farinha de grão-de-bico com a água morna e 1 colher de sopa de azeite.",
+      "Bata até obter uma massa lisa sem grumos. Tempere com sal e pimenta.",
+      "Deixe a massa descansar por 30 minutos à temperatura ambiente (ou até 12h no frigorífico).",
+      "Pré-aqueça o forno a 230°C com uma frigideira de ferro fundido ou tabuleiro dentro.",
+      "Retire o tabuleiro quente, regue com 1 colher de sopa de azeite e verta a massa.",
+      "Salpique com o alecrim picado e regue com a restante colher de azeite por cima.",
+      "Asse por 12-15 minutos até a superfície ficar dourada e crocante.",
+      "Corte em fatias e sirva quente. Pode acompanhar com húmus ou legumes."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche"
+    ],
+    "calories": 155,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-86",
+    "image": "/images/recipes/socca-grao-bico.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Parfait de Iogurte de Coco com Granola e Frutos",
+    "ingredients": [
+      {
+        "amount": "200 g",
+        "name": "Iogurte de coco natural (sem açúcar)"
+      },
+      {
+        "amount": "1/4 xícara (25g)",
+        "name": "Granola caseira sem glúten"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Morangos frescos fatiados"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Mirtilos"
+      },
+      {
+        "amount": "5 unidades",
+        "name": "Framboesas"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Essência de baunilha"
+      }
+    ],
+    "steps": [
+      "Misture o iogurte de coco com a essência de baunilha.",
+      "Num copo alto ou frasco transparente, coloque uma camada generosa de iogurte no fundo.",
+      "Adicione uma camada de granola crocante.",
+      "Coloque uma camada de frutos vermelhos misturados.",
+      "Repita as camadas: iogurte, granola, frutos.",
+      "Termine com frutos por cima e salpique com sementes de chia.",
+      "Sirva imediatamente para a granola manter a crocância."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 275,
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-87",
+    "image": "/images/recipes/parfait-coco-granola.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Sopa Cremosa de Batata-Doce e Lentilhas",
+    "ingredients": [
+      {
+        "amount": "2 unidades médias (400g)",
+        "name": "Batata-doce em cubos"
+      },
+      {
+        "amount": "1/2 xícara (100g)",
+        "name": "Lentilhas vermelhas"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Cebola picada"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Gengibre fresco ralado"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Cúrcuma em pó"
+      },
+      {
+        "amount": "3 xícaras (720ml)",
+        "name": "Caldo de legumes"
+      },
+      {
+        "amount": "1/2 xícara (120ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Aqueça o azeite numa panela grande em lume médio.",
+      "Refogue a cebola e o alho por 3 minutos até ficarem translúcidos.",
+      "Adicione o gengibre e a cúrcuma, mexa por 1 minuto até libertar o aroma.",
+      "Junte a batata-doce em cubos e as lentilhas. Mexa por 1 minuto.",
+      "Adicione o caldo de legumes e leve a ferver. Reduza para lume brando.",
+      "Cozinhe por 20-25 minutos até a batata-doce e as lentilhas estarem muito macias.",
+      "Retire do lume. Com uma varinha mágica, triture até obter uma textura cremosa e aveludada.",
+      "Junte o leite de coco, mexa e aqueça mais 2 minutos. Tempere com sal e pimenta.",
+      "Sirva quente com um fio de azeite e sementes de abóbora por cima."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 220,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-88",
+    "image": "/images/recipes/sopa-batata-doce-lentilhas.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Crackers de Linhaça e Ervas",
+    "ingredients": [
+      {
+        "amount": "1 xícara (150g)",
+        "name": "Sementes de linhaça"
+      },
+      {
+        "amount": "1/4 xícara (35g)",
+        "name": "Sementes de sésamo"
+      },
+      {
+        "amount": "1/2 xícara (120ml)",
+        "name": "Água"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Orégãos secos"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Alho em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Sal marinho"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Pimenta preta"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160°C. Forre um tabuleiro grande com papel vegetal.",
+      "Misture as sementes de linhaça com a água e deixe repousar por 10 minutos até formar um gel espesso.",
+      "Adicione as sementes de sésamo, orégãos, alho em pó, sal e pimenta. Mexa bem.",
+      "Espalhe a mistura sobre o papel vegetal numa camada o mais fina possível (2-3mm).",
+      "Use uma espátula molhada para alisar a superfície uniformemente.",
+      "Com uma faca, marque quadrados ou retângulos na massa antes de assar.",
+      "Asse por 18-20 minutos até ficarem secos e crocantes nas bordas.",
+      "Desligue o forno e deixe os crackers dentro mais 5 minutos para secarem completamente.",
+      "Parta nos quadrados marcados e guarde num recipiente hermético por até 2 semanas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 130,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 6,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-89",
+    "image": "/images/recipes/crackers-linhaca.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Bowl de Quinoa com Kale e Ovo Escalfado",
+    "ingredients": [
+      {
+        "amount": "3/4 xícara (140g)",
+        "name": "Quinoa cozida"
+      },
+      {
+        "amount": "2 xícaras (60g)",
+        "name": "Kale (couve-kale) picada"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Ovo"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Abacate"
+      },
+      {
+        "amount": "1 dente",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Sementes de sésamo"
+      }
+    ],
+    "steps": [
+      "Aqueça o azeite numa frigideira em lume médio. Refogue o alho por 30 segundos.",
+      "Adicione a kale picada e salteie por 2-3 minutos até murchar. Tempere com sal e sumo de limão.",
+      "Enquanto a kale cozinha, prepare o ovo escalfado: aqueça água numa panela até ferver suavemente.",
+      "Crie um redemoinho na água com uma colher e verta o ovo gentilmente. Cozinhe por 3 minutos.",
+      "Monte o bowl: coloque a quinoa quente como base.",
+      "Disponha a kale salteada ao lado e fatias de abacate.",
+      "Coloque o ovo escalfado no centro.",
+      "Salpique com sementes de sésamo e um fio de azeite. Sirva de imediato."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 370,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-90",
+    "image": "/images/recipes/bowl-quinoa-kale.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Chips de Maçã com Canela no Forno",
+    "ingredients": [
+      {
+        "amount": "3 unidades",
+        "name": "Maçãs (variedade firme como Fuji ou Gala)"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 100°C. Forre dois tabuleiros com papel vegetal.",
+      "Lave as maçãs e retire o caroço central com um descaroçador ou cortando fatias e removendo as sementes.",
+      "Corte as maçãs em fatias muito finas (1-2mm) — quanto mais finas, mais crocantes ficarão.",
+      "Disponha as fatias nos tabuleiros numa camada única, sem sobreposição.",
+      "Polvilhe levemente com canela em pó.",
+      "Asse por 45 minutos. Retire do forno, vire cada fatia e asse mais 45 minutos.",
+      "Os chips vão parecer ligeiramente moles ao sair do forno mas ficam crocantes ao arrefecer.",
+      "Deixe arrefecer completamente numa grelha.",
+      "Guarde num recipiente hermético por até 5 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche"
+    ],
+    "calories": 95,
+    "prepTime": "10 min",
+    "cookTime": "90 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-91",
+    "image": "/images/recipes/chips-maca.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Cogumelos Portobello Recheados com Espinafres",
+    "ingredients": [
+      {
+        "amount": "4 unidades",
+        "name": "Cogumelos portobello grandes"
+      },
+      {
+        "amount": "3 xícaras (90g)",
+        "name": "Espinafres frescos"
+      },
+      {
+        "amount": "4 unidades",
+        "name": "Tomate seco (sem óleo)"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Pinhões"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Orégãos secos"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190°C.",
+      "Limpe os cogumelos com um pano húmido. Retire os pés e reserve.",
+      "Hidrate os tomates secos em água quente por 5 minutos. Escorra e pique.",
+      "Pique os pés dos cogumelos finamente.",
+      "Aqueça 1 colher de azeite e refogue o alho e os pés picados por 2 minutos.",
+      "Adicione os espinafres e mexa até murcharem. Junte o tomate seco e os orégãos.",
+      "Pincele os chapéus dos cogumelos com a restante colher de azeite e tempere com sal e pimenta.",
+      "Recheie cada cogumelo com a mistura de espinafres e salpique com pinhões.",
+      "Asse por 15-18 minutos até os cogumelos estarem tenros.",
+      "Sirva quentes como entrada ou lanche."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "lanche"
+    ],
+    "calories": 125,
+    "prepTime": "10 min",
+    "cookTime": "18 min",
+    "servings": 4,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-92",
+    "image": "/images/recipes/cogumelos-recheados.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Compota de Mirtilos e Chia sem Açúcar",
+    "ingredients": [
+      {
+        "amount": "2 xícaras (300g)",
+        "name": "Mirtilos frescos ou congelados"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Sementes de chia"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Sumo de limão"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Água"
+      }
+    ],
+    "steps": [
+      "Coloque os mirtilos e a água numa panela pequena em lume médio.",
+      "Cozinhe por 5-7 minutos, mexendo e amassando os mirtilos com um garfo até libertarem o sumo.",
+      "Quando começarem a soltar líquido e parte dos mirtilos se desfizerem, retire do lume.",
+      "Adicione as sementes de chia, o sumo de limão e a baunilha. Mexa bem.",
+      "Deixe arrefecer por 10 minutos — as sementes de chia vão absorver o líquido e engrossar a compota.",
+      "Transfira para um frasco de vidro esterilizado.",
+      "Conserve no frigorífico por até 10 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 30,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 8,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-93",
+    "image": "/images/recipes/compota-mirtilo-chia.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Energy Balls de Cenoura e Gengibre",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (50g)",
+        "name": "Cenoura ralada finamente"
+      },
+      {
+        "amount": "8 unidades (120g)",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "1/2 xícara (40g)",
+        "name": "Coco ralado sem açúcar"
+      },
+      {
+        "amount": "1/4 xícara (35g)",
+        "name": "Amêndoas"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Gengibre fresco ralado"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Canela em pó"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Coco ralado extra para envolver"
+      }
+    ],
+    "steps": [
+      "Coloque as tâmaras e as amêndoas no processador. Pulse até ficarem em pedaços grosseiros.",
+      "Adicione a cenoura ralada, o coco ralado, o gengibre, a canela e a baunilha.",
+      "Processe até a mistura estar bem combinada e aderir quando pressionada.",
+      "Se estiver muito seca, adicione 1 colher de chá de água.",
+      "Com as mãos húmidas, forme 12 bolinhas compactas.",
+      "Passe cada bolinha pelo coco ralado extra.",
+      "Leve ao frigorífico por 30 minutos para firmar.",
+      "Conserve no frigorífico por até 7 dias ou no congelador por 1 mês."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche",
+      "meal-prep"
+    ],
+    "calories": 85,
+    "prepTime": "10 min",
+    "cookTime": "0 min (30 min no frigorífico)",
+    "servings": 12,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-94",
+    "image": "/images/recipes/energy-balls-cenoura.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Muffins de Ovo com Brócolos e Pimento",
+    "ingredients": [
+      {
+        "amount": "6 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1 xícara (90g)",
+        "name": "Brócolos em floretes pequenos"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Pimento vermelho picado"
+      },
+      {
+        "amount": "1/4 unidade",
+        "name": "Cebola picada finamente"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Orégãos secos"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C. Unte uma forma de 6 muffins com azeite.",
+      "Cozinhe os brócolos a vapor por 2-3 minutos até ficarem al dente. Pique em pedaços pequenos.",
+      "Numa tigela grande, bata os ovos com orégãos, sal e pimenta.",
+      "Distribua os brócolos picados, o pimento e a cebola igualmente pelas 6 cavidades.",
+      "Verta o ovo batido sobre os legumes, enchendo cada cavidade até 3/4.",
+      "Leve ao forno por 18-20 minutos até os ovos estarem firmes e ligeiramente dourados.",
+      "Deixe arrefecer 3 minutos na forma antes de desenformar.",
+      "Conservam-se no frigorífico por até 4 dias. Reaqueça 30 segundos no micro-ondas."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço",
+      "meal-prep"
+    ],
+    "calories": 110,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 6,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-95",
+    "image": "/images/recipes/muffins-ovo-brocolis.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Trufas de Abacate e Cacau",
+    "ingredients": [
+      {
+        "amount": "1 unidade",
+        "name": "Abacate maduro"
+      },
+      {
+        "amount": "1/2 xícara (50g)",
+        "name": "Cacau em pó puro (sem açúcar)"
+      },
+      {
+        "amount": "6 unidades (90g)",
+        "name": "Tâmaras medjool sem caroço"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Óleo de coco derretido"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Sal"
+      },
+      {
+        "amount": "3 colheres de sopa",
+        "name": "Cacau em pó extra para envolver"
+      }
+    ],
+    "steps": [
+      "Hidrate as tâmaras em água quente por 5 minutos. Escorra e triture no processador até formar pasta.",
+      "Adicione a polpa do abacate, o cacau, o óleo de coco, a baunilha e o sal.",
+      "Processe até obter uma mistura completamente lisa e homogénea.",
+      "Transfira para um recipiente e leve ao frigorífico por 30 minutos para firmar.",
+      "Com as mãos ligeiramente húmidas, forme 12 bolas pequenas.",
+      "Passe cada trufa pelo cacau em pó extra, cobrindo uniformemente.",
+      "Disponha num tabuleiro com papel vegetal e refrigere mais 30 minutos.",
+      "Conserve no frigorífico em recipiente hermético por até 5 dias."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 75,
+    "prepTime": "15 min",
+    "cookTime": "0 min (1h no frigorífico)",
+    "servings": 12,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-96",
+    "image": "/images/recipes/trufas-abacate-cacau.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Galettes de Trigo Sarraceno com Cogumelos",
+    "ingredients": [
+      {
+        "amount": "1/2 xícara (60g)",
+        "name": "Farinha de trigo sarraceno"
+      },
+      {
+        "amount": "1/2 xícara (120ml)",
+        "name": "Água"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Ovo"
+      },
+      {
+        "amount": "200 g",
+        "name": "Cogumelos castanhos fatiados"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "Alho picado"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Salsa fresca picada"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      }
+    ],
+    "steps": [
+      "Misture a farinha de trigo sarraceno com a água, o ovo e uma pitada de sal até obter massa lisa.",
+      "Deixe a massa descansar 10 minutos.",
+      "Aqueça 1 colher de azeite e salteie os cogumelos em lume alto por 4-5 minutos até dourarem.",
+      "Adicione o alho, sal, pimenta e salsa. Cozinhe mais 1 minuto. Reserve.",
+      "Aqueça uma frigideira antiaderente em lume médio com um pouco de azeite.",
+      "Verta metade da massa e rode a frigideira para cobrir toda a superfície.",
+      "Cozinhe por 2 minutos até as bordas se soltarem e a base dourar.",
+      "Coloque metade dos cogumelos no centro, dobre os lados formando um quadrado.",
+      "Repita para a segunda galette. Sirva quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 240,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-97",
+    "image": "/images/recipes/crepes-sarraceno-cogumelos.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Picolés de Frutos Vermelhos e Leite de Coco",
+    "ingredients": [
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "1 xícara (150g)",
+        "name": "Morangos"
+      },
+      {
+        "amount": "1/2 xícara (65g)",
+        "name": "Framboesas"
+      },
+      {
+        "amount": "1/2 xícara (75g)",
+        "name": "Mirtilos"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 unidade pequena",
+        "name": "Banana madura"
+      }
+    ],
+    "steps": [
+      "No liquidificador, bata o leite de coco, metade dos morangos, a banana e a baunilha até ficar liso.",
+      "Corte os morangos restantes, framboesas e mirtilos em pedaços pequenos.",
+      "Distribua os pedaços de fruta pelos moldes de picolé, enchendo até 1/3.",
+      "Verta a mistura de leite de coco por cima até encher cada molde.",
+      "Com um palito, mexa gentilmente para distribuir os frutos.",
+      "Insira os palitos nos moldes.",
+      "Congele por pelo menos 4 horas ou durante a noite.",
+      "Para desmoldar, passe os moldes brevemente por água morna."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "sem forno",
+      "lanche"
+    ],
+    "calories": 85,
+    "prepTime": "10 min",
+    "cookTime": "0 min (4h congelação)",
+    "servings": 6,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-98",
+    "image": "/images/recipes/picoletas-frutos-vermelhos.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Hash de Batata-Doce com Ovos Estrelados",
+    "ingredients": [
+      {
+        "amount": "2 unidades médias (300g)",
+        "name": "Batata-doce em cubos pequenos"
+      },
+      {
+        "amount": "2 unidades",
+        "name": "Ovos"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Pimento vermelho picado"
+      },
+      {
+        "amount": "1/2 unidade",
+        "name": "Cebola picada"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite extra-virgem"
+      },
+      {
+        "amount": "1 colher de chá",
+        "name": "Pimentão doce (páprica)"
+      },
+      {
+        "amount": "1/2 colher de chá",
+        "name": "Cominhos em pó"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "1 colher de sopa",
+        "name": "Salsa fresca"
+      }
+    ],
+    "steps": [
+      "Aqueça o azeite numa frigideira grande (preferencialmente de ferro) em lume médio-alto.",
+      "Adicione os cubos de batata-doce numa camada única. Cozinhe sem mexer por 4 minutos até dourarem por baixo.",
+      "Mexa e cozinhe mais 4 minutos. Tempere com pimentão, cominhos, sal e pimenta.",
+      "Adicione a cebola e o pimento picados. Cozinhe mais 5 minutos até tudo estar tenro e dourado.",
+      "Abra dois espaços no hash e parta um ovo em cada espaço.",
+      "Tape a frigideira e cozinhe em lume médio-baixo por 3-4 minutos até as claras estarem firmes e as gemas ainda cremosas.",
+      "Salpique com salsa fresca e sirva diretamente da frigideira."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "pequeno-almoço"
+    ],
+    "calories": 320,
+    "prepTime": "10 min",
+    "cookTime": "18 min",
+    "servings": 2,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-99",
+    "image": "/images/recipes/hash-batata-doce.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Matcha Latte com Leite de Coco",
+    "ingredients": [
+      {
+        "amount": "1 colher de chá",
+        "name": "Matcha em pó (qualidade culinária)"
+      },
+      {
+        "amount": "1 xícara (240ml)",
+        "name": "Leite de coco sem açúcar"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Água quente (não fervente, ~80°C)"
+      },
+      {
+        "amount": "1/4 colher de chá",
+        "name": "Essência de baunilha"
+      },
+      {
+        "amount": "1 pitada",
+        "name": "Canela em pó (opcional)"
+      }
+    ],
+    "steps": [
+      "Coloque o matcha em pó numa chávena ou tigela.",
+      "Adicione a água quente (não fervente — cerca de 80°C para não amargar).",
+      "Bata vigorosamente com um fouet de bambu (chasen) ou um mini-fouet até dissolver completamente e formar uma pasta lisa sem grumos.",
+      "Aqueça o leite de coco numa panela pequena até começar a fumegar (não ferver).",
+      "Espume o leite com um espumador de leite ou batendo vigorosamente com um fouet.",
+      "Verta o leite espumoso sobre a pasta de matcha.",
+      "Adicione a baunilha e, se desejar, uma pitada de canela.",
+      "Mexa delicadamente e saboreie quente."
+    ],
+    "tags": [
+      "sem glúten",
+      "sem lactose",
+      "sem açúcar",
+      "vegano",
+      "pequeno-almoço",
+      "rápido"
+    ],
+    "calories": 75,
+    "prepTime": "3 min",
+    "cookTime": "2 min",
+    "servings": 1,
+    "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-100",
+    "image": "/images/recipes/matcha-latte.jpg"
+  }
+]

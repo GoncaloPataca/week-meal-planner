@@ -42,7 +42,7 @@ export default function DayDetail({ date }: { date?: Date }) {
     const weekLabel = monday.toLocaleDateString(undefined, { month: 'short', day: 'numeric' })
     downloadMultipleICS(allMeals, `meals-week-${weekLabel}`)
   }
-
+  
   return (
     <section className="space-y-4 sm:space-y-6">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
@@ -79,7 +79,7 @@ export default function DayDetail({ date }: { date?: Date }) {
       </div>
       <div className="flex flex-col gap-4">
         {meals.map((m) => (
-          <MealCard key={m.id} meal={m} />
+          <MealCard key={m.id} meal={m} dateISO={iso} />
         ))}
       </div>
     </section>

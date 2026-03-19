@@ -3,11 +3,10 @@ import { Disclosure } from '@headlessui/react'
 import { useTranslation } from 'react-i18next'
 import { Meal } from '../types'
 import { downloadICS, downloadIngredientsICS } from '../utils/calendar'
-import useStore from '../store'
 
-export default function MealCard({ meal }: { meal: Meal }) {
+export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: string }) {
   const { t } = useTranslation()
-  const selectedISO = useStore((s) => s.selectedISO)
+  
   const labelColors: Record<string, string> = {
     'Morning': 'bg-amber-100 text-amber-800',
     'Lunch': 'bg-emerald-100 text-emerald-800',
@@ -22,6 +21,13 @@ export default function MealCard({ meal }: { meal: Meal }) {
         <article className="bg-white dark:bg-neutral-800 rounded-xl border border-neutral-200 dark:border-neutral-700 shadow-sm hover:shadow-md transition-all duration-200">
           <Disclosure.Button className="w-full text-left p-5 focus:outline-none focus:ring-2 focus:ring-slate-300 dark:focus:ring-slate-600 focus:ring-inset">
             <div className="flex items-start justify-between gap-3">
+              {meal.image && (
+                <img 
+                  src={meal.image} 
+                  alt={meal.title}
+                  className="w-20 h-20 object-cover rounded-lg flex-shrink-0"
+                />
+              )}
               <div className="flex-1 space-y-2">
                 <div className="flex items-center gap-2 flex-wrap">
                   <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${labelColors[meal.label] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200'}`}>
@@ -36,6 +42,20 @@ export default function MealCard({ meal }: { meal: Meal }) {
                 <h3 className="text-lg font-serif font-semibold text-neutral-900 dark:text-neutral-100 leading-snug">
                   {meal.title}
                 </h3>
+                {meal.url && (
+                  <a 
+                    href={meal.url} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-xs text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center gap-1"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    {t('meal.viewOriginal')}
+                    <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </a>
+                )}
                 {(meal.servings || meal.prep || meal.cook) && (
                   <div className="flex items-center gap-3 text-sm text-neutral-600 dark:text-neutral-400">
                     {meal.servings && <span>🍽 {meal.servings} {t('meal.servings')}</span>}
@@ -104,7 +124,7 @@ export default function MealCard({ meal }: { meal: Meal }) {
               <button
                 onClick={(e) => {
                   e.stopPropagation()
-                  downloadICS(meal, selectedISO)
+                  downloadICS(meal, dateISO)
                 }}
                 className="flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500"
               >
@@ -118,7 +138,7 @@ export default function MealCard({ meal }: { meal: Meal }) {
                 <button
                   onClick={(e) => {
                     e.stopPropagation()
-                    downloadIngredientsICS(meal, selectedISO)
+                    downloadIngredientsICS(meal, dateISO)
                   }}
                   className="flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500"
                 >

@@ -1,445 +1,845 @@
 {
   "2026-03-16": [
     {
-      "id": "toast-1",
+      "id": "breakfast-11",
       "label": "Morning",
-      "title": "Avocado Toast",
       "time": "08:00",
+      "title": "Smoothie Cremoso de Abacate e Cacau",
       "servings": 1,
-      "prep": "5m",
-      "cook": "3m",
-      "tags": ["Vegetarian"],
+      "prep": "5 min",
+      "cook": "0 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "vegano",
+        "pequeno-almoço",
+        "rápido"
+      ],
       "ingredients": [
-        { "amount": "2 slices", "name": "sourdough bread" },
-        { "amount": "1", "name": "ripe avocado" },
-        { "amount": "1 tsp", "name": "lemon juice" },
-        { "amount": "pinch", "name": "salt & pepper" }
+        {
+          "amount": "1/2 unidade",
+          "name": "Abacate maduro"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Banana congelada"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Cacau em pó puro (sem açúcar)"
+        },
+        {
+          "amount": "1 xícara (240ml)",
+          "name": "Leite de amêndoa sem açúcar"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sementes de chia"
+        },
+        {
+          "amount": "3-4 cubos",
+          "name": "Gelo"
+        }
       ],
       "steps": [
-        "Toast bread until golden.",
-        "Mash avocado with lemon juice, salt, and pepper.",
-        "Spread on toast and serve."
-      ]
-    },
-    {
-      "id": "salad-1",
-      "label": "Lunch",
-      "title": "Greek Salad",
-      "time": "12:30",
-      "servings": 2,
-      "prep": "10m",
-      "cook": "0m",
-      "tags": ["Vegetarian", "Gluten-Free"],
-      "ingredients": [
-        { "amount": "2 cups", "name": "romaine lettuce" },
-        { "amount": "1", "name": "cucumber" },
-        { "amount": "1 cup", "name": "cherry tomatoes" },
-        { "amount": "1/2 cup", "name": "feta cheese" },
-        { "amount": "1/4 cup", "name": "olives" },
-        { "amount": "2 tbsp", "name": "olive oil" }
+        "Coloque o abacate, a banana congelada, o cacau em pó e o leite de amêndoa no liquidificador.",
+        "Adicione as sementes de chia e o gelo.",
+        "Bata em velocidade alta por 40-50 segundos até ficar completamente cremoso.",
+        "A consistência deve ser espessa como um batido.",
+        "Sirva num copo alto.",
+        "Consuma imediatamente para máximo frescor."
       ],
-      "steps": [
-        "Chop lettuce, cucumber, and halve tomatoes.",
-        "Combine in a bowl with feta and olives.",
-        "Drizzle with olive oil and toss."
-      ]
-    },
-    {
-      "id": "pasta-1",
-      "label": "Dinner",
-      "title": "Spaghetti Aglio e Olio",
-      "time": "19:00",
-      "servings": 2,
-      "prep": "5m",
-      "cook": "12m",
-      "tags": ["Vegan"],
-      "ingredients": [
-        { "amount": "200g", "name": "spaghetti" },
-        { "amount": "4 cloves", "name": "garlic" },
-        { "amount": "1/4 cup", "name": "olive oil" },
-        { "amount": "1 tsp", "name": "red pepper flakes" }
-      ],
-      "steps": [
-        "Cook spaghetti according to package instructions.",
-        "Sauté sliced garlic in olive oil until golden.",
-        "Toss pasta with garlic oil and red pepper flakes."
-      ]
+      "notes": "Pequeno-almoço do Chef António Duarte • 345 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#smoothie-cremoso-de-abacate-e-cacau",
+      "image": "/images/recipes/smoothie-abacate-cacau.jpg"
     }
   ],
   "2026-03-17": [
     {
-      "id": "oats-1",
+      "id": "breakfast-7",
       "label": "Morning",
-      "title": "Berry Overnight Oats",
       "time": "08:00",
-      "servings": 2,
-      "prep": "5m",
-      "cook": "0m",
-      "tags": ["Vegetarian"],
+      "title": "Pudim de Chia com Manga Fresca",
+      "servings": 1,
+      "prep": "5 min",
+      "cook": "0 min (repouso de 4-6h)",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "sem forno",
+        "pequeno-almoço"
+      ],
       "ingredients": [
-        { "amount": "1 cup", "name": "rolled oats" },
-        { "amount": "1 cup", "name": "milk" },
-        { "amount": "1/2 cup", "name": "Greek yoghurt" },
-        { "amount": "1 tbsp", "name": "honey" },
-        { "amount": "1/2 cup", "name": "mixed berries" }
+        {
+          "amount": "3 colheres de sopa (30g)",
+          "name": "Sementes de chia"
+        },
+        {
+          "amount": "3/4 xícara (180ml)",
+          "name": "Leite de coco sem açúcar"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Manga madura"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Essência de baunilha"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Coco ralado sem açúcar"
+        },
+        {
+          "amount": "3 folhas",
+          "name": "Hortelã fresca (decoração)"
+        }
       ],
       "steps": [
-        "Combine oats, milk, yoghurt, and honey in a jar.",
-        "Refrigerate overnight.",
-        "Top with berries before serving."
+        "Num frasco de vidro, misture as sementes de chia com o leite de coco e a essência de baunilha.",
+        "Mexa vigorosamente por 30 segundos para evitar grumos.",
+        "Tampe e leve ao frigorífico por no mínimo 4 horas (idealmente durante a noite).",
+        "Após o tempo de repouso, mexa novamente — o pudim deve ter consistência firme e cremosa.",
+        "Descasque a manga e corte em cubos pequenos.",
+        "Distribua metade da manga no fundo de uma taça ou copo.",
+        "Coloque o pudim de chia por cima e decore com os cubos restantes de manga, coco ralado e folhas de hortelã.",
+        "Consuma frio."
       ],
-      "notes": "Prepare the night before — grab and go."
-    },
-    {
-      "id": "rice-1",
-      "label": "Evening",
-      "title": "Veggie Fried Rice",
-      "time": "20:00",
-      "servings": 2,
-      "prep": "10m",
-      "cook": "12m",
-      "tags": ["Vegan"],
-      "ingredients": [
-        { "amount": "2 cups", "name": "cooked rice" },
-        { "amount": "1 cup", "name": "mixed vegetables" },
-        { "amount": "2 tbsp", "name": "soy sauce" }
-      ],
-      "steps": ["Sauté vegetables.", "Add rice and soy sauce, stir fry until heated."]
+      "notes": "Pequeno-almoço do Chef António Duarte • 245 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#pudim-de-chia-com-manga-fresca",
+      "image": "/images/recipes/pudim-chia-manga.jpg"
     }
   ],
   "2026-03-18": [
     {
-      "id": "smoothie-1",
+      "id": "breakfast-1",
       "label": "Morning",
-      "title": "Green Smoothie",
-      "time": "07:30",
-      "servings": 1,
-      "prep": "5m",
-      "cook": "0m",
-      "tags": ["Vegan", "Gluten-Free"],
-      "ingredients": [
-        { "amount": "1 cup", "name": "spinach" },
-        { "amount": "1", "name": "banana" },
-        { "amount": "1/2 cup", "name": "almond milk" },
-        { "amount": "1 tbsp", "name": "chia seeds" }
-      ],
-      "steps": [
-        "Blend all ingredients until smooth.",
-        "Pour into a glass and serve immediately."
-      ]
-    },
-    {
-      "id": "wrap-1",
-      "label": "Lunch",
-      "title": "Hummus Veggie Wrap",
-      "time": "12:30",
+      "time": "08:00",
+      "title": "Panquecas de Banana e Aveia sem Glúten",
       "servings": 2,
-      "prep": "8m",
-      "cook": "0m",
-      "tags": ["Vegan"],
+      "prep": "5 min",
+      "cook": "10 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "rápido",
+        "pequeno-almoço"
+      ],
       "ingredients": [
-        { "amount": "2", "name": "whole wheat tortillas" },
-        { "amount": "1/2 cup", "name": "hummus" },
-        { "amount": "1 cup", "name": "mixed greens" },
-        { "amount": "1/2 cup", "name": "shredded carrots" },
-        { "amount": "1/4 cup", "name": "cucumber slices" }
+        {
+          "amount": "2 unidades",
+          "name": "Banana madura"
+        },
+        {
+          "amount": "1 xícara (80g)",
+          "name": "Aveia em flocos (certificada sem glúten)"
+        },
+        {
+          "amount": "2 unidades",
+          "name": "Ovos"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Canela em pó"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Fermento em pó"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Óleo de coco"
+        },
+        {
+          "amount": "1 pitada",
+          "name": "Sal"
+        }
       ],
       "steps": [
-        "Spread hummus on tortillas.",
-        "Add greens, carrots, and cucumber.",
-        "Roll tightly and slice in half."
-      ]
+        "Esmague as bananas num recipiente com um garfo.",
+        "Adicione os ovos e bata bem.",
+        "Junte a aveia, a canela, o fermento e o sal. Misture até obter uma massa homogénea.",
+        "Aqueça uma frigideira antiaderente em lume médio com um pouco de óleo de coco.",
+        "Despeje pequenas porções de massa (cerca de 1/4 xícara) na frigideira.",
+        "Cozinhe por 2-3 minutos de cada lado até dourar.",
+        "Sirva quente com frutos vermelhos ou manteiga de amêndoa."
+      ],
+      "notes": "Pequeno-almoço do Chef António Duarte • 375 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#panquecas-de-banana-e-aveia-sem-gluten",
+      "image": "/images/recipes/panquecas-banana-aveia.jpg"
     }
   ],
   "2026-03-19": [
     {
-      "id": "pancakes-1",
+      "id": "breakfast-2",
       "label": "Morning",
-      "title": "Fluffy Pancakes",
-      "time": "08:30",
-      "servings": 2,
-      "prep": "10m",
-      "cook": "15m",
-      "tags": ["Vegetarian"],
+      "time": "08:00",
+      "title": "Overnight Oats de Frutos Vermelhos",
+      "servings": 1,
+      "prep": "5 min",
+      "cook": "0 min (repouso de 6-8h)",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "sem forno",
+        "pequeno-almoço"
+      ],
       "ingredients": [
-        { "amount": "1 cup", "name": "flour" },
-        { "amount": "1 tbsp", "name": "sugar" },
-        { "amount": "1 tsp", "name": "baking powder" },
-        { "amount": "1", "name": "egg" },
-        { "amount": "3/4 cup", "name": "milk" }
+        {
+          "amount": "1/2 xícara (40g)",
+          "name": "Aveia em flocos (certificada sem glúten)"
+        },
+        {
+          "amount": "3/4 xícara (180ml)",
+          "name": "Leite de amêndoa sem açúcar"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sementes de chia"
+        },
+        {
+          "amount": "5 unidades",
+          "name": "Morangos frescos"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Mirtilos"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Canela em pó"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Essência de baunilha"
+        }
       ],
       "steps": [
-        "Mix dry ingredients in a bowl.",
-        "Whisk egg and milk, then combine with dry ingredients.",
-        "Cook on a griddle until bubbles form, then flip."
-      ]
-    },
-    {
-      "id": "curry-1",
-      "label": "Dinner",
-      "title": "Chickpea Curry",
-      "time": "19:00",
-      "servings": 3,
-      "prep": "10m",
-      "cook": "20m",
-      "tags": ["Vegan", "Gluten-Free"],
-      "ingredients": [
-        { "amount": "1 can", "name": "chickpeas" },
-        { "amount": "1 can", "name": "coconut milk" },
-        { "amount": "2 tbsp", "name": "curry powder" },
-        { "amount": "1", "name": "onion" },
-        { "amount": "2 cloves", "name": "garlic" }
+        "Num frasco de vidro ou recipiente com tampa, coloque a aveia e as sementes de chia.",
+        "Adicione o leite de amêndoa, a canela e a essência de baunilha.",
+        "Mexa bem com uma colher para combinar todos os ingredientes.",
+        "Corte os morangos em fatias finas e coloque metade dentro da mistura.",
+        "Tampe o frasco e leve ao frigorífico por no mínimo 6 horas (idealmente durante a noite).",
+        "Pela manhã, mexa a mistura. Se estiver muito espessa, adicione um pouco mais de leite.",
+        "Decore com os morangos e mirtilos restantes por cima.",
+        "Consuma frio, diretamente do frasco."
       ],
-      "steps": [
-        "Sauté onion and garlic until soft.",
-        "Add curry powder and cook for 1 minute.",
-        "Add chickpeas and coconut milk, simmer for 15 minutes."
-      ]
+      "notes": "Pequeno-almoço do Chef António Duarte • 220 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#overnight-oats-de-frutos-vermelhos",
+      "image": "/images/recipes/overnight-oats.jpg"
     }
   ],
   "2026-03-20": [
     {
-      "id": "eggs-1",
+      "id": "breakfast-16",
       "label": "Morning",
-      "title": "Scrambled Eggs & Toast",
       "time": "08:00",
+      "title": "Açaí Bowl Energizante com Granola",
       "servings": 1,
-      "prep": "3m",
-      "cook": "5m",
-      "tags": ["Vegetarian"],
+      "prep": "5 min",
+      "cook": "0 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "vegano",
+        "pequeno-almoço"
+      ],
       "ingredients": [
-        { "amount": "2", "name": "eggs" },
-        { "amount": "1 tbsp", "name": "butter" },
-        { "amount": "2 slices", "name": "bread" },
-        { "amount": "pinch", "name": "salt & pepper" }
+        {
+          "amount": "1 pacote (100g)",
+          "name": "Polpa de açaí congelada (sem açúcar)"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Banana congelada"
+        },
+        {
+          "amount": "1/4 xícara (60ml)",
+          "name": "Leite de coco sem açúcar"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Banana fresca fatiada"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Granola caseira sem glúten"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Coco em lascas sem açúcar"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Sementes de chia"
+        }
       ],
       "steps": [
-        "Beat eggs with salt and pepper.",
-        "Melt butter in a pan and scramble eggs.",
-        "Toast bread and serve alongside."
-      ]
-    },
-    {
-      "id": "soup-1",
-      "label": "Lunch",
-      "title": "Tomato Basil Soup",
-      "time": "12:30",
-      "servings": 2,
-      "prep": "5m",
-      "cook": "20m",
-      "tags": ["Vegan", "Gluten-Free"],
-      "ingredients": [
-        { "amount": "4", "name": "tomatoes" },
-        { "amount": "1/2 cup", "name": "vegetable broth" },
-        { "amount": "1/4 cup", "name": "fresh basil" },
-        { "amount": "1 clove", "name": "garlic" }
+        "Retire a polpa de açaí do congelador e parta-a em pedaços menores.",
+        "Coloque a polpa de açaí, a banana congelada e o leite de coco no liquidificador.",
+        "Bata em velocidade alta por 30-40 segundos. A consistência deve ser muito espessa, como um gelado macio.",
+        "Se necessário, use a espátula para empurrar os ingredientes. Adicione leite aos poucos se estiver muito espesso.",
+        "Transfira para uma tigela funda.",
+        "Decore em fileiras: fatias de banana, granola, lascas de coco e sementes de chia.",
+        "Consuma imediatamente — o açaí derrete rápido."
       ],
-      "steps": [
-        "Sauté garlic until fragrant.",
-        "Add chopped tomatoes and broth, simmer for 15 minutes.",
-        "Blend until smooth, stir in basil."
-      ]
+      "notes": "Pequeno-almoço do Chef António Duarte • 320 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#acai-bowl-energizante-com-granola",
+      "image": "/images/recipes/acai-bowl.jpg"
     }
   ],
   "2026-03-21": [
     {
-      "id": "granola-1",
+      "id": "breakfast-4",
       "label": "Morning",
-      "title": "Yogurt Parfait",
       "time": "08:00",
+      "title": "Smoothie Bowl Verde Energizante",
       "servings": 1,
-      "prep": "5m",
-      "cook": "0m",
-      "tags": ["Vegetarian"],
+      "prep": "5 min",
+      "cook": "0 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "vegano",
+        "pequeno-almoço",
+        "rápido"
+      ],
       "ingredients": [
-        { "amount": "1 cup", "name": "Greek yogurt" },
-        { "amount": "1/4 cup", "name": "granola" },
-        { "amount": "1/4 cup", "name": "berries" },
-        { "amount": "1 tsp", "name": "honey" }
+        {
+          "amount": "2 xícaras (60g)",
+          "name": "Espinafres frescos"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Banana congelada"
+        },
+        {
+          "amount": "1/4 unidade",
+          "name": "Abacate maduro"
+        },
+        {
+          "amount": "1/2 xícara (120ml)",
+          "name": "Leite de coco sem açúcar"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sementes de cânhamo"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sementes de abóbora"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Coco ralado sem açúcar"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Kiwi fatiado"
+        }
       ],
       "steps": [
-        "Layer yogurt, granola, and berries in a glass.",
-        "Drizzle with honey and serve."
-      ]
-    },
-    {
-      "id": "tacos-1",
-      "label": "Dinner",
-      "title": "Black Bean Tacos",
-      "time": "19:00",
-      "servings": 2,
-      "prep": "10m",
-      "cook": "10m",
-      "tags": ["Vegan"],
-      "ingredients": [
-        { "amount": "1 can", "name": "black beans" },
-        { "amount": "4", "name": "small tortillas" },
-        { "amount": "1/2 cup", "name": "salsa" },
-        { "amount": "1/4 cup", "name": "avocado" },
-        { "amount": "1 tsp", "name": "cumin" }
+        "Coloque os espinafres, a banana congelada, o abacate e o leite de coco no liquidificador.",
+        "Bata em velocidade alta por 30-40 segundos até ficar completamente liso e cremoso.",
+        "A consistência deve ser espessa, como um gelado macio.",
+        "Despeje numa tigela.",
+        "Decore com sementes de cânhamo, sementes de abóbora, coco ralado e fatias de kiwi.",
+        "Consuma imediatamente."
       ],
-      "steps": [
-        "Heat black beans with cumin.",
-        "Warm tortillas in a pan.",
-        "Fill with beans, top with salsa and avocado."
-      ]
+      "notes": "Pequeno-almoço do Chef António Duarte • 395 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#smoothie-bowl-verde-energizante",
+      "image": "/images/recipes/smoothie-bowl-verde.jpg"
     }
   ],
   "2026-03-22": [
     {
-      "id": "french-1",
+      "id": "breakfast-15",
       "label": "Morning",
-      "title": "French Toast",
-      "time": "09:00",
-      "servings": 2,
-      "prep": "5m",
-      "cook": "10m",
-      "tags": ["Vegetarian"],
+      "time": "08:00",
+      "title": "Papas de Aveia com Maçã Caramelizada e Nozes",
+      "servings": 1,
+      "prep": "5 min",
+      "cook": "10 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "pequeno-almoço"
+      ],
       "ingredients": [
-        { "amount": "4 slices", "name": "bread" },
-        { "amount": "2", "name": "eggs" },
-        { "amount": "1/4 cup", "name": "milk" },
-        { "amount": "1 tsp", "name": "cinnamon" }
+        {
+          "amount": "1/2 xícara (40g)",
+          "name": "Aveia em flocos (certificada sem glúten)"
+        },
+        {
+          "amount": "1 xícara (240ml)",
+          "name": "Leite de amêndoa sem açúcar"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Maçã verde"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Nozes partidas"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Canela em pó"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Óleo de coco"
+        },
+        {
+          "amount": "1 pitada",
+          "name": "Sal"
+        }
       ],
       "steps": [
-        "Whisk eggs, milk, and cinnamon.",
-        "Dip bread slices in mixture.",
-        "Cook on griddle until golden on both sides."
-      ]
-    },
-    {
-      "id": "stir-1",
-      "label": "Dinner",
-      "title": "Tofu Stir-Fry",
-      "time": "19:00",
-      "servings": 2,
-      "prep": "10m",
-      "cook": "12m",
-      "tags": ["Vegan"],
-      "ingredients": [
-        { "amount": "1 block", "name": "firm tofu" },
-        { "amount": "2 cups", "name": "mixed vegetables" },
-        { "amount": "2 tbsp", "name": "soy sauce" },
-        { "amount": "1 tbsp", "name": "sesame oil" }
+        "Numa panela pequena, combine a aveia, o leite de amêndoa, meia colher de chá de canela e o sal.",
+        "Cozinhe em lume médio-baixo, mexendo ocasionalmente, por 5-7 minutos até engrossar.",
+        "Enquanto isso, corte a maçã em cubos pequenos.",
+        "Numa frigideira pequena, derreta o óleo de coco e adicione os cubos de maçã.",
+        "Polvilhe com a restante canela e cozinhe por 3-4 minutos até a maçã amolecer.",
+        "Sirva as papas numa tigela, cubra com a maçã caramelizada e as nozes partidas.",
+        "Consuma quente."
       ],
-      "steps": [
-        "Press and cube tofu.",
-        "Stir-fry tofu until golden, then set aside.",
-        "Stir-fry vegetables, add tofu back, and toss with soy sauce."
-      ]
-    },
-    {
-      "id": "brownies-1",
-      "label": "Dessert",
-      "title": "Fudgy Brownies",
-      "time": "15:00",
-      "servings": 8,
-      "prep": "15m",
-      "cook": "25m",
-      "tags": ["Dessert", "Vegetarian"],
-      "ingredients": [
-        { "amount": "1/2 cup", "name": "butter" },
-        { "amount": "1 cup", "name": "sugar" },
-        { "amount": "2", "name": "eggs" },
-        { "amount": "1/3 cup", "name": "cocoa powder" },
-        { "amount": "1/2 cup", "name": "flour" }
-      ],
-      "steps": [
-        "Melt butter and mix with sugar.",
-        "Beat in eggs, then add cocoa and flour.",
-        "Bake at 350°F for 25 minutes."
-      ],
-      "notes": "Let cool before cutting into squares."
+      "notes": "Pequeno-almoço do Chef António Duarte • 310 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#papas-de-aveia-com-maca-caramelizada-e-nozes",
+      "image": "/images/recipes/papas-aveia-maca.jpg"
     }
   ],
   "2026-03-23": [
     {
-      "id": "bagel-1",
+      "id": "breakfast-4",
       "label": "Morning",
-      "title": "Cream Cheese Bagel",
       "time": "08:00",
+      "title": "Smoothie Bowl Verde Energizante",
       "servings": 1,
-      "prep": "3m",
-      "cook": "2m",
-      "tags": ["Vegetarian"],
+      "prep": "5 min",
+      "cook": "0 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "vegano",
+        "pequeno-almoço",
+        "rápido"
+      ],
       "ingredients": [
-        { "amount": "1", "name": "bagel" },
-        { "amount": "2 tbsp", "name": "cream cheese" },
-        { "amount": "2 slices", "name": "tomato" }
+        {
+          "amount": "2 xícaras (60g)",
+          "name": "Espinafres frescos"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Banana congelada"
+        },
+        {
+          "amount": "1/4 unidade",
+          "name": "Abacate maduro"
+        },
+        {
+          "amount": "1/2 xícara (120ml)",
+          "name": "Leite de coco sem açúcar"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sementes de cânhamo"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sementes de abóbora"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Coco ralado sem açúcar"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Kiwi fatiado"
+        }
       ],
       "steps": [
-        "Toast bagel until golden.",
-        "Spread cream cheese on both halves.",
-        "Top with tomato slices."
-      ]
+        "Coloque os espinafres, a banana congelada, o abacate e o leite de coco no liquidificador.",
+        "Bata em velocidade alta por 30-40 segundos até ficar completamente liso e cremoso.",
+        "A consistência deve ser espessa, como um gelado macio.",
+        "Despeje numa tigela.",
+        "Decore com sementes de cânhamo, sementes de abóbora, coco ralado e fatias de kiwi.",
+        "Consuma imediatamente."
+      ],
+      "notes": "Pequeno-almoço do Chef António Duarte • 395 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#smoothie-bowl-verde-energizante",
+      "image": "/images/recipes/smoothie-bowl-verde.jpg"
+    }
+  ],
+  "2026-03-24": [
+    {
+      "id": "breakfast-12",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Tapioca Recheada com Ovo e Espinafres",
+      "servings": 1,
+      "prep": "5 min",
+      "cook": "8 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "rápido",
+        "pequeno-almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "3 colheres de sopa (45g)",
+          "name": "Goma de tapioca hidratada"
+        },
+        {
+          "amount": "2 unidades",
+          "name": "Ovos"
+        },
+        {
+          "amount": "1 xícara (30g)",
+          "name": "Espinafres frescos"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Azeite extra-virgem"
+        },
+        {
+          "amount": "1 dente",
+          "name": "Alho picado"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Orégãos secos"
+        }
+      ],
+      "steps": [
+        "Aqueça uma frigideira antiaderente em lume médio.",
+        "Espalhe a goma de tapioca uniformemente na frigideira formando um círculo fino.",
+        "Deixe cozinhar 2-3 minutos até solidificar. Reserve.",
+        "Na mesma frigideira, aqueça o azeite e refogue o alho por 30 segundos.",
+        "Adicione os espinafres e salteie por 1-2 minutos até murchar.",
+        "Bata os ovos com sal, pimenta e orégãos. Despeje na frigideira.",
+        "Mexa suavemente por 2 minutos até os ovos ficarem cremosos.",
+        "Coloque o recheio de ovo e espinafres sobre a tapioca.",
+        "Dobre ao meio e sirva de imediato."
+      ],
+      "notes": "Pequeno-almoço do Chef António Duarte • 260 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#tapioca-recheada-com-ovo-e-espinafres",
+      "image": "/images/recipes/tapioca-ovo-espinafres.jpg"
     }
   ],
   "2026-03-25": [
     {
-      "id": "bowl-1",
-      "label": "Lunch",
-      "title": "Buddha Bowl",
-      "time": "12:30",
-      "servings": 2,
-      "prep": "15m",
-      "cook": "20m",
-      "tags": ["Vegan", "Gluten-Free"],
+      "id": "breakfast-2",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Overnight Oats de Frutos Vermelhos",
+      "servings": 1,
+      "prep": "5 min",
+      "cook": "0 min (repouso de 6-8h)",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "sem forno",
+        "pequeno-almoço"
+      ],
       "ingredients": [
-        { "amount": "1 cup", "name": "quinoa" },
-        { "amount": "1", "name": "sweet potato" },
-        { "amount": "1 cup", "name": "chickpeas" },
-        { "amount": "2 cups", "name": "kale" },
-        { "amount": "2 tbsp", "name": "tahini" }
+        {
+          "amount": "1/2 xícara (40g)",
+          "name": "Aveia em flocos (certificada sem glúten)"
+        },
+        {
+          "amount": "3/4 xícara (180ml)",
+          "name": "Leite de amêndoa sem açúcar"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sementes de chia"
+        },
+        {
+          "amount": "5 unidades",
+          "name": "Morangos frescos"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Mirtilos"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Canela em pó"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Essência de baunilha"
+        }
       ],
       "steps": [
-        "Cook quinoa according to package instructions.",
-        "Roast sweet potato cubes at 400°F for 20 minutes.",
-        "Massage kale with a bit of olive oil.",
-        "Arrange quinoa, sweet potato, chickpeas, and kale in bowls.",
-        "Drizzle with tahini dressing."
-      ]
-    },
+        "Num frasco de vidro ou recipiente com tampa, coloque a aveia e as sementes de chia.",
+        "Adicione o leite de amêndoa, a canela e a essência de baunilha.",
+        "Mexa bem com uma colher para combinar todos os ingredientes.",
+        "Corte os morangos em fatias finas e coloque metade dentro da mistura.",
+        "Tampe o frasco e leve ao frigorífico por no mínimo 6 horas (idealmente durante a noite).",
+        "Pela manhã, mexa a mistura. Se estiver muito espessa, adicione um pouco mais de leite.",
+        "Decore com os morangos e mirtilos restantes por cima.",
+        "Consuma frio, diretamente do frasco."
+      ],
+      "notes": "Pequeno-almoço do Chef António Duarte • 220 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#overnight-oats-de-frutos-vermelhos",
+      "image": "/images/recipes/overnight-oats.jpg"
+    }
+  ],
+  "2026-03-26": [
     {
-      "id": "pizza-1",
-      "label": "Dinner",
-      "title": "Margherita Pizza",
-      "time": "19:30",
-      "servings": 2,
-      "prep": "10m",
-      "cook": "15m",
-      "tags": ["Vegetarian"],
+      "id": "breakfast-15",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Papas de Aveia com Maçã Caramelizada e Nozes",
+      "servings": 1,
+      "prep": "5 min",
+      "cook": "10 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "pequeno-almoço"
+      ],
       "ingredients": [
-        { "amount": "1", "name": "pizza dough" },
-        { "amount": "1/2 cup", "name": "tomato sauce" },
-        { "amount": "1 cup", "name": "mozzarella" },
-        { "amount": "1/4 cup", "name": "fresh basil" }
+        {
+          "amount": "1/2 xícara (40g)",
+          "name": "Aveia em flocos (certificada sem glúten)"
+        },
+        {
+          "amount": "1 xícara (240ml)",
+          "name": "Leite de amêndoa sem açúcar"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Maçã verde"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Nozes partidas"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Canela em pó"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Óleo de coco"
+        },
+        {
+          "amount": "1 pitada",
+          "name": "Sal"
+        }
       ],
       "steps": [
-        "Preheat oven to 475°F.",
-        "Roll out pizza dough on a floured surface.",
-        "Spread tomato sauce and top with mozzarella.",
-        "Bake for 12-15 minutes until crust is golden.",
-        "Top with fresh basil before serving."
-      ]
+        "Numa panela pequena, combine a aveia, o leite de amêndoa, meia colher de chá de canela e o sal.",
+        "Cozinhe em lume médio-baixo, mexendo ocasionalmente, por 5-7 minutos até engrossar.",
+        "Enquanto isso, corte a maçã em cubos pequenos.",
+        "Numa frigideira pequena, derreta o óleo de coco e adicione os cubos de maçã.",
+        "Polvilhe com a restante canela e cozinhe por 3-4 minutos até a maçã amolecer.",
+        "Sirva as papas numa tigela, cubra com a maçã caramelizada e as nozes partidas.",
+        "Consuma quente."
+      ],
+      "notes": "Pequeno-almoço do Chef António Duarte • 310 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#papas-de-aveia-com-maca-caramelizada-e-nozes",
+      "image": "/images/recipes/papas-aveia-maca.jpg"
     }
   ],
   "2026-03-27": [
     {
-      "id": "muffin-1",
+      "id": "breakfast-11",
       "label": "Morning",
-      "title": "Blueberry Muffin",
-      "time": "08:30",
+      "time": "08:00",
+      "title": "Smoothie Cremoso de Abacate e Cacau",
       "servings": 1,
-      "prep": "2m",
-      "cook": "0m",
-      "tags": ["Vegetarian"],
+      "prep": "5 min",
+      "cook": "0 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "vegano",
+        "pequeno-almoço",
+        "rápido"
+      ],
       "ingredients": [
-        { "amount": "1", "name": "blueberry muffin" }
+        {
+          "amount": "1/2 unidade",
+          "name": "Abacate maduro"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Banana congelada"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Cacau em pó puro (sem açúcar)"
+        },
+        {
+          "amount": "1 xícara (240ml)",
+          "name": "Leite de amêndoa sem açúcar"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sementes de chia"
+        },
+        {
+          "amount": "3-4 cubos",
+          "name": "Gelo"
+        }
       ],
       "steps": [
-        "Warm muffin if desired.",
-        "Enjoy with coffee or tea."
-      ]
+        "Coloque o abacate, a banana congelada, o cacau em pó e o leite de amêndoa no liquidificador.",
+        "Adicione as sementes de chia e o gelo.",
+        "Bata em velocidade alta por 40-50 segundos até ficar completamente cremoso.",
+        "A consistência deve ser espessa como um batido.",
+        "Sirva num copo alto.",
+        "Consuma imediatamente para máximo frescor."
+      ],
+      "notes": "Pequeno-almoço do Chef António Duarte • 345 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#smoothie-cremoso-de-abacate-e-cacau",
+      "image": "/images/recipes/smoothie-abacate-cacau.jpg"
+    }
+  ],
+  "2026-03-28": [
+    {
+      "id": "breakfast-6",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Panquecas de Batata-Doce e Canela",
+      "servings": 2,
+      "prep": "10 min",
+      "cook": "12 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "pequeno-almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 xícara (200g)",
+          "name": "Batata-doce cozida e amassada"
+        },
+        {
+          "amount": "2 unidades",
+          "name": "Ovos"
+        },
+        {
+          "amount": "1/2 xícara (40g)",
+          "name": "Farinha de aveia (certificada sem glúten)"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Canela em pó"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Fermento em pó"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Leite de coco sem açúcar"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Óleo de coco (para a frigideira)"
+        },
+        {
+          "amount": "1 pitada",
+          "name": "Noz-moscada"
+        }
+      ],
+      "steps": [
+        "Num recipiente grande, misture a batata-doce amassada com os ovos.",
+        "Adicione a farinha de aveia, a canela, a noz-moscada e o fermento. Misture bem.",
+        "Acrescente o leite de coco aos poucos até obter uma consistência cremosa mas não líquida.",
+        "Aqueça uma frigideira antiaderente em lume médio com óleo de coco.",
+        "Despeje porções de massa (cerca de 1/4 xícara) e espalhe suavemente.",
+        "Cozinhe por 3-4 minutos até aparecerem bolhas na superfície.",
+        "Vire e cozinhe mais 2-3 minutos até dourar.",
+        "Sirva quente."
+      ],
+      "notes": "Pequeno-almoço do Chef António Duarte • 265 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#panquecas-de-batata-doce-e-canela",
+      "image": "/images/recipes/panquecas-batata-doce.jpg"
+    }
+  ],
+  "2026-03-29": [
+    {
+      "id": "breakfast-1",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Panquecas de Banana e Aveia sem Glúten",
+      "servings": 2,
+      "prep": "5 min",
+      "cook": "10 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "rápido",
+        "pequeno-almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "2 unidades",
+          "name": "Banana madura"
+        },
+        {
+          "amount": "1 xícara (80g)",
+          "name": "Aveia em flocos (certificada sem glúten)"
+        },
+        {
+          "amount": "2 unidades",
+          "name": "Ovos"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Canela em pó"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Fermento em pó"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Óleo de coco"
+        },
+        {
+          "amount": "1 pitada",
+          "name": "Sal"
+        }
+      ],
+      "steps": [
+        "Esmague as bananas num recipiente com um garfo.",
+        "Adicione os ovos e bata bem.",
+        "Junte a aveia, a canela, o fermento e o sal. Misture até obter uma massa homogénea.",
+        "Aqueça uma frigideira antiaderente em lume médio com um pouco de óleo de coco.",
+        "Despeje pequenas porções de massa (cerca de 1/4 xícara) na frigideira.",
+        "Cozinhe por 2-3 minutos de cada lado até dourar.",
+        "Sirva quente com frutos vermelhos ou manteiga de amêndoa."
+      ],
+      "notes": "Pequeno-almoço do Chef António Duarte • 375 calorias por porção",
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#panquecas-de-banana-e-aveia-sem-gluten",
+      "image": "/images/recipes/panquecas-banana-aveia.jpg"
     }
   ]
 }
