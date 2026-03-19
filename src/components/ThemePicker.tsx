@@ -1,9 +1,15 @@
 import React, { useEffect, useRef, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { useTheme } from 'next-themes'
 import { themes, DEFAULT_THEME_ID, PALETTE_STORAGE_KEY, applyTheme } from '../themes'
 import NavButton from './NavButton'
 
+/** Convert 'warm-peach' → 'palette.warmPeach' */
+const tKey = (id: string) =>
+  'palette.' + id.replace(/-([a-z])/g, (_, c: string) => c.toUpperCase())
+
 export default function ThemePicker() {
+  const { t } = useTranslation()
   const [open, setOpen] = useState(false)
   // Lazy-init from localStorage so we never start on the wrong palette
   const [activeId, setActiveId] = useState<string>(() => {
@@ -43,8 +49,8 @@ export default function ThemePicker() {
       <NavButton
         variant="icon"
         onClick={() => setOpen(v => !v)}
-        aria-label="Choose colour palette"
-        title="Colour palette"
+        aria-label={t('palette.label')}
+        title={t('palette.label')}
       >
         {/* Painter's palette icon */}
         <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round">
@@ -66,7 +72,7 @@ export default function ThemePicker() {
             className="px-3 pt-3 pb-1 text-xs font-semibold uppercase tracking-wider"
             style={{ color: 'var(--muted)' }}
           >
-            Colour palette
+            {t('palette.label')}
           </p>
 
           <ul className="px-2 pb-2 space-y-0.5">
@@ -107,7 +113,7 @@ export default function ThemePicker() {
                       className="flex-1 text-sm font-medium"
                       style={{ color: 'var(--text)' }}
                     >
-                      {theme.name}
+                      {t(tKey(theme.id))}
                     </span>
 
                     {isActive && (

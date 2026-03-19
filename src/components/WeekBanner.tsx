@@ -123,7 +123,7 @@ export default function WeekBanner(_: Props): JSX.Element {
                   focus:outline-none focus-visible:outline-none
                 `}
               >
-                <div className="text-[0.6rem] sm:text-xs font-semibold muted-themed uppercase tracking-wide">
+                <div className="text-[0.6rem] sm:text-xs font-semibold secondary-themed uppercase tracking-wide">
                   {d.label}
                 </div>
                 {isToday && (
@@ -143,7 +143,7 @@ export default function WeekBanner(_: Props): JSX.Element {
                 <div className="text-lg sm:text-2xl font-bold heading-themed">
                   {d.dayNumber}
                 </div>
-                <div className="hidden sm:block text-xs muted-themed font-medium">
+                <div className="hidden sm:block text-xs secondary-themed font-medium">
                   {meals.length} {meals.length === 1 ? t('meal.singular') : t('meal.plural')}
                 </div>
               </Tab>

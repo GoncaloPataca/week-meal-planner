@@ -21,7 +21,11 @@ export default function Navbar() {
   return (
     <nav
       className="backdrop-blur-sm border-b sticky top-0 z-50 transition-colors duration-300"
-      style={{ backgroundColor: 'var(--surface)', borderColor: 'var(--border)' }}
+      style={{
+        backgroundColor: 'var(--surface)',
+        borderColor: 'var(--border)',
+        paddingTop: 'env(safe-area-inset-top)',
+      }}
     >
       <div className="max-w-4xl mx-auto px-3 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-14 sm:h-16">

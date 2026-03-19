@@ -6,6 +6,16 @@ import { downloadICS, downloadIngredientsICS } from '../utils/calendar'
 
 export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: string }) {
   const { t } = useTranslation()
+
+  // Resolve image paths relative to the deployment base URL.
+  // Data stores absolute-style paths like /images/recipes/foo.jpg.
+  // import.meta.env.BASE_URL is './' in production (vite.config base: './'),
+  // so this converts /images/... → ./images/... for any deploy sub-path.
+  const resolveImage = (path: string) => {
+    if (!path) return path
+    const base = import.meta.env.BASE_URL.replace(/\/$/, '') // strip trailing slash
+    return path.startsWith('/') ? `${base}${path}` : path
+  }
   
   const labelColors: Record<string, string> = {
     'Morning': 'bg-amber-100 text-amber-800',
@@ -26,14 +36,14 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
             <div className="flex items-start justify-between gap-3">
               {meal.image && (
                 <img 
-                  src={meal.image} 
+                  src={resolveImage(meal.image)}
                   alt={meal.title}
                   className="w-20 h-20 object-cover rounded-lg flex-shrink-0"
                 />
               )}
               <div className="flex-1 space-y-2">
                 <div className="flex items-center gap-2 flex-wrap">
-                  <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${labelColors[meal.label] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200'}`}>
+                  <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${labelColors[meal.label] || 'tag-themed'}`}>
                     {meal.label}
                   </span>
                   {meal.tags && meal.tags.map((tag) => (
@@ -60,7 +70,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                   </a>
                 )}
                 {(meal.servings || meal.prep || meal.cook) && (
-                  <div className="flex items-center gap-3 text-sm muted-themed">
+                  <div className="flex items-center gap-3 text-sm secondary-themed">
                     {meal.servings && <span>🍽 {meal.servings} {t('meal.servings')}</span>}
                     {meal.prep && <span>⏱ {meal.prep} {t('meal.prep')}</span>}
                     {meal.cook && <span>🔥 {meal.cook} {t('meal.cook')}</span>}
@@ -68,7 +78,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                 )}
               </div>
               <div className={`flex-shrink-0 transition-transform duration-200 ${open ? 'rotate-180' : ''}`}>
-                <svg className="w-5 h-5 muted-themed" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                 </svg>
               </div>
@@ -85,7 +95,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                 </h4>
                 <ul className="space-y-1.5">
                   {meal.ingredients.map((ing, i) => (
-                    <li key={i} className="text-sm muted-themed flex gap-2">
+                    <li key={i} className="text-sm secondary-themed flex gap-2">
                       <span className="muted-themed">•</span>
                       <span>
                         {ing.amount && <span className="font-medium heading-themed">{ing.amount}</span>}{' '}
@@ -104,7 +114,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                 </h4>
                 <ol className="space-y-2">
                   {meal.steps.map((step, i) => (
-                    <li key={i} className="text-sm muted-themed flex gap-3">
+                    <li key={i} className="text-sm secondary-themed flex gap-3">
                       <span className="step-num-themed flex-shrink-0 flex items-center justify-center w-6 h-6 rounded-full text-xs font-semibold">
                         {i + 1}
                       </span>

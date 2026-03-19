@@ -50,7 +50,7 @@ export default function DayDetail({ date }: { date?: Date }) {
           <h2 className="text-2xl sm:text-3xl font-serif font-semibold heading-themed">
             {dayName}
           </h2>
-          <span className="text-xs sm:text-sm muted-themed font-medium">
+          <span className="text-xs sm:text-sm secondary-themed font-medium">
             {meals.length} {meals.length === 1 ? t('meal.singular') : t('meal.plural')} {t('meal.planned')}
           </span>
         </div>

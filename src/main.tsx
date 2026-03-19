@@ -20,7 +20,7 @@ function AppContent() {
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-semibold heading-themed mb-1 sm:mb-2">
               {t('app.title')}
             </h1>
-            <p className="text-sm sm:text-base muted-themed">
+            <p className="text-sm sm:text-base secondary-themed">
               {t('app.subtitle')}
             </p>
           </header>

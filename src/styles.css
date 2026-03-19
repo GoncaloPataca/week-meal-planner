@@ -53,9 +53,10 @@
 .btn-primary-themed:hover { filter: brightness(0.90); }
 
 /* Text colours */
-.heading-themed  { color: var(--text);    }
-.muted-themed    { color: var(--muted);   }
-.link-themed     { color: var(--primary); }
+.heading-themed   { color: var(--text);    }
+.muted-themed     { color: var(--muted);   }  /* decorative only — low contrast by design */
+.secondary-themed { color: color-mix(in srgb, var(--text) 72%, var(--bg)); } /* readable body text */
+.link-themed      { color: var(--primary); }
 
 /* Inline tag/badge chips */
 .tag-themed {
