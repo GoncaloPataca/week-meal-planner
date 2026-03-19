@@ -5,7 +5,82 @@
 @tailwind utilities;
 
 @layer base {
-  html, body {
-    @apply bg-stone-50 dark:bg-zinc-900;
+  /* Light defaults (Warm Peach). Overridden at runtime by ThemePicker. */
+  :root {
+    --bg: #FAF3E0;
+    --surface: #FFF8F2;
+    --muted: #CFC2B8;
+    --border: #E8DCCF;
+    --text: #3D2B1F;
+    --primary: #D4723A;
   }
+
+  /* Dark defaults (Warm Peach dark). Overridden at runtime by ThemePicker. */
+  .dark {
+    --bg: #1A100A;
+    --surface: #231510;
+    --muted: #7A5A48;
+    --border: #2E1E12;
+    --text: #F0E4D8;
+    --primary: #D4723A;
+  }
+
+  html, body {
+    background-color: var(--bg);
+    color: var(--text);
+  }
+}
+
+/* ── Themed utilities ───────────────────────────────────────────────────────
+   Placed outside @layer so they take precedence over Tailwind utilities.
+   All colours are driven by the active CSS-variable palette.
+──────────────────────────────────────────────────────────────────────────── */
+
+/* Generic ghost card button (surface bg, border, text) */
+.btn-themed {
+  background-color: var(--surface);
+  border-color: var(--border);
+  color: var(--text);
+}
+.btn-themed:hover { filter: brightness(0.96); }
+
+/* Filled primary-colour button (e.g. "Today") */
+.btn-primary-themed {
+  background-color: var(--primary);
+  border-color: transparent;
+  color: #fff;
+}
+.btn-primary-themed:hover { filter: brightness(0.90); }
+
+/* Text colours */
+.heading-themed  { color: var(--text);    }
+.muted-themed    { color: var(--muted);   }
+.link-themed     { color: var(--primary); }
+
+/* Inline tag/badge chips */
+.tag-themed {
+  background-color: var(--border);
+  color: var(--text);
+}
+
+/* Step-number circle */
+.step-num-themed {
+  background-color: var(--border);
+  color: var(--text);
+}
+
+/* Notes callout box */
+.note-themed {
+  background-color: color-mix(in srgb, var(--primary) 10%, var(--surface));
+  border-color:     color-mix(in srgb, var(--primary) 25%, transparent);
+}
+.note-themed p { color: var(--text); }
+
+/* WeekBanner day-of-week tab cards */
+.week-day-tab {
+  background-color: var(--surface);
+  border-color: var(--border);
+}
+.week-day-tab[aria-selected="true"] {
+  border-color: var(--primary);
 }

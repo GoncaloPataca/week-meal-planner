@@ -14,13 +14,13 @@ function AppContent() {
   return (
     <>
       <Navbar />
-      <div className="min-h-screen bg-gradient-to-br from-stone-50 via-neutral-50 to-slate-50 dark:from-zinc-900 dark:via-neutral-900 dark:to-slate-900 transition-colors duration-200">
+      <div className="min-h-screen" style={{ backgroundColor: 'var(--bg)' }}>
         <div className="max-w-4xl mx-auto px-3 py-6 sm:px-6 sm:py-8 lg:px-8">
           <header className="mb-8 sm:mb-10">
-            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-semibold text-neutral-900 dark:text-neutral-100 mb-1 sm:mb-2">
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-semibold heading-themed mb-1 sm:mb-2">
               {t('app.title')}
             </h1>
-            <p className="text-sm sm:text-base text-neutral-600 dark:text-neutral-400">
+            <p className="text-sm sm:text-base muted-themed">
               {t('app.subtitle')}
             </p>
           </header>

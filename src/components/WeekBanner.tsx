@@ -73,7 +73,7 @@ export default function WeekBanner(_: Props): JSX.Element {
       <div className="flex items-center justify-between gap-2 sm:gap-4">
         <button
           onClick={goToPreviousWeek}
-          className="flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300"
+          className="btn-themed flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg border transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 text-xs sm:text-sm font-medium"
           aria-label={t('navigation.previousWeek')}
         >
           <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -85,7 +85,7 @@ export default function WeekBanner(_: Props): JSX.Element {
         {!isCurrentWeek && (
           <button
             onClick={goToCurrentWeek}
-            className="px-3 sm:px-4 py-2 rounded-lg bg-slate-700 dark:bg-slate-600 hover:bg-slate-800 dark:hover:bg-slate-700 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500 text-xs sm:text-sm font-medium text-white"
+            className="btn-primary-themed px-3 sm:px-4 py-2 rounded-lg transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 text-xs sm:text-sm font-medium"
           >
             {t('navigation.today')}
           </button>
@@ -93,7 +93,7 @@ export default function WeekBanner(_: Props): JSX.Element {
 
         <button
           onClick={goToNextWeek}
-          className="flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300"
+          className="btn-themed flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg border transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 text-xs sm:text-sm font-medium"
           aria-label={t('navigation.nextWeek')}
         >
           <span className="hidden sm:inline">{t('navigation.nextWeek')}</span>
@@ -114,16 +114,16 @@ export default function WeekBanner(_: Props): JSX.Element {
               <Tab
                 key={d.iso}
                 className={({ selected }) => `
-                  flex-1 relative flex flex-col items-center gap-1 sm:gap-2 px-1.5 py-2 sm:px-3 sm:py-3 min-w-0
+                  week-day-tab flex-1 relative flex flex-col items-center gap-1 sm:gap-2 px-1.5 py-2 sm:px-3 sm:py-3 min-w-0
                   rounded-xl sm:rounded-2xl transition-all duration-200
-                  ${selected 
-                    ? 'bg-white dark:bg-neutral-800 border-2 border-slate-300 dark:border-neutral-500 shadow-lg' 
-                    : 'bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:border-neutral-300 dark:hover:border-neutral-600 hover:shadow-sm'
+                  ${selected
+                    ? 'border-2 shadow-lg'
+                    : 'border hover:shadow-sm'
                   }
                   focus:outline-none focus-visible:outline-none
                 `}
               >
-                <div className="text-[0.6rem] sm:text-xs font-semibold text-neutral-500 dark:text-neutral-400 uppercase tracking-wide">
+                <div className="text-[0.6rem] sm:text-xs font-semibold muted-themed uppercase tracking-wide">
                   {d.label}
                 </div>
                 {isToday && (
@@ -140,10 +140,10 @@ export default function WeekBanner(_: Props): JSX.Element {
                     ))}
                   </div>
                 )}
-                <div className="text-lg sm:text-2xl font-bold text-neutral-900 dark:text-neutral-100">
+                <div className="text-lg sm:text-2xl font-bold heading-themed">
                   {d.dayNumber}
                 </div>
-                <div className="hidden sm:block text-xs text-neutral-600 dark:text-neutral-400 font-medium">
+                <div className="hidden sm:block text-xs muted-themed font-medium">
                   {meals.length} {meals.length === 1 ? t('meal.singular') : t('meal.plural')}
                 </div>
               </Tab>

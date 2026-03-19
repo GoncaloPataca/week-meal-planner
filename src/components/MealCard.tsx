@@ -18,8 +18,11 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
   return (
     <Disclosure defaultOpen>
       {({ open }) => (
-        <article className="bg-white dark:bg-neutral-800 rounded-xl border border-neutral-200 dark:border-neutral-700 shadow-sm hover:shadow-md transition-all duration-200">
-          <Disclosure.Button className="w-full text-left p-5 focus:outline-none focus:ring-2 focus:ring-slate-300 dark:focus:ring-slate-600 focus:ring-inset">
+        <article
+          className="rounded-xl border shadow-sm hover:shadow-md transition-all duration-200"
+          style={{ backgroundColor: 'var(--surface)', borderColor: 'var(--border)' }}
+        >
+          <Disclosure.Button className="w-full text-left p-5 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-inset">
             <div className="flex items-start justify-between gap-3">
               {meal.image && (
                 <img 
@@ -34,12 +37,12 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                     {meal.label}
                   </span>
                   {meal.tags && meal.tags.map((tag) => (
-                    <span key={tag} className="inline-flex items-center px-2 py-0.5 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-700 text-neutral-700 dark:text-neutral-300">
+                    <span key={tag} className="tag-themed inline-flex items-center px-2 py-0.5 rounded-md text-xs font-medium">
                       {tag}
                     </span>
                   ))}
                 </div>
-                <h3 className="text-lg font-serif font-semibold text-neutral-900 dark:text-neutral-100 leading-snug">
+                <h3 className="text-lg font-serif font-semibold heading-themed leading-snug">
                   {meal.title}
                 </h3>
                 {meal.url && (
@@ -47,7 +50,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                     href={meal.url} 
                     target="_blank" 
                     rel="noopener noreferrer"
-                    className="text-xs text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center gap-1"
+                    className="link-themed text-xs hover:underline inline-flex items-center gap-1"
                     onClick={(e) => e.stopPropagation()}
                   >
                     {t('meal.viewOriginal')}
@@ -57,7 +60,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                   </a>
                 )}
                 {(meal.servings || meal.prep || meal.cook) && (
-                  <div className="flex items-center gap-3 text-sm text-neutral-600 dark:text-neutral-400">
+                  <div className="flex items-center gap-3 text-sm muted-themed">
                     {meal.servings && <span>🍽 {meal.servings} {t('meal.servings')}</span>}
                     {meal.prep && <span>⏱ {meal.prep} {t('meal.prep')}</span>}
                     {meal.cook && <span>🔥 {meal.cook} {t('meal.cook')}</span>}
@@ -65,27 +68,27 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                 )}
               </div>
               <div className={`flex-shrink-0 transition-transform duration-200 ${open ? 'rotate-180' : ''}`}>
-                <svg className="w-5 h-5 text-neutral-400 dark:text-neutral-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="w-5 h-5 muted-themed" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                 </svg>
               </div>
             </div>
           </Disclosure.Button>
 
-          <Disclosure.Panel className="px-5 pb-5 space-y-4 border-t border-neutral-100 dark:border-neutral-700">
+          <Disclosure.Panel className="px-5 pb-5 space-y-4 border-t" style={{ borderColor: 'var(--border)' }}>
             <div className="pt-4"></div>
             
             {meal.ingredients && meal.ingredients.length > 0 && (
               <div>
-                <h4 className="text-sm font-semibold text-neutral-700 dark:text-neutral-300 uppercase tracking-wide mb-2">
+                <h4 className="text-sm font-semibold heading-themed uppercase tracking-wide mb-2">
                   {t('meal.ingredients')}
                 </h4>
                 <ul className="space-y-1.5">
                   {meal.ingredients.map((ing, i) => (
-                    <li key={i} className="text-sm text-neutral-600 dark:text-neutral-400 flex gap-2">
-                      <span className="text-neutral-400 dark:text-neutral-600">•</span>
+                    <li key={i} className="text-sm muted-themed flex gap-2">
+                      <span className="muted-themed">•</span>
                       <span>
-                        {ing.amount && <span className="font-medium text-neutral-700 dark:text-neutral-300">{ing.amount}</span>}{' '}
+                        {ing.amount && <span className="font-medium heading-themed">{ing.amount}</span>}{' '}
                         {ing.name}
                       </span>
                     </li>
@@ -96,13 +99,13 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
 
             {meal.steps && meal.steps.length > 0 && (
               <div>
-                <h4 className="text-sm font-semibold text-neutral-700 dark:text-neutral-300 uppercase tracking-wide mb-2">
+                <h4 className="text-sm font-semibold heading-themed uppercase tracking-wide mb-2">
                   {t('meal.steps')}
                 </h4>
                 <ol className="space-y-2">
                   {meal.steps.map((step, i) => (
-                    <li key={i} className="text-sm text-neutral-600 dark:text-neutral-400 flex gap-3">
-                      <span className="flex-shrink-0 flex items-center justify-center w-6 h-6 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 text-xs font-semibold">
+                    <li key={i} className="text-sm muted-themed flex gap-3">
+                      <span className="step-num-themed flex-shrink-0 flex items-center justify-center w-6 h-6 rounded-full text-xs font-semibold">
                         {i + 1}
                       </span>
                       <span className="pt-0.5">{step}</span>
@@ -113,8 +116,8 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
             )}
 
             {meal.notes && (
-              <div className="bg-blue-50 dark:bg-blue-900/10 border border-blue-200 dark:border-blue-800/30 rounded-lg p-3">
-                <p className="text-sm text-blue-900 dark:text-blue-300 italic">
+              <div className="note-themed border rounded-lg p-3">
+                <p className="text-sm italic">
                   💡 {meal.notes}
                 </p>
               </div>
@@ -126,7 +129,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                   e.stopPropagation()
                   downloadICS(meal, dateISO)
                 }}
-                className="flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500"
+                className="btn-themed flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg border transition-colors duration-200 text-xs sm:text-sm font-medium focus:outline-none focus:ring-2 focus:ring-slate-400"
               >
                 <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -140,7 +143,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                     e.stopPropagation()
                     downloadIngredientsICS(meal, dateISO)
                   }}
-                  className="flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500"
+                  className="btn-themed flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg border transition-colors duration-200 text-xs sm:text-sm font-medium focus:outline-none focus:ring-2 focus:ring-slate-400"
                 >
                   <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />

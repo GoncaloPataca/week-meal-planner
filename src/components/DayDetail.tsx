@@ -47,10 +47,10 @@ export default function DayDetail({ date }: { date?: Date }) {
     <section className="space-y-4 sm:space-y-6">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
         <div className="flex flex-col sm:flex-row sm:items-baseline gap-1 sm:gap-3">
-          <h2 className="text-2xl sm:text-3xl font-serif font-semibold text-neutral-900 dark:text-neutral-100">
+          <h2 className="text-2xl sm:text-3xl font-serif font-semibold heading-themed">
             {dayName}
           </h2>
-          <span className="text-xs sm:text-sm text-neutral-600 dark:text-neutral-400 font-medium">
+          <span className="text-xs sm:text-sm muted-themed font-medium">
             {meals.length} {meals.length === 1 ? t('meal.singular') : t('meal.plural')} {t('meal.planned')}
           </span>
         </div>
@@ -58,7 +58,7 @@ export default function DayDetail({ date }: { date?: Date }) {
           {meals.length > 0 && (
             <button
               onClick={handleExportDay}
-              className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500"
+              className="btn-themed flex items-center gap-1.5 px-3 py-2 rounded-lg border transition-colors duration-200 text-xs sm:text-sm font-medium focus:outline-none focus:ring-2 focus:ring-slate-400"
             >
               <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -68,7 +68,7 @@ export default function DayDetail({ date }: { date?: Date }) {
           )}
           <button
             onClick={handleExportWeek}
-            className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:bg-neutral-50 dark:hover:bg-neutral-750 transition-colors duration-200 text-xs sm:text-sm font-medium text-neutral-700 dark:text-neutral-300 focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-500"
+            className="btn-themed flex items-center gap-1.5 px-3 py-2 rounded-lg border transition-colors duration-200 text-xs sm:text-sm font-medium focus:outline-none focus:ring-2 focus:ring-slate-400"
           >
             <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
