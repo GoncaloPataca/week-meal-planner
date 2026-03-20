@@ -54,7 +54,14 @@
     "cookTime": "10 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-1",
-    "image": "/images/recipes/panquecas-banana-aveia.jpg"
+    "image": "/images/recipes/panquecas-banana-aveia.jpg",
+    "nutrition": {
+      "calories": 375,
+      "protein": 13,
+      "carbs": 55,
+      "fat": 15,
+      "fiber": 5
+    }
   },
   {
     "id": 2,
@@ -111,7 +118,14 @@
     "cookTime": "0 min (repouso de 6-8h)",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-2",
-    "image": "/images/recipes/overnight-oats.jpg"
+    "image": "/images/recipes/overnight-oats.jpg",
+    "nutrition": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 7,
+      "fiber": 8
+    }
   },
   {
     "id": 3,
@@ -185,7 +199,14 @@
     "cookTime": "22 min",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-3",
-    "image": "/images/recipes/muffins-cenoura.jpg"
+    "image": "/images/recipes/muffins-cenoura.jpg",
+    "nutrition": {
+      "calories": 195,
+      "protein": 7,
+      "carbs": 15,
+      "fat": 13,
+      "fiber": 3
+    }
   },
   {
     "id": 4,
@@ -246,7 +267,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-4",
-    "image": "/images/recipes/smoothie-bowl-verde.jpg"
+    "image": "/images/recipes/smoothie-bowl-verde.jpg",
+    "nutrition": {
+      "calories": 395,
+      "protein": 11,
+      "carbs": 38,
+      "fat": 22,
+      "fiber": 10
+    }
   },
   {
     "id": 5,
@@ -314,7 +342,14 @@
     "cookTime": "0 min (30 min no frigorífico)",
     "servings": 12,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-5",
-    "image": "/images/recipes/energy-balls-cacau.jpg"
+    "image": "/images/recipes/energy-balls-cacau.jpg",
+    "nutrition": {
+      "calories": 95,
+      "protein": 2,
+      "carbs": 14,
+      "fat": 4,
+      "fiber": 2
+    }
   },
   {
     "id": 6,
@@ -374,7 +409,14 @@
     "cookTime": "12 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-6",
-    "image": "/images/recipes/panquecas-batata-doce.jpg"
+    "image": "/images/recipes/panquecas-batata-doce.jpg",
+    "nutrition": {
+      "calories": 265,
+      "protein": 11,
+      "carbs": 36,
+      "fat": 9,
+      "fiber": 5
+    }
   },
   {
     "id": 7,
@@ -428,7 +470,14 @@
     "cookTime": "0 min (repouso de 4-6h)",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-7",
-    "image": "/images/recipes/pudim-chia-manga.jpg"
+    "image": "/images/recipes/pudim-chia-manga.jpg",
+    "nutrition": {
+      "calories": 245,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 13,
+      "fiber": 11
+    }
   },
   {
     "id": 8,
@@ -495,7 +544,14 @@
     "cookTime": "25 min",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-8",
-    "image": "/images/recipes/granola-caseira.jpg"
+    "image": "/images/recipes/granola-caseira.jpg",
+    "nutrition": {
+      "calories": 155,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 10,
+      "fiber": 3
+    }
   },
   {
     "id": 9,
@@ -561,7 +617,14 @@
     "cookTime": "8 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-9",
-    "image": "/images/recipes/wrap-alface-frango.jpg"
+    "image": "/images/recipes/wrap-alface-frango.jpg",
+    "nutrition": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 16,
+      "fiber": 5
+    }
   },
   {
     "id": 10,
@@ -612,7 +675,14 @@
     "cookTime": "15 min",
     "servings": 12,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-10",
-    "image": "/images/recipes/bolachas-aveia-coco.jpg"
+    "image": "/images/recipes/bolachas-aveia-coco.jpg",
+    "nutrition": {
+      "calories": 75,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 2,
+      "fiber": 2
+    }
   },
   {
     "id": 11,
@@ -665,7 +735,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-11",
-    "image": "/images/recipes/smoothie-abacate-cacau.jpg"
+    "image": "/images/recipes/smoothie-abacate-cacau.jpg",
+    "nutrition": {
+      "calories": 345,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 20,
+      "fiber": 12
+    }
   },
   {
     "id": 12,
@@ -722,7 +799,14 @@
     "cookTime": "8 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-12",
-    "image": "/images/recipes/tapioca-ovo-espinafres.jpg"
+    "image": "/images/recipes/tapioca-ovo-espinafres.jpg",
+    "nutrition": {
+      "calories": 250,
+      "protein": 14,
+      "carbs": 20,
+      "fat": 12,
+      "fiber": 1
+    }
   },
   {
     "id": 13,
@@ -780,7 +864,14 @@
     "cookTime": "0 min (1h no frigorífico)",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-13",
-    "image": "/images/recipes/mousse-abacate-cacau.jpg"
+    "image": "/images/recipes/mousse-abacate-cacau.jpg",
+    "nutrition": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 14,
+      "fiber": 8
+    }
   },
   {
     "id": 14,
@@ -848,7 +939,14 @@
     "cookTime": "0 min (2h no frigorífico)",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-14",
-    "image": "/images/recipes/barrinhas-sementes.jpg"
+    "image": "/images/recipes/barrinhas-sementes.jpg",
+    "nutrition": {
+      "calories": 135,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 8,
+      "fiber": 3
+    }
   },
   {
     "id": 15,
@@ -904,7 +1002,14 @@
     "cookTime": "10 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-15",
-    "image": "/images/recipes/papas-aveia-maca.jpg"
+    "image": "/images/recipes/papas-aveia-maca.jpg",
+    "nutrition": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 14,
+      "fiber": 7
+    }
   },
   {
     "id": 16,
@@ -961,7 +1066,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-16",
-    "image": "/images/recipes/acai-bowl.jpg"
+    "image": "/images/recipes/acai-bowl.jpg",
+    "nutrition": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 13,
+      "fiber": 9
+    }
   },
   {
     "id": 17,
@@ -1022,7 +1134,14 @@
     "cookTime": "20 min",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-17",
-    "image": "/images/recipes/frittatas-batata-doce.jpg"
+    "image": "/images/recipes/frittatas-batata-doce.jpg",
+    "nutrition": {
+      "calories": 85,
+      "protein": 4,
+      "carbs": 9,
+      "fat": 4,
+      "fiber": 2
+    }
   },
   {
     "id": 18,
@@ -1087,7 +1206,14 @@
     "cookTime": "15 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-18",
-    "image": "/images/recipes/crepes-farinha-arroz.jpg"
+    "image": "/images/recipes/crepes-farinha-arroz.jpg",
+    "nutrition": {
+      "calories": 245,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 12,
+      "fiber": 2
+    }
   },
   {
     "id": 19,
@@ -1147,7 +1273,14 @@
     "cookTime": "0 min (1h no frigorífico)",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-19",
-    "image": "/images/recipes/barras-tamaras-amendoa.jpg"
+    "image": "/images/recipes/barras-tamaras-amendoa.jpg",
+    "nutrition": {
+      "calories": 145,
+      "protein": 4,
+      "carbs": 19,
+      "fat": 7,
+      "fiber": 3
+    }
   },
   {
     "id": 20,
@@ -1205,7 +1338,14 @@
     "cookTime": "15 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-20",
-    "image": "/images/recipes/ovos-abacate.jpg"
+    "image": "/images/recipes/ovos-abacate.jpg",
+    "nutrition": {
+      "calories": 250,
+      "protein": 10,
+      "carbs": 6,
+      "fat": 21,
+      "fiber": 5
+    }
   },
   {
     "id": 21,
@@ -1257,7 +1397,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-21",
-    "image": "/images/recipes/smoothie-manga-maracuja.jpg"
+    "image": "/images/recipes/smoothie-manga-maracuja.jpg",
+    "nutrition": {
+      "calories": 235,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 9,
+      "fiber": 5
+    }
   },
   {
     "id": 22,
@@ -1316,7 +1463,14 @@
     "cookTime": "5 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-22",
-    "image": "/images/recipes/beiju-recheado.jpg"
+    "image": "/images/recipes/beiju-recheado.jpg",
+    "nutrition": {
+      "calories": 195,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 10,
+      "fiber": 3
+    }
   },
   {
     "id": 23,
@@ -1387,7 +1541,14 @@
     "cookTime": "40 min",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-23",
-    "image": "/images/recipes/bolo-banana-coco.jpg"
+    "image": "/images/recipes/bolo-banana-coco.jpg",
+    "nutrition": {
+      "calories": 175,
+      "protein": 6,
+      "carbs": 15,
+      "fat": 11,
+      "fiber": 4
+    }
   },
   {
     "id": 24,
@@ -1460,7 +1621,14 @@
     "cookTime": "30 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-24",
-    "image": "/images/recipes/pimentos-recheados.jpg"
+    "image": "/images/recipes/pimentos-recheados.jpg",
+    "nutrition": {
+      "calories": 210,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 8,
+      "fiber": 6
+    }
   },
   {
     "id": 25,
@@ -1515,7 +1683,14 @@
     "cookTime": "0 min (2h de congelação prévia)",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-25",
-    "image": "/images/recipes/gelado-banana.jpg"
+    "image": "/images/recipes/gelado-banana.jpg",
+    "nutrition": {
+      "calories": 230,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 9,
+      "fiber": 6
+    }
   },
   {
     "id": 26,
@@ -1572,7 +1747,14 @@
     "cookTime": "15 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-26",
-    "image": "/images/recipes/mingau-trigo-sarraceno.jpg"
+    "image": "/images/recipes/mingau-trigo-sarraceno.jpg",
+    "nutrition": {
+      "calories": 265,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 8,
+      "fiber": 6
+    }
   },
   {
     "id": 27,
@@ -1635,7 +1817,14 @@
     "cookTime": "10 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-27",
-    "image": "/images/recipes/panqueca-grao-bico.jpg"
+    "image": "/images/recipes/panqueca-grao-bico.jpg",
+    "nutrition": {
+      "calories": 290,
+      "protein": 10,
+      "carbs": 22,
+      "fat": 18,
+      "fiber": 5
+    }
   },
   {
     "id": 28,
@@ -1685,7 +1874,14 @@
     "cookTime": "0 min (repouso de 4-6h)",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-28",
-    "image": "/images/recipes/pudim-chia-kiwi.jpg"
+    "image": "/images/recipes/pudim-chia-kiwi.jpg",
+    "nutrition": {
+      "calories": 235,
+      "protein": 6,
+      "carbs": 22,
+      "fat": 14,
+      "fiber": 12
+    }
   },
   {
     "id": 29,
@@ -1744,7 +1940,14 @@
     "cookTime": "25 min",
     "servings": 3,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-29",
-    "image": "/images/recipes/cubos-batata-doce-maca.jpg"
+    "image": "/images/recipes/cubos-batata-doce-maca.jpg",
+    "nutrition": {
+      "calories": 130,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 3,
+      "fiber": 4
+    }
   },
   {
     "id": 30,
@@ -1810,7 +2013,14 @@
     "cookTime": "20 min",
     "servings": 9,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-30",
-    "image": "/images/recipes/muffins-espinafre-banana.jpg"
+    "image": "/images/recipes/muffins-espinafre-banana.jpg",
+    "nutrition": {
+      "calories": 150,
+      "protein": 5,
+      "carbs": 12,
+      "fat": 10,
+      "fiber": 3
+    }
   },
   {
     "id": 31,
@@ -1868,7 +2078,14 @@
     "cookTime": "0 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-31",
-    "image": "/images/recipes/tostas-arroz-abacate.jpg"
+    "image": "/images/recipes/tostas-arroz-abacate.jpg",
+    "nutrition": {
+      "calories": 185,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 12,
+      "fiber": 5
+    }
   },
   {
     "id": 32,
@@ -1926,7 +2143,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-32",
-    "image": "/images/recipes/parfait-iogurte-coco.jpg"
+    "image": "/images/recipes/parfait-iogurte-coco.jpg",
+    "nutrition": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 13,
+      "fiber": 5
+    }
   },
   {
     "id": 33,
@@ -1997,7 +2221,14 @@
     "cookTime": "22 min",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-33",
-    "image": "/images/recipes/bolinhoslegumes.jpg"
+    "image": "/images/recipes/bolinhoslegumes.jpg",
+    "nutrition": {
+      "calories": 65,
+      "protein": 3,
+      "carbs": 5,
+      "fat": 3,
+      "fiber": 1
+    }
   },
   {
     "id": 34,
@@ -2056,7 +2287,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-34",
-    "image": "/images/recipes/sumo-verde-detox.jpg"
+    "image": "/images/recipes/sumo-verde-detox.jpg",
+    "nutrition": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 1,
+      "fiber": 4
+    }
   },
   {
     "id": 35,
@@ -2124,7 +2362,14 @@
     "cookTime": "15 min",
     "servings": 5,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-35",
-    "image": "/images/recipes/mini-pizzas-tapioca.jpg"
+    "image": "/images/recipes/mini-pizzas-tapioca.jpg",
+    "nutrition": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 4,
+      "fiber": 2
+    }
   },
   {
     "id": 36,
@@ -2188,7 +2433,14 @@
     "cookTime": "10 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-36",
-    "image": "/images/recipes/waffles-aveia-salgados.jpg"
+    "image": "/images/recipes/waffles-aveia-salgados.jpg",
+    "nutrition": {
+      "calories": 340,
+      "protein": 22,
+      "carbs": 28,
+      "fat": 16,
+      "fiber": 5
+    }
   },
   {
     "id": 37,
@@ -2235,7 +2487,14 @@
     "cookTime": "0 min (30 min no frigorífico)",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-37",
-    "image": "/images/recipes/copinhos-chocolate-amendoa.jpg"
+    "image": "/images/recipes/copinhos-chocolate-amendoa.jpg",
+    "nutrition": {
+      "calories": 115,
+      "protein": 3,
+      "carbs": 6,
+      "fat": 9,
+      "fiber": 2
+    }
   },
   {
     "id": 38,
@@ -2301,7 +2560,14 @@
     "cookTime": "8 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-38",
-    "image": "/images/recipes/tofu-mexido.jpg"
+    "image": "/images/recipes/tofu-mexido.jpg",
+    "nutrition": {
+      "calories": 195,
+      "protein": 16,
+      "carbs": 7,
+      "fat": 12,
+      "fiber": 3
+    }
   },
   {
     "id": 39,
@@ -2357,7 +2623,14 @@
     "cookTime": "15 min",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-39",
-    "image": "/images/recipes/cookies-banana-sementes.jpg"
+    "image": "/images/recipes/cookies-banana-sementes.jpg",
+    "nutrition": {
+      "calories": 70,
+      "protein": 2,
+      "carbs": 11,
+      "fat": 2,
+      "fiber": 2
+    }
   },
   {
     "id": 40,
@@ -2415,7 +2688,14 @@
     "cookTime": "0 min (repouso de 6-8h)",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-40",
-    "image": "/images/recipes/overnight-chia-pessego.jpg"
+    "image": "/images/recipes/overnight-chia-pessego.jpg",
+    "nutrition": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 12,
+      "fiber": 8
+    }
   },
   {
     "id": 41,
@@ -2482,7 +2762,14 @@
     "cookTime": "30 min",
     "servings": 6,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-41",
-    "image": "/images/recipes/humus-batata-doce.jpg"
+    "image": "/images/recipes/humus-batata-doce.jpg",
+    "nutrition": {
+      "calories": 145,
+      "protein": 5,
+      "carbs": 17,
+      "fat": 7,
+      "fiber": 4
+    }
   },
   {
     "id": 42,
@@ -2549,7 +2836,14 @@
     "cookTime": "0 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-42",
-    "image": "/images/recipes/rolinhos-papel-arroz.jpg"
+    "image": "/images/recipes/rolinhos-papel-arroz.jpg",
+    "nutrition": {
+      "calories": 150,
+      "protein": 12,
+      "carbs": 14,
+      "fat": 6,
+      "fiber": 3
+    }
   },
   {
     "id": 43,
@@ -2611,7 +2905,14 @@
     "cookTime": "25 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-43",
-    "image": "/images/recipes/maca-assada-crumble.jpg"
+    "image": "/images/recipes/maca-assada-crumble.jpg",
+    "nutrition": {
+      "calories": 135,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 7,
+      "fiber": 3
+    }
   },
   {
     "id": 44,
@@ -2664,7 +2965,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-44",
-    "image": "/images/recipes/smoothie-acai-berry.jpg"
+    "image": "/images/recipes/smoothie-acai-berry.jpg",
+    "nutrition": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 12,
+      "fiber": 8
+    }
   },
   {
     "id": 45,
@@ -2727,7 +3035,14 @@
     "cookTime": "20 min",
     "servings": 6,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-45",
-    "image": "/images/recipes/muffins-ovo-legumes.jpg"
+    "image": "/images/recipes/muffins-ovo-legumes.jpg",
+    "nutrition": {
+      "calories": 110,
+      "protein": 9,
+      "carbs": 2,
+      "fat": 7,
+      "fiber": 1
+    }
   },
   {
     "id": 46,
@@ -2791,7 +3106,14 @@
     "cookTime": "18 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-46",
-    "image": "/images/recipes/bowl-quinoa-ovo.jpg"
+    "image": "/images/recipes/bowl-quinoa-ovo.jpg",
+    "nutrition": {
+      "calories": 370,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 22,
+      "fiber": 6
+    }
   },
   {
     "id": 47,
@@ -2856,7 +3178,14 @@
     "cookTime": "10 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-47",
-    "image": "/images/recipes/panquecas-farinha-coco.jpg"
+    "image": "/images/recipes/panquecas-farinha-coco.jpg",
+    "nutrition": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 10,
+      "fat": 17,
+      "fiber": 5
+    }
   },
   {
     "id": 48,
@@ -2924,7 +3253,14 @@
     "cookTime": "35 min",
     "servings": 20,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-48",
-    "image": "/images/recipes/crackers-sementes.jpg"
+    "image": "/images/recipes/crackers-sementes.jpg",
+    "nutrition": {
+      "calories": 55,
+      "protein": 2,
+      "carbs": 2,
+      "fat": 4,
+      "fiber": 2
+    }
   },
   {
     "id": 49,
@@ -2986,7 +3322,14 @@
     "cookTime": "20 min",
     "servings": 3,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-49",
-    "image": "/images/recipes/chips-banana-da-terra.jpg"
+    "image": "/images/recipes/chips-banana-da-terra.jpg",
+    "nutrition": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 9,
+      "fiber": 5
+    }
   },
   {
     "id": 50,
@@ -3040,7 +3383,14 @@
     "cookTime": "5 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-50",
-    "image": "/images/recipes/golden-milk.jpg"
+    "image": "/images/recipes/golden-milk.jpg",
+    "nutrition": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 9,
+      "fiber": 1
+    }
   },
   {
     "id": 51,
@@ -3088,7 +3438,14 @@
     "cookTime": "0 min (10 min no frigorífico)",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-51",
-    "image": "/images/recipes/tamaras-recheadas.jpg"
+    "image": "/images/recipes/tamaras-recheadas.jpg",
+    "nutrition": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 3,
+      "fiber": 1
+    }
   },
   {
     "id": 52,
@@ -3146,7 +3503,14 @@
     "cookTime": "12 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-52",
-    "image": "/images/recipes/torrada-batata-doce.jpg"
+    "image": "/images/recipes/torrada-batata-doce.jpg",
+    "nutrition": {
+      "calories": 195,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 10,
+      "fiber": 5
+    }
   },
   {
     "id": 53,
@@ -3205,7 +3569,14 @@
     "cookTime": "0 min (2h de congelação)",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-53",
-    "image": "/images/recipes/bark-iogurte-congelado.jpg"
+    "image": "/images/recipes/bark-iogurte-congelado.jpg",
+    "nutrition": {
+      "calories": 90,
+      "protein": 2,
+      "carbs": 7,
+      "fat": 6,
+      "fiber": 1
+    }
   },
   {
     "id": 54,
@@ -3268,7 +3639,14 @@
     "cookTime": "10 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-54",
-    "image": "/images/recipes/omelete-grao-bico.jpg"
+    "image": "/images/recipes/omelete-grao-bico.jpg",
+    "nutrition": {
+      "calories": 195,
+      "protein": 11,
+      "carbs": 18,
+      "fat": 9,
+      "fiber": 4
+    }
   },
   {
     "id": 55,
@@ -3316,7 +3694,14 @@
     "cookTime": "10 min",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-55",
-    "image": "/images/recipes/compota-chia-framboesa.jpg"
+    "image": "/images/recipes/compota-chia-framboesa.jpg",
+    "nutrition": {
+      "calories": 25,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "fiber": 2
+    }
   },
   {
     "id": 56,
@@ -3381,7 +3766,14 @@
     "cookTime": "15 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-56",
-    "image": "/images/recipes/crepes-farinha-arroz.jpg"
+    "image": "/images/recipes/crepes-farinha-arroz.jpg",
+    "nutrition": {
+      "calories": 245,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 11,
+      "fiber": 3
+    }
   },
   {
     "id": 57,
@@ -3438,7 +3830,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-57",
-    "image": "/images/recipes/acai-bowl.jpg"
+    "image": "/images/recipes/acai-bowl.jpg",
+    "nutrition": {
+      "calories": 340,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 14,
+      "fiber": 10
+    }
   },
   {
     "id": 58,
@@ -3509,7 +3908,14 @@
     "cookTime": "25 min",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-58",
-    "image": "/images/recipes/granola-caseira.jpg"
+    "image": "/images/recipes/granola-caseira.jpg",
+    "nutrition": {
+      "calories": 165,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 9,
+      "fiber": 3
+    }
   },
   {
     "id": 59,
@@ -3569,7 +3975,14 @@
     "cookTime": "12 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-59",
-    "image": "/images/recipes/panquecas-batata-doce.jpg"
+    "image": "/images/recipes/panquecas-batata-doce.jpg",
+    "nutrition": {
+      "calories": 265,
+      "protein": 10,
+      "carbs": 34,
+      "fat": 9,
+      "fiber": 5
+    }
   },
   {
     "id": 60,
@@ -3623,7 +4036,14 @@
     "cookTime": "0 min (4h no frigorífico)",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-60",
-    "image": "/images/recipes/pudim-chia-manga.jpg"
+    "image": "/images/recipes/pudim-chia-manga.jpg",
+    "nutrition": {
+      "calories": 235,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 12,
+      "fiber": 11
+    }
   },
   {
     "id": 61,
@@ -3695,7 +4115,14 @@
     "cookTime": "25 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-61",
-    "image": "/images/recipes/pimentos-recheados.jpg"
+    "image": "/images/recipes/pimentos-recheados.jpg",
+    "nutrition": {
+      "calories": 210,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 8,
+      "fiber": 6
+    }
   },
   {
     "id": 62,
@@ -3747,7 +4174,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-62",
-    "image": "/images/recipes/smoothie-abacate-cacau.jpg"
+    "image": "/images/recipes/smoothie-abacate-cacau.jpg",
+    "nutrition": {
+      "calories": 295,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 17,
+      "fiber": 11
+    }
   },
   {
     "id": 63,
@@ -3817,7 +4251,14 @@
     "cookTime": "10 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-63",
-    "image": "/images/recipes/wrap-alface-frango.jpg"
+    "image": "/images/recipes/wrap-alface-frango.jpg",
+    "nutrition": {
+      "calories": 285,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 15,
+      "fiber": 7
+    }
   },
   {
     "id": 64,
@@ -3880,7 +4321,14 @@
     "cookTime": "15 min",
     "servings": 12,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-64",
-    "image": "/images/recipes/bolachas-aveia-coco.jpg"
+    "image": "/images/recipes/bolachas-aveia-coco.jpg",
+    "nutrition": {
+      "calories": 85,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 4,
+      "fiber": 2
+    }
   },
   {
     "id": 65,
@@ -3943,7 +4391,14 @@
     "cookTime": "22 min",
     "servings": 6,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-65",
-    "image": "/images/recipes/frittatas-batata-doce.jpg"
+    "image": "/images/recipes/frittatas-batata-doce.jpg",
+    "nutrition": {
+      "calories": 145,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 7,
+      "fiber": 2
+    }
   },
   {
     "id": 66,
@@ -4000,7 +4455,14 @@
     "cookTime": "8 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-66",
-    "image": "/images/recipes/tapioca-ovo-espinafres.jpg"
+    "image": "/images/recipes/tapioca-ovo-espinafres.jpg",
+    "nutrition": {
+      "calories": 230,
+      "protein": 14,
+      "carbs": 20,
+      "fat": 10,
+      "fiber": 1
+    }
   },
   {
     "id": 67,
@@ -4054,7 +4516,14 @@
     "cookTime": "0 min (2h congelação prévia)",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-67",
-    "image": "/images/recipes/gelado-banana.jpg"
+    "image": "/images/recipes/gelado-banana.jpg",
+    "nutrition": {
+      "calories": 195,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 6,
+      "fiber": 5
+    }
   },
   {
     "id": 68,
@@ -4118,7 +4587,14 @@
     "cookTime": "12 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-68",
-    "image": "/images/recipes/beiju-recheado.jpg"
+    "image": "/images/recipes/beiju-recheado.jpg",
+    "nutrition": {
+      "calories": 260,
+      "protein": 22,
+      "carbs": 24,
+      "fat": 8,
+      "fiber": 2
+    }
   },
   {
     "id": 69,
@@ -4174,7 +4650,14 @@
     "cookTime": "10 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-69",
-    "image": "/images/recipes/papas-aveia-maca.jpg"
+    "image": "/images/recipes/papas-aveia-maca.jpg",
+    "nutrition": {
+      "calories": 250,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 8,
+      "fiber": 6
+    }
   },
   {
     "id": 70,
@@ -4226,7 +4709,14 @@
     "cookTime": "15 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-70",
-    "image": "/images/recipes/ovos-abacate.jpg"
+    "image": "/images/recipes/ovos-abacate.jpg",
+    "nutrition": {
+      "calories": 290,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 24,
+      "fiber": 7
+    }
   },
   {
     "id": 71,
@@ -4290,7 +4780,14 @@
     "cookTime": "0 min (1h no frigorífico)",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-71",
-    "image": "/images/recipes/barras-tamaras-amendoa.jpg"
+    "image": "/images/recipes/barras-tamaras-amendoa.jpg",
+    "nutrition": {
+      "calories": 155,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 8,
+      "fiber": 3
+    }
   },
   {
     "id": 72,
@@ -4348,7 +4845,14 @@
     "cookTime": "0 min (30 min no frigorífico)",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-72",
-    "image": "/images/recipes/mousse-abacate-cacau.jpg"
+    "image": "/images/recipes/mousse-abacate-cacau.jpg",
+    "nutrition": {
+      "calories": 215,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 14,
+      "fiber": 8
+    }
   },
   {
     "id": 73,
@@ -4400,7 +4904,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-73",
-    "image": "/images/recipes/smoothie-manga-maracuja.jpg"
+    "image": "/images/recipes/smoothie-manga-maracuja.jpg",
+    "nutrition": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 8,
+      "fiber": 7
+    }
   },
   {
     "id": 74,
@@ -4468,7 +4979,14 @@
     "cookTime": "0 min (2h no frigorífico)",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-74",
-    "image": "/images/recipes/barrinhas-sementes.jpg"
+    "image": "/images/recipes/barrinhas-sementes.jpg",
+    "nutrition": {
+      "calories": 135,
+      "protein": 5,
+      "carbs": 8,
+      "fat": 10,
+      "fiber": 3
+    }
   },
   {
     "id": 75,
@@ -4540,7 +5058,14 @@
     "cookTime": "35 min",
     "servings": 10,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-75",
-    "image": "/images/recipes/bolo-banana-coco.jpg"
+    "image": "/images/recipes/bolo-banana-coco.jpg",
+    "nutrition": {
+      "calories": 145,
+      "protein": 5,
+      "carbs": 12,
+      "fat": 9,
+      "fiber": 3
+    }
   },
   {
     "id": 76,
@@ -4596,7 +5121,14 @@
     "cookTime": "12 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-76",
-    "image": "/images/recipes/mingau-sarraceno-pera.jpg"
+    "image": "/images/recipes/mingau-sarraceno-pera.jpg",
+    "nutrition": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 14,
+      "fiber": 7
+    }
   },
   {
     "id": 77,
@@ -4664,7 +5196,14 @@
     "cookTime": "12 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-77",
-    "image": "/images/recipes/pataniscas-abobrinha.jpg"
+    "image": "/images/recipes/pataniscas-abobrinha.jpg",
+    "nutrition": {
+      "calories": 165,
+      "protein": 7,
+      "carbs": 12,
+      "fat": 10,
+      "fiber": 3
+    }
   },
   {
     "id": 78,
@@ -4717,7 +5256,14 @@
     "cookTime": "0 min (4h no frigorífico)",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-78",
-    "image": "/images/recipes/pudim-chia-coco-maracuja.jpg"
+    "image": "/images/recipes/pudim-chia-coco-maracuja.jpg",
+    "nutrition": {
+      "calories": 225,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 12,
+      "fiber": 12
+    }
   },
   {
     "id": 79,
@@ -4784,7 +5330,14 @@
     "cookTime": "40 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-79",
-    "image": "/images/recipes/batata-doce-recheada.jpg"
+    "image": "/images/recipes/batata-doce-recheada.jpg",
+    "nutrition": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 13,
+      "fiber": 14
+    }
   },
   {
     "id": 80,
@@ -4850,7 +5403,14 @@
     "cookTime": "20 min",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-80",
-    "image": "/images/recipes/muffins-verdes-espinafre.jpg"
+    "image": "/images/recipes/muffins-verdes-espinafre.jpg",
+    "nutrition": {
+      "calories": 175,
+      "protein": 7,
+      "carbs": 12,
+      "fat": 12,
+      "fiber": 3
+    }
   },
   {
     "id": 81,
@@ -4912,7 +5472,14 @@
     "cookTime": "0 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-81",
-    "image": "/images/recipes/rolinhos-salmao-pepino.jpg"
+    "image": "/images/recipes/rolinhos-salmao-pepino.jpg",
+    "nutrition": {
+      "calories": 185,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 8,
+      "fiber": 3
+    }
   },
   {
     "id": 82,
@@ -4976,7 +5543,14 @@
     "cookTime": "0 min (6-8h no frigorífico)",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-82",
-    "image": "/images/recipes/overnight-cenoura.jpg"
+    "image": "/images/recipes/overnight-cenoura.jpg",
+    "nutrition": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "fiber": 7
+    }
   },
   {
     "id": 83,
@@ -5042,7 +5616,14 @@
     "cookTime": "0 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-83",
-    "image": "/images/recipes/tabule-couve-flor.jpg"
+    "image": "/images/recipes/tabule-couve-flor.jpg",
+    "nutrition": {
+      "calories": 130,
+      "protein": 4,
+      "carbs": 10,
+      "fat": 9,
+      "fiber": 4
+    }
   },
   {
     "id": 84,
@@ -5093,7 +5674,14 @@
     "cookTime": "0 min (2h congelação)",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-84",
-    "image": "/images/recipes/picoletas-banana-chocolate.jpg"
+    "image": "/images/recipes/picoletas-banana-chocolate.jpg",
+    "nutrition": {
+      "calories": 195,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 11,
+      "fiber": 4
+    }
   },
   {
     "id": 85,
@@ -5154,7 +5742,14 @@
     "cookTime": "8 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-85",
-    "image": "/images/recipes/ovos-mexidos-cogumelos.jpg"
+    "image": "/images/recipes/ovos-mexidos-cogumelos.jpg",
+    "nutrition": {
+      "calories": 235,
+      "protein": 18,
+      "carbs": 6,
+      "fat": 16,
+      "fiber": 2
+    }
   },
   {
     "id": 86,
@@ -5207,7 +5802,14 @@
     "cookTime": "15 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-86",
-    "image": "/images/recipes/socca-grao-bico.jpg"
+    "image": "/images/recipes/socca-grao-bico.jpg",
+    "nutrition": {
+      "calories": 155,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 9,
+      "fiber": 3
+    }
   },
   {
     "id": 87,
@@ -5264,7 +5866,14 @@
     "cookTime": "0 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-87",
-    "image": "/images/recipes/parfait-coco-granola.jpg"
+    "image": "/images/recipes/parfait-coco-granola.jpg",
+    "nutrition": {
+      "calories": 275,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 16,
+      "fiber": 6
+    }
   },
   {
     "id": 88,
@@ -5335,7 +5944,14 @@
     "cookTime": "25 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-88",
-    "image": "/images/recipes/sopa-batata-doce-lentilhas.jpg"
+    "image": "/images/recipes/sopa-batata-doce-lentilhas.jpg",
+    "nutrition": {
+      "calories": 220,
+      "protein": 9,
+      "carbs": 32,
+      "fat": 7,
+      "fiber": 7
+    }
   },
   {
     "id": 89,
@@ -5394,7 +6010,14 @@
     "cookTime": "20 min",
     "servings": 6,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-89",
-    "image": "/images/recipes/crackers-linhaca.jpg"
+    "image": "/images/recipes/crackers-linhaca.jpg",
+    "nutrition": {
+      "calories": 130,
+      "protein": 5,
+      "carbs": 5,
+      "fat": 10,
+      "fiber": 6
+    }
   },
   {
     "id": 90,
@@ -5458,7 +6081,14 @@
     "cookTime": "15 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-90",
-    "image": "/images/recipes/bowl-quinoa-kale.jpg"
+    "image": "/images/recipes/bowl-quinoa-kale.jpg",
+    "nutrition": {
+      "calories": 370,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 20,
+      "fiber": 7
+    }
   },
   {
     "id": 91,
@@ -5496,7 +6126,14 @@
     "cookTime": "90 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-91",
-    "image": "/images/recipes/chips-maca.jpg"
+    "image": "/images/recipes/chips-maca.jpg",
+    "nutrition": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "fiber": 4
+    }
   },
   {
     "id": 92,
@@ -5559,7 +6196,14 @@
     "cookTime": "18 min",
     "servings": 4,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-92",
-    "image": "/images/recipes/cogumelos-recheados.jpg"
+    "image": "/images/recipes/cogumelos-recheados.jpg",
+    "nutrition": {
+      "calories": 125,
+      "protein": 6,
+      "carbs": 8,
+      "fat": 9,
+      "fiber": 3
+    }
   },
   {
     "id": 93,
@@ -5609,7 +6253,14 @@
     "cookTime": "10 min",
     "servings": 8,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-93",
-    "image": "/images/recipes/compota-mirtilo-chia.jpg"
+    "image": "/images/recipes/compota-mirtilo-chia.jpg",
+    "nutrition": {
+      "calories": 30,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 1,
+      "fiber": 2
+    }
   },
   {
     "id": 94,
@@ -5672,7 +6323,14 @@
     "cookTime": "0 min (30 min no frigorífico)",
     "servings": 12,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-94",
-    "image": "/images/recipes/energy-balls-cenoura.jpg"
+    "image": "/images/recipes/energy-balls-cenoura.jpg",
+    "nutrition": {
+      "calories": 85,
+      "protein": 2,
+      "carbs": 13,
+      "fat": 4,
+      "fiber": 2
+    }
   },
   {
     "id": 95,
@@ -5729,7 +6387,14 @@
     "cookTime": "20 min",
     "servings": 6,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-95",
-    "image": "/images/recipes/muffins-ovo-brocolis.jpg"
+    "image": "/images/recipes/muffins-ovo-brocolis.jpg",
+    "nutrition": {
+      "calories": 110,
+      "protein": 9,
+      "carbs": 3,
+      "fat": 7,
+      "fiber": 1
+    }
   },
   {
     "id": 96,
@@ -5787,7 +6452,14 @@
     "cookTime": "0 min (1h no frigorífico)",
     "servings": 12,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-96",
-    "image": "/images/recipes/trufas-abacate-cacau.jpg"
+    "image": "/images/recipes/trufas-abacate-cacau.jpg",
+    "nutrition": {
+      "calories": 75,
+      "protein": 1,
+      "carbs": 9,
+      "fat": 5,
+      "fiber": 2
+    }
   },
   {
     "id": 97,
@@ -5848,7 +6520,14 @@
     "cookTime": "15 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-97",
-    "image": "/images/recipes/crepes-sarraceno-cogumelos.jpg"
+    "image": "/images/recipes/crepes-sarraceno-cogumelos.jpg",
+    "nutrition": {
+      "calories": 240,
+      "protein": 11,
+      "carbs": 20,
+      "fat": 13,
+      "fiber": 3
+    }
   },
   {
     "id": 98,
@@ -5902,7 +6581,14 @@
     "cookTime": "0 min (4h congelação)",
     "servings": 6,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-98",
-    "image": "/images/recipes/picoletas-frutos-vermelhos.jpg"
+    "image": "/images/recipes/picoletas-frutos-vermelhos.jpg",
+    "nutrition": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 5,
+      "fiber": 2
+    }
   },
   {
     "id": 99,
@@ -5965,7 +6651,14 @@
     "cookTime": "18 min",
     "servings": 2,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-99",
-    "image": "/images/recipes/hash-batata-doce.jpg"
+    "image": "/images/recipes/hash-batata-doce.jpg",
+    "nutrition": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 36,
+      "fat": 15,
+      "fiber": 6
+    }
   },
   {
     "id": 100,
@@ -6015,6 +6708,13 @@
     "cookTime": "2 min",
     "servings": 1,
     "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-100",
-    "image": "/images/recipes/matcha-latte.jpg"
+    "image": "/images/recipes/matcha-latte.jpg",
+    "nutrition": {
+      "calories": 75,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 7,
+      "fiber": 0
+    }
   }
 ]

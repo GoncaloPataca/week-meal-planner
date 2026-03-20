@@ -133,6 +133,29 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
               </div>
             )}
 
+            {meal.nutrition && (
+              <div className="rounded-lg border px-4 py-3" style={{ borderColor: 'var(--border)', backgroundColor: 'color-mix(in srgb, var(--primary) 6%, var(--surface))' }}>
+                <p className="text-xs font-semibold uppercase tracking-wide secondary-themed mb-2.5">
+                  {t('meal.nutrition')} <span className="font-normal normal-case">· {t('meal.perServing')}</span>
+                </p>
+                <div className="grid grid-cols-5 gap-1 text-center">
+                  {[
+                    { key: 'calories', value: meal.nutrition.calories, unit: t('meal.calories'), accent: true,  label: ''                },
+                    { key: 'protein',  value: meal.nutrition.protein,  unit: 'g',                accent: false, label: t('meal.protein') },
+                    { key: 'carbs',    value: meal.nutrition.carbs,    unit: 'g',                accent: false, label: t('meal.carbs')   },
+                    { key: 'fat',      value: meal.nutrition.fat,      unit: 'g',                accent: false, label: t('meal.fat')     },
+                    { key: 'fiber',    value: meal.nutrition.fiber,    unit: 'g',                accent: false, label: t('meal.fiber')   },
+                  ].map(({ key, value, unit, accent, label }) => (
+                    <div key={key}>
+                      <p className={`text-lg font-bold leading-none ${accent ? 'link-themed' : 'heading-themed'}`}>{value}</p>
+                      <p className="text-[10px] secondary-themed leading-tight">{unit}</p>
+                      {label && <p className="text-[10px] secondary-themed font-medium leading-tight mt-0.5">{label}</p>}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
             <div className="pt-2 flex flex-col sm:flex-row gap-2">
               <button
                 onClick={(e) => {

@@ -28,7 +28,14 @@
     "cook": "cook",
     "ingredients": "Ingredients",
     "steps": "Steps",
-    "viewOriginal": "View original recipe"
+    "viewOriginal": "View original recipe",
+    "nutrition": "Nutrition",
+    "perServing": "per serving",
+    "calories": "kcal",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fat": "Fat",
+    "fiber": "Fiber"
   },
   "theme": {
     "toggle": "Toggle theme"

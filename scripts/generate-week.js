@@ -83,19 +83,19 @@ function makeMealEntry(recipe, type) {
       idPrefix: 'breakfast',
       label: 'Morning',
       time: '08:00',
-      notes: `Pequeno-almoço do Chef António Duarte • ${recipe.calories} calorias por porção`,
+      notes: null,
     },
     lunch: {
       idPrefix: 'lunch',
       label: 'Lunch',
       time: '13:00',
-      notes: recipe.calories ? `${recipe.calories} calorias por porção` : null,
+      notes: null,
     },
     dinner: {
       idPrefix: 'dinner',
       label: 'Dinner',
       time: '20:00',
-      notes: recipe.calories ? `${recipe.calories} calorias por porção` : null,
+      notes: null,
     },
   };
 
@@ -115,6 +115,7 @@ function makeMealEntry(recipe, type) {
     image: recipe.image || null,
   };
   if (cfg.notes) entry.notes = cfg.notes;
+  if (recipe.nutrition) entry.nutrition = recipe.nutrition;
   return entry;
 }
 

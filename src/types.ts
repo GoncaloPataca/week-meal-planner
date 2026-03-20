@@ -3,6 +3,14 @@ export interface Ingredient {
   amount?: string
 }
 
+export interface Nutrition {
+  calories: number
+  protein: number
+  carbs: number
+  fat: number
+  fiber: number
+}
+
 export interface Meal {
   id: string
   label: string // e.g. "Morning", "Evening", "Dinner"
@@ -17,4 +25,5 @@ export interface Meal {
   notes?: string
   url?: string // URL to the original recipe
   image?: string // Path to local image file
+  nutrition?: Nutrition
 }

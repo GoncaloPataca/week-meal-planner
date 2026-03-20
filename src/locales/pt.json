@@ -28,7 +28,14 @@
     "cook": "cozedura",
     "ingredients": "Ingredientes",
     "steps": "Passos",
-    "viewOriginal": "Ver receita original"
+    "viewOriginal": "Ver receita original",
+    "nutrition": "Nutrição",
+    "perServing": "por porção",
+    "calories": "kcal",
+    "protein": "Proteína",
+    "carbs": "Carbos",
+    "fat": "Gordura",
+    "fiber": "Fibra"
   },
   "theme": {
     "toggle": "Alternar tema"
