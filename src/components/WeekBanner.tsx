@@ -1,6 +1,7 @@
 import React from 'react'
 import { Tab } from '@headlessui/react'
 import { useTranslation } from 'react-i18next'
+import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/24/outline'
 import useStore from '../store'
 import { downloadMultipleICS } from '../utils/calendar'
 
@@ -76,9 +77,7 @@ export default function WeekBanner(_: Props): JSX.Element {
           className="btn-themed flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg border transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 text-xs sm:text-sm font-medium"
           aria-label={t('navigation.previousWeek')}
         >
-          <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-          </svg>
+          <ChevronLeftIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
           <span className="hidden sm:inline">{t('navigation.previousWeek')}</span>
         </button>
 
@@ -97,9 +96,7 @@ export default function WeekBanner(_: Props): JSX.Element {
           aria-label={t('navigation.nextWeek')}
         >
           <span className="hidden sm:inline">{t('navigation.nextWeek')}</span>
-          <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-          </svg>
+          <ChevronRightIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
         </button>
       </div>
 

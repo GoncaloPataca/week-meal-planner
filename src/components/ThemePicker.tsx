@@ -1,8 +1,10 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useTheme } from 'next-themes'
+import { CheckIcon } from '@heroicons/react/24/outline'
 import { themes, DEFAULT_THEME_ID, PALETTE_STORAGE_KEY, applyTheme } from '../themes'
 import NavButton from './NavButton'
+import { PaletteIcon } from './icons'
 
 /** Convert 'warm-peach' → 'palette.warmPeach' */
 const tKey = (id: string) =>
@@ -52,15 +54,7 @@ export default function ThemePicker() {
         aria-label={t('palette.label')}
         title={t('palette.label')}
       >
-        {/* Painter's palette icon */}
-        <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round">
-          <path d="M12 2C6.48 2 2 6.48 2 12c0 3.17 2.12 5 4.5 5 .83 0 1.5.67 1.5 1.5S7.33 20 6.5 20C4.5 20 2 18 2 12 2 6.48 6.48 2 12 2z" />
-          <path d="M22 12c0 5.52-4.48 10-10 10" />
-          <circle cx="8.5"  cy="7"  r="1.2" fill="currentColor" stroke="none" />
-          <circle cx="12"   cy="5"  r="1.2" fill="currentColor" stroke="none" />
-          <circle cx="15.5" cy="7"  r="1.2" fill="currentColor" stroke="none" />
-          <circle cx="17"   cy="11" r="1.2" fill="currentColor" stroke="none" />
-        </svg>
+        <PaletteIcon className="w-5 h-5" />
       </NavButton>
 
       {open && (
@@ -118,13 +112,7 @@ export default function ThemePicker() {
 
                     {isActive && (
                       <span style={{ color: 'var(--primary)' }}>
-                        <svg className="w-4 h-4" viewBox="0 0 20 20" fill="currentColor">
-                          <path
-                            fillRule="evenodd"
-                            d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                            clipRule="evenodd"
-                          />
-                        </svg>
+                        <CheckIcon className="w-4 h-4" />
                       </span>
                     )}
                   </button>
