@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Week Meals",
+  "description": "Maps ISO date strings to an ordered list of meals for that day.",
+  "type": "object",
+  "additionalProperties": {
+    "type": "array",
+    "items": { "$ref": "#/definitions/Meal" }
+  },
+  "propertyNames": {
+    "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+    "description": "Keys must be ISO-8601 dates (YYYY-MM-DD)"
+  },
+  "definitions": {
+    "Ingredient": {
+      "type": "object",
+      "required": ["name"],
+      "additionalProperties": false,
+      "properties": {
+        "name":   { "type": "string", "minLength": 1 },
+        "amount": { "type": "string" }
+      }
+    },
+    "Nutrition": {
+      "type": "object",
+      "required": ["calories", "protein", "carbs", "fat", "fiber"],
+      "additionalProperties": false,
+      "properties": {
+        "calories": { "type": "number", "minimum": 0 },
+        "protein":  { "type": "number", "minimum": 0 },
+        "carbs":    { "type": "number", "minimum": 0 },
+        "fat":      { "type": "number", "minimum": 0 },
+        "fiber":    { "type": "number", "minimum": 0 }
+      }
+    },
+    "Meal": {
+      "type": "object",
+      "required": ["id", "label", "title"],
+      "additionalProperties": false,
+      "properties": {
+        "id":          { "type": "string", "minLength": 1 },
+        "label":       { "type": "string", "enum": ["Morning", "Lunch", "Dinner", "Evening", "Dessert"] },
+        "title":       { "type": "string", "minLength": 1 },
+        "time":        { "type": "string", "pattern": "^([01]\\d|2[0-3]):[0-5]\\d$" },
+        "servings":    { "type": "number", "minimum": 1 },
+        "prep":        { "type": "string" },
+        "cook":        { "type": "string" },
+        "tags":        { "type": "array", "items": { "type": "string" } },
+        "ingredients": { "type": "array", "items": { "$ref": "#/definitions/Ingredient" } },
+        "steps":       { "type": "array", "items": { "type": "string" } },
+        "notes":       { "type": ["string", "null"] },
+        "url":         { "type": "string", "format": "uri" },
+        "image":       { "type": "string" },
+        "nutrition":   { "$ref": "#/definitions/Nutrition" }
+      }
+    }
+  }
+}

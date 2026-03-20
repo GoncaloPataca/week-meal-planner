@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Recipe Pool",
+  "description": "Array of recipes used as the source pool by generate-week.js.",
+  "type": "array",
+  "items": { "$ref": "#/definitions/Recipe" },
+  "definitions": {
+    "Ingredient": {
+      "type": "object",
+      "required": ["name"],
+      "additionalProperties": false,
+      "properties": {
+        "name":   { "type": "string", "minLength": 1 },
+        "amount": { "type": "string" }
+      }
+    },
+    "Nutrition": {
+      "type": "object",
+      "required": ["calories", "protein", "carbs", "fat", "fiber"],
+      "additionalProperties": false,
+      "properties": {
+        "calories": { "type": "number", "minimum": 0 },
+        "protein":  { "type": "number", "minimum": 0 },
+        "carbs":    { "type": "number", "minimum": 0 },
+        "fat":      { "type": "number", "minimum": 0 },
+        "fiber":    { "type": "number", "minimum": 0 }
+      }
+    },
+    "Recipe": {
+      "type": "object",
+      "required": ["id", "name", "ingredients", "steps"],
+      "additionalProperties": false,
+      "properties": {
+        "id":          { "type": ["number", "string"] },
+        "name":        { "type": "string", "minLength": 1 },
+        "ingredients": { "type": "array", "items": { "$ref": "#/definitions/Ingredient" } },
+        "steps":       { "type": "array", "items": { "type": "string" } },
+        "tags":        { "type": "array", "items": { "type": "string" } },
+        "calories":    { "type": "number", "minimum": 0, "description": "Legacy top-level calories; prefer nutrition.calories" },
+        "prepTime":    { "type": "string" },
+        "cookTime":    { "type": "string" },
+        "servings":    { "type": "number", "minimum": 1 },
+        "url":         { "type": "string", "format": "uri" },
+        "image":       { "type": "string" },
+        "nutrition":   { "$ref": "#/definitions/Nutrition" }
+      }
+    }
+  }
+}

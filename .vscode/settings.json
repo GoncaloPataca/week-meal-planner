@@ -1,0 +1,16 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["src/data/meals.json"],
+      "url": "./schemas/meals.schema.json"
+    },
+    {
+      "fileMatch": [
+        "src/data/allBreakfasts.json",
+        "src/data/AllLunches.json",
+        "src/data/AllDinners.json"
+      ],
+      "url": "./schemas/recipe-pool.schema.json"
+    }
+  ]
+}
