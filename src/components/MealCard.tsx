@@ -43,50 +43,52 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
           style={{ backgroundColor: 'var(--surface)', borderColor: 'var(--border)' }}
         >
           <Disclosure.Button className="w-full text-left p-5 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-inset">
-            <div className="flex items-start justify-between gap-3">
-              {meal.image && (
-                <img 
-                  src={resolveImage(meal.image)}
-                  alt={meal.title}
-                  className="w-20 h-20 object-cover rounded-lg flex-shrink-0"
-                />
-              )}
-              <div className="flex-1 space-y-2">
-                <div className="flex items-center gap-2 flex-wrap">
-                  <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${labelColors[meal.label] || 'tag-themed'}`}>
-                    {meal.label}
-                  </span>
-                  {meal.tags && meal.tags.map((tag) => (
-                    <span key={tag} className="tag-themed inline-flex items-center px-2 py-0.5 rounded-md text-xs font-medium">
-                      {tag}
-                    </span>
-                  ))}
+            <div className="flex flex-col gap-3">
+              <div className="flex items-start justify-between gap-3">
+                {meal.image && (
+                  <img 
+                    src={resolveImage(meal.image)}
+                    alt={meal.title}
+                    className="w-20 h-20 object-cover rounded-lg flex-shrink-0"
+                  />
+                )}
+                <div className="flex-1 min-w-0 space-y-2">
+                  <h3 className="text-lg font-serif font-semibold heading-themed leading-snug break-words">
+                    {meal.title}
+                  </h3>
+                  {meal.url && (
+                    <a 
+                      href={meal.url} 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="link-themed text-xs hover:underline inline-flex items-center gap-1"
+                      onClick={(e) => e.stopPropagation()}
+                    >
+                      {t('meal.viewOriginal')}
+                      <ArrowTopRightOnSquareIcon className="w-3 h-3" />
+                    </a>
+                  )}
+                  {(meal.servings || meal.prep || meal.cook) && (
+                    <div className="flex items-center gap-3 text-sm secondary-themed">
+                      {meal.servings && <span className="inline-flex items-center gap-1"><UsersIcon className="w-4 h-4 flex-shrink-0" />{meal.servings} {t('meal.servings')}</span>}
+                      {meal.prep && <span className="inline-flex items-center gap-1"><ClockIcon className="w-4 h-4 flex-shrink-0" />{meal.prep} {t('meal.prep')}</span>}
+                      {meal.cook && <span className="inline-flex items-center gap-1"><FireIcon className="w-4 h-4 flex-shrink-0" />{meal.cook} {t('meal.cook')}</span>}
+                    </div>
+                  )}
                 </div>
-                <h3 className="text-lg font-serif font-semibold heading-themed leading-snug">
-                  {meal.title}
-                </h3>
-                {meal.url && (
-                  <a 
-                    href={meal.url} 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="link-themed text-xs hover:underline inline-flex items-center gap-1"
-                    onClick={(e) => e.stopPropagation()}
-                  >
-                    {t('meal.viewOriginal')}
-                    <ArrowTopRightOnSquareIcon className="w-3 h-3" />
-                  </a>
-                )}
-                {(meal.servings || meal.prep || meal.cook) && (
-                  <div className="flex items-center gap-3 text-sm secondary-themed">
-                    {meal.servings && <span className="inline-flex items-center gap-1"><UsersIcon className="w-4 h-4 flex-shrink-0" />{meal.servings} {t('meal.servings')}</span>}
-                    {meal.prep && <span className="inline-flex items-center gap-1"><ClockIcon className="w-4 h-4 flex-shrink-0" />{meal.prep} {t('meal.prep')}</span>}
-                    {meal.cook && <span className="inline-flex items-center gap-1"><FireIcon className="w-4 h-4 flex-shrink-0" />{meal.cook} {t('meal.cook')}</span>}
-                  </div>
-                )}
+                <div className={`flex-shrink-0 transition-transform duration-200 ${open ? 'rotate-180' : ''}`}>
+                  <ChevronDownIcon className="w-5 h-5" />
+                </div>
               </div>
-              <div className={`flex-shrink-0 transition-transform duration-200 ${open ? 'rotate-180' : ''}`}>
-                <ChevronDownIcon className="w-5 h-5" />
+              <div className="flex items-center gap-2 flex-wrap">
+                <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${labelColors[meal.label] || 'tag-themed'}`}>
+                  {meal.label}
+                </span>
+                {meal.tags && meal.tags.map((tag) => (
+                  <span key={tag} className="tag-themed inline-flex items-center px-2 py-0.5 rounded-md text-xs font-medium">
+                    {tag}
+                  </span>
+                ))}
               </div>
             </div>
           </Disclosure.Button>
