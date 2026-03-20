@@ -1,118 +1,180 @@
 {
   "2026-03-16": [
     {
-      "id": "breakfast-11",
+      "id": "breakfast-12",
       "label": "Morning",
       "time": "08:00",
-      "title": "Smoothie Cremoso de Abacate e Cacau",
+      "title": "Tapioca Recheada com Ovo e Espinafres",
       "servings": 1,
       "prep": "5 min",
-      "cook": "0 min",
+      "cook": "8 min",
       "tags": [
         "sem glúten",
         "sem lactose",
         "sem açúcar",
-        "vegano",
-        "pequeno-almoço",
-        "rápido"
-      ],
-      "ingredients": [
-        {
-          "amount": "1/2 unidade",
-          "name": "Abacate maduro"
-        },
-        {
-          "amount": "1 unidade",
-          "name": "Banana congelada"
-        },
-        {
-          "amount": "2 colheres de sopa",
-          "name": "Cacau em pó puro (sem açúcar)"
-        },
-        {
-          "amount": "1 xícara (240ml)",
-          "name": "Leite de amêndoa sem açúcar"
-        },
-        {
-          "amount": "1 colher de sopa",
-          "name": "Sementes de chia"
-        },
-        {
-          "amount": "3-4 cubos",
-          "name": "Gelo"
-        }
-      ],
-      "steps": [
-        "Coloque o abacate, a banana congelada, o cacau em pó e o leite de amêndoa no liquidificador.",
-        "Adicione as sementes de chia e o gelo.",
-        "Bata em velocidade alta por 40-50 segundos até ficar completamente cremoso.",
-        "A consistência deve ser espessa como um batido.",
-        "Sirva num copo alto.",
-        "Consuma imediatamente para máximo frescor."
-      ],
-      "notes": "Pequeno-almoço do Chef António Duarte • 345 calorias por porção",
-      "url": "https://pequeno-almoco.chefantonioduarte.com/#smoothie-cremoso-de-abacate-e-cacau",
-      "image": "/images/recipes/smoothie-abacate-cacau.jpg"
-    }
-  ],
-  "2026-03-17": [
-    {
-      "id": "breakfast-7",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Pudim de Chia com Manga Fresca",
-      "servings": 1,
-      "prep": "5 min",
-      "cook": "0 min (repouso de 4-6h)",
-      "tags": [
-        "sem glúten",
-        "sem lactose",
-        "sem açúcar",
-        "sem forno",
+        "rápido",
         "pequeno-almoço"
       ],
       "ingredients": [
         {
-          "amount": "3 colheres de sopa (30g)",
-          "name": "Sementes de chia"
+          "amount": "3 colheres de sopa (45g)",
+          "name": "Goma de tapioca hidratada"
         },
         {
-          "amount": "3/4 xícara (180ml)",
-          "name": "Leite de coco sem açúcar"
+          "amount": "2 unidades",
+          "name": "Ovos"
         },
         {
-          "amount": "1/2 unidade",
-          "name": "Manga madura"
+          "amount": "1 xícara (30g)",
+          "name": "Espinafres frescos"
         },
         {
-          "amount": "1/2 colher de chá",
-          "name": "Essência de baunilha"
+          "amount": "1 colher de chá",
+          "name": "Azeite extra-virgem"
         },
         {
-          "amount": "1 colher de sopa",
-          "name": "Coco ralado sem açúcar"
+          "amount": "1/2 dente",
+          "name": "Alho picado"
         },
         {
-          "amount": "3 folhas",
-          "name": "Hortelã fresca (decoração)"
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        },
+        {
+          "amount": "1/4 colher de chá",
+          "name": "Cúrcuma em pó (opcional)"
         }
       ],
       "steps": [
-        "Num frasco de vidro, misture as sementes de chia com o leite de coco e a essência de baunilha.",
-        "Mexa vigorosamente por 30 segundos para evitar grumos.",
-        "Tampe e leve ao frigorífico por no mínimo 4 horas (idealmente durante a noite).",
-        "Após o tempo de repouso, mexa novamente — o pudim deve ter consistência firme e cremosa.",
-        "Descasque a manga e corte em cubos pequenos.",
-        "Distribua metade da manga no fundo de uma taça ou copo.",
-        "Coloque o pudim de chia por cima e decore com os cubos restantes de manga, coco ralado e folhas de hortelã.",
-        "Consuma frio."
+        "Aqueça uma frigideira antiaderente em lume médio. Espalhe a goma de tapioca uniformemente com uma colher, formando um disco fino.",
+        "Deixe a tapioca cozinhar sem mexer por 1-2 minutos até ficar translúcida e soltar-se da frigideira. Vire com cuidado e cozinhe mais 30 segundos. Reserve.",
+        "Na mesma frigideira, aqueça o azeite em lume médio.",
+        "Adicione o alho picado e refogue por 30 segundos até perfumar.",
+        "Junte os espinafres e mexa por 1 minuto até murcharem.",
+        "Bata os ovos com sal, pimenta e cúrcuma. Despeje sobre os espinafres.",
+        "Mexa delicadamente com uma espátula, fazendo ovos mexidos cremosos (retire do lume antes de ficarem completamente secos).",
+        "Recheie a tapioca com o ovo e espinafres. Dobre ao meio e sirva quente."
       ],
-      "notes": "Pequeno-almoço do Chef António Duarte • 245 calorias por porção",
-      "url": "https://pequeno-almoco.chefantonioduarte.com/#pudim-de-chia-com-manga-fresca",
-      "image": "/images/recipes/pudim-chia-manga.jpg"
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-12",
+      "image": "/images/recipes/tapioca-ovo-espinafres.jpg",
+      "notes": "Pequeno-almoço do Chef António Duarte • 250 calorias por porção"
+    },
+    {
+      "id": "lunch-L04",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Risotto de Cogumelos e Espinafres",
+      "servings": 3,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "300g",
+          "name": "Cogumelos Paris fatiados"
+        },
+        {
+          "amount": "1 xícara (200g)",
+          "name": "Arroz arbóreo"
+        },
+        {
+          "amount": "2 punhados",
+          "name": "Espinafres frescos"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola picada"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho picado"
+        },
+        {
+          "amount": "800ml",
+          "name": "Caldo de legumes quente"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e noz-moscada"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola e o alho em azeite por 3 minutos.",
+        "Adicione os cogumelos e cozinhe até ficarem dourados.",
+        "Junte o arroz e mexa 1 minuto para tostar.",
+        "Adicione o caldo aos poucos, concha a concha, mexendo sempre até ser absorvido.",
+        "Quando o arroz estiver al dente (~18 min), incorpore os espinafres e rectifique o sal."
+      ],
+      "url": null,
+      "image": "/images/recipes/risotto-cogumelos.jpg",
+      "notes": "390 calorias por porção"
+    },
+    {
+      "id": "dinner-D01",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Frango Assado com Batata-Doce e Alecrim",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "45 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "frango",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "4 coxas",
+          "name": "Frango (coxas com pele)"
+        },
+        {
+          "amount": "2 unidades médias",
+          "name": "Batata-doce"
+        },
+        {
+          "amount": "4 ramos",
+          "name": "Alecrim fresco"
+        },
+        {
+          "amount": "4 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Limão"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e pimentão fumado"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 200°C.",
+        "Corte a batata-doce em meias-luas e disponha num tabuleiro com azeite e alecrim.",
+        "Coloque as coxas por cima, tempere com sal, pimenta, pimentão fumado e raspa de limão.",
+        "Espalhe os dentes de alho inteiros pelo tabuleiro.",
+        "Asse 40-45 minutos até o frango estar dourado e a batata macia.",
+        "Sirva com sumo de limão por cima."
+      ],
+      "url": null,
+      "image": "/images/recipes/frango-batata-doce.jpg",
+      "notes": "480 calorias por porção"
     }
   ],
-  "2026-03-18": [
+  "2026-03-17": [
     {
       "id": "breakfast-1",
       "label": "Morning",
@@ -155,24 +217,144 @@
         },
         {
           "amount": "1 pitada",
-          "name": "Sal"
+          "name": "Pitada de sal"
         }
       ],
       "steps": [
-        "Esmague as bananas num recipiente com um garfo.",
-        "Adicione os ovos e bata bem.",
-        "Junte a aveia, a canela, o fermento e o sal. Misture até obter uma massa homogénea.",
-        "Aqueça uma frigideira antiaderente em lume médio com um pouco de óleo de coco.",
-        "Despeje pequenas porções de massa (cerca de 1/4 xícara) na frigideira.",
-        "Cozinhe por 2-3 minutos de cada lado até dourar.",
-        "Sirva quente com frutos vermelhos ou manteiga de amêndoa."
+        "Amasse as bananas com um garfo num recipiente até formar um purê liso.",
+        "Adicione os ovos e misture bem com um fouet ou garfo.",
+        "Junte a aveia em flocos, a canela, o fermento e o sal. Mexa até a massa ficar homogénea.",
+        "Deixe a massa descansar 3 minutos para a aveia absorver a humidade.",
+        "Aqueça uma frigideira antiaderente em lume médio-baixo com um pouco de óleo de coco.",
+        "Coloque cerca de 2 colheres de sopa de massa por panqueca na frigideira.",
+        "Cozinhe por 2-3 minutos de cada lado até dourar. Vire com cuidado quando surgirem bolhas na superfície.",
+        "Sirva de imediato com frutas frescas a gosto."
       ],
-      "notes": "Pequeno-almoço do Chef António Duarte • 375 calorias por porção",
-      "url": "https://pequeno-almoco.chefantonioduarte.com/#panquecas-de-banana-e-aveia-sem-gluten",
-      "image": "/images/recipes/panquecas-banana-aveia.jpg"
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-1",
+      "image": "/images/recipes/panquecas-banana-aveia.jpg",
+      "notes": "Pequeno-almoço do Chef António Duarte • 375 calorias por porção"
+    },
+    {
+      "id": "lunch-L09",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Gaspacho com Camarão Salteado",
+      "servings": 2,
+      "prep": "15 min",
+      "cook": "5 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "marisco",
+        "almoço",
+        "refrescante"
+      ],
+      "ingredients": [
+        {
+          "amount": "4 unidades grandes",
+          "name": "Tomate maduro"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Pepino"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Pimento verde"
+        },
+        {
+          "amount": "1 dente",
+          "name": "Alho"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Vinagre de vinho branco"
+        },
+        {
+          "amount": "200g",
+          "name": "Camarão descascado"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Triture o tomate, pepino, pimento, alho, 2 colheres de azeite e o vinagre até ficar liso.",
+        "Passe por um coador, tempere com sal e leve ao frigorífico pelo menos 1 hora.",
+        "Tempere o camarão com sal e pimenta. Salteie em azeite quente 2 minutos de cada lado.",
+        "Sirva o gaspacho frio com o camarão por cima."
+      ],
+      "url": null,
+      "image": "/images/recipes/gaspacho-camarao.jpg",
+      "notes": "290 calorias por porção"
+    },
+    {
+      "id": "dinner-D02",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Bacalhau com Grão e Espinafres",
+      "servings": 3,
+      "prep": "10 min",
+      "cook": "20 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "peixe",
+        "jantar",
+        "tradicional"
+      ],
+      "ingredients": [
+        {
+          "amount": "400g",
+          "name": "Bacalhau desfiado (demolhado)"
+        },
+        {
+          "amount": "1 lata (400g)",
+          "name": "Grão-de-bico cozido"
+        },
+        {
+          "amount": "2 punhados",
+          "name": "Espinafres frescos"
+        },
+        {
+          "amount": "3 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "4 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "2 ovos",
+          "name": "Ovos cozidos (guarnição)"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e salsa"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola e o alho em azeite até amolecerem.",
+        "Adicione o bacalhau e cozinhe 5 minutos.",
+        "Junte o grão-de-bico e mexa bem.",
+        "Incorpore os espinafres e cozinhe até murcharem.",
+        "Sirva com ovos cozidos cortados ao meio e salsa picada."
+      ],
+      "url": null,
+      "image": "/images/recipes/bacalhau-grao-espinafres.jpg",
+      "notes": "430 calorias por porção"
     }
   ],
-  "2026-03-19": [
+  "2026-03-18": [
     {
       "id": "breakfast-2",
       "label": "Morning",
@@ -226,150 +408,144 @@
         "Tampe o frasco e leve ao frigorífico por no mínimo 6 horas (idealmente durante a noite).",
         "Pela manhã, mexa a mistura. Se estiver muito espessa, adicione um pouco mais de leite.",
         "Decore com os morangos e mirtilos restantes por cima.",
-        "Consuma frio, diretamente do frasco."
+        "Consuma frio, diretamente do frasco. Pode adicionar frutos secos a gosto."
       ],
-      "notes": "Pequeno-almoço do Chef António Duarte • 220 calorias por porção",
-      "url": "https://pequeno-almoco.chefantonioduarte.com/#overnight-oats-de-frutos-vermelhos",
-      "image": "/images/recipes/overnight-oats.jpg"
-    }
-  ],
-  "2026-03-20": [
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-2",
+      "image": "/images/recipes/overnight-oats.jpg",
+      "notes": "Pequeno-almoço do Chef António Duarte • 220 calorias por porção"
+    },
     {
-      "id": "breakfast-16",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Açaí Bowl Energizante com Granola",
-      "servings": 1,
-      "prep": "5 min",
-      "cook": "0 min",
+      "id": "lunch-L10",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Panela de Feijão Preto com Couve",
+      "servings": 3,
+      "prep": "10 min",
+      "cook": "20 min",
       "tags": [
         "sem glúten",
-        "sem lactose",
-        "sem açúcar",
         "vegano",
-        "pequeno-almoço"
+        "almoço"
       ],
       "ingredients": [
         {
-          "amount": "1 pacote (100g)",
-          "name": "Polpa de açaí congelada (sem açúcar)"
+          "amount": "1 lata (400g)",
+          "name": "Feijão preto cozido"
+        },
+        {
+          "amount": "1/2 couve",
+          "name": "Couve portuguesa"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
         },
         {
           "amount": "1 unidade",
-          "name": "Banana congelada"
-        },
-        {
-          "amount": "1/4 xícara (60ml)",
-          "name": "Leite de coco sem açúcar"
-        },
-        {
-          "amount": "1/2 unidade",
-          "name": "Banana fresca fatiada"
-        },
-        {
-          "amount": "3 colheres de sopa",
-          "name": "Granola caseira sem glúten"
-        },
-        {
-          "amount": "1 colher de sopa",
-          "name": "Coco em lascas sem açúcar"
+          "name": "Cebola"
         },
         {
           "amount": "1 colher de chá",
-          "name": "Sementes de chia"
+          "name": "Pimentão fumado"
+        },
+        {
+          "amount": "400ml",
+          "name": "Caldo de legumes"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
         }
       ],
       "steps": [
-        "Retire a polpa de açaí do congelador e parta-a em pedaços menores.",
-        "Coloque a polpa de açaí, a banana congelada e o leite de coco no liquidificador.",
-        "Bata em velocidade alta por 30-40 segundos. A consistência deve ser muito espessa, como um gelado macio.",
-        "Se necessário, use a espátula para empurrar os ingredientes. Adicione leite aos poucos se estiver muito espesso.",
-        "Transfira para uma tigela funda.",
-        "Decore em fileiras: fatias de banana, granola, lascas de coco e sementes de chia.",
-        "Consuma imediatamente — o açaí derrete rápido."
+        "Refogue a cebola e o alho em azeite até dourar.",
+        "Adicione o pimentão fumado e mexa 30 segundos.",
+        "Junte o feijão e o caldo. Ferva 5 minutos.",
+        "Adicione a couve cortada em tiras finas e cozinhe mais 8 minutos.",
+        "Rectifique o tempero e sirva com arroz ou pão sem glúten."
       ],
-      "notes": "Pequeno-almoço do Chef António Duarte • 320 calorias por porção",
-      "url": "https://pequeno-almoco.chefantonioduarte.com/#acai-bowl-energizante-com-granola",
-      "image": "/images/recipes/acai-bowl.jpg"
-    }
-  ],
-  "2026-03-21": [
+      "url": null,
+      "image": "/images/recipes/feijao-preto-couve.jpg",
+      "notes": "310 calorias por porção"
+    },
     {
-      "id": "breakfast-4",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Smoothie Bowl Verde Energizante",
-      "servings": 1,
-      "prep": "5 min",
-      "cook": "0 min",
+      "id": "dinner-D13",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Tofu Salteado com Brócolos e Arroz",
+      "servings": 3,
+      "prep": "10 min",
+      "cook": "20 min",
       "tags": [
         "sem glúten",
-        "sem lactose",
-        "sem açúcar",
         "vegano",
-        "pequeno-almoço",
-        "rápido"
+        "jantar"
       ],
       "ingredients": [
         {
-          "amount": "2 xícaras (60g)",
-          "name": "Espinafres frescos"
+          "amount": "400g",
+          "name": "Tofu firme"
         },
         {
-          "amount": "1 unidade",
-          "name": "Banana congelada"
+          "amount": "1 cabeça",
+          "name": "Brócolos"
         },
         {
-          "amount": "1/4 unidade",
-          "name": "Abacate maduro"
+          "amount": "1 xícara (185g)",
+          "name": "Arroz branco"
         },
         {
-          "amount": "1/2 xícara (120ml)",
-          "name": "Leite de coco sem açúcar"
-        },
-        {
-          "amount": "1 colher de sopa",
-          "name": "Sementes de cânhamo"
+          "amount": "2 colheres de sopa",
+          "name": "Molho tamari (sem glúten)"
         },
         {
           "amount": "1 colher de sopa",
-          "name": "Sementes de abóbora"
+          "name": "Óleo de sésamo"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1 pedaço",
+          "name": "Gengibre fresco"
         },
         {
           "amount": "1 colher de sopa",
-          "name": "Coco ralado sem açúcar"
-        },
-        {
-          "amount": "1/2 unidade",
-          "name": "Kiwi fatiado"
+          "name": "Sementes de sésamo"
         }
       ],
       "steps": [
-        "Coloque os espinafres, a banana congelada, o abacate e o leite de coco no liquidificador.",
-        "Bata em velocidade alta por 30-40 segundos até ficar completamente liso e cremoso.",
-        "A consistência deve ser espessa, como um gelado macio.",
-        "Despeje numa tigela.",
-        "Decore com sementes de cânhamo, sementes de abóbora, coco ralado e fatias de kiwi.",
-        "Consuma imediatamente."
+        "Cozinhe o arroz e reserve.",
+        "Escorra o tofu e seque bem. Corte em cubos.",
+        "Frite o tofu em óleo quente até dourar de todos os lados. Reserve.",
+        "No mesmo wok, salteie o alho e o gengibre. Adicione os brócolos e salteie 4 minutos.",
+        "Junte o tofu e o tamari. Mexa bem.",
+        "Sirva sobre o arroz com óleo de sésamo e sementes."
       ],
-      "notes": "Pequeno-almoço do Chef António Duarte • 395 calorias por porção",
-      "url": "https://pequeno-almoco.chefantonioduarte.com/#smoothie-bowl-verde-energizante",
-      "image": "/images/recipes/smoothie-bowl-verde.jpg"
+      "url": null,
+      "image": "/images/recipes/tofu-brocoles-arroz.jpg",
+      "notes": "390 calorias por porção"
     }
   ],
-  "2026-03-22": [
+  "2026-03-19": [
     {
-      "id": "breakfast-15",
+      "id": "breakfast-82",
       "label": "Morning",
       "time": "08:00",
-      "title": "Papas de Aveia com Maçã Caramelizada e Nozes",
+      "title": "Overnight Oats Sabor Bolo de Cenoura",
       "servings": 1,
       "prep": "5 min",
-      "cook": "10 min",
+      "cook": "0 min (6-8h no frigorífico)",
       "tags": [
         "sem glúten",
         "sem lactose",
         "sem açúcar",
+        "sem forno",
         "pequeno-almoço"
       ],
       "ingredients": [
@@ -378,42 +554,706 @@
           "name": "Aveia em flocos (certificada sem glúten)"
         },
         {
-          "amount": "1 xícara (240ml)",
+          "amount": "3/4 xícara (180ml)",
           "name": "Leite de amêndoa sem açúcar"
         },
         {
-          "amount": "1 unidade",
-          "name": "Maçã verde"
+          "amount": "1/3 xícara (40g)",
+          "name": "Cenoura ralada finamente"
         },
         {
-          "amount": "2 colheres de sopa",
-          "name": "Nozes partidas"
+          "amount": "1 colher de sopa",
+          "name": "Sementes de chia"
         },
         {
           "amount": "1 colher de chá",
           "name": "Canela em pó"
         },
         {
-          "amount": "1 colher de chá",
-          "name": "Óleo de coco"
+          "amount": "1/4 colher de chá",
+          "name": "Noz-moscada ralada"
         },
         {
-          "amount": "1 pitada",
-          "name": "Sal"
+          "amount": "1/2 colher de chá",
+          "name": "Essência de baunilha"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Nozes picadas"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Coco ralado sem açúcar"
         }
       ],
       "steps": [
-        "Numa panela pequena, combine a aveia, o leite de amêndoa, meia colher de chá de canela e o sal.",
-        "Cozinhe em lume médio-baixo, mexendo ocasionalmente, por 5-7 minutos até engrossar.",
-        "Enquanto isso, corte a maçã em cubos pequenos.",
-        "Numa frigideira pequena, derreta o óleo de coco e adicione os cubos de maçã.",
-        "Polvilhe com a restante canela e cozinhe por 3-4 minutos até a maçã amolecer.",
-        "Sirva as papas numa tigela, cubra com a maçã caramelizada e as nozes partidas.",
-        "Consuma quente."
+        "Num frasco de vidro com tampa, coloque a aveia, as sementes de chia, a cenoura ralada, a canela e a noz-moscada.",
+        "Adicione o leite de amêndoa e a baunilha.",
+        "Mexa bem para combinar todos os ingredientes.",
+        "Tampe e leve ao frigorífico por no mínimo 6 horas ou durante a noite.",
+        "Pela manhã, mexa bem. Se estiver muito espesso, adicione um pouco mais de leite.",
+        "Cubra com as nozes picadas e o coco ralado.",
+        "Consuma frio ou aqueça 1-2 minutos no micro-ondas se preferir quente."
       ],
-      "notes": "Pequeno-almoço do Chef António Duarte • 310 calorias por porção",
-      "url": "https://pequeno-almoco.chefantonioduarte.com/#papas-de-aveia-com-maca-caramelizada-e-nozes",
-      "image": "/images/recipes/papas-aveia-maca.jpg"
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-82",
+      "image": "/images/recipes/overnight-cenoura.jpg",
+      "notes": "Pequeno-almoço do Chef António Duarte • 240 calorias por porção"
+    },
+    {
+      "id": "lunch-L13",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Açorda de Bacalhau Leve",
+      "servings": 2,
+      "prep": "10 min",
+      "cook": "15 min",
+      "tags": [
+        "sem lactose",
+        "peixe",
+        "almoço",
+        "tradicional"
+      ],
+      "ingredients": [
+        {
+          "amount": "200g",
+          "name": "Bacalhau desfiado (demolhado)"
+        },
+        {
+          "amount": "2 fatias",
+          "name": "Pão de milho do dia anterior"
+        },
+        {
+          "amount": "2 ovos",
+          "name": "Ovos escalfados"
+        },
+        {
+          "amount": "3 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1 punhado",
+          "name": "Coentros frescos"
+        },
+        {
+          "amount": "500ml",
+          "name": "Caldo de peixe"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Aqueça o caldo de peixe numa panela.",
+        "Refogue o alho fatiado no azeite até dourar.",
+        "Parta o pão em pedaços e adicione ao caldo com o alho.",
+        "Junte o bacalhau desfiado e cozinhe 5 minutos em lume brando.",
+        "Escalfe os ovos no caldo, polvilhe com coentros e sirva."
+      ],
+      "url": null,
+      "image": "/images/recipes/acorda-bacalhau.jpg",
+      "notes": "380 calorias por porção"
+    },
+    {
+      "id": "dinner-D12",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Massada de Peixe à Portuguesa",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "peixe",
+        "jantar",
+        "tradicional"
+      ],
+      "ingredients": [
+        {
+          "amount": "300g",
+          "name": "Massa de arroz (cotovelos)"
+        },
+        {
+          "amount": "400g",
+          "name": "Peixe branco em cubos (pescada ou robalo)"
+        },
+        {
+          "amount": "1 lata (400g)",
+          "name": "Tomate pelado"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "3 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Pimento vermelho"
+        },
+        {
+          "amount": "800ml",
+          "name": "Caldo de peixe"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e coentros"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola, o alho e o pimento em azeite por 5 minutos.",
+        "Adicione o tomate pelado e cozinhe 10 minutos.",
+        "Deite o caldo de peixe e deixe ferver.",
+        "Adicione a massa e cozinhe 8 minutos.",
+        "Junte o peixe nos últimos 5 minutos. Rectifique e sirva com coentros."
+      ],
+      "url": null,
+      "image": "/images/recipes/massada-peixe.jpg",
+      "notes": "410 calorias por porção"
+    }
+  ],
+  "2026-03-20": [
+    {
+      "id": "breakfast-55",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Compota de Framboesa e Chia sem Açúcar",
+      "servings": 8,
+      "prep": "5 min",
+      "cook": "10 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "vegano",
+        "lanche",
+        "meal-prep",
+        "rápido"
+      ],
+      "ingredients": [
+        {
+          "amount": "2 xícaras (250g)",
+          "name": "Framboesas frescas ou congeladas"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Sementes de chia"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Sumo de limão"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Essência de baunilha"
+        }
+      ],
+      "steps": [
+        "Coloque as framboesas numa panela pequena em lume médio.",
+        "Cozinhe por 5-7 minutos, esmagando com um garfo ou espátula enquanto cozinham, até libertarem sumo e se desfazerem.",
+        "Se usar framboesas congeladas, vão libertar mais líquido — cozinhe 2 minutos extra.",
+        "Retire do lume e adicione as sementes de chia, o sumo de limão e a baunilha.",
+        "Mexa bem e deixe descansar 10 minutos fora do lume — as sementes de chia vão gelificar e engrossar naturalmente a compota.",
+        "Mexa novamente após 10 minutos. A compota deve ter consistência espessa e gelatinosa.",
+        "Transfira para um frasco de vidro esterilizado.",
+        "Conserve no frigorífico por até 10 dias.",
+        "Use em tostas de arroz, com iogurte de coco, em overnight oats ou como recheio de panquecas."
+      ],
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-55",
+      "image": "/images/recipes/compota-chia-framboesa.jpg",
+      "notes": "Pequeno-almoço do Chef António Duarte • 25 calorias por porção"
+    },
+    {
+      "id": "lunch-L01",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Sopa de Legumes com Grão-de-Bico",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "sopa",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 lata (400g)",
+          "name": "Grão-de-bico cozido"
+        },
+        {
+          "amount": "2 unidades",
+          "name": "Cenoura"
+        },
+        {
+          "amount": "2 talos",
+          "name": "Aipo"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1 lata (400g)",
+          "name": "Tomate pelado"
+        },
+        {
+          "amount": "1 litro",
+          "name": "Caldo de legumes"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e cominhos"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola e o alho em azeite até ficarem translúcidos.",
+        "Adicione a cenoura e o aipo cortados em cubos e cozinhe 3 minutos.",
+        "Junte o tomate pelado, o caldo e os cominhos.",
+        "Ferva 15 minutos, depois acrescente o grão-de-bico.",
+        "Cozinhe mais 5 minutos, rectifique o sal e sirva."
+      ],
+      "url": null,
+      "image": "/images/recipes/sopa-legumes-grao.jpg",
+      "notes": "280 calorias por porção"
+    },
+    {
+      "id": "dinner-D04",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Lombo de Porco com Maçã e Mostarda",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "40 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "carne",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "600g",
+          "name": "Lombo de porco"
+        },
+        {
+          "amount": "2 unidades",
+          "name": "Maçã"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Mostarda de Dijon"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Mel"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "200ml",
+          "name": "Caldo de frango"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e tomilho"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 180°C.",
+        "Sele o lombo em azeite quente de todos os lados numa frigideira.",
+        "Misture mostarda, mel e alho picado. Barre o lombo com esta mistura.",
+        "Corte as maçãs em quartos e disponha em volta da carne num tabuleiro.",
+        "Deite o caldo, polvilhe com tomilho e asse 35 minutos.",
+        "Deixe repousar 5 minutos antes de fatiar."
+      ],
+      "url": null,
+      "image": "/images/recipes/lombo-porco-maca.jpg",
+      "notes": "450 calorias por porção"
+    }
+  ],
+  "2026-03-21": [
+    {
+      "id": "breakfast-86",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Socca — Pão de Grão-de-Bico com Alecrim",
+      "servings": 4,
+      "prep": "5 min",
+      "cook": "15 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "vegano",
+        "lanche"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 xícara (100g)",
+          "name": "Farinha de grão-de-bico"
+        },
+        {
+          "amount": "1 xícara (240ml)",
+          "name": "Água morna"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite extra-virgem"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Alecrim fresco picado"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Sal"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Pimenta preta"
+        }
+      ],
+      "steps": [
+        "Num recipiente, misture a farinha de grão-de-bico com a água morna e 1 colher de sopa de azeite.",
+        "Bata até obter uma massa lisa sem grumos. Tempere com sal e pimenta.",
+        "Deixe a massa descansar por 30 minutos à temperatura ambiente (ou até 12h no frigorífico).",
+        "Pré-aqueça o forno a 230°C com uma frigideira de ferro fundido ou tabuleiro dentro.",
+        "Retire o tabuleiro quente, regue com 1 colher de sopa de azeite e verta a massa.",
+        "Salpique com o alecrim picado e regue com a restante colher de azeite por cima.",
+        "Asse por 12-15 minutos até a superfície ficar dourada e crocante.",
+        "Corte em fatias e sirva quente. Pode acompanhar com húmus ou legumes."
+      ],
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-86",
+      "image": "/images/recipes/socca-grao-bico.jpg",
+      "notes": "Pequeno-almoço do Chef António Duarte • 155 calorias por porção"
+    },
+    {
+      "id": "lunch-L06",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Massa de Arroz com Pesto de Manjericão",
+      "servings": 2,
+      "prep": "5 min",
+      "cook": "10 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "rápido",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "200g",
+          "name": "Massa de arroz"
+        },
+        {
+          "amount": "2 punhados",
+          "name": "Manjericão fresco"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "30g",
+          "name": "Pinhões"
+        },
+        {
+          "amount": "4 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "1 punhado",
+          "name": "Tomates cereja"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Cozinhe a massa de arroz conforme indicações da embalagem. Escorra reservando 2 colheres de água da cozedura.",
+        "Triture o manjericão, o alho, os pinhões e o azeite até obter um pesto suave.",
+        "Misture o pesto com a massa quente, adicionando um pouco de água da cozedura para soltar.",
+        "Parta os tomates ao meio e misture.",
+        "Sirva de imediato."
+      ],
+      "url": null,
+      "image": "/images/recipes/massa-arroz-pesto.jpg",
+      "notes": "440 calorias por porção"
+    },
+    {
+      "id": "dinner-D11",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Hambúrguer de Lentilhas com Salada",
+      "servings": 4,
+      "prep": "20 min",
+      "cook": "10 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "250g",
+          "name": "Lentilhas vermelhas cozidas"
+        },
+        {
+          "amount": "1/2 xícara (40g)",
+          "name": "Farinha de aveia"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola picada"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho picado"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Cominhos"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Pimentão fumado"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "Folhas de alface, tomate, pepino",
+          "name": "Salada"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola e o alho até amolecer. Deixe arrefecer.",
+        "Esmague as lentilhas grosseiramente. Misture com a farinha, cebola, alho e especiarias.",
+        "Molde em 4 hambúrgueres. Leve ao frigorífico 20 minutos para firmar.",
+        "Grelhe ou cozinhe em azeite 4 minutos de cada lado.",
+        "Sirva com a salada e molho a gosto."
+      ],
+      "url": null,
+      "image": "/images/recipes/hamburguer-lentilhas.jpg",
+      "notes": "320 calorias por porção"
+    }
+  ],
+  "2026-03-22": [
+    {
+      "id": "breakfast-89",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Crackers de Linhaça e Ervas",
+      "servings": 6,
+      "prep": "10 min",
+      "cook": "20 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "sem açúcar",
+        "vegano",
+        "lanche",
+        "meal-prep"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 xícara (150g)",
+          "name": "Sementes de linhaça"
+        },
+        {
+          "amount": "1/4 xícara (35g)",
+          "name": "Sementes de sésamo"
+        },
+        {
+          "amount": "1/2 xícara (120ml)",
+          "name": "Água"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Orégãos secos"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Alho em pó"
+        },
+        {
+          "amount": "1/2 colher de chá",
+          "name": "Sal marinho"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Pimenta preta"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 160°C. Forre um tabuleiro grande com papel vegetal.",
+        "Misture as sementes de linhaça com a água e deixe repousar por 10 minutos até formar um gel espesso.",
+        "Adicione as sementes de sésamo, orégãos, alho em pó, sal e pimenta. Mexa bem.",
+        "Espalhe a mistura sobre o papel vegetal numa camada o mais fina possível (2-3mm).",
+        "Use uma espátula molhada para alisar a superfície uniformemente.",
+        "Com uma faca, marque quadrados ou retângulos na massa antes de assar.",
+        "Asse por 18-20 minutos até ficarem secos e crocantes nas bordas.",
+        "Desligue o forno e deixe os crackers dentro mais 5 minutos para secarem completamente.",
+        "Parta nos quadrados marcados e guarde num recipiente hermético por até 2 semanas."
+      ],
+      "url": "https://pequeno-almoco.chefantonioduarte.com/#receita-89",
+      "image": "/images/recipes/crackers-linhaca.jpg",
+      "notes": "Pequeno-almoço do Chef António Duarte • 130 calorias por porção"
+    },
+    {
+      "id": "lunch-L12",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Tacos de Couve-Flor Assada",
+      "servings": 3,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 cabeça pequena",
+          "name": "Couve-flor"
+        },
+        {
+          "amount": "6 unidades",
+          "name": "Tortilhas de milho"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Repolho roxo fatiado"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Abacate"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Lima (sumo)"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Cominhos"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Pimentão fumado"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, coentros frescos"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 210°C.",
+        "Corte a couve-flor em floretes e tempere com azeite, cominhos, pimentão e sal.",
+        "Asse 25 minutos até dourar nas pontas.",
+        "Esmague o abacate com sumo de lima e sal.",
+        "Monte os tacos com o guacamole, couve-flor, repolho e coentros."
+      ],
+      "url": null,
+      "image": "/images/recipes/tacos-couve-flor.jpg",
+      "notes": "360 calorias por porção"
+    },
+    {
+      "id": "dinner-D14",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Sopa de Abóbora com Gengibre e Leite de Coco",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "sopa",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "800g",
+          "name": "Abóbora butternut"
+        },
+        {
+          "amount": "1 lata (400ml)",
+          "name": "Leite de coco"
+        },
+        {
+          "amount": "1 pedaço (3cm)",
+          "name": "Gengibre fresco"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "600ml",
+          "name": "Caldo de legumes"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Óleo de coco"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e cúrcuma"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola, o alho e o gengibre em óleo de coco.",
+        "Adicione a abóbora descascada e cortada em cubos.",
+        "Junte o caldo e a cúrcuma. Cozinhe 20 minutos até a abóbora estar macia.",
+        "Bata tudo com a varinha mágica até obter uma sopa homogénea.",
+        "Adicione o leite de coco, aqueça mais 2 minutos e sirva."
+      ],
+      "url": null,
+      "image": "/images/recipes/sopa-abobora-coco.jpg",
+      "notes": "290 calorias por porção"
     }
   ],
   "2026-03-23": [
@@ -478,6 +1318,136 @@
       "notes": "Pequeno-almoço do Chef António Duarte • 395 calorias por porção",
       "url": "https://pequeno-almoco.chefantonioduarte.com/#smoothie-bowl-verde-energizante",
       "image": "/images/recipes/smoothie-bowl-verde.jpg"
+    },
+    {
+      "id": "lunch-L12",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Tacos de Couve-Flor Assada",
+      "servings": 3,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 cabeça pequena",
+          "name": "Couve-flor"
+        },
+        {
+          "amount": "6 unidades",
+          "name": "Tortilhas de milho"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Repolho roxo fatiado"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Abacate"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Lima (sumo)"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Cominhos"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Pimentão fumado"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, coentros frescos"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 210°C.",
+        "Corte a couve-flor em floretes e tempere com azeite, cominhos, pimentão e sal.",
+        "Asse 25 minutos até dourar nas pontas.",
+        "Esmague o abacate com sumo de lima e sal.",
+        "Monte os tacos com o guacamole, couve-flor, repolho e coentros."
+      ],
+      "url": null,
+      "image": "/images/recipes/tacos-couve-flor.jpg",
+      "notes": "360 calorias por porção"
+    },
+    {
+      "id": "dinner-D07",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Frango Tikka Masala Leve",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "30 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "frango",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "500g",
+          "name": "Peito de frango em cubos"
+        },
+        {
+          "amount": "1 lata (400ml)",
+          "name": "Leite de coco"
+        },
+        {
+          "amount": "1 lata (400g)",
+          "name": "Tomate pelado"
+        },
+        {
+          "amount": "2 colheres de chá",
+          "name": "Garam masala"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Cúrcuma"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Gengibre em pó"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "3 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Óleo de coco"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e coentros"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola e o alho em óleo de coco até dourar.",
+        "Adicione todas as especiarias e mexa 1 minuto.",
+        "Junte o frango e sele por 5 minutos.",
+        "Deite o tomate e cozinhe 10 minutos.",
+        "Adicione o leite de coco e cozinhe em lume brando mais 10 minutos.",
+        "Sirva com arroz basmati e coentros frescos."
+      ],
+      "url": null,
+      "image": "/images/recipes/frango-tikka.jpg",
+      "notes": "460 calorias por porção"
     }
   ],
   "2026-03-24": [
@@ -540,6 +1510,119 @@
       "notes": "Pequeno-almoço do Chef António Duarte • 260 calorias por porção",
       "url": "https://pequeno-almoco.chefantonioduarte.com/#tapioca-recheada-com-ovo-e-espinafres",
       "image": "/images/recipes/tapioca-ovo-espinafres.jpg"
+    },
+    {
+      "id": "lunch-L03",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Wrap de Atum com Abacate",
+      "servings": 2,
+      "prep": "10 min",
+      "cook": "0 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "rápido",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 lata (120g)",
+          "name": "Atum em água"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Abacate maduro"
+        },
+        {
+          "amount": "2 folhas",
+          "name": "Alface"
+        },
+        {
+          "amount": "4 unidades",
+          "name": "Tomates cereja"
+        },
+        {
+          "amount": "2 unidades grandes",
+          "name": "Tortilhas de milho"
+        },
+        {
+          "amount": "1 colher de sopa",
+          "name": "Sumo de limão"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Escorra o atum e misture com o sumo de limão, sal e pimenta.",
+        "Esmague o abacate com um garfo e tempere com sal.",
+        "Espalhe o abacate nas tortilhas. Adicione a alface, os tomates e o atum.",
+        "Enrole firmemente e sirva imediatamente ou embrulhe para levar."
+      ],
+      "url": null,
+      "image": "/images/recipes/wrap-atum-abacate.jpg",
+      "notes": "350 calorias por porção"
+    },
+    {
+      "id": "dinner-D14",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Sopa de Abóbora com Gengibre e Leite de Coco",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "sopa",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "800g",
+          "name": "Abóbora butternut"
+        },
+        {
+          "amount": "1 lata (400ml)",
+          "name": "Leite de coco"
+        },
+        {
+          "amount": "1 pedaço (3cm)",
+          "name": "Gengibre fresco"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "600ml",
+          "name": "Caldo de legumes"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Óleo de coco"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e cúrcuma"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola, o alho e o gengibre em óleo de coco.",
+        "Adicione a abóbora descascada e cortada em cubos.",
+        "Junte o caldo e a cúrcuma. Cozinhe 20 minutos até a abóbora estar macia.",
+        "Bata tudo com a varinha mágica até obter uma sopa homogénea.",
+        "Adicione o leite de coco, aqueça mais 2 minutos e sirva."
+      ],
+      "url": null,
+      "image": "/images/recipes/sopa-abobora-coco.jpg",
+      "notes": "290 calorias por porção"
     }
   ],
   "2026-03-25": [
@@ -601,6 +1684,127 @@
       "notes": "Pequeno-almoço do Chef António Duarte • 220 calorias por porção",
       "url": "https://pequeno-almoco.chefantonioduarte.com/#overnight-oats-de-frutos-vermelhos",
       "image": "/images/recipes/overnight-oats.jpg"
+    },
+    {
+      "id": "lunch-L02",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Salada de Frango Grelhado com Quinoa",
+      "servings": 2,
+      "prep": "10 min",
+      "cook": "20 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "proteína",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "200g",
+          "name": "Peito de frango"
+        },
+        {
+          "amount": "1 xícara (170g)",
+          "name": "Quinoa"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Pepino"
+        },
+        {
+          "amount": "1 punhado",
+          "name": "Tomates cereja"
+        },
+        {
+          "amount": "50g",
+          "name": "Rúcula"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Limão (sumo)"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e orégãos"
+        }
+      ],
+      "steps": [
+        "Cozinhe a quinoa em água com sal durante 15 minutos. Escorra e deixe arrefecer.",
+        "Tempere o frango com sal, pimenta e orégãos. Grelhe 5-6 minutos de cada lado.",
+        "Fatie o frango e o pepino. Corte os tomates ao meio.",
+        "Numa taça, misture a quinoa, os legumes e a rúcula.",
+        "Regue com azeite e sumo de limão, coloque o frango por cima e sirva."
+      ],
+      "url": null,
+      "image": "/images/recipes/salada-frango-quinoa.jpg",
+      "notes": "420 calorias por porção"
+    },
+    {
+      "id": "dinner-D06",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Estufado de Grão com Tomate e Espinafres",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "2 latas (800g)",
+          "name": "Grão-de-bico cozido"
+        },
+        {
+          "amount": "1 lata (400g)",
+          "name": "Tomate pelado"
+        },
+        {
+          "amount": "3 punhados",
+          "name": "Espinafres frescos"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "3 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Cominhos"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Pimentão fumado"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola e o alho em azeite até ficarem macios.",
+        "Adicione os cominhos e o pimentão. Mexa 30 segundos.",
+        "Junte o tomate pelado e esmague com uma colher. Cozinhe 10 minutos.",
+        "Adicione o grão-de-bico e cozinhe mais 10 minutos.",
+        "Incorporate os espinafres, cozinhe 2 minutos e sirva."
+      ],
+      "url": null,
+      "image": "/images/recipes/estufado-grao-tomate.jpg",
+      "notes": "380 calorias por porção"
     }
   ],
   "2026-03-26": [
@@ -660,6 +1864,121 @@
       "notes": "Pequeno-almoço do Chef António Duarte • 310 calorias por porção",
       "url": "https://pequeno-almoco.chefantonioduarte.com/#papas-de-aveia-com-maca-caramelizada-e-nozes",
       "image": "/images/recipes/papas-aveia-maca.jpg"
+    },
+    {
+      "id": "lunch-L08",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Frittata de Legumes no Forno",
+      "servings": 3,
+      "prep": "10 min",
+      "cook": "20 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "ovos",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "6 unidades",
+          "name": "Ovos"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Abobrinha"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Pimento vermelho"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "1 punhado",
+          "name": "Espinafres"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e ervas provençais"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 180°C.",
+        "Corte os legumes em rodelas finas. Refogue na frigideira com azeite por 5 minutos.",
+        "Adicione os espinafres e mexa até murcharem.",
+        "Bata os ovos com sal, pimenta e ervas. Despeje sobre os legumes.",
+        "Leve ao forno em frigideira própria ou pirex por 15-18 minutos até dourar."
+      ],
+      "url": null,
+      "image": "/images/recipes/frittata-legumes.jpg",
+      "notes": "310 calorias por porção"
+    },
+    {
+      "id": "dinner-D05",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Salmão no Forno com Legumes Mediterrâneos",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "peixe",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "4 postas (600g)",
+          "name": "Salmão fresco"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Abobrinha"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Pimento vermelho"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Pimento amarelo"
+        },
+        {
+          "amount": "200g",
+          "name": "Tomates cereja"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Limão fatiado"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta, orégãos e manjericão"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 200°C.",
+        "Corte os legumes em pedaços e distribua num tabuleiro com azeite e orégãos.",
+        "Coloque o salmão por cima. Tempere com sal, pimenta e cubra com fatias de limão.",
+        "Adicione os tomates cereja ao redor.",
+        "Asse 20-25 minutos até o salmão estar cozinhado no interior.",
+        "Polvilhe com manjericão fresco antes de servir."
+      ],
+      "url": null,
+      "image": "/images/recipes/salmao-legumes-forno.jpg",
+      "notes": "490 calorias por porção"
     }
   ],
   "2026-03-27": [
@@ -716,6 +2035,132 @@
       "notes": "Pequeno-almoço do Chef António Duarte • 345 calorias por porção",
       "url": "https://pequeno-almoco.chefantonioduarte.com/#smoothie-cremoso-de-abacate-e-cacau",
       "image": "/images/recipes/smoothie-abacate-cacau.jpg"
+    },
+    {
+      "id": "lunch-L05",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Bowl de Lentilhas com Cenoura Assada",
+      "servings": 2,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "200g",
+          "name": "Lentilhas verdes"
+        },
+        {
+          "amount": "3 unidades",
+          "name": "Cenoura"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola roxa"
+        },
+        {
+          "amount": "50g",
+          "name": "Rúcula"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Cominhos"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Pimentão fumado"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Limão (sumo)"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 200°C. Corte a cenoura em palitos, tempere com azeite, cominhos e pimentão. Asse 25 minutos.",
+        "Cozinhe as lentilhas em água com sal por 20 minutos. Escorra.",
+        "Fatie a cebola roxa finamente.",
+        "Monte o bowl: lentilhas, rúcula, cenoura assada e cebola roxa.",
+        "Regue com azeite e sumo de limão."
+      ],
+      "url": null,
+      "image": "/images/recipes/bowl-lentilhas-cenoura.jpg",
+      "notes": "370 calorias por porção"
+    },
+    {
+      "id": "dinner-D12",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Massada de Peixe à Portuguesa",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "peixe",
+        "jantar",
+        "tradicional"
+      ],
+      "ingredients": [
+        {
+          "amount": "300g",
+          "name": "Massa de arroz (cotovelos)"
+        },
+        {
+          "amount": "400g",
+          "name": "Peixe branco em cubos (pescada ou robalo)"
+        },
+        {
+          "amount": "1 lata (400g)",
+          "name": "Tomate pelado"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "3 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1/2 unidade",
+          "name": "Pimento vermelho"
+        },
+        {
+          "amount": "800ml",
+          "name": "Caldo de peixe"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e coentros"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola, o alho e o pimento em azeite por 5 minutos.",
+        "Adicione o tomate pelado e cozinhe 10 minutos.",
+        "Deite o caldo de peixe e deixe ferver.",
+        "Adicione a massa e cozinhe 8 minutos.",
+        "Junte o peixe nos últimos 5 minutos. Rectifique e sirva com coentros."
+      ],
+      "url": null,
+      "image": "/images/recipes/massada-peixe.jpg",
+      "notes": "410 calorias por porção"
     }
   ],
   "2026-03-28": [
@@ -780,6 +2225,123 @@
       "notes": "Pequeno-almoço do Chef António Duarte • 265 calorias por porção",
       "url": "https://pequeno-almoco.chefantonioduarte.com/#panquecas-de-batata-doce-e-canela",
       "image": "/images/recipes/panquecas-batata-doce.jpg"
+    },
+    {
+      "id": "lunch-L01",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Sopa de Legumes com Grão-de-Bico",
+      "servings": 4,
+      "prep": "10 min",
+      "cook": "25 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "sopa",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 lata (400g)",
+          "name": "Grão-de-bico cozido"
+        },
+        {
+          "amount": "2 unidades",
+          "name": "Cenoura"
+        },
+        {
+          "amount": "2 talos",
+          "name": "Aipo"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1 lata (400g)",
+          "name": "Tomate pelado"
+        },
+        {
+          "amount": "1 litro",
+          "name": "Caldo de legumes"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta e cominhos"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola e o alho em azeite até ficarem translúcidos.",
+        "Adicione a cenoura e o aipo cortados em cubos e cozinhe 3 minutos.",
+        "Junte o tomate pelado, o caldo e os cominhos.",
+        "Ferva 15 minutos, depois acrescente o grão-de-bico.",
+        "Cozinhe mais 5 minutos, rectifique o sal e sirva."
+      ],
+      "url": null,
+      "image": "/images/recipes/sopa-legumes-grao.jpg",
+      "notes": "280 calorias por porção"
+    },
+    {
+      "id": "dinner-D10",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Dourada Grelhada com Salsa Verde",
+      "servings": 2,
+      "prep": "10 min",
+      "cook": "12 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "peixe",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "2 unidades (400g cada)",
+          "name": "Dourada inteira limpa"
+        },
+        {
+          "amount": "1 punhado",
+          "name": "Salsa fresca"
+        },
+        {
+          "amount": "1 punhado",
+          "name": "Coentros frescos"
+        },
+        {
+          "amount": "1 dente",
+          "name": "Alho"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Limão"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Triture a salsa, os coentros, o alho, o sumo de limão e o azeite para fazer a salsa verde.",
+        "Faça 3 cortes em diagonal em cada dourada. Tempere com sal e pimenta por dentro e por fora.",
+        "Grelhe na grelha ou frigideira quente 5-6 minutos de cada lado.",
+        "Sirva com a salsa verde por cima e limão para espremer."
+      ],
+      "url": null,
+      "image": "/images/recipes/dourada-grelhada.jpg",
+      "notes": "350 calorias por porção"
     }
   ],
   "2026-03-29": [
@@ -840,6 +2402,124 @@
       "notes": "Pequeno-almoço do Chef António Duarte • 375 calorias por porção",
       "url": "https://pequeno-almoco.chefantonioduarte.com/#panquecas-de-banana-e-aveia-sem-gluten",
       "image": "/images/recipes/panquecas-banana-aveia.jpg"
+    },
+    {
+      "id": "lunch-L10",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Panela de Feijão Preto com Couve",
+      "servings": 3,
+      "prep": "10 min",
+      "cook": "20 min",
+      "tags": [
+        "sem glúten",
+        "vegano",
+        "almoço"
+      ],
+      "ingredients": [
+        {
+          "amount": "1 lata (400g)",
+          "name": "Feijão preto cozido"
+        },
+        {
+          "amount": "1/2 couve",
+          "name": "Couve portuguesa"
+        },
+        {
+          "amount": "2 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "1 colher de chá",
+          "name": "Pimentão fumado"
+        },
+        {
+          "amount": "400ml",
+          "name": "Caldo de legumes"
+        },
+        {
+          "amount": "2 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal e pimenta"
+        }
+      ],
+      "steps": [
+        "Refogue a cebola e o alho em azeite até dourar.",
+        "Adicione o pimentão fumado e mexa 30 segundos.",
+        "Junte o feijão e o caldo. Ferva 5 minutos.",
+        "Adicione a couve cortada em tiras finas e cozinhe mais 8 minutos.",
+        "Rectifique o tempero e sirva com arroz ou pão sem glúten."
+      ],
+      "url": null,
+      "image": "/images/recipes/feijao-preto-couve.jpg",
+      "notes": "310 calorias por porção"
+    },
+    {
+      "id": "dinner-D09",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Carne Assada com Cenouras e Ervas",
+      "servings": 5,
+      "prep": "15 min",
+      "cook": "150 min",
+      "tags": [
+        "sem glúten",
+        "sem lactose",
+        "carne",
+        "jantar"
+      ],
+      "ingredients": [
+        {
+          "amount": "800g",
+          "name": "Novilho para assar (acém ou chambão)"
+        },
+        {
+          "amount": "4 unidades",
+          "name": "Cenoura"
+        },
+        {
+          "amount": "1 unidade",
+          "name": "Cebola"
+        },
+        {
+          "amount": "4 dentes",
+          "name": "Alho"
+        },
+        {
+          "amount": "200ml",
+          "name": "Vinho tinto (opcional)"
+        },
+        {
+          "amount": "300ml",
+          "name": "Caldo de carne"
+        },
+        {
+          "amount": "3 colheres de sopa",
+          "name": "Azeite"
+        },
+        {
+          "amount": "a gosto",
+          "name": "Sal, pimenta, louro e tomilho"
+        }
+      ],
+      "steps": [
+        "Pré-aqueça o forno a 160°C.",
+        "Sele a carne em azeite quente de todos os lados.",
+        "Retire a carne. Refogue a cebola e o alho no mesmo tacho.",
+        "Deite o vinho, deixe evaporar a metade. Adicione o caldo e as ervas.",
+        "Coloque a carne de volta. Adicione as cenouras. Tape e asse 2h30.",
+        "A carne deve desfiar facilmente. Sirva com o molho coado."
+      ],
+      "url": null,
+      "image": "/images/recipes/carne-assada-cenoura.jpg",
+      "notes": "510 calorias por porção"
     }
   ]
 }

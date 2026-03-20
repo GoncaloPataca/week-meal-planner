@@ -10,7 +10,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d docs",
     "generate:week": "node scripts/generate-week.js",
-    "generate:next-week": "node scripts/generate-week.js --replace"
+    "generate:week:replace": "node scripts/generate-week.js --replace",
+    "generate:next-week": "node scripts/generate-week.js --next-week",
+    "generate:next-week:replace": "node scripts/generate-week.js --next-week --replace"
   },
   "dependencies": {
     "@headlessui/react": "latest",
