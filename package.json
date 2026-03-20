@@ -14,6 +14,7 @@
     "generate:next-week": "node scripts/generate-week.js --next-week",
     "check:images": "node scripts/check-images.js",
     "download:breakfast-images": "node scripts/download-breakfast-images.js",
+    "meals": "node scripts/meals.js",
     "generate:next-week:replace": "node scripts/generate-week.js --next-week --replace"
   },
   "dependencies": {
