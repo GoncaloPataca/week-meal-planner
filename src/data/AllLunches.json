@@ -3,19 +3,58 @@
     "id": "L15",
     "name": "Lasanha de Frango",
     "ingredients": [
-      { "amount": "2 dentes", "name": "Alho" },
-      { "amount": "1 unidade", "name": "Cebola" },
-      { "amount": "1 unidade", "name": "Cenoura ralada" },
-      { "amount": "1 dl", "name": "Vinho branco" },
-      { "amount": "600 g", "name": "Peito de frango desfiado" },
-      { "amount": "2 colheres de sopa", "name": "Azeite" },
-      { "amount": "300 g", "name": "Placas de lasanha fresca" },
-      { "amount": "a gosto", "name": "Sal e pimenta" },
-      { "amount": "2 colheres de sopa", "name": "Queijo mozzarela light" },
-      { "amount": "350 g", "name": "Couve-flor (para o béchamel)" },
-      { "amount": "180 ml", "name": "Bebida vegetal sem açúcar" },
-      { "amount": "a gosto", "name": "Noz-moscada" },
-      { "amount": "a gosto", "name": "Sumo de limão" }
+      {
+        "amount": "2 dentes",
+        "name": "Alho"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Cebola"
+      },
+      {
+        "amount": "1 unidade",
+        "name": "Cenoura ralada"
+      },
+      {
+        "amount": "1 dl",
+        "name": "Vinho branco"
+      },
+      {
+        "amount": "600 g",
+        "name": "Peito de frango desfiado"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Azeite"
+      },
+      {
+        "amount": "300 g",
+        "name": "Placas de lasanha fresca"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sal e pimenta"
+      },
+      {
+        "amount": "2 colheres de sopa",
+        "name": "Queijo mozzarela light"
+      },
+      {
+        "amount": "350 g",
+        "name": "Couve-flor (para o béchamel)"
+      },
+      {
+        "amount": "180 ml",
+        "name": "Bebida vegetal sem açúcar"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Noz-moscada"
+      },
+      {
+        "amount": "a gosto",
+        "name": "Sumo de limão"
+      }
     ],
     "steps": [
       "Prepare o béchamel saudável: coza a couve-flor, escorra e triture com a bebida vegetal, sal, noz-moscada e sumo de limão até obter um creme liso.",
@@ -27,12 +66,1273 @@
       "Termine com béchamel e polvilhe com queijo mozzarela.",
       "Leve ao forno a 180 °C durante 25 minutos até dourar."
     ],
-    "tags": ["massas", "frango", "forno", "almoço"],
+    "tags": [
+      "massas",
+      "frango",
+      "forno",
+      "almoço"
+    ],
     "servings": 4,
     "prepTime": "20 min",
     "cookTime": "25 min",
     "calories": 450,
     "url": "https://feed.continente.pt/receitas/lasanha-frango",
     "image": "/images/recipes/lasanha-frango.jpg"
+  },
+  {
+    "id": "L16",
+    "name": "Galinha cerejada",
+    "ingredients": [
+      {
+        "amount": "1,5 kg",
+        "name": "galinha"
+      },
+      {
+        "amount": "1 unid. (200 g)",
+        "name": "chouriço de carne"
+      },
+      {
+        "amount": "4 unid. (400 g)",
+        "name": "cebola"
+      },
+      {
+        "amount": "1 molho (50 g)",
+        "name": "salsa"
+      },
+      {
+        "amount": "1 c. de sopa",
+        "name": "sal"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "alho"
+      },
+      {
+        "amount": "100 ml",
+        "name": "azeite virgem extra"
+      },
+      {
+        "amount": "1 c. de sopa",
+        "name": "manteiga"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "banha de porco"
+      },
+      {
+        "amount": "100 ml",
+        "name": "vinho branco"
+      },
+      {
+        "amount": "200 g",
+        "name": "arroz"
+      },
+      {
+        "amount": "100 g",
+        "name": "toucinho fumado"
+      },
+      {
+        "amount": "1 unid. (150 g)",
+        "name": "laranja"
+      },
+      {
+        "amount": "q.b.",
+        "name": "alecrim"
+      }
+    ],
+    "steps": [
+      "Lave bem a galinha em água fria. Coloque-a num tacho com o chouriço, meia cebola, um ramo de salsa e água. Tempere com sal e deixe cozer. Quando estiver cozida, retire-a e reserve o caldo.",
+      "Pique a restante cebola e os alhos. Refogue-os com azeite, manteiga, banha e salsa picada. Junte a galinha, doure-a de ambos os lados, regue com vinho, tape e cozinhe por 15 minutos em lume brando.",
+      "No tacho em que cozeu a galinha, deite o caldo previamente obtido e leve ao lume até levantar fervura.",
+      "Pré-aqueça o forno a 180 ºC. Ponha o arroz num recipiente de forno, junte o dobro do caldo, disponha o chouriço em rodelas e o toucinho em fatias por cima e leve ao forno por 15 minutos.",
+      "Sirva a galinha com rodelas de laranja e alecrim, acompanhada com o arroz."
+    ],
+    "tags": [
+      "aves",
+      "tradicional",
+      "forno",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 6,
+    "prepTime": "20 min",
+    "cookTime": "40 min",
+    "calories": 721,
+    "url": "https://www.pingodoce.pt/receitas/galinha-cerejada/",
+    "image": "/images/recipes/galinha-cerejada.jpg",
+    "nutrition": {
+      "calories": 721,
+      "fat": 44,
+      "carbs": 34,
+      "protein": 48,
+      "fiber": 1
+    }
+  },
+  {
+    "id": "L17",
+    "name": "Arroz de bacalhau com espinafres e tomate-cereja",
+    "ingredients": [
+      {
+        "amount": "4 unid. (600 g)",
+        "name": "porção de bacalhau descongeladas"
+      },
+      {
+        "amount": "q.b.",
+        "name": "pimenta"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "alho"
+      },
+      {
+        "amount": "100 g",
+        "name": "cebola em cubos congelada"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "azeite virgem extra"
+      },
+      {
+        "amount": "1 emb. (170 g)",
+        "name": "espinafres em folha"
+      },
+      {
+        "amount": "150 g",
+        "name": "tomate cereja"
+      },
+      {
+        "amount": "300 g",
+        "name": "arroz carolino"
+      },
+      {
+        "amount": "700 ml",
+        "name": "água"
+      },
+      {
+        "amount": "1 c. de chá",
+        "name": "sal"
+      },
+      {
+        "amount": "q.b.",
+        "name": "coentros frescos"
+      }
+    ],
+    "steps": [
+      "Corte cada porção de bacalhau em três pedaços, tempere com pimenta a gosto e com os dentes de alho espremidos. Reserve.",
+      "Aloure a cebola no azeite quente. Junte as folhas de espinafres e o tomate e quando os espinafres murcharem adicione o arroz, misture bem e regue com a água a ferver.",
+      "Tempere com o sal e coza tapado e sobre lume brando, por 8 minutos. Introduza o bacalhau no meio do arroz, volte a tapar e cozinhe por mais 7 a 8 minutos.",
+      "Retire do lume, deixe repousar 1 a 2 minutos e salpique, a gosto, com coentros acabados de picar."
+    ],
+    "tags": [
+      "peixe",
+      "bacalhau",
+      "arroz",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 6,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "calories": 305,
+    "url": "https://www.pingodoce.pt/receitas/arroz-de-bacalhau-com-espinafres-e-tomate-cereja/",
+    "image": "/images/recipes/arroz-de-bacalhau-com-espinafres-e-tomate-cereja.jpg",
+    "nutrition": {
+      "calories": 305,
+      "fat": 5,
+      "carbs": 42,
+      "protein": 23,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "L18",
+    "name": "Feijoada de coelho com pimentos",
+    "ingredients": [
+      {
+        "amount": "1 unid. (± 1 kg)",
+        "name": "coelho cortado em pedaços pequenos"
+      },
+      {
+        "amount": "1 c. de sopa",
+        "name": "massa de pimentão"
+      },
+      {
+        "amount": "2 dentes",
+        "name": "alho"
+      },
+      {
+        "amount": "1 c. de chá",
+        "name": "tomilho seco"
+      },
+      {
+        "amount": "1 folha",
+        "name": "louro"
+      },
+      {
+        "amount": "100 ml",
+        "name": "vinho branco"
+      },
+      {
+        "amount": "1 unid. (100 g)",
+        "name": "cebola"
+      },
+      {
+        "amount": "2 unid. (250 g)",
+        "name": "cenoura"
+      },
+      {
+        "amount": "1 emb. (250 g)",
+        "name": "mini pimentos doces"
+      },
+      {
+        "amount": "50 g",
+        "name": "chouriço de carne"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "azeite virgem extra"
+      },
+      {
+        "amount": "1 c. de chá",
+        "name": "sal"
+      },
+      {
+        "amount": "½ frasco (250 ml)",
+        "name": "polpa de tomate com cebola e alho"
+      },
+      {
+        "amount": "1 unid. (600 g)",
+        "name": "couve-coração"
+      },
+      {
+        "amount": "2 frasco (2 x 540 g)",
+        "name": "feijão manteiga cozido Pingo Doce em conserva"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "pimenta"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "manjericão fresco"
+      }
+    ],
+    "steps": [
+      "Tempere o coelho com a massa de pimentão, os dentes de alho espremidos, o tomilho e a folha de louro partida em pedaços. Regue com o vinho branco, misture bem e reserve.",
+      "Entretanto, descasque e pique a cebola, pele as cenouras e corte-as em rodelas, lave os pimentos, limpe-os de sementes e corte-os em tiras. Corte o chouriço em rodelas.",
+      "Aqueça o azeite num tacho grande, junte os pedaços de coelho bem escorridos da marinada e aloure-os de todos os lados sobre lume forte. Reduza o lume e junte o chouriço, a cebola, a cenoura e os pimentos. Tempere com o sal, misture bem, e adicione a polpa de tomate. Tape e cozinhe sobre lume moderado cerca de 15 minutos.",
+      "Corte a couve ao meio, elimine o talo central mais rijo, corte-a em tiras largas, passe-as por água fria e junte ao tacho. Adicione o feijão, mexa, tempere com pimenta a gosto e cozinhe tapado por mais 25 minutos ou até o coelho estar tenro.",
+      "Na altura de servir, junte algumas folhas de manjericão a gosto."
+    ],
+    "tags": [
+      "carne",
+      "guisado",
+      "feijão",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 6,
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "calories": 423,
+    "url": "https://www.pingodoce.pt/receitas/feijoada-de-coelho-com-pimentos/",
+    "image": "/images/recipes/feijoada-de-coelho-com-pimentos.jpg",
+    "nutrition": {
+      "calories": 423,
+      "fat": 13,
+      "carbs": 29,
+      "protein": 39,
+      "fiber": 16
+    }
+  },
+  {
+    "id": "L19",
+    "name": "Risoto de camarão e cogumelos",
+    "ingredients": [
+      {
+        "amount": "± 900 ml",
+        "name": "água"
+      },
+      {
+        "amount": "1 c. de chá",
+        "name": "sal"
+      },
+      {
+        "amount": "½ unid.",
+        "name": "limão (casca e sumo)"
+      },
+      {
+        "amount": "1 unid. (± 150 g)",
+        "name": "alho-francês"
+      },
+      {
+        "amount": "1 unid. (± 150 g)",
+        "name": "cenoura"
+      },
+      {
+        "amount": "2 emb. (400 g)",
+        "name": "miolo de camarão congelado calibre 40/60"
+      },
+      {
+        "amount": "100 g",
+        "name": "cebola em cubos congelada"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "azeite virgem extra"
+      },
+      {
+        "amount": "1 emb. (300 g)",
+        "name": "cogumelo Portobello"
+      },
+      {
+        "amount": "q.b.",
+        "name": "pimenta"
+      },
+      {
+        "amount": "250 g",
+        "name": "arroz risoto"
+      },
+      {
+        "amount": "200 ml",
+        "name": "vinho branco"
+      },
+      {
+        "amount": "1 emb. (170 g)",
+        "name": "espinafre"
+      }
+    ],
+    "steps": [
+      "Tempere a água com metade do sal, junte uma tira da casca de limão e leve ao lume.",
+      "Lave o alho-francês, retire a parte verde mais escura e pique a parte restante. Descasque a cenoura e pique-a em cubos pequenos. Reserve as cascas.",
+      "Quando a água estiver a ferver, introduza o miolo de camarão, deixe retomar fervura e retire-o cerca de 1 minuto depois com uma escumadeira. Reserve.",
+      "Junte à água do camarão a parte verde do alho-francês, as cascas da cenoura e deixe ferver suavemente.",
+      "Ao mesmo tempo, aloure a cebola e o alho-francês picado num tacho com o azeite. Junte a cenoura e os cogumelos, previamente lavados e cortados em quartos. Tempere com o restante sal e pimenta a gosto, mexa e salteie por 5 minutos.",
+      "Adicione o arroz e deixe aquecer bem, regue com o vinho branco e continue a mexer até o arroz ter absorvido o líquido.",
+      "Coe o caldo dos legumes e camarão e vá juntando aos poucos ao arroz, mexendo frequentemente, durante cerca de 25 minutos.",
+      "Junte os espinafres e o miolo de camarão reservado e misture bem. Regue com um pouco de sumo do limão e sirva de imediato."
+    ],
+    "tags": [
+      "marisco",
+      "arroz",
+      "cogumelos",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 6,
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "calories": 289,
+    "url": "https://www.pingodoce.pt/receitas/risoto-de-camarao-e-cogumelos/",
+    "image": "/images/recipes/risotto-de-camarao-e-cogumelos.jpg",
+    "nutrition": {
+      "calories": 289,
+      "fat": 5,
+      "carbs": 38,
+      "protein": 21,
+      "fiber": 4
+    }
+  },
+  {
+    "id": "L20",
+    "name": "Salada de quinoa com legumes",
+    "ingredients": [
+      {
+        "amount": "1 emb. (250 g)",
+        "name": "quinoa cozida"
+      },
+      {
+        "amount": "1 unid. (170 g)",
+        "name": "maçã Royal Gala"
+      }
+    ],
+    "steps": [
+      "Misture os legumes salteados com a quinoa.",
+      "Lave a maçã, corte-a em quartos, elimine os caroços e corte cada gomo em fatias pequenas.",
+      "Junte a maçã e o miolo de noz, grosseiramente partido, à salada e guarde num recipiente hermético até à altura de servir."
+    ],
+    "tags": [
+      "vegano",
+      "quinoa",
+      "salada",
+      "sem glúten",
+      "rápido",
+      "almoço"
+    ],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "0 min",
+    "calories": 532,
+    "url": "https://www.pingodoce.pt/receitas/salada-de-quinoa-com-legumes/",
+    "image": "/images/recipes/salada-de-quinoa-com-maca.jpg",
+    "nutrition": {
+      "calories": 532,
+      "fat": 16,
+      "carbs": 69,
+      "protein": 21,
+      "fiber": 14
+    }
+  },
+  {
+    "id": "L21",
+    "name": "Salada mediterrânica",
+    "ingredients": [
+      {
+        "amount": "2 emb. (700 g)",
+        "name": "legumes salteados com quinoa congelados"
+      },
+      {
+        "amount": "250 g",
+        "name": "tomate-cereja"
+      },
+      {
+        "amount": "1 unid. (250 g)",
+        "name": "pepino"
+      },
+      {
+        "amount": "1 unid. (100 g)",
+        "name": "cebola-roxa"
+      },
+      {
+        "amount": "1 emb. (170 g)",
+        "name": "espinafre"
+      },
+      {
+        "amount": "3 c. de sopa",
+        "name": "azeite virgem extra"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "vinagre balsâmico"
+      },
+      {
+        "amount": "1",
+        "name": "sal"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "manjericão fresco"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "pimenta"
+      }
+    ],
+    "steps": [
+      "Cozinhe a mistura de legumes com quinoa, seguindo as instruções da embalagem.",
+      "Misture o tomate cortado ao meio, o pepino descascado cortado em cubos pequenos e a cebola descascada e picada.",
+      "Adicione os espinafres, tempere com o azeite, o vinagre, o sal, manjericão fresco e pimenta. Envolva todos os ingredientes.",
+      "Leve ao frio até servir."
+    ],
+    "tags": [
+      "vegetariano",
+      "salada",
+      "sem glúten",
+      "rápido",
+      "almoço"
+    ],
+    "servings": 4,
+    "prepTime": "20 min",
+    "cookTime": "10 min",
+    "calories": 365,
+    "url": "https://www.pingodoce.pt/receitas/salada-mediterranica/",
+    "image": "/images/recipes/salada-mediterranica.jpg",
+    "nutrition": {
+      "calories": 365,
+      "fat": 21,
+      "carbs": 0,
+      "protein": 12,
+      "fiber": 9
+    }
+  },
+  {
+    "id": "L22",
+    "name": "Tabule de veggie rice",
+    "ingredients": [
+      {
+        "amount": "450 g",
+        "name": "veggie rice de couve-flor e brócolos congelado"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "azeite"
+      },
+      {
+        "amount": "2 c. de chá",
+        "name": "sal"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "pimenta"
+      },
+      {
+        "amount": "150 g",
+        "name": "tomate mini alongado"
+      },
+      {
+        "amount": "150 g",
+        "name": "pepino"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "cebola-roxa"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "hortelã"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "salsa fresca"
+      }
+    ],
+    "steps": [
+      "Salteie o veggie rice numa frigideira com metade do azeite conforme as instruções da embalagem.",
+      "Coloque numa taça, tempere com metade do sal, pimenta e deixe arrefecer.",
+      "Corte o tomate em metades ou quartos, o pepino em cubos e pique a cebola.",
+      "Adicione tudo ao veggie rice arrefecido.",
+      "Junte hortelã e salsa picadas a gosto, tempere com o restante azeite e sal, e envolva. Leve ao frio até servir."
+    ],
+    "tags": [
+      "vegano",
+      "salada",
+      "legumes",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 4,
+    "prepTime": "15 min",
+    "cookTime": "15 min",
+    "calories": null,
+    "url": "https://www.pingodoce.pt/receitas/tabule-de-veggie-rice/",
+    "image": "/images/recipes/tabule-de-veggie-rice.jpeg"
+  },
+  {
+    "id": "L23",
+    "name": "Pimentos recheados com quinoa",
+    "ingredients": [
+      {
+        "amount": "300 g",
+        "name": "pimento vermelho"
+      },
+      {
+        "amount": "70 g",
+        "name": "rúcula"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "tomilho fresco"
+      },
+      {
+        "amount": "700 g",
+        "name": "legumes salteados com quinoa congelados"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "salsa fresca"
+      },
+      {
+        "amount": "2 c. de café",
+        "name": "sal"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "pimenta em pó"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "alho"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "tomilho seco"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "azeite"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 °C.",
+      "Abra os pimentos ao meio, coloque-os num tabuleiro de forno com a parte cortada para cima, tempere com sal, pimenta, alho em pó e tomilho. Regue com metade do azeite e leve ao forno por 15 minutos.",
+      "Enquanto isso, aqueça o restante azeite numa frigideira, adicione os legumes, envolva e cozinhe conforme as instruções da embalagem.",
+      "Recheie os pimentos com a mistura de legumes, polvilhe com salsa picada e sirva com a rúcula."
+    ],
+    "tags": [
+      "vegano",
+      "quinoa",
+      "forno",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "calories": null,
+    "url": "https://www.pingodoce.pt/receitas/pimentos-recheados-com-quinoa/",
+    "image": "/images/recipes/pimentos-recheados-com-quinoa.jpeg"
+  },
+  {
+    "id": "L24",
+    "name": "Coxas de peru com batata-doce",
+    "ingredients": [
+      {
+        "amount": "7 dente",
+        "name": "alho"
+      },
+      {
+        "amount": "2 c. de chá",
+        "name": "sal"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "cravinho-da-Índia"
+      },
+      {
+        "amount": "50 g",
+        "name": "funcho"
+      },
+      {
+        "amount": "100 ml",
+        "name": "vinho branco"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "cominhos em pó"
+      },
+      {
+        "amount": "2 folha",
+        "name": "louro"
+      },
+      {
+        "amount": "2 kg",
+        "name": "coxa de peru desossada"
+      },
+      {
+        "amount": "500 g",
+        "name": "batata-doce pequena"
+      },
+      {
+        "amount": "150 g",
+        "name": "couve pak choy"
+      },
+      {
+        "amount": "100 g",
+        "name": "couve-de-bruxelas"
+      },
+      {
+        "amount": "100 g",
+        "name": "cenoura baby"
+      },
+      {
+        "amount": "3 c. de sopa",
+        "name": "azeite"
+      },
+      {
+        "amount": "75 g",
+        "name": "amêndoa laminada"
+      },
+      {
+        "amount": "30 ml",
+        "name": "vinho do Porto Tawny"
+      },
+      {
+        "amount": "100 g",
+        "name": "bagas de romã"
+      }
+    ],
+    "steps": [
+      "Prepare a marinada para as coxas de peru. Junte o alho descascado, o sal, o cravinho, o funcho com o vinho branco e triture até ficar homogéneo. Adicione os cominhos em pó, as folhas de louro. Esfregue as coxas de peru com a mistura. Deixe marinar por 8 horas.",
+      "Pré-aqueça o forno a 150 °C.",
+      "Lave bem a batata-doce e corte em gomos no sentido longitudinal. Lave os restantes legumes.",
+      "Deite duas colheres de sopa de azeite numa frigideira e deixe aquecer bem. Escorra as coxas de peru (reserve a marinada) e core-as no azeite lentamente até que a pele fique bem dourada. Reserve a frigideira para confecionar o molho.",
+      "Coloque as coxas no centro de uma travessa e à volta disponha a batata-doce, as couves-de-bruxelas e as cenouras baby, regue com a marinada e cubra com papel alumínio. Leve ao forno a 150 °C cerca de 45 minutos.",
+      "Retire o papel de alumínio e aumente o forno para os 200 °C por 10 minutos para corar bem os alimentos.",
+      "Corte a couve pak choy em quatro no sentido longitudinal e core-a numa frigideira com o restante azeite até caramelizar. Reserve. Na mesma frigideira, torre ligeiramente as amêndoas e reserve.",
+      "Coloque sobre o lume a frigideira onde corou as coxas, adicione o vinho do Porto, deixe reduzir até ficar um molho denso.",
+      "Acrescente a couve pak choy e as amêndoas salteadas à travessa, decore com bagos de romã e regue com o molho de vinho do Porto."
+    ],
+    "tags": [
+      "aves",
+      "forno",
+      "batata-doce",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 6,
+    "prepTime": "20 min",
+    "cookTime": "60 min",
+    "calories": 613,
+    "url": "https://www.pingodoce.pt/receitas/coxas-de-peru-com-batata-doce/",
+    "image": "/images/recipes/coxa-de-peru-com-batata-doce-e-legumes-assados.jpeg",
+    "nutrition": {
+      "calories": 613,
+      "fat": 21,
+      "carbs": 0,
+      "protein": 80,
+      "fiber": 5
+    }
+  },
+  {
+    "id": "L25",
+    "name": "Pargo assado com legumes",
+    "ingredients": [
+      {
+        "amount": "250 g",
+        "name": "chalota"
+      },
+      {
+        "amount": "800 g",
+        "name": "batata nova para assar"
+      },
+      {
+        "amount": "300 g",
+        "name": "curgete"
+      },
+      {
+        "amount": "1 cabeça",
+        "name": "alho"
+      },
+      {
+        "amount": "5 c. de sopa",
+        "name": "vinho branco"
+      },
+      {
+        "amount": "5 c. de sopa",
+        "name": "azeite"
+      },
+      {
+        "amount": "3 c. de chá",
+        "name": "sal"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "pimenta de moinho"
+      },
+      {
+        "amount": "1,6 kg",
+        "name": "pargo fresco"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "limão (sumo)"
+      },
+      {
+        "amount": "½ ramo",
+        "name": "salsa fresca"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "hortelã fresca"
+      },
+      {
+        "amount": "250 g",
+        "name": "tomate mini em rama"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C.",
+      "Descasque e corte as chalotas em gomos, as batatas em quartos, e a courgette em rodelas. Disponha estes legumes num tabuleiro de forno onde caiba também o peixe e adicione a cabeça de alhos, sem a casca branca e com as pontas cortadas. Regue com o vinho branco e três colheres de sopa de azeite e tempere com duas colheres de chá de sal e pimenta moída na altura. Leve ao forno durante cerca de 20 minutos.",
+      "Entretanto, enxugue o pargo com papel de cozinha e abra dois rasgos na diagonal de cada lado do lombo. Introduza neles rodelas de limão, salsa e folhas de hortelã. Salpique com o restante sal.",
+      "Coloque o peixe no meio dos legumes, regue-o com uma colher de sopa de azeite e em torno disponha o tomate. Leve ao forno por mais 25 minutos.",
+      "Pique a restante salsa e mais algumas folhas de hortelã e misture com o sumo do limão e o restante azeite, verta sobre o pargo assado e sirva de imediato. Acompanhe com o tomate."
+    ],
+    "tags": [
+      "peixe",
+      "forno",
+      "legumes",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 8,
+    "prepTime": "20 min",
+    "cookTime": "60 min",
+    "calories": 238,
+    "url": "https://www.pingodoce.pt/receitas/pargo-assado-com-legumes/",
+    "image": "/images/recipes/pargo-assado.jpg",
+    "nutrition": {
+      "calories": 238,
+      "fat": 14,
+      "carbs": 0,
+      "protein": 29,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "L26",
+    "name": "Feijoada de marisco",
+    "ingredients": [
+      {
+        "amount": "2 folha",
+        "name": "louro"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "salsa fresca"
+      },
+      {
+        "amount": "300 g",
+        "name": "arroz basmati"
+      },
+      {
+        "amount": "2 lata",
+        "name": "feijão-branco cozido"
+      },
+      {
+        "amount": "1 c. de chá",
+        "name": "cominhos em pó"
+      },
+      {
+        "amount": "1 c. de sopa",
+        "name": "pimentão doce"
+      },
+      {
+        "amount": "50 ml",
+        "name": "vinho branco"
+      },
+      {
+        "amount": "4 c. de sopa",
+        "name": "polpa de tomate com cebola e alho"
+      },
+      {
+        "amount": "1 emb.",
+        "name": "tomate em pedaços"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "pimento vermelho"
+      },
+      {
+        "amount": "250 g",
+        "name": "lombo de tamboril em cubos congelado"
+      },
+      {
+        "amount": "3 c. de sopa",
+        "name": "azeite"
+      },
+      {
+        "amount": "1 talo",
+        "name": "aipo"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "cebola doce grande"
+      },
+      {
+        "amount": "1 kg",
+        "name": "mexilhão fresco"
+      },
+      {
+        "amount": "2 dente",
+        "name": "alho"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "raiz de gengibre fresco"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "malagueta vermelha"
+      },
+      {
+        "amount": "3 c. de chá",
+        "name": "sal"
+      }
+    ],
+    "steps": [
+      "Tempere o tamboril e o camarão congelado com uma colher de chá de sal. Junte a malagueta, sem sementes e cortada em pedaços, uma rodela de raiz de gengibre pelada e picada, e um dente de alho espremido. Reserve.",
+      "Raspe as conchas do mexilhão, lave-as e escorra-as bem.",
+      "Descasque e pique finamente a cebola e um dente de alho. Lamine o talo de aipo e leve ao lume num tacho com o azeite e o louro, até a cebola alourar.",
+      "Junte o pimento sem sementes e cortado em tiras, o tomate, a polpa e uma colher de chá de sal. Cozinhe cerca de 10 minutos, mexendo ocasionalmente.",
+      "Ao lado, coloque o mexilhão num tacho largo com o vinho branco e cozinhe em lume médio a forte, durante 5 minutos. Retire o miolo do mexilhão, reservando algum com as conchas para decorar.",
+      "Polvilhe os legumes com o pimentão e os cominhos, junte o feijão e regue com o caldo dos mexilhões, coado. Ferva destapado durante 15 minutos. Adicione o peixe e o camarão e cozinhe mais 5 a 6 minutos.",
+      "Entretanto, coza o arroz em água abundante temperada com o restante sal durante 10 minutos.",
+      "Junte o miolo do mexilhão ao peixe e polvilhe com salsa picada. Decore com os mexilhões nas conchas. Sirva a feijoada de marisco acompanhada com o arroz cozido."
+    ],
+    "tags": [
+      "marisco",
+      "feijão",
+      "guisado",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 8,
+    "prepTime": "20 min",
+    "cookTime": "40 min",
+    "calories": 343,
+    "url": "https://www.pingodoce.pt/receitas/feijoada-de-marisco/",
+    "image": "/images/recipes/feijoada-marisco.jpg",
+    "nutrition": {
+      "calories": 343,
+      "fat": 6,
+      "carbs": 0,
+      "protein": 24,
+      "fiber": 10
+    }
+  },
+  {
+    "id": "L27",
+    "name": "Frango com castanhas",
+    "ingredients": [
+      {
+        "amount": "1,2 kg",
+        "name": "frango sem miúdos"
+      },
+      {
+        "amount": "3 c. de sopa",
+        "name": "azeite"
+      },
+      {
+        "amount": "1 c. de chá",
+        "name": "cominhos moídos"
+      },
+      {
+        "amount": "1 c. de sopa",
+        "name": "sal"
+      },
+      {
+        "amount": "200 g",
+        "name": "cebola"
+      },
+      {
+        "amount": "8 dente",
+        "name": "alho"
+      },
+      {
+        "amount": "1 folha",
+        "name": "louro"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "salsa fresca"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "coentros frescos"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "tomilho fresco"
+      },
+      {
+        "amount": "2 dl",
+        "name": "vinho branco"
+      },
+      {
+        "amount": "500 g",
+        "name": "castanha congelada"
+      },
+      {
+        "amount": "400 g",
+        "name": "cogumelo Paris"
+      }
+    ],
+    "steps": [
+      "Peça no talho para cortarem o frango em pedaços.",
+      "Aqueça o azeite num tacho, e aloure os pedaços de frango de todos os lados em lume médio a forte.",
+      "Reduza o calor, polvilhe com os cominhos e o sal e junte as cebolas cortadas em rodelas finas e os dentes de alho esborrachados. Tape e deixe cozinhar suavemente.",
+      "Lave o tomate, corte-o em pedaços, limpe-o de sementes e adicione-o ao frango, juntamente com a folha de louro, atada com 4 pés de salsa e outros tantos de coentros e de tomilho. Regue com o vinho branco e cozinhe tapado mais 30 minutos.",
+      "Introduza as castanhas, já descongeladas, mexa e volte a tapar.",
+      "Limpe os cogumelos com papel de cozinha, coloque-os no tacho, tape e cozinhe mais 20 minutos ou até o frango e as castanhas estarem macios.",
+      "No final, aumente o lume e ferva mais 5 minutos destapado. Salpique com salsa picada antes de servir."
+    ],
+    "tags": [
+      "frango",
+      "guisado",
+      "cogumelos",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 6,
+    "prepTime": "20 min",
+    "cookTime": "65 min",
+    "calories": 393,
+    "url": "https://www.pingodoce.pt/receitas/frango-com-castanhas/",
+    "image": "/images/recipes/frango-castanhas.jpg",
+    "nutrition": {
+      "calories": 393,
+      "fat": 11,
+      "carbs": 0,
+      "protein": 32,
+      "fiber": 9
+    }
+  },
+  {
+    "id": "L28",
+    "name": "Peru salteado no wok",
+    "ingredients": [
+      {
+        "amount": "300 g",
+        "name": "peito de peru"
+      },
+      {
+        "amount": "4 c. de sopa",
+        "name": "molho de soja"
+      },
+      {
+        "amount": "1",
+        "name": "amido de milho"
+      },
+      {
+        "amount": "1",
+        "name": "açúcar mascavado"
+      },
+      {
+        "amount": "3 unid.",
+        "name": "hastes de aipo"
+      },
+      {
+        "amount": "½ unid.",
+        "name": "limão"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "água"
+      },
+      {
+        "amount": "1",
+        "name": "sal"
+      },
+      {
+        "amount": "150 g",
+        "name": "arroz basmati"
+      },
+      {
+        "amount": "150 g",
+        "name": "ramos de brócolos"
+      },
+      {
+        "amount": "150 g",
+        "name": "ramos de couve-flor"
+      },
+      {
+        "amount": "2 c. de sopa",
+        "name": "azeite"
+      },
+      {
+        "amount": "50 g",
+        "name": "milho congelado"
+      },
+      {
+        "amount": "30 g",
+        "name": "miolo de amêndoa torrada"
+      }
+    ],
+    "steps": [
+      "Corte o peru em tiras finas, junte-lhe o molho de soja, o amido de milho, o açúcar e o aipo laminado (reserve as folhas).",
+      "Retire a casca ao limão com um pelador e junte o sumo à carne, misturando bem.",
+      "Numa panela com água a ferver, com 1 casca de limão e 1 colher de sobremesa de sal, coza o arroz durante 12 a 13 minutos.",
+      "Lave os ramos de brócolos e couve-flor e dê-lhes um golpe em cruz nos talos.",
+      "No wok, aqueça o azeite, junte as tiras de peru escorridas e salteie sobre lume médio a forte, mexendo até a carne começar a alourar.",
+      "Adicione os ramos de brócolos e couve-flor, reduza o lume, junte o líquido da marinada e cozinhe, mexendo sempre, até os legumes ficarem tenros.",
+      "Junte o arroz bem escorrido, o milho e as folhas de aipo previamente picadas e misture bem. Salpique com o miolo de amêndoa e sirva de imediato."
+    ],
+    "tags": [
+      "aves",
+      "wok",
+      "rápido",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 4,
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "calories": 367,
+    "url": "https://www.pingodoce.pt/receitas/peru-salteado-no-wok/",
+    "image": "/images/recipes/peru-wok.jpg",
+    "nutrition": {
+      "calories": 367,
+      "fat": 11,
+      "carbs": 0,
+      "protein": 25,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "L29",
+    "name": "Sargo no forno",
+    "ingredients": [
+      {
+        "amount": "1,2 kg",
+        "name": "sargo"
+      },
+      {
+        "amount": "2 c. de chá",
+        "name": "sal"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "pimenta"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "limão"
+      },
+      {
+        "amount": "1 q.b.",
+        "name": "salsa"
+      },
+      {
+        "amount": "3 c. de sopa",
+        "name": "azeite"
+      },
+      {
+        "amount": "2 unid.",
+        "name": "cebola"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "pimento verde"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "pimento vermelho"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "malagueta vermelha"
+      },
+      {
+        "amount": "1 dl",
+        "name": "vinho branco"
+      },
+      {
+        "amount": "600 g",
+        "name": "batata para cozer pequena"
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C.",
+      "Tempere o peixe com sal, pimenta e coloque rodelas de limão e um ramo de salsa (reserve alguma) no interior da barriga.",
+      "Pegue num tabuleiro de forno e salpique o fundo com duas colheres de sopa de azeite.",
+      "Disponha 1 cebola e 1 tomate cortados em rodelas.",
+      "Coloque os peixes por cima. À volta distribua os pimentos cortados em tiras, os restantes tomate e cebola em gomos.",
+      "Polvilhe com mais salsa e malagueta, limpa de sementes e picada. Regue com o vinho e leve ao forno durante 20 minutos.",
+      "Acompanhe com batatas cozidas, cortadas ao meio, temperadas com o restante azeite e um pouco de salsa picada."
+    ],
+    "tags": [
+      "peixe",
+      "forno",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 4,
+    "prepTime": "20 min",
+    "cookTime": "40 min",
+    "calories": 378,
+    "url": "https://www.pingodoce.pt/receitas/sargo-no-forno/",
+    "image": "/images/recipes/sargo-no-forno.jpeg",
+    "nutrition": {
+      "calories": 378,
+      "fat": 14,
+      "carbs": 0,
+      "protein": 26,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "L30",
+    "name": "Cozido à Portuguesa transmontano",
+    "ingredients": [
+      {
+        "amount": "750 g",
+        "name": "batata"
+      },
+      {
+        "amount": "1 c. de sopa",
+        "name": "sal"
+      },
+      {
+        "amount": "500 g",
+        "name": "arroz"
+      },
+      {
+        "amount": "3 c. de sopa",
+        "name": "azeite"
+      },
+      {
+        "amount": "2 dente",
+        "name": "alho"
+      },
+      {
+        "amount": "100 g",
+        "name": "cebola"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "chouriço de sangue"
+      },
+      {
+        "amount": "1 unid.",
+        "name": "chouriça de carne"
+      },
+      {
+        "amount": "300 g",
+        "name": "ossos de espinhaço de porco"
+      },
+      {
+        "amount": "390 g",
+        "name": "nabo"
+      },
+      {
+        "amount": "500 g",
+        "name": "cenoura"
+      },
+      {
+        "amount": "700 g",
+        "name": "couve-portuguesa"
+      },
+      {
+        "amount": "1,3 kg",
+        "name": "couve-lombarda"
+      },
+      {
+        "amount": "3 c. de sopa",
+        "name": "sal"
+      },
+      {
+        "amount": "250 g",
+        "name": "focinho de porco"
+      },
+      {
+        "amount": "1,2 kg",
+        "name": "frango"
+      },
+      {
+        "amount": "400 g",
+        "name": "entrecosto"
+      }
+    ],
+    "steps": [
+      "Tempere as carnes de véspera com o sal.",
+      "Numa panela com água, coloque a cozer os ossos de espinhaço depois de bem lavados. Adicione o entrecosto,o frango e o focinho de porco. Estas carnes retiram-se à medida que vão cozendo. Se tiver uma panela de pressão a cozedura é mais rápida.",
+      "Em seguida, introduza na água de cozer as carnes os legumes arranjados e descascados e deixe cozer.",
+      "Pique os chouriços com um garfo e coza-os num tacho com água a ferver por cerca de 7 minutos.",
+      "Para o arroz, descasque e pique a cebola e esborrache os alhos e aloure ligeiramente no azeite num tacho de barro que possa ir ao forno.",
+      "Retire os alhos mal comecem a alourar. Junte o arroz no refogado depois de bem lavado e escorrido e deixe fritar, sem corar, até absorver a gordura. Tempere com o sal.",
+      "Regue o arroz com o caldo onde cozeram as carnes e os legumes. O caldo deve ter o dobro do volume do arroz. Deixe levantar fervura e leve o tacho ao forno, até que o arroz fique bem seco.",
+      "Antes de servir, corte as carnes e disponha-as numa travessa, assim como os legumes.",
+      "Sirva o cozido com o arroz."
+    ],
+    "tags": [
+      "carne",
+      "tradicional",
+      "cozido",
+      "sem glúten",
+      "almoço"
+    ],
+    "servings": 8,
+    "prepTime": "30 min",
+    "cookTime": "90 min",
+    "calories": 813,
+    "url": "https://www.pingodoce.pt/receitas/cozido-a-portuguesa-transmontano/",
+    "image": "/images/recipes/cozido-portuguesa-transmontano.jpeg",
+    "nutrition": {
+      "calories": 813,
+      "fat": 28,
+      "carbs": 0,
+      "protein": 64,
+      "fiber": 11
+    }
   }
 ]
