@@ -13,53 +13,98 @@ import { fileURLToPath } from 'url'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const root      = resolve(__dirname, '..')
-const mealsPath = join(root, 'src', 'data', 'meals.json')
-const publicDir = join(root, 'public')
+// We'll check the three pools individually so we can report counts per-file.
+const pools = [
+  join(root, 'src', 'data', 'allBreakfasts.json'),
+  join(root, 'src', 'data', 'AllLunches.json'),
+  join(root, 'src', 'data', 'AllDinners.json'),
+]
 
-const meals = JSON.parse(readFileSync(mealsPath, 'utf-8'))
+// Candidate base dirs where images may live locally.
+const candidateBases = [
+  root,
+  join(root, 'public'),
+  join(root, 'docs'),
+  join(root, 'docs', 'assets'),
+  join(root, 'src'),
+]
 
-let ok      = 0
-let missing = 0
-let noField = 0
+function existsLocalForImage(img) {
+  if (!img) return { found: false, checked: [] }
+  // Skip absolute/remote URLs
+  if (/^https?:\/\//i.test(img)) return { found: false, checked: ['remote URL'] }
 
-const missingList = []
+  const rel = img.replace(/^\//, '')
+  const checked = []
+  for (const base of candidateBases) {
+    const p = join(base, rel)
+    checked.push(p)
+    if (existsSync(p)) return { found: true, path: p, checked }
+  }
 
-for (const [date, entries] of Object.entries(meals)) {
-  for (const meal of entries) {
-    if (!meal.image) {
-      noField++
-      continue
-    }
-
-    // image paths are stored as absolute-style: /images/recipes/foo.jpg
-    // they live under public/ on disk
-    const diskPath = join(publicDir, meal.image)
-
-    if (existsSync(diskPath)) {
-      ok++
-    } else {
-      missing++
-      missingList.push({ date, label: meal.label, title: meal.title, image: meal.image })
+  // also try filename search in candidateBases (some paths omit folder)
+  const name = rel.split('/').pop()
+  if (name) {
+    for (const base of candidateBases) {
+      const p = join(base, 'images', name)
+      checked.push(p)
+      if (existsSync(p)) return { found: true, path: p, checked }
     }
   }
+
+  return { found: false, checked }
 }
 
-const total = ok + missing + noField
+let totalScanned = 0
+const report = []
 
-console.log(`\n📋 Image check — ${total} meals scanned\n`)
-console.log(`  ✅  Found   : ${ok}`)
-console.log(`  ❌  Missing : ${missing}`)
-console.log(`  ⚪  No field: ${noField}`)
+for (const poolPath of pools) {
+  if (!existsSync(poolPath)) continue
+  const items = JSON.parse(readFileSync(poolPath, 'utf-8'))
+  let ok = 0, missing = 0, noField = 0
+  const missingList = []
 
-if (missingList.length > 0) {
-  console.log('\n─────────────────────────────────────────────────')
-  console.log('Missing images:')
-  for (const m of missingList) {
-    console.log(`\n  📅 ${m.date}  [${m.label}] ${m.title}`)
-    console.log(`     → ${m.image}`)
+  for (const r of items) {
+    totalScanned++
+    const img = r.image
+    if (!img) { noField++; continue }
+
+    const res = existsLocalForImage(img)
+    if (res.found) ok++
+    else {
+      missing++
+      missingList.push({ id: r.id, name: r.name, image: img, checked: res.checked })
+    }
   }
-  console.log('')
+
+  report.push({ pool: poolPath, total: items.length, ok, missing, noField, missingList })
+}
+
+// Print summary
+console.log('\n📋 Image check — multi-pool summary\n')
+for (const r of report) {
+  const file = r.pool.replace(root + '/', '')
+  console.log(`File: ${file}`)
+  console.log(`  → Scanned : ${r.total}`)
+  console.log(`  ✅ Found   : ${r.ok}`)
+  console.log(`  ❌ Missing : ${r.missing}`)
+  console.log(`  ⚪ No field: ${r.noField}\n`)
+}
+
+// If any missing, print details and exit non-zero
+const totalMissing = report.reduce((s, r) => s + r.missing, 0)
+if (totalMissing > 0) {
+  console.log('\nDetails of missing images:')
+  for (const r of report) {
+    if (r.missingList.length === 0) continue
+    console.log(`\n--- ${r.pool.replace(root + '/', '')} ---`)
+    for (const m of r.missingList) {
+      console.log(`  - ${m.id}  ${m.name}`)
+      console.log(`     image: ${m.image}`)
+      console.log(`     tried: ${m.checked.slice(0,6).join(', ')}`)
+    }
+  }
   process.exit(1)
 } else {
-  console.log('\n🎉 All meal images are present.\n')
+  console.log('\n🎉 All local meal images are present (or are remote URLs).\n')
 }
