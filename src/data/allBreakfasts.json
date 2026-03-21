@@ -49,7 +49,6 @@
       "rápido",
       "pequeno-almoço"
     ],
-    "calories": 375,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 2,
@@ -113,7 +112,6 @@
       "sem forno",
       "pequeno-almoço"
     ],
-    "calories": 220,
     "prepTime": "5 min",
     "cookTime": "0 min (repouso de 6-8h)",
     "servings": 1,
@@ -194,7 +192,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 195,
     "prepTime": "10 min",
     "cookTime": "22 min",
     "servings": 8,
@@ -262,7 +259,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 395,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -337,7 +333,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 95,
     "prepTime": "10 min",
     "cookTime": "0 min (30 min no frigorífico)",
     "servings": 12,
@@ -404,7 +399,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 265,
     "prepTime": "10 min",
     "cookTime": "12 min",
     "servings": 2,
@@ -465,7 +459,6 @@
       "vegano",
       "pequeno-almoço"
     ],
-    "calories": 245,
     "prepTime": "5 min",
     "cookTime": "0 min (repouso de 4-6h)",
     "servings": 1,
@@ -539,7 +532,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 155,
     "prepTime": "5 min",
     "cookTime": "25 min",
     "servings": 10,
@@ -612,7 +604,6 @@
       "lanche",
       "rápido"
     ],
-    "calories": 280,
     "prepTime": "10 min",
     "cookTime": "8 min",
     "servings": 2,
@@ -670,7 +661,6 @@
       "meal-prep",
       "rápido"
     ],
-    "calories": 75,
     "prepTime": "5 min",
     "cookTime": "15 min",
     "servings": 12,
@@ -730,7 +720,6 @@
       "rápido",
       "pequeno-almoço"
     ],
-    "calories": 345,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -794,7 +783,6 @@
       "rápido",
       "pequeno-almoço"
     ],
-    "calories": 250,
     "prepTime": "5 min",
     "cookTime": "8 min",
     "servings": 1,
@@ -859,7 +847,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 210,
     "prepTime": "10 min",
     "cookTime": "0 min (1h no frigorífico)",
     "servings": 4,
@@ -934,7 +921,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 135,
     "prepTime": "10 min",
     "cookTime": "0 min (2h no frigorífico)",
     "servings": 10,
@@ -997,7 +983,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 310,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 1,
@@ -1061,7 +1046,6 @@
       "rápido",
       "pequeno-almoço"
     ],
-    "calories": 320,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -1129,7 +1113,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 85,
     "prepTime": "10 min",
     "cookTime": "20 min",
     "servings": 8,
@@ -1201,7 +1184,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 245,
     "prepTime": "5 min",
     "cookTime": "15 min",
     "servings": 2,
@@ -1268,7 +1250,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 145,
     "prepTime": "10 min",
     "cookTime": "0 min (1h no frigorífico)",
     "servings": 10,
@@ -1333,7 +1314,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 250,
     "prepTime": "5 min",
     "cookTime": "15 min",
     "servings": 2,
@@ -1392,7 +1372,6 @@
       "rápido",
       "pequeno-almoço"
     ],
-    "calories": 235,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -1458,7 +1437,6 @@
       "lanche",
       "rápido"
     ],
-    "calories": 195,
     "prepTime": "5 min",
     "cookTime": "5 min",
     "servings": 1,
@@ -1536,7 +1514,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 175,
     "prepTime": "10 min",
     "cookTime": "40 min",
     "servings": 10,
@@ -1616,7 +1593,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 210,
     "prepTime": "10 min",
     "cookTime": "30 min",
     "servings": 4,
@@ -1678,7 +1654,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 230,
     "prepTime": "5 min",
     "cookTime": "0 min (2h de congelação prévia)",
     "servings": 2,
@@ -1742,7 +1717,6 @@
       "vegano",
       "pequeno-almoço"
     ],
-    "calories": 265,
     "prepTime": "2 min",
     "cookTime": "15 min",
     "servings": 1,
@@ -1812,7 +1786,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 290,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 1,
@@ -1869,7 +1842,6 @@
       "sem forno",
       "pequeno-almoço"
     ],
-    "calories": 235,
     "prepTime": "5 min",
     "cookTime": "0 min (repouso de 4-6h)",
     "servings": 1,
@@ -1935,7 +1907,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 130,
     "prepTime": "10 min",
     "cookTime": "25 min",
     "servings": 3,
@@ -2008,7 +1979,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 150,
     "prepTime": "10 min",
     "cookTime": "20 min",
     "servings": 9,
@@ -2073,7 +2043,6 @@
       "lanche",
       "rápido"
     ],
-    "calories": 185,
     "prepTime": "3 min",
     "cookTime": "0 min",
     "servings": 2,
@@ -2138,7 +2107,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 210,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -2216,7 +2184,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 65,
     "prepTime": "10 min",
     "cookTime": "22 min",
     "servings": 10,
@@ -2282,7 +2249,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 85,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -2357,7 +2323,6 @@
       "vegano",
       "lanche"
     ],
-    "calories": 110,
     "prepTime": "10 min",
     "cookTime": "15 min",
     "servings": 5,
@@ -2428,7 +2393,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 340,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 2,
@@ -2482,7 +2446,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 115,
     "prepTime": "15 min",
     "cookTime": "0 min (30 min no frigorífico)",
     "servings": 8,
@@ -2555,7 +2518,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 195,
     "prepTime": "5 min",
     "cookTime": "8 min",
     "servings": 2,
@@ -2618,7 +2580,6 @@
       "rápido",
       "meal-prep"
     ],
-    "calories": 70,
     "prepTime": "5 min",
     "cookTime": "15 min",
     "servings": 10,
@@ -2683,7 +2644,6 @@
       "sem forno",
       "pequeno-almoço"
     ],
-    "calories": 280,
     "prepTime": "5 min",
     "cookTime": "0 min (repouso de 6-8h)",
     "servings": 1,
@@ -2757,7 +2717,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 145,
     "prepTime": "10 min",
     "cookTime": "30 min",
     "servings": 6,
@@ -2831,7 +2790,6 @@
       "lanche",
       "rápido"
     ],
-    "calories": 150,
     "prepTime": "15 min",
     "cookTime": "0 min",
     "servings": 4,
@@ -2900,7 +2858,6 @@
       "vegano",
       "lanche"
     ],
-    "calories": 135,
     "prepTime": "10 min",
     "cookTime": "25 min",
     "servings": 4,
@@ -2960,7 +2917,6 @@
       "rápido",
       "pequeno-almoço"
     ],
-    "calories": 260,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -3030,7 +2986,6 @@
       "meal-prep",
       "rápido"
     ],
-    "calories": 110,
     "prepTime": "10 min",
     "cookTime": "20 min",
     "servings": 6,
@@ -3101,7 +3056,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 370,
     "prepTime": "5 min",
     "cookTime": "18 min",
     "servings": 1,
@@ -3173,7 +3127,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 240,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 2,
@@ -3248,7 +3201,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 55,
     "prepTime": "10 min",
     "cookTime": "35 min",
     "servings": 20,
@@ -3317,7 +3269,6 @@
       "vegano",
       "lanche"
     ],
-    "calories": 190,
     "prepTime": "10 min",
     "cookTime": "20 min",
     "servings": 3,
@@ -3378,7 +3329,6 @@
       "rápido",
       "pequeno-almoço"
     ],
-    "calories": 95,
     "prepTime": "2 min",
     "cookTime": "5 min",
     "servings": 1,
@@ -3433,7 +3383,6 @@
       "lanche",
       "rápido"
     ],
-    "calories": 85,
     "prepTime": "10 min",
     "cookTime": "0 min (10 min no frigorífico)",
     "servings": 8,
@@ -3498,7 +3447,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 195,
     "prepTime": "5 min",
     "cookTime": "12 min",
     "servings": 2,
@@ -3564,7 +3512,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 90,
     "prepTime": "10 min",
     "cookTime": "0 min (2h de congelação)",
     "servings": 8,
@@ -3634,7 +3581,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 195,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 1,
@@ -3689,7 +3635,6 @@
       "meal-prep",
       "rápido"
     ],
-    "calories": 25,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 8,
@@ -3761,7 +3706,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 245,
     "prepTime": "10 min",
     "cookTime": "15 min",
     "servings": 4,
@@ -3825,7 +3769,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 340,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -3903,7 +3846,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 165,
     "prepTime": "10 min",
     "cookTime": "25 min",
     "servings": 10,
@@ -3970,7 +3912,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 265,
     "prepTime": "10 min",
     "cookTime": "12 min",
     "servings": 2,
@@ -4031,7 +3972,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 235,
     "prepTime": "5 min",
     "cookTime": "0 min (4h no frigorífico)",
     "servings": 2,
@@ -4110,7 +4050,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 210,
     "prepTime": "15 min",
     "cookTime": "25 min",
     "servings": 4,
@@ -4169,7 +4108,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 295,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -4246,7 +4184,6 @@
       "lanche",
       "rápido"
     ],
-    "calories": 285,
     "prepTime": "15 min",
     "cookTime": "10 min",
     "servings": 2,
@@ -4316,7 +4253,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 85,
     "prepTime": "10 min",
     "cookTime": "15 min",
     "servings": 12,
@@ -4386,7 +4322,6 @@
       "pequeno-almoço",
       "meal-prep"
     ],
-    "calories": 145,
     "prepTime": "15 min",
     "cookTime": "22 min",
     "servings": 6,
@@ -4450,7 +4385,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 230,
     "prepTime": "5 min",
     "cookTime": "8 min",
     "servings": 1,
@@ -4511,7 +4445,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 195,
     "prepTime": "5 min",
     "cookTime": "0 min (2h congelação prévia)",
     "servings": 2,
@@ -4582,7 +4515,6 @@
       "sem açúcar",
       "lanche"
     ],
-    "calories": 260,
     "prepTime": "10 min",
     "cookTime": "12 min",
     "servings": 2,
@@ -4645,7 +4577,6 @@
       "vegano",
       "pequeno-almoço"
     ],
-    "calories": 250,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 1,
@@ -4704,7 +4635,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 290,
     "prepTime": "5 min",
     "cookTime": "15 min",
     "servings": 2,
@@ -4775,7 +4705,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 155,
     "prepTime": "10 min",
     "cookTime": "0 min (1h no frigorífico)",
     "servings": 8,
@@ -4840,7 +4769,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 215,
     "prepTime": "10 min",
     "cookTime": "0 min (30 min no frigorífico)",
     "servings": 4,
@@ -4899,7 +4827,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 240,
     "prepTime": "3 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -4974,7 +4901,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 135,
     "prepTime": "10 min",
     "cookTime": "0 min (2h no frigorífico)",
     "servings": 10,
@@ -5053,7 +4979,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 145,
     "prepTime": "10 min",
     "cookTime": "35 min",
     "servings": 10,
@@ -5116,7 +5041,6 @@
       "vegano",
       "pequeno-almoço"
     ],
-    "calories": 320,
     "prepTime": "5 min",
     "cookTime": "12 min",
     "servings": 1,
@@ -5191,7 +5115,6 @@
       "sem açúcar",
       "lanche"
     ],
-    "calories": 165,
     "prepTime": "10 min",
     "cookTime": "12 min",
     "servings": 4,
@@ -5251,7 +5174,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 225,
     "prepTime": "10 min",
     "cookTime": "0 min (4h no frigorífico)",
     "servings": 2,
@@ -5325,7 +5247,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 340,
     "prepTime": "10 min",
     "cookTime": "40 min",
     "servings": 2,
@@ -5398,7 +5319,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 175,
     "prepTime": "10 min",
     "cookTime": "20 min",
     "servings": 8,
@@ -5467,7 +5387,6 @@
       "lanche",
       "rápido"
     ],
-    "calories": 185,
     "prepTime": "15 min",
     "cookTime": "0 min",
     "servings": 4,
@@ -5538,7 +5457,6 @@
       "sem forno",
       "pequeno-almoço"
     ],
-    "calories": 240,
     "prepTime": "5 min",
     "cookTime": "0 min (6-8h no frigorífico)",
     "servings": 1,
@@ -5611,7 +5529,6 @@
       "lanche",
       "rápido"
     ],
-    "calories": 130,
     "prepTime": "15 min",
     "cookTime": "0 min",
     "servings": 4,
@@ -5669,7 +5586,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 195,
     "prepTime": "15 min",
     "cookTime": "0 min (2h congelação)",
     "servings": 4,
@@ -5737,7 +5653,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 235,
     "prepTime": "5 min",
     "cookTime": "8 min",
     "servings": 2,
@@ -5797,7 +5712,6 @@
       "vegano",
       "lanche"
     ],
-    "calories": 155,
     "prepTime": "5 min",
     "cookTime": "15 min",
     "servings": 4,
@@ -5861,7 +5775,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 275,
     "prepTime": "5 min",
     "cookTime": "0 min",
     "servings": 1,
@@ -5939,7 +5852,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 220,
     "prepTime": "10 min",
     "cookTime": "25 min",
     "servings": 4,
@@ -6005,7 +5917,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 130,
     "prepTime": "10 min",
     "cookTime": "20 min",
     "servings": 6,
@@ -6076,7 +5987,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 370,
     "prepTime": "10 min",
     "cookTime": "15 min",
     "servings": 1,
@@ -6121,7 +6031,6 @@
       "vegano",
       "lanche"
     ],
-    "calories": 95,
     "prepTime": "10 min",
     "cookTime": "90 min",
     "servings": 2,
@@ -6191,7 +6100,6 @@
       "vegano",
       "lanche"
     ],
-    "calories": 125,
     "prepTime": "10 min",
     "cookTime": "18 min",
     "servings": 4,
@@ -6248,7 +6156,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 30,
     "prepTime": "5 min",
     "cookTime": "10 min",
     "servings": 8,
@@ -6318,7 +6225,6 @@
       "lanche",
       "meal-prep"
     ],
-    "calories": 85,
     "prepTime": "10 min",
     "cookTime": "0 min (30 min no frigorífico)",
     "servings": 12,
@@ -6382,7 +6288,6 @@
       "pequeno-almoço",
       "meal-prep"
     ],
-    "calories": 110,
     "prepTime": "10 min",
     "cookTime": "20 min",
     "servings": 6,
@@ -6447,7 +6352,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 75,
     "prepTime": "15 min",
     "cookTime": "0 min (1h no frigorífico)",
     "servings": 12,
@@ -6515,7 +6419,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 240,
     "prepTime": "10 min",
     "cookTime": "15 min",
     "servings": 2,
@@ -6576,7 +6479,6 @@
       "sem forno",
       "lanche"
     ],
-    "calories": 85,
     "prepTime": "10 min",
     "cookTime": "0 min (4h congelação)",
     "servings": 6,
@@ -6646,7 +6548,6 @@
       "sem açúcar",
       "pequeno-almoço"
     ],
-    "calories": 320,
     "prepTime": "10 min",
     "cookTime": "18 min",
     "servings": 2,
@@ -6703,7 +6604,6 @@
       "pequeno-almoço",
       "rápido"
     ],
-    "calories": 75,
     "prepTime": "3 min",
     "cookTime": "2 min",
     "servings": 1,

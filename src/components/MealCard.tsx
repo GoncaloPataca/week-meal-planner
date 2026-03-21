@@ -155,8 +155,10 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                     { key: 'fiber',    value: meal.nutrition.fiber,    unit: 'g',                accent: false, label: t('meal.fiber')   },
                   ].map(({ key, value, unit, accent, label }) => (
                     <div key={key}>
-                      <p className={`text-lg font-bold leading-none ${accent ? 'link-themed' : 'heading-themed'}`}>{value}</p>
-                      <p className="text-[10px] secondary-themed leading-tight">{unit}</p>
+                      <p className={`text-lg font-bold leading-none ${accent ? 'link-themed' : 'heading-themed'}`}>
+                        {value != null ? value : '–'}
+                      </p>
+                      <p className="text-[10px] secondary-themed leading-tight">{value != null ? unit : ''}</p>
                       {label && <p className="text-[10px] secondary-themed font-medium leading-tight mt-0.5">{label}</p>}
                     </div>
                   ))}

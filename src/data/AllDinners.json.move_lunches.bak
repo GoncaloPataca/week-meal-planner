@@ -1,0 +1,402 @@
+[
+  {
+    "id": "D01",
+    "name": "Frango Assado com Batata-Doce e Alecrim",
+    "ingredients": [
+      { "amount": "4 coxas", "name": "Frango (coxas com pele)" },
+      { "amount": "2 unidades médias", "name": "Batata-doce" },
+      { "amount": "4 ramos", "name": "Alecrim fresco" },
+      { "amount": "4 dentes", "name": "Alho" },
+      { "amount": "3 colheres de sopa", "name": "Azeite" },
+      { "amount": "1 unidade", "name": "Limão" },
+      { "amount": "a gosto", "name": "Sal, pimenta e pimentão fumado" }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Corte a batata-doce em meias-luas e disponha num tabuleiro com azeite e alecrim.",
+      "Coloque as coxas por cima, tempere com sal, pimenta, pimentão fumado e raspa de limão.",
+      "Espalhe os dentes de alho inteiros pelo tabuleiro.",
+      "Asse 40-45 minutos até o frango estar dourado e a batata macia.",
+      "Sirva com sumo de limão por cima."
+    ],
+    "tags": ["sem glúten", "sem lactose", "frango", "jantar"],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "45 min",
+    "calories": 480,
+    "url": null,
+    "image": "/images/recipes/frango-batata-doce.jpg"
+  },
+  {
+    "id": "D02",
+    "name": "Bacalhau com Grão e Espinafres",
+    "ingredients": [
+      { "amount": "400g", "name": "Bacalhau desfiado (demolhado)" },
+      { "amount": "1 lata (400g)", "name": "Grão-de-bico cozido" },
+      { "amount": "2 punhados", "name": "Espinafres frescos" },
+      { "amount": "3 dentes", "name": "Alho" },
+      { "amount": "1 unidade", "name": "Cebola" },
+      { "amount": "4 colheres de sopa", "name": "Azeite" },
+      { "amount": "2 ovos", "name": "Ovos cozidos (guarnição)" },
+      { "amount": "a gosto", "name": "Sal, pimenta e salsa" }
+    ],
+    "steps": [
+      "Refogue a cebola e o alho em azeite até amolecerem.",
+      "Adicione o bacalhau e cozinhe 5 minutos.",
+      "Junte o grão-de-bico e mexa bem.",
+      "Incorpore os espinafres e cozinhe até murcharem.",
+      "Sirva com ovos cozidos cortados ao meio e salsa picada."
+    ],
+    "tags": ["sem glúten", "sem lactose", "peixe", "jantar", "tradicional"],
+    "servings": 3,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "calories": 430,
+    "url": null,
+    "image": "/images/recipes/bacalhau-grao-espinafres.jpg"
+  },
+  {
+    "id": "D03",
+    "name": "Caril de Camarão com Leite de Coco",
+    "ingredients": [
+      { "amount": "400g", "name": "Camarão descascado" },
+      { "amount": "1 lata (400ml)", "name": "Leite de coco" },
+      { "amount": "2 colheres de chá", "name": "Pasta de caril amarelo" },
+      { "amount": "1 unidade", "name": "Cebola picada" },
+      { "amount": "2 dentes", "name": "Alho picado" },
+      { "amount": "1 pedaço (2cm)", "name": "Gengibre fresco ralado" },
+      { "amount": "1 punhado", "name": "Coentros frescos" },
+      { "amount": "1 colher de sopa", "name": "Óleo de coco" },
+      { "amount": "a gosto", "name": "Sal e sumo de lima" }
+    ],
+    "steps": [
+      "Refogue a cebola, o alho e o gengibre em óleo de coco por 3 minutos.",
+      "Adicione a pasta de caril e mexa 1 minuto.",
+      "Deite o leite de coco e deixe ferver em lume brando 5 minutos.",
+      "Junte o camarão e cozinhe 4-5 minutos até estar rosado.",
+      "Rectifique o sal, adicione sumo de lima e coentros. Sirva com arroz."
+    ],
+    "tags": ["sem glúten", "sem lactose", "marisco", "jantar"],
+    "servings": 3,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "calories": 400,
+    "url": null,
+    "image": "/images/recipes/caril-camarao.jpg"
+  },
+  {
+    "id": "D04",
+    "name": "Lombo de Porco com Maçã e Mostarda",
+    "ingredients": [
+      { "amount": "600g", "name": "Lombo de porco" },
+      { "amount": "2 unidades", "name": "Maçã" },
+      { "amount": "1 colher de sopa", "name": "Mostarda de Dijon" },
+      { "amount": "2 colheres de sopa", "name": "Mel" },
+      { "amount": "2 dentes", "name": "Alho" },
+      { "amount": "200ml", "name": "Caldo de frango" },
+      { "amount": "2 colheres de sopa", "name": "Azeite" },
+      { "amount": "a gosto", "name": "Sal, pimenta e tomilho" }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C.",
+      "Sele o lombo em azeite quente de todos os lados numa frigideira.",
+      "Misture mostarda, mel e alho picado. Barre o lombo com esta mistura.",
+      "Corte as maçãs em quartos e disponha em volta da carne num tabuleiro.",
+      "Deite o caldo, polvilhe com tomilho e asse 35 minutos.",
+      "Deixe repousar 5 minutos antes de fatiar."
+    ],
+    "tags": ["sem glúten", "sem lactose", "carne", "jantar"],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "40 min",
+    "calories": 450,
+    "url": null,
+    "image": "/images/recipes/lombo-porco-maca.jpg"
+  },
+  {
+    "id": "D05",
+    "name": "Salmão no Forno com Legumes Mediterrâneos",
+    "ingredients": [
+      { "amount": "4 postas (600g)", "name": "Salmão fresco" },
+      { "amount": "1 unidade", "name": "Abobrinha" },
+      { "amount": "1 unidade", "name": "Pimento vermelho" },
+      { "amount": "1 unidade", "name": "Pimento amarelo" },
+      { "amount": "200g", "name": "Tomates cereja" },
+      { "amount": "3 colheres de sopa", "name": "Azeite" },
+      { "amount": "1 unidade", "name": "Limão fatiado" },
+      { "amount": "a gosto", "name": "Sal, pimenta, orégãos e manjericão" }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Corte os legumes em pedaços e distribua num tabuleiro com azeite e orégãos.",
+      "Coloque o salmão por cima. Tempere com sal, pimenta e cubra com fatias de limão.",
+      "Adicione os tomates cereja ao redor.",
+      "Asse 20-25 minutos até o salmão estar cozinhado no interior.",
+      "Polvilhe com manjericão fresco antes de servir."
+    ],
+    "tags": ["sem glúten", "sem lactose", "peixe", "jantar"],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "calories": 490,
+    "url": null,
+    "image": "/images/recipes/salmao-legumes-forno.jpg"
+  },
+  {
+    "id": "D06",
+    "name": "Estufado de Grão com Tomate e Espinafres",
+    "ingredients": [
+      { "amount": "2 latas (800g)", "name": "Grão-de-bico cozido" },
+      { "amount": "1 lata (400g)", "name": "Tomate pelado" },
+      { "amount": "3 punhados", "name": "Espinafres frescos" },
+      { "amount": "1 unidade", "name": "Cebola" },
+      { "amount": "3 dentes", "name": "Alho" },
+      { "amount": "1 colher de chá", "name": "Cominhos" },
+      { "amount": "1 colher de chá", "name": "Pimentão fumado" },
+      { "amount": "3 colheres de sopa", "name": "Azeite" },
+      { "amount": "a gosto", "name": "Sal e pimenta" }
+    ],
+    "steps": [
+      "Refogue a cebola e o alho em azeite até ficarem macios.",
+      "Adicione os cominhos e o pimentão. Mexa 30 segundos.",
+      "Junte o tomate pelado e esmague com uma colher. Cozinhe 10 minutos.",
+      "Adicione o grão-de-bico e cozinhe mais 10 minutos.",
+      "Incorporate os espinafres, cozinhe 2 minutos e sirva."
+    ],
+    "tags": ["sem glúten", "vegano", "jantar"],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "calories": 380,
+    "url": null,
+    "image": "/images/recipes/estufado-grao-tomate.jpg"
+  },
+  {
+    "id": "D07",
+    "name": "Frango Tikka Masala Leve",
+    "ingredients": [
+      { "amount": "500g", "name": "Peito de frango em cubos" },
+      { "amount": "1 lata (400ml)", "name": "Leite de coco" },
+      { "amount": "1 lata (400g)", "name": "Tomate pelado" },
+      { "amount": "2 colheres de chá", "name": "Garam masala" },
+      { "amount": "1 colher de chá", "name": "Cúrcuma" },
+      { "amount": "1 colher de chá", "name": "Gengibre em pó" },
+      { "amount": "1 unidade", "name": "Cebola" },
+      { "amount": "3 dentes", "name": "Alho" },
+      { "amount": "2 colheres de sopa", "name": "Óleo de coco" },
+      { "amount": "a gosto", "name": "Sal e coentros" }
+    ],
+    "steps": [
+      "Refogue a cebola e o alho em óleo de coco até dourar.",
+      "Adicione todas as especiarias e mexa 1 minuto.",
+      "Junte o frango e sele por 5 minutos.",
+      "Deite o tomate e cozinhe 10 minutos.",
+      "Adicione o leite de coco e cozinhe em lume brando mais 10 minutos.",
+      "Sirva com arroz basmati e coentros frescos."
+    ],
+    "tags": ["sem glúten", "sem lactose", "frango", "jantar"],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "30 min",
+    "calories": 460,
+    "url": null,
+    "image": "/images/recipes/frango-tikka.jpg"
+  },
+  {
+    "id": "D08",
+    "name": "Peixe-Espada com Banana e Batata Cozida",
+    "ingredients": [
+      { "amount": "4 filetes", "name": "Peixe-espada" },
+      { "amount": "2 unidades", "name": "Banana" },
+      { "amount": "4 unidades médias", "name": "Batata" },
+      { "amount": "3 colheres de sopa", "name": "Farinha de arroz" },
+      { "amount": "3 colheres de sopa", "name": "Azeite" },
+      { "amount": "1 unidade", "name": "Limão" },
+      { "amount": "a gosto", "name": "Sal e pimenta" }
+    ],
+    "steps": [
+      "Coza as batatas em água com sal durante 20 minutos.",
+      "Tempere os filetes de peixe-espada com sal e pimenta. Passe na farinha de arroz.",
+      "Frite em azeite quente 3-4 minutos de cada lado até dourar.",
+      "Na mesma frigideira, frite as bananas cortadas ao meio 1-2 minutos.",
+      "Sirva o peixe com a banana, batata cozida e gomos de limão."
+    ],
+    "tags": ["sem glúten", "sem lactose", "peixe", "jantar", "tradicional"],
+    "servings": 4,
+    "prepTime": "5 min",
+    "cookTime": "25 min",
+    "calories": 420,
+    "url": null,
+    "image": "/images/recipes/peixe-espada-banana.jpg"
+  },
+  {
+    "id": "D09",
+    "name": "Carne Assada com Cenouras e Ervas",
+    "ingredients": [
+      { "amount": "800g", "name": "Novilho para assar (acém ou chambão)" },
+      { "amount": "4 unidades", "name": "Cenoura" },
+      { "amount": "1 unidade", "name": "Cebola" },
+      { "amount": "4 dentes", "name": "Alho" },
+      { "amount": "200ml", "name": "Vinho tinto (opcional)" },
+      { "amount": "300ml", "name": "Caldo de carne" },
+      { "amount": "3 colheres de sopa", "name": "Azeite" },
+      { "amount": "a gosto", "name": "Sal, pimenta, louro e tomilho" }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160°C.",
+      "Sele a carne em azeite quente de todos os lados.",
+      "Retire a carne. Refogue a cebola e o alho no mesmo tacho.",
+      "Deite o vinho, deixe evaporar a metade. Adicione o caldo e as ervas.",
+      "Coloque a carne de volta. Adicione as cenouras. Tape e asse 2h30.",
+      "A carne deve desfiar facilmente. Sirva com o molho coado."
+    ],
+    "tags": ["sem glúten", "sem lactose", "carne", "jantar"],
+    "servings": 5,
+    "prepTime": "15 min",
+    "cookTime": "150 min",
+    "calories": 510,
+    "url": null,
+    "image": "/images/recipes/carne-assada-cenoura.jpg"
+  },
+  {
+    "id": "D10",
+    "name": "Dourada Grelhada com Salsa Verde",
+    "ingredients": [
+      { "amount": "2 unidades (400g cada)", "name": "Dourada inteira limpa" },
+      { "amount": "1 punhado", "name": "Salsa fresca" },
+      { "amount": "1 punhado", "name": "Coentros frescos" },
+      { "amount": "1 dente", "name": "Alho" },
+      { "amount": "3 colheres de sopa", "name": "Azeite" },
+      { "amount": "1 unidade", "name": "Limão" },
+      { "amount": "a gosto", "name": "Sal e pimenta" }
+    ],
+    "steps": [
+      "Triture a salsa, os coentros, o alho, o sumo de limão e o azeite para fazer a salsa verde.",
+      "Faça 3 cortes em diagonal em cada dourada. Tempere com sal e pimenta por dentro e por fora.",
+      "Grelhe na grelha ou frigideira quente 5-6 minutos de cada lado.",
+      "Sirva com a salsa verde por cima e limão para espremer."
+    ],
+    "tags": ["sem glúten", "sem lactose", "peixe", "jantar"],
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "calories": 350,
+    "url": null,
+    "image": "/images/recipes/dourada-grelhada.jpg"
+  },
+  {
+    "id": "D11",
+    "name": "Hambúrguer de Lentilhas com Salada",
+    "ingredients": [
+      { "amount": "250g", "name": "Lentilhas vermelhas cozidas" },
+      { "amount": "1/2 xícara (40g)", "name": "Farinha de aveia" },
+      { "amount": "1 unidade", "name": "Cebola picada" },
+      { "amount": "2 dentes", "name": "Alho picado" },
+      { "amount": "1 colher de chá", "name": "Cominhos" },
+      { "amount": "1 colher de chá", "name": "Pimentão fumado" },
+      { "amount": "2 colheres de sopa", "name": "Azeite" },
+      { "amount": "Folhas de alface, tomate, pepino", "name": "Salada" },
+      { "amount": "a gosto", "name": "Sal e pimenta" }
+    ],
+    "steps": [
+      "Refogue a cebola e o alho até amolecer. Deixe arrefecer.",
+      "Esmague as lentilhas grosseiramente. Misture com a farinha, cebola, alho e especiarias.",
+      "Molde em 4 hambúrgueres. Leve ao frigorífico 20 minutos para firmar.",
+      "Grelhe ou cozinhe em azeite 4 minutos de cada lado.",
+      "Sirva com a salada e molho a gosto."
+    ],
+    "tags": ["sem glúten", "vegano", "jantar"],
+    "servings": 4,
+    "prepTime": "20 min",
+    "cookTime": "10 min",
+    "calories": 320,
+    "url": null,
+    "image": "/images/recipes/hamburguer-lentilhas.jpg"
+  },
+  {
+    "id": "D12",
+    "name": "Massada de Peixe à Portuguesa",
+    "ingredients": [
+      { "amount": "300g", "name": "Massa de arroz (cotovelos)" },
+      { "amount": "400g", "name": "Peixe branco em cubos (pescada ou robalo)" },
+      { "amount": "1 lata (400g)", "name": "Tomate pelado" },
+      { "amount": "1 unidade", "name": "Cebola" },
+      { "amount": "3 dentes", "name": "Alho" },
+      { "amount": "1/2 unidade", "name": "Pimento vermelho" },
+      { "amount": "800ml", "name": "Caldo de peixe" },
+      { "amount": "3 colheres de sopa", "name": "Azeite" },
+      { "amount": "a gosto", "name": "Sal, pimenta e coentros" }
+    ],
+    "steps": [
+      "Refogue a cebola, o alho e o pimento em azeite por 5 minutos.",
+      "Adicione o tomate pelado e cozinhe 10 minutos.",
+      "Deite o caldo de peixe e deixe ferver.",
+      "Adicione a massa e cozinhe 8 minutos.",
+      "Junte o peixe nos últimos 5 minutos. Rectifique e sirva com coentros."
+    ],
+    "tags": ["sem glúten", "sem lactose", "peixe", "jantar", "tradicional"],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "calories": 410,
+    "url": null,
+    "image": "/images/recipes/massada-peixe.jpg"
+  },
+  {
+    "id": "D13",
+    "name": "Tofu Salteado com Brócolos e Arroz",
+    "ingredients": [
+      { "amount": "400g", "name": "Tofu firme" },
+      { "amount": "1 cabeça", "name": "Brócolos" },
+      { "amount": "1 xícara (185g)", "name": "Arroz branco" },
+      { "amount": "2 colheres de sopa", "name": "Molho tamari (sem glúten)" },
+      { "amount": "1 colher de sopa", "name": "Óleo de sésamo" },
+      { "amount": "2 dentes", "name": "Alho" },
+      { "amount": "1 pedaço", "name": "Gengibre fresco" },
+      { "amount": "1 colher de sopa", "name": "Sementes de sésamo" }
+    ],
+    "steps": [
+      "Cozinhe o arroz e reserve.",
+      "Escorra o tofu e seque bem. Corte em cubos.",
+      "Frite o tofu em óleo quente até dourar de todos os lados. Reserve.",
+      "No mesmo wok, salteie o alho e o gengibre. Adicione os brócolos e salteie 4 minutos.",
+      "Junte o tofu e o tamari. Mexa bem.",
+      "Sirva sobre o arroz com óleo de sésamo e sementes."
+    ],
+    "tags": ["sem glúten", "vegano", "jantar"],
+    "servings": 3,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "calories": 390,
+    "url": null,
+    "image": "/images/recipes/tofu-brocoles-arroz.jpg"
+  },
+  {
+    "id": "D14",
+    "name": "Sopa de Abóbora com Gengibre e Leite de Coco",
+    "ingredients": [
+      { "amount": "800g", "name": "Abóbora butternut" },
+      { "amount": "1 lata (400ml)", "name": "Leite de coco" },
+      { "amount": "1 pedaço (3cm)", "name": "Gengibre fresco" },
+      { "amount": "1 unidade", "name": "Cebola" },
+      { "amount": "2 dentes", "name": "Alho" },
+      { "amount": "600ml", "name": "Caldo de legumes" },
+      { "amount": "2 colheres de sopa", "name": "Óleo de coco" },
+      { "amount": "a gosto", "name": "Sal, pimenta e cúrcuma" }
+    ],
+    "steps": [
+      "Refogue a cebola, o alho e o gengibre em óleo de coco.",
+      "Adicione a abóbora descascada e cortada em cubos.",
+      "Junte o caldo e a cúrcuma. Cozinhe 20 minutos até a abóbora estar macia.",
+      "Bata tudo com a varinha mágica até obter uma sopa homogénea.",
+      "Adicione o leite de coco, aqueça mais 2 minutos e sirva."
+    ],
+    "tags": ["sem glúten", "vegano", "sopa", "jantar"],
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "calories": 290,
+    "url": null,
+    "image": "/images/recipes/sopa-abobora-coco.jpg"
+  }
+]

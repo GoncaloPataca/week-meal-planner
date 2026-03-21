@@ -16,14 +16,13 @@
     },
     "Nutrition": {
       "type": "object",
-      "required": ["calories", "protein", "carbs", "fat", "fiber"],
       "additionalProperties": false,
       "properties": {
-        "calories": { "type": "number", "minimum": 0 },
-        "protein":  { "type": "number", "minimum": 0 },
-        "carbs":    { "type": "number", "minimum": 0 },
-        "fat":      { "type": "number", "minimum": 0 },
-        "fiber":    { "type": "number", "minimum": 0 }
+        "calories": { "type": ["number", "null"], "minimum": 0 },
+        "protein":  { "type": ["number", "null"], "minimum": 0 },
+        "carbs":    { "type": ["number", "null"], "minimum": 0 },
+        "fat":      { "type": ["number", "null"], "minimum": 0 },
+        "fiber":    { "type": ["number", "null"], "minimum": 0 }
       }
     },
     "Recipe": {
@@ -36,13 +35,13 @@
         "ingredients": { "type": "array", "items": { "$ref": "#/definitions/Ingredient" } },
         "steps":       { "type": "array", "items": { "type": "string" } },
         "tags":        { "type": "array", "items": { "type": "string" } },
-        "calories":    { "type": "number", "minimum": 0, "description": "Legacy top-level calories; prefer nutrition.calories" },
-        "prepTime":    { "type": "string" },
-        "cookTime":    { "type": "string" },
+        "prepTime":    { "type": ["string", "null"] },
+        "cookTime":    { "type": ["string", "null"] },
+        "totalTime":   { "type": ["string", "null"] },
         "servings":    { "type": "number", "minimum": 1 },
-        "url":         { "type": "string", "format": "uri" },
-        "image":       { "type": "string" },
-        "nutrition":   { "$ref": "#/definitions/Nutrition" }
+        "url":         { "type": ["string", "null"], "format": "uri" },
+        "image":       { "type": ["string", "null"] },
+        "nutrition":   { "oneOf": [{ "$ref": "#/definitions/Nutrition" }, { "type": "null" }] }
       }
     }
   }
