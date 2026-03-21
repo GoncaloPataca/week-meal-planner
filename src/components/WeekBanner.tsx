@@ -117,7 +117,7 @@ export default function WeekBanner(_: Props): JSX.Element {
                     ? 'border-2 shadow-lg'
                     : 'border hover:shadow-sm'
                   }
-                  focus:outline-none focus-visible:outline-none
+                  focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-slate-400
                 `}
               >
                 <div className="text-[0.6rem] sm:text-xs font-semibold secondary-themed uppercase tracking-wide">
