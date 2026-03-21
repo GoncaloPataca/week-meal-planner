@@ -36,7 +36,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
   }
 
   return (
-    <Disclosure defaultOpen>
+    <Disclosure>
       {({ open }) => (
         <article
           className="rounded-xl border shadow-sm hover:shadow-md transition-all duration-200"
