@@ -1,4 +1,8 @@
 {
+  "navbar": {
+    "screenOnEnable": "Manter ecrã ligado",
+    "screenOnDisable": "Permitir ecrã desligar"
+  },
   "app": {
     "title": "Mesa da Semana",
     "subtitle": "Sete dias de refeições. Toque num dia para ver os detalhes."

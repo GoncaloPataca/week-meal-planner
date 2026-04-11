@@ -1,4 +1,8 @@
 {
+  "navbar": {
+    "screenOnEnable": "Keep screen on",
+    "screenOnDisable": "Allow screen off"
+  },
   "app": {
     "title": "This Week's Table",
     "subtitle": "Seven days of meals. Tap a day to see the detail."

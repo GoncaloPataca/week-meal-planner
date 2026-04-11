@@ -1,13 +1,16 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next'
 import { useTheme } from 'next-themes'
-import { SunIcon, MoonIcon } from '@heroicons/react/24/outline'
+import { SunIcon, MoonIcon, LightBulbIcon } from '@heroicons/react/24/outline'
+import { LightBulbIcon as LightBulbSolid } from '@heroicons/react/24/solid'
 import ThemePicker from './ThemePicker'
 import NavButton from './NavButton'
+import { useWakeLock } from '../hooks/useWakeLock'
 
 export default function Navbar() {
-  const { i18n } = useTranslation()
+  const { i18n, t } = useTranslation()
   const { resolvedTheme, setTheme } = useTheme()
+  const { active: wakeLockActive, supported: wakeLockSupported, toggle: toggleWakeLock } = useWakeLock()
 
   const toggleTheme = () => {
     setTheme(resolvedTheme === 'dark' ? 'light' : 'dark')
@@ -44,6 +47,18 @@ export default function Navbar() {
             >
               {i18n.language.toUpperCase()}
             </NavButton>
+            {wakeLockSupported && (
+              <NavButton
+                variant="icon"
+                onClick={toggleWakeLock}
+                aria-label={wakeLockActive ? t('navbar.screenOnDisable') : t('navbar.screenOnEnable')}
+                title={wakeLockActive ? t('navbar.screenOnDisable') : t('navbar.screenOnEnable')}
+              >
+                {wakeLockActive
+                  ? <LightBulbSolid className="w-5 h-5 text-yellow-400" />
+                  : <LightBulbIcon className="w-5 h-5" />}
+              </NavButton>
+            )}
             <ThemePicker />
             <NavButton
               variant="icon"
