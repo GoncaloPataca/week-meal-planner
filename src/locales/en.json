@@ -55,11 +55,7 @@
   },
   "calendar": {
     "addToCalendar": "Add to Calendar",
-    "calendar": "Calendar",
-    "addIngredients": "Add Ingredients",
-    "ingredients": "Ingredients",
-    "exportDay": "Export Day",
-    "exportWeek": "Export Week"
+    "calendar": "Calendar"
   },
   "breakfast": {
     "add": "Add Breakfast",

@@ -3,7 +3,6 @@ import { Tab } from '@headlessui/react'
 import { useTranslation } from 'react-i18next'
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/24/outline'
 import useStore from '../store'
-import { downloadMultipleICS } from '../utils/calendar'
 
 interface Props {
   selectedDate?: Date

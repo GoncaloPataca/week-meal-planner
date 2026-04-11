@@ -5,14 +5,13 @@ import {
   ArrowTopRightOnSquareIcon,
   CalendarIcon,
   ChevronDownIcon,
-  ClipboardDocumentCheckIcon,
   ClockIcon,
   FireIcon,
   LightBulbIcon,
   UsersIcon,
 } from '@heroicons/react/24/outline'
 import { Meal } from '../types'
-import { downloadICS, downloadIngredientsICS, ICSLabels } from '../utils/calendar'
+import { downloadICS, ICSLabels } from '../utils/calendar'
 
 export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: string }) {
   const { t, i18n } = useTranslation()
@@ -237,20 +236,6 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                 <span className="hidden sm:inline">{t('calendar.addToCalendar')}</span>
                 <span className="sm:hidden">{t('calendar.calendar')}</span>
               </button>
-              {displayedIngredients.length > 0 && (
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation()
-                    const mealForICS = { ...meal, ingredients: displayedIngredients }
-                    downloadIngredientsICS(mealForICS as any, dateISO)
-                  }}
-                  className="btn-themed flex-1 flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg border transition-colors duration-200 text-xs sm:text-sm font-medium focus:outline-none focus:ring-2 focus:ring-slate-400"
-                >
-                  <ClipboardDocumentCheckIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
-                  <span className="hidden sm:inline">{t('calendar.addIngredients')}</span>
-                  <span className="sm:hidden">{t('calendar.ingredients')}</span>
-                </button>
-              )}
             </div>
           </Disclosure.Panel>
         </article>
