@@ -1,0 +1,32 @@
+{
+  "name": "Blueberry & Almond Smoothie",
+  "url": "https://www.mob.co.uk/recipes/blueberry-almond-smoothie",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Blueberry-Almond-Smoothie.jpg",
+  "servings": 1,
+  "ingredients": [
+    "75g Frozen Blueberries",
+    "75g Frozen Blackberry",
+    "50g Banana",
+    "160ml Almond Milk",
+    "30g Vanilla Protein Powder",
+    "15g Almond Butter",
+    "10g Chia Seed",
+    "5ml Water"
+  ],
+  "steps": [
+    "Chuck the blueberries, blackberries, banana, milk, protein powder, almond butter and chia seeds into a blender.",
+    "Blend until smooth. If it’s looking a bit too thick, loosen with a splash of cold water.",
+    "Pour into a glass and sip away."
+  ],
+  "tags": [
+    "breakfast",
+    "snacks",
+    "smoothies",
+    "healthy",
+    "speedy",
+    "veggie",
+    "pescatarian",
+    "mob-co-uk"
+  ],
+  "cookTime": "5 minutes"
+}

@@ -30,9 +30,12 @@ export default function Navbar() {
     >
       <div className="max-w-4xl mx-auto px-3 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-14 sm:h-16">
-          <h1 className="text-lg sm:text-xl font-serif font-semibold heading-themed">
+          <a
+            href="#"
+            className="text-lg sm:text-xl font-serif font-semibold heading-themed hover:opacity-80 transition-opacity"
+          >
             Week Meal Planner
-          </h1>
+          </a>
           <div className="flex gap-2">
             <NavButton
               variant="text"
@@ -48,9 +51,9 @@ export default function Navbar() {
               aria-label="Toggle theme"
             >
               {resolvedTheme === 'dark' ? (
-                <SunIcon className="w-5 h-5 text-yellow-500" />
-              ) : (
                 <MoonIcon className="w-5 h-5" />
+              ) : (
+                <SunIcon className="w-5 h-5 text-yellow-500" />
               )}
             </NavButton>
           </div>

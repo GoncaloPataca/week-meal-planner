@@ -2,9 +2,8 @@ import React, { useEffect, useState } from 'react'
 import { Popover } from '@headlessui/react'
 import { useTranslation } from 'react-i18next'
 import { useTheme } from 'next-themes'
-import { CheckIcon } from '@heroicons/react/24/outline'
+import { CheckIcon, PaintBrushIcon } from '@heroicons/react/24/outline'
 import { themes, DEFAULT_THEME_ID, PALETTE_STORAGE_KEY, applyTheme } from '../themes'
-import { PaletteIcon } from './icons'
 
 /** Convert 'warm-peach' → 'palette.warmPeach' */
 const tKey = (id: string) =>
@@ -37,7 +36,7 @@ export default function ThemePicker() {
         aria-label={t('palette.label')}
         title={t('palette.label')}
       >
-        <PaletteIcon className="w-5 h-5" />
+        <PaintBrushIcon className="w-5 h-5" />
       </Popover.Button>
 
       <Popover.Panel

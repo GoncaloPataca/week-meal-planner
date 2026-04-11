@@ -46,15 +46,27 @@ export default function WeekBanner(_: Props): JSX.Element {
   const today = new Date()
   const monday = viewedWeekStart
 
+  const mondayOfCurrentWeek = getMonday(today)
+  const minWeekStart = new Date(mondayOfCurrentWeek)
+  minWeekStart.setDate(minWeekStart.getDate() - 2 * 7)
+  const maxWeekStart = new Date(mondayOfCurrentWeek)
+  maxWeekStart.setDate(maxWeekStart.getDate() + 2 * 7)
+
+  const canGoPrev = monday.getTime() > minWeekStart.getTime()
+  const canGoNext = monday.getTime() < maxWeekStart.getTime()
+
   const dayKeys = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 
   const days = Array.from({ length: 7 }).map((_, i) => {
     const date = addDays(monday, i)
+    const y = date.getFullYear()
+    const m = String(date.getMonth() + 1).padStart(2, '0')
+    const d = String(date.getDate()).padStart(2, '0')
     return {
       date,
       label: t(`days.${dayKeys[i]}`),
       dayNumber: date.getDate(),
-      iso: date.toISOString().slice(0, 10)
+      iso: `${y}-${m}-${d}`
     }
   })
 
@@ -66,7 +78,6 @@ export default function WeekBanner(_: Props): JSX.Element {
   const selectedIndex = days.findIndex((d) => d.iso === selectedISO)
 
   const todayISO = today.toISOString().slice(0, 10)
-  const mondayOfCurrentWeek = getMonday(today)
   const isCurrentWeek = monday.getTime() === mondayOfCurrentWeek.getTime()
 
   return (
@@ -74,7 +85,8 @@ export default function WeekBanner(_: Props): JSX.Element {
       <div className="flex items-center justify-between gap-2 sm:gap-4">
         <button
           onClick={goToPreviousWeek}
-          className="btn-themed flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg border transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 text-xs sm:text-sm font-medium"
+          disabled={!canGoPrev}
+          className="btn-themed flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg border transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 text-xs sm:text-sm font-medium disabled:opacity-30 disabled:cursor-not-allowed"
           aria-label={t('navigation.previousWeek')}
         >
           <ChevronLeftIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
@@ -92,7 +104,8 @@ export default function WeekBanner(_: Props): JSX.Element {
 
         <button
           onClick={goToNextWeek}
-          className="btn-themed flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg border transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 text-xs sm:text-sm font-medium"
+          disabled={!canGoNext}
+          className="btn-themed flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-lg border transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-slate-400 text-xs sm:text-sm font-medium disabled:opacity-30 disabled:cursor-not-allowed"
           aria-label={t('navigation.nextWeek')}
         >
           <span className="hidden sm:inline">{t('navigation.nextWeek')}</span>

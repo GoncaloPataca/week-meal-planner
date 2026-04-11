@@ -15,7 +15,9 @@
     "check:images": "node scripts/check-images.js",
     "download:breakfast-images": "node scripts/download-breakfast-images.js",
     "meals": "node scripts/meals.js",
-    "generate:next-week:replace": "node scripts/generate-week.js --next-week --replace"
+    "generate:next-week:replace": "node scripts/generate-week.js --next-week --replace",
+    "scrape:recipe": "node scripts/agents/scrape-recipe.js",
+    "enrich:recipes": "node scripts/agents/enrich-recipe.js"
   },
   "dependencies": {
     "@headlessui/react": "latest",
@@ -30,6 +32,7 @@
     "zustand": "^4.4.0"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^0.82.0",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.0",

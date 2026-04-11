@@ -1,0 +1,3603 @@
+{
+  "3-ingredient-banana-pancakes-2": {
+    "slug": "3-ingredient-banana-pancakes-2",
+    "source": "src/data/recipes/mob/breakfasts/3-ingredient-banana-pancakes-2.json",
+    "seededAt": "2026-03-30T22:01:17.368Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "almond-croissant-baked-oats": {
+    "slug": "almond-croissant-baked-oats",
+    "source": "src/data/recipes/mob/breakfasts/almond-croissant-baked-oats.json",
+    "seededAt": "2026-03-30T22:01:17.368Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "american-pancakes": {
+    "slug": "american-pancakes",
+    "source": "src/data/recipes/mob/breakfasts/american-pancakes.json",
+    "seededAt": "2026-03-30T22:01:17.369Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "apple-blueberry-quaker-oats-with-almond-butter-banana": {
+    "slug": "apple-blueberry-quaker-oats-with-almond-butter-banana",
+    "source": "src/data/recipes/mob/breakfasts/apple-blueberry-quaker-oats-with-almond-butter-banana.json",
+    "seededAt": "2026-03-30T22:01:17.369Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "apple-crumble-overnight-oats": {
+    "slug": "apple-crumble-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/apple-crumble-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.369Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "bacon-brie-blueberry-french-toastie": {
+    "slug": "bacon-brie-blueberry-french-toastie",
+    "source": "src/data/recipes/mob/breakfasts/bacon-brie-blueberry-french-toastie.json",
+    "seededAt": "2026-03-30T22:01:17.369Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "bacon-sarnie": {
+    "slug": "bacon-sarnie",
+    "source": "src/data/recipes/mob/breakfasts/bacon-sarnie.json",
+    "seededAt": "2026-03-30T22:01:17.369Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "banoffee-overnight-oats": {
+    "slug": "banoffee-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/banoffee-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.369Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "bean-cheese-brekkie-quesadilla": {
+    "slug": "bean-cheese-brekkie-quesadilla",
+    "source": "src/data/recipes/mob/breakfasts/bean-cheese-brekkie-quesadilla.json",
+    "seededAt": "2026-03-30T22:01:17.370Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "biscoff-baked-oats": {
+    "slug": "biscoff-baked-oats",
+    "source": "src/data/recipes/mob/breakfasts/biscoff-baked-oats.json",
+    "seededAt": "2026-03-30T22:01:17.370Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "blueberry-almond-smoothie-bowl": {
+    "slug": "blueberry-almond-smoothie-bowl",
+    "source": "src/data/recipes/mob/breakfasts/blueberry-almond-smoothie-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.370Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "blueberry-almond-smoothie": {
+    "slug": "blueberry-almond-smoothie",
+    "source": "src/data/recipes/mob/breakfasts/blueberry-almond-smoothie.json",
+    "seededAt": "2026-03-30T22:01:17.371Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "blueberry-crunch-overnight-oats": {
+    "slug": "blueberry-crunch-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/blueberry-crunch-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.371Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "breakfast-tacos": {
+    "slug": "breakfast-tacos",
+    "source": "src/data/recipes/mob/breakfasts/breakfast-tacos.json",
+    "seededAt": "2026-03-30T22:01:17.371Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "butter-bean-shakshuka": {
+    "slug": "butter-bean-shakshuka",
+    "source": "src/data/recipes/mob/breakfasts/butter-bean-shakshuka.json",
+    "seededAt": "2026-03-30T22:01:17.371Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "caramelised-banana-coconut-overnight-oats": {
+    "slug": "caramelised-banana-coconut-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/caramelised-banana-coconut-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.372Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "carrot-cake-bircher-muesli": {
+    "slug": "carrot-cake-bircher-muesli",
+    "source": "src/data/recipes/mob/breakfasts/carrot-cake-bircher-muesli.json",
+    "seededAt": "2026-03-30T22:01:17.372Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "cheese-scones": {
+    "slug": "cheese-scones",
+    "source": "src/data/recipes/mob/breakfasts/cheese-scones.json",
+    "seededAt": "2026-03-30T22:01:17.372Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "cheesy-chorizo-brekkie-burritos": {
+    "slug": "cheesy-chorizo-brekkie-burritos",
+    "source": "src/data/recipes/mob/breakfasts/cheesy-chorizo-brekkie-burritos.json",
+    "seededAt": "2026-03-30T22:01:17.372Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "cheesy-okonomiyaki-recipe": {
+    "slug": "cheesy-okonomiyaki-recipe",
+    "source": "src/data/recipes/mob/breakfasts/cheesy-okonomiyaki-recipe.json",
+    "seededAt": "2026-03-30T22:01:17.372Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "cherry-bakewell-overnight-oats": {
+    "slug": "cherry-bakewell-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/cherry-bakewell-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.372Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chilli-pan-con-tomate": {
+    "slug": "chilli-pan-con-tomate",
+    "source": "src/data/recipes/mob/breakfasts/chilli-pan-con-tomate.json",
+    "seededAt": "2026-03-30T22:01:17.372Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chipotle-mushroom-egg-breakfast-tacos": {
+    "slug": "chipotle-mushroom-egg-breakfast-tacos",
+    "source": "src/data/recipes/mob/breakfasts/chipotle-mushroom-egg-breakfast-tacos.json",
+    "seededAt": "2026-03-30T22:01:17.372Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chocolate-raspberry-protein-overnight-oats": {
+    "slug": "chocolate-raspberry-protein-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/chocolate-raspberry-protein-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.373Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "crispy-bacon-egg-high-protein-smash": {
+    "slug": "crispy-bacon-egg-high-protein-smash",
+    "source": "src/data/recipes/mob/breakfasts/crispy-bacon-egg-high-protein-smash.json",
+    "seededAt": "2026-03-30T22:01:17.373Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "crunchy-egg-salad-bagels": {
+    "slug": "crunchy-egg-salad-bagels",
+    "source": "src/data/recipes/mob/breakfasts/crunchy-egg-salad-bagels.json",
+    "seededAt": "2026-03-30T22:01:17.373Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "easiest-rarebit-scones-with-a-fried-egg-ham": {
+    "slug": "easiest-rarebit-scones-with-a-fried-egg-ham",
+    "source": "src/data/recipes/mob/breakfasts/easiest-rarebit-scones-with-a-fried-egg-ham.json",
+    "seededAt": "2026-03-30T22:01:17.373Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "easy-blueberry-pancakes": {
+    "slug": "easy-blueberry-pancakes",
+    "source": "src/data/recipes/mob/breakfasts/easy-blueberry-pancakes.json",
+    "seededAt": "2026-03-30T22:01:17.373Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "easy-crepe-recipe": {
+    "slug": "easy-crepe-recipe",
+    "source": "src/data/recipes/mob/breakfasts/easy-crepe-recipe.json",
+    "seededAt": "2026-03-30T22:01:17.373Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "egg-cheese-breakfast-quesadillas": {
+    "slug": "egg-cheese-breakfast-quesadillas",
+    "source": "src/data/recipes/mob/breakfasts/egg-cheese-breakfast-quesadillas.json",
+    "seededAt": "2026-03-30T22:01:17.373Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "french-omelette": {
+    "slug": "french-omelette",
+    "source": "src/data/recipes/mob/breakfasts/french-omelette.json",
+    "seededAt": "2026-03-30T22:01:17.373Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "fruity-coconut-grain-porridge": {
+    "slug": "fruity-coconut-grain-porridge",
+    "source": "src/data/recipes/mob/breakfasts/fruity-coconut-grain-porridge.json",
+    "seededAt": "2026-03-30T22:01:17.374Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "full-vegan-breakfast": {
+    "slug": "full-vegan-breakfast",
+    "source": "src/data/recipes/mob/breakfasts/full-vegan-breakfast.json",
+    "seededAt": "2026-03-30T22:01:17.374Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "greek-baked-beans": {
+    "slug": "greek-baked-beans",
+    "source": "src/data/recipes/mob/breakfasts/greek-baked-beans.json",
+    "seededAt": "2026-03-30T22:01:17.374Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "hazelnut-mocha-overnight-oats": {
+    "slug": "hazelnut-mocha-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/hazelnut-mocha-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.374Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "healthy-chocolate-spread": {
+    "slug": "healthy-chocolate-spread",
+    "source": "src/data/recipes/mob/breakfasts/healthy-chocolate-spread.json",
+    "seededAt": "2026-03-30T22:01:17.374Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "healthy-kid-friendly-granola": {
+    "slug": "healthy-kid-friendly-granola",
+    "source": "src/data/recipes/mob/breakfasts/healthy-kid-friendly-granola.json",
+    "seededAt": "2026-03-30T22:01:17.374Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "herby-feta-scrambled-eggs": {
+    "slug": "herby-feta-scrambled-eggs",
+    "source": "src/data/recipes/mob/breakfasts/herby-feta-scrambled-eggs.json",
+    "seededAt": "2026-03-30T22:01:17.375Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "herby-omelette-tomato-sandwich": {
+    "slug": "herby-omelette-tomato-sandwich",
+    "source": "src/data/recipes/mob/breakfasts/herby-omelette-tomato-sandwich.json",
+    "seededAt": "2026-03-30T22:01:17.375Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "high-protein-air-fryer-granola": {
+    "slug": "high-protein-air-fryer-granola",
+    "source": "src/data/recipes/mob/breakfasts/high-protein-air-fryer-granola.json",
+    "seededAt": "2026-03-30T22:01:17.375Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "high-protein-banana-bread-baked-oats": {
+    "slug": "high-protein-banana-bread-baked-oats",
+    "source": "src/data/recipes/mob/breakfasts/high-protein-banana-bread-baked-oats.json",
+    "seededAt": "2026-03-30T22:01:17.375Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "high-protein-breakfast-beans-eggs": {
+    "slug": "high-protein-breakfast-beans-eggs",
+    "source": "src/data/recipes/mob/breakfasts/high-protein-breakfast-beans-eggs.json",
+    "seededAt": "2026-03-30T22:01:17.375Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "high-protein-breakfast-burritos": {
+    "slug": "high-protein-breakfast-burritos",
+    "source": "src/data/recipes/mob/breakfasts/high-protein-breakfast-burritos.json",
+    "seededAt": "2026-03-30T22:01:17.375Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "high-protein-breakfast-smoothie": {
+    "slug": "high-protein-breakfast-smoothie",
+    "source": "src/data/recipes/mob/breakfasts/high-protein-breakfast-smoothie.json",
+    "seededAt": "2026-03-30T22:01:17.375Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "high-protein-tiramisu-overnight-oats": {
+    "slug": "high-protein-tiramisu-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/high-protein-tiramisu-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.375Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "hot-sauce-egg-salad-breakfast-wraps": {
+    "slug": "hot-sauce-egg-salad-breakfast-wraps",
+    "source": "src/data/recipes/mob/breakfasts/hot-sauce-egg-salad-breakfast-wraps.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "island-brunch-bowl": {
+    "slug": "island-brunch-bowl",
+    "source": "src/data/recipes/mob/breakfasts/island-brunch-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "kedgeree": {
+    "slug": "kedgeree",
+    "source": "src/data/recipes/mob/breakfasts/kedgeree.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "kefir-delight": {
+    "slug": "kefir-delight",
+    "source": "src/data/recipes/mob/breakfasts/kefir-delight.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "kimchi-baked-beans-with-sesame-fried-eggs": {
+    "slug": "kimchi-baked-beans-with-sesame-fried-eggs",
+    "source": "src/data/recipes/mob/breakfasts/kimchi-baked-beans-with-sesame-fried-eggs.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "lemon-poppy-seed-sunshine-pots": {
+    "slug": "lemon-poppy-seed-sunshine-pots",
+    "source": "src/data/recipes/mob/breakfasts/lemon-poppy-seed-sunshine-pots.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "maple-bacon-egg-cheese-bagels": {
+    "slug": "maple-bacon-egg-cheese-bagels",
+    "source": "src/data/recipes/mob/breakfasts/maple-bacon-egg-cheese-bagels.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "morning-milk-tea-chia-pudding": {
+    "slug": "morning-milk-tea-chia-pudding",
+    "source": "src/data/recipes/mob/breakfasts/morning-milk-tea-chia-pudding.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "new-york-style-poppy-seed-bagels-lox": {
+    "slug": "new-york-style-poppy-seed-bagels-lox",
+    "source": "src/data/recipes/mob/breakfasts/new-york-style-poppy-seed-bagels-lox.json",
+    "seededAt": "2026-03-30T22:01:17.376Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "nori-egg-wraps-with-miso-peanut-butter-slaw": {
+    "slug": "nori-egg-wraps-with-miso-peanut-butter-slaw",
+    "source": "src/data/recipes/mob/breakfasts/nori-egg-wraps-with-miso-peanut-butter-slaw.json",
+    "seededAt": "2026-03-30T22:01:17.377Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "oozy-jammy-eggs": {
+    "slug": "oozy-jammy-eggs",
+    "source": "src/data/recipes/mob/breakfasts/oozy-jammy-eggs.json",
+    "seededAt": "2026-03-30T22:01:17.377Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "overnight-strawberry-matcha-brekkie-bowl": {
+    "slug": "overnight-strawberry-matcha-brekkie-bowl",
+    "source": "src/data/recipes/mob/breakfasts/overnight-strawberry-matcha-brekkie-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.377Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "parmesan-fried-egg": {
+    "slug": "parmesan-fried-egg",
+    "source": "src/data/recipes/mob/breakfasts/parmesan-fried-egg.json",
+    "seededAt": "2026-03-30T22:01:17.377Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "parmesan-rosti-with-hot-sauce-eggs": {
+    "slug": "parmesan-rosti-with-hot-sauce-eggs",
+    "source": "src/data/recipes/mob/breakfasts/parmesan-rosti-with-hot-sauce-eggs.json",
+    "seededAt": "2026-03-30T22:01:17.377Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "pb-j-overnight-oats-with-a-chocolate-smash-lid": {
+    "slug": "pb-j-overnight-oats-with-a-chocolate-smash-lid",
+    "source": "src/data/recipes/mob/breakfasts/pb-j-overnight-oats-with-a-chocolate-smash-lid.json",
+    "seededAt": "2026-03-30T22:01:17.377Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "peanut-butter-overnight-oats-three-ways": {
+    "slug": "peanut-butter-overnight-oats-three-ways",
+    "source": "src/data/recipes/mob/breakfasts/peanut-butter-overnight-oats-three-ways.json",
+    "seededAt": "2026-03-30T22:01:17.377Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "peanut-curry-beans-on-toast": {
+    "slug": "peanut-curry-beans-on-toast",
+    "source": "src/data/recipes/mob/breakfasts/peanut-curry-beans-on-toast.json",
+    "seededAt": "2026-03-30T22:01:17.377Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "perfect-scrambled-eggs-and-crisps": {
+    "slug": "perfect-scrambled-eggs-and-crisps",
+    "source": "src/data/recipes/mob/breakfasts/perfect-scrambled-eggs-and-crisps.json",
+    "seededAt": "2026-03-30T22:01:17.378Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "pink-power-smoothie-bowl": {
+    "slug": "pink-power-smoothie-bowl",
+    "source": "src/data/recipes/mob/breakfasts/pink-power-smoothie-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.378Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "pink-power-smoothie": {
+    "slug": "pink-power-smoothie",
+    "source": "src/data/recipes/mob/breakfasts/pink-power-smoothie.json",
+    "seededAt": "2026-03-30T22:01:17.378Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "poached-eggs-with-green-chilli-butter": {
+    "slug": "poached-eggs-with-green-chilli-butter",
+    "source": "src/data/recipes/mob/breakfasts/poached-eggs-with-green-chilli-butter.json",
+    "seededAt": "2026-03-30T22:01:17.378Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "pork-belly-benedict-with-gochujang-hollandaise": {
+    "slug": "pork-belly-benedict-with-gochujang-hollandaise",
+    "source": "src/data/recipes/mob/breakfasts/pork-belly-benedict-with-gochujang-hollandaise.json",
+    "seededAt": "2026-03-30T22:01:17.378Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "potato-rosti-recipe": {
+    "slug": "potato-rosti-recipe",
+    "source": "src/data/recipes/mob/breakfasts/potato-rosti-recipe.json",
+    "seededAt": "2026-03-30T22:01:17.378Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "probiotic-bircher-muesli": {
+    "slug": "probiotic-bircher-muesli",
+    "source": "src/data/recipes/mob/breakfasts/probiotic-bircher-muesli.json",
+    "seededAt": "2026-03-30T22:01:17.378Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "protein-french-toast-recipe": {
+    "slug": "protein-french-toast-recipe",
+    "source": "src/data/recipes/mob/breakfasts/protein-french-toast-recipe.json",
+    "seededAt": "2026-03-30T22:01:17.379Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "protein-pancakes": {
+    "slug": "protein-pancakes",
+    "source": "src/data/recipes/mob/breakfasts/protein-pancakes.json",
+    "seededAt": "2026-03-30T22:01:17.379Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "rhubarb-and-blood-orange-overnight-oats": {
+    "slug": "rhubarb-and-blood-orange-overnight-oats",
+    "source": "src/data/recipes/mob/breakfasts/rhubarb-and-blood-orange-overnight-oats.json",
+    "seededAt": "2026-03-30T22:01:17.379Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "rolled-eggs-breakfast-wrap": {
+    "slug": "rolled-eggs-breakfast-wrap",
+    "source": "src/data/recipes/mob/breakfasts/rolled-eggs-breakfast-wrap.json",
+    "seededAt": "2026-03-30T22:01:17.379Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "smoky-bacon-beans-on-fried-bread": {
+    "slug": "smoky-bacon-beans-on-fried-bread",
+    "source": "src/data/recipes/mob/breakfasts/smoky-bacon-beans-on-fried-bread.json",
+    "seededAt": "2026-03-30T22:01:17.379Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "smoky-mushroom-maple-bagel": {
+    "slug": "smoky-mushroom-maple-bagel",
+    "source": "src/data/recipes/mob/breakfasts/smoky-mushroom-maple-bagel.json",
+    "seededAt": "2026-03-30T22:01:17.379Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "smoky-tempeh-breakfast-bowl-meal-plan": {
+    "slug": "smoky-tempeh-breakfast-bowl-meal-plan",
+    "source": "src/data/recipes/mob/breakfasts/smoky-tempeh-breakfast-bowl-meal-plan.json",
+    "seededAt": "2026-03-30T22:01:17.379Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "smoky-tempeh-breakfast-bowl": {
+    "slug": "smoky-tempeh-breakfast-bowl",
+    "source": "src/data/recipes/mob/breakfasts/smoky-tempeh-breakfast-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.379Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spanakopita-breakfast-wraps": {
+    "slug": "spanakopita-breakfast-wraps",
+    "source": "src/data/recipes/mob/breakfasts/spanakopita-breakfast-wraps.json",
+    "seededAt": "2026-03-30T22:01:17.380Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-breakfast-burrito": {
+    "slug": "spicy-breakfast-burrito",
+    "source": "src/data/recipes/mob/breakfasts/spicy-breakfast-burrito.json",
+    "seededAt": "2026-03-30T22:01:17.380Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-egg-cheese-breakfast-sandos": {
+    "slug": "spicy-egg-cheese-breakfast-sandos",
+    "source": "src/data/recipes/mob/breakfasts/spicy-egg-cheese-breakfast-sandos.json",
+    "seededAt": "2026-03-30T22:01:17.380Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-sausage-shakshuka": {
+    "slug": "spicy-sausage-shakshuka",
+    "source": "src/data/recipes/mob/breakfasts/spicy-sausage-shakshuka.json",
+    "seededAt": "2026-03-30T22:01:17.380Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "squidgy-french-toast-dippers": {
+    "slug": "squidgy-french-toast-dippers",
+    "source": "src/data/recipes/mob/breakfasts/squidgy-french-toast-dippers.json",
+    "seededAt": "2026-03-30T22:01:17.380Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sticky-toffee-baked-oats": {
+    "slug": "sticky-toffee-baked-oats",
+    "source": "src/data/recipes/mob/breakfasts/sticky-toffee-baked-oats.json",
+    "seededAt": "2026-03-30T22:01:17.381Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "strapatsada": {
+    "slug": "strapatsada",
+    "source": "src/data/recipes/mob/breakfasts/strapatsada.json",
+    "seededAt": "2026-03-30T22:01:17.381Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "strawberry-cheesecake-honey-butter-toast": {
+    "slug": "strawberry-cheesecake-honey-butter-toast",
+    "source": "src/data/recipes/mob/breakfasts/strawberry-cheesecake-honey-butter-toast.json",
+    "seededAt": "2026-03-30T22:01:17.381Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sun-dried-tomato-cottage-cheese-cilbir": {
+    "slug": "sun-dried-tomato-cottage-cheese-cilbir",
+    "source": "src/data/recipes/mob/breakfasts/sun-dried-tomato-cottage-cheese-cilbir.json",
+    "seededAt": "2026-03-30T22:01:17.381Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "super-berry-chia-pudding": {
+    "slug": "super-berry-chia-pudding",
+    "source": "src/data/recipes/mob/breakfasts/super-berry-chia-pudding.json",
+    "seededAt": "2026-03-30T22:01:17.381Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "supergreen-matcha-smoothie-bowl": {
+    "slug": "supergreen-matcha-smoothie-bowl",
+    "source": "src/data/recipes/mob/breakfasts/supergreen-matcha-smoothie-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "supergreen-matcha-smoothie": {
+    "slug": "supergreen-matcha-smoothie",
+    "source": "src/data/recipes/mob/breakfasts/supergreen-matcha-smoothie.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sweetcorn-fritters-2": {
+    "slug": "sweetcorn-fritters-2",
+    "source": "src/data/recipes/mob/breakfasts/sweetcorn-fritters-2.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "thai-sausage-breakfast-sandwich": {
+    "slug": "thai-sausage-breakfast-sandwich",
+    "source": "src/data/recipes/mob/breakfasts/thai-sausage-breakfast-sandwich.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "tropical-sunshine-smoothie-bowl": {
+    "slug": "tropical-sunshine-smoothie-bowl",
+    "source": "src/data/recipes/mob/breakfasts/tropical-sunshine-smoothie-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "tropical-sunshine-smoothie": {
+    "slug": "tropical-sunshine-smoothie",
+    "source": "src/data/recipes/mob/breakfasts/tropical-sunshine-smoothie.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "turkish-air-fryer-poached-eggs-recipe": {
+    "slug": "turkish-air-fryer-poached-eggs-recipe",
+    "source": "src/data/recipes/mob/breakfasts/turkish-air-fryer-poached-eggs-recipe.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "turkish-eggs-with-confit-chickpeas-tomatoes": {
+    "slug": "turkish-eggs-with-confit-chickpeas-tomatoes",
+    "source": "src/data/recipes/mob/breakfasts/turkish-eggs-with-confit-chickpeas-tomatoes.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "veggie-sheet-pan-breakfast-burritos": {
+    "slug": "veggie-sheet-pan-breakfast-burritos",
+    "source": "src/data/recipes/mob/breakfasts/veggie-sheet-pan-breakfast-burritos.json",
+    "seededAt": "2026-03-30T22:01:17.382Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "xo-sauce-omelette-with-prawns-spring-onions": {
+    "slug": "xo-sauce-omelette-with-prawns-spring-onions",
+    "source": "src/data/recipes/mob/breakfasts/xo-sauce-omelette-with-prawns-spring-onions.json",
+    "seededAt": "2026-03-30T22:01:17.383Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "yoghurt-bowl-with-high-protein-granola": {
+    "slug": "yoghurt-bowl-with-high-protein-granola",
+    "source": "src/data/recipes/mob/breakfasts/yoghurt-bowl-with-high-protein-granola.json",
+    "seededAt": "2026-03-30T22:01:17.383Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "yoghurt-flatbreads-with-crispy-chorizo-eggs": {
+    "slug": "yoghurt-flatbreads-with-crispy-chorizo-eggs",
+    "source": "src/data/recipes/mob/breakfasts/yoghurt-flatbreads-with-crispy-chorizo-eggs.json",
+    "seededAt": "2026-03-30T22:01:17.383Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "zoe-granola": {
+    "slug": "zoe-granola",
+    "source": "src/data/recipes/mob/breakfasts/zoe-granola.json",
+    "seededAt": "2026-03-30T22:01:17.383Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "10-minute-smoky-harissa-creamy-butter-beans-lunch": {
+    "slug": "10-minute-smoky-harissa-creamy-butter-beans-lunch",
+    "source": "src/data/recipes/mob/lunches/10-minute-smoky-harissa-creamy-butter-beans-lunch.json",
+    "seededAt": "2026-03-30T22:01:17.383Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "beef-kofte-with-tahini-rippled-greek-yoghurt-2": {
+    "slug": "beef-kofte-with-tahini-rippled-greek-yoghurt-2",
+    "source": "src/data/recipes/mob/lunches/beef-kofte-with-tahini-rippled-greek-yoghurt-2.json",
+    "seededAt": "2026-03-30T22:01:17.383Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "beef-udon-noodle-stir-fry-meal-plan": {
+    "slug": "beef-udon-noodle-stir-fry-meal-plan",
+    "source": "src/data/recipes/mob/lunches/beef-udon-noodle-stir-fry-meal-plan.json",
+    "seededAt": "2026-03-30T22:01:17.384Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "blt-chicken-salad-meal-prep": {
+    "slug": "blt-chicken-salad-meal-prep",
+    "source": "src/data/recipes/mob/lunches/blt-chicken-salad-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.384Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "braised-lentils-with-fennel-sausage-and-salsa-verde": {
+    "slug": "braised-lentils-with-fennel-sausage-and-salsa-verde",
+    "source": "src/data/recipes/mob/lunches/braised-lentils-with-fennel-sausage-and-salsa-verde.json",
+    "seededAt": "2026-03-30T22:01:17.384Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "cauliflower-with-harissa-tahini-and-lentils": {
+    "slug": "cauliflower-with-harissa-tahini-and-lentils",
+    "source": "src/data/recipes/mob/lunches/cauliflower-with-harissa-tahini-and-lentils.json",
+    "seededAt": "2026-03-30T22:01:17.384Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chargrilled-chicken-garlicky-broccoli-rice-meal-prep": {
+    "slug": "chargrilled-chicken-garlicky-broccoli-rice-meal-prep",
+    "source": "src/data/recipes/mob/lunches/chargrilled-chicken-garlicky-broccoli-rice-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.384Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-bacon-chopped-salad": {
+    "slug": "chicken-bacon-chopped-salad",
+    "source": "src/data/recipes/mob/lunches/chicken-bacon-chopped-salad.json",
+    "seededAt": "2026-03-30T22:01:17.384Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-caesar-chopped-salad": {
+    "slug": "chicken-caesar-chopped-salad",
+    "source": "src/data/recipes/mob/lunches/chicken-caesar-chopped-salad.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep": {
+    "slug": "chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep",
+    "source": "src/data/recipes/mob/lunches/chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-pepper-cucumber-chopped-salad": {
+    "slug": "chicken-pepper-cucumber-chopped-salad",
+    "source": "src/data/recipes/mob/lunches/chicken-pepper-cucumber-chopped-salad.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-pesto-sun-dried-tomato-high-protein-smash": {
+    "slug": "chicken-pesto-sun-dried-tomato-high-protein-smash",
+    "source": "src/data/recipes/mob/lunches/chicken-pesto-sun-dried-tomato-high-protein-smash.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-quinoa-salad-lunch": {
+    "slug": "chicken-quinoa-salad-lunch",
+    "source": "src/data/recipes/mob/lunches/chicken-quinoa-salad-lunch.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-satay-grain-bowl": {
+    "slug": "chicken-satay-grain-bowl",
+    "source": "src/data/recipes/mob/lunches/chicken-satay-grain-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chickpea-tahini-harissa-smoosh": {
+    "slug": "chickpea-tahini-harissa-smoosh",
+    "source": "src/data/recipes/mob/lunches/chickpea-tahini-harissa-smoosh.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "coconut-spinach-tomato-dahl": {
+    "slug": "coconut-spinach-tomato-dahl",
+    "source": "src/data/recipes/mob/lunches/coconut-spinach-tomato-dahl.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "cottage-cheese-caesar-high-protein-smash": {
+    "slug": "cottage-cheese-caesar-high-protein-smash",
+    "source": "src/data/recipes/mob/lunches/cottage-cheese-caesar-high-protein-smash.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "courgette-butter-bean-pasta-salad-lunch": {
+    "slug": "courgette-butter-bean-pasta-salad-lunch",
+    "source": "src/data/recipes/mob/lunches/courgette-butter-bean-pasta-salad-lunch.json",
+    "seededAt": "2026-03-30T22:01:17.385Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "creamy-green-pasta-beans-2": {
+    "slug": "creamy-green-pasta-beans-2",
+    "source": "src/data/recipes/mob/lunches/creamy-green-pasta-beans-2.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "creamy-miso-tahini-udon": {
+    "slug": "creamy-miso-tahini-udon",
+    "source": "src/data/recipes/mob/lunches/creamy-miso-tahini-udon.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "creamy-sun-dried-tomato-pasta-salad-meal-prep": {
+    "slug": "creamy-sun-dried-tomato-pasta-salad-meal-prep",
+    "source": "src/data/recipes/mob/lunches/creamy-sun-dried-tomato-pasta-salad-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "creamy-tomato-gnocchi-bake-2": {
+    "slug": "creamy-tomato-gnocchi-bake-2",
+    "source": "src/data/recipes/mob/lunches/creamy-tomato-gnocchi-bake-2.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "crispy-salmon-ponzy-rice-salad": {
+    "slug": "crispy-salmon-ponzy-rice-salad",
+    "source": "src/data/recipes/mob/lunches/crispy-salmon-ponzy-rice-salad.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "curry-leaf-swirly-omelette": {
+    "slug": "curry-leaf-swirly-omelette",
+    "source": "src/data/recipes/mob/lunches/curry-leaf-swirly-omelette.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "edamame-hummus-quinoa-bowl-meal-prep": {
+    "slug": "edamame-hummus-quinoa-bowl-meal-prep",
+    "source": "src/data/recipes/mob/lunches/edamame-hummus-quinoa-bowl-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "emergency-gyoza-soup": {
+    "slug": "emergency-gyoza-soup",
+    "source": "src/data/recipes/mob/lunches/emergency-gyoza-soup.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "everything-salmon-rice-bowl": {
+    "slug": "everything-salmon-rice-bowl",
+    "source": "src/data/recipes/mob/lunches/everything-salmon-rice-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.386Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "fennel-anchovy-pasta": {
+    "slug": "fennel-anchovy-pasta",
+    "source": "src/data/recipes/mob/lunches/fennel-anchovy-pasta.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "firecracker-beef-rice-bowl-2": {
+    "slug": "firecracker-beef-rice-bowl-2",
+    "source": "src/data/recipes/mob/lunches/firecracker-beef-rice-bowl-2.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "five-spice-meatball-cabbage-soup": {
+    "slug": "five-spice-meatball-cabbage-soup",
+    "source": "src/data/recipes/mob/lunches/five-spice-meatball-cabbage-soup.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "fried-chilli-pork-and-green-beans": {
+    "slug": "fried-chilli-pork-and-green-beans",
+    "source": "src/data/recipes/mob/lunches/fried-chilli-pork-and-green-beans.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "gado-gado-salad-bowl": {
+    "slug": "gado-gado-salad-bowl",
+    "source": "src/data/recipes/mob/lunches/gado-gado-salad-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "ginger-chicken-brothy-greens": {
+    "slug": "ginger-chicken-brothy-greens",
+    "source": "src/data/recipes/mob/lunches/ginger-chicken-brothy-greens.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "gochujang-tofu-mince-rice-bowl-meal-prep": {
+    "slug": "gochujang-tofu-mince-rice-bowl-meal-prep",
+    "source": "src/data/recipes/mob/lunches/gochujang-tofu-mince-rice-bowl-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "gochujang-tofu-rice-bowl": {
+    "slug": "gochujang-tofu-rice-bowl",
+    "source": "src/data/recipes/mob/lunches/gochujang-tofu-rice-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "greek-dense-bean-salad": {
+    "slug": "greek-dense-bean-salad",
+    "source": "src/data/recipes/mob/lunches/greek-dense-bean-salad.json",
+    "seededAt": "2026-03-30T22:01:17.387Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "green-goddess-chopped-salad": {
+    "slug": "green-goddess-chopped-salad",
+    "source": "src/data/recipes/mob/lunches/green-goddess-chopped-salad.json",
+    "seededAt": "2026-03-30T22:01:17.388Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "green-peanut-aubergine-noodles": {
+    "slug": "green-peanut-aubergine-noodles",
+    "source": "src/data/recipes/mob/lunches/green-peanut-aubergine-noodles.json",
+    "seededAt": "2026-03-30T22:01:17.388Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "halloumi-grains-green-tahini": {
+    "slug": "halloumi-grains-green-tahini",
+    "source": "src/data/recipes/mob/lunches/halloumi-grains-green-tahini.json",
+    "seededAt": "2026-03-30T22:01:17.388Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "halloumi-tabbouleh": {
+    "slug": "halloumi-tabbouleh",
+    "source": "src/data/recipes/mob/lunches/halloumi-tabbouleh.json",
+    "seededAt": "2026-03-30T22:01:17.388Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "harissa-courgette-grain-salad": {
+    "slug": "harissa-courgette-grain-salad",
+    "source": "src/data/recipes/mob/lunches/harissa-courgette-grain-salad.json",
+    "seededAt": "2026-03-30T22:01:17.388Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "harrisa-and-mackerel-rigatoni": {
+    "slug": "harrisa-and-mackerel-rigatoni",
+    "source": "src/data/recipes/mob/lunches/harrisa-and-mackerel-rigatoni.json",
+    "seededAt": "2026-03-30T22:01:17.388Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "herby-creamy-chicken-salad-roast-potatoes-2": {
+    "slug": "herby-creamy-chicken-salad-roast-potatoes-2",
+    "source": "src/data/recipes/mob/lunches/herby-creamy-chicken-salad-roast-potatoes-2.json",
+    "seededAt": "2026-03-30T22:01:17.388Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "high-protein-cauliflower-mac-cheese-meal-prep": {
+    "slug": "high-protein-cauliflower-mac-cheese-meal-prep",
+    "source": "src/data/recipes/mob/lunches/high-protein-cauliflower-mac-cheese-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.388Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "high-protein-moroccan-inspired-chickpea-soup": {
+    "slug": "high-protein-moroccan-inspired-chickpea-soup",
+    "source": "src/data/recipes/mob/lunches/high-protein-moroccan-inspired-chickpea-soup.json",
+    "seededAt": "2026-03-30T22:01:17.389Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "honey-garlic-chicken-broccoli-rice": {
+    "slug": "honey-garlic-chicken-broccoli-rice",
+    "source": "src/data/recipes/mob/lunches/honey-garlic-chicken-broccoli-rice.json",
+    "seededAt": "2026-03-30T22:01:17.389Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "honey-harissa-carrot-couscous-with-feta-dressing": {
+    "slug": "honey-harissa-carrot-couscous-with-feta-dressing",
+    "source": "src/data/recipes/mob/lunches/honey-harissa-carrot-couscous-with-feta-dressing.json",
+    "seededAt": "2026-03-30T22:01:17.389Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "honey-mustard-pork-chop-garlicky-beans-meal-prep": {
+    "slug": "honey-mustard-pork-chop-garlicky-beans-meal-prep",
+    "source": "src/data/recipes/mob/lunches/honey-mustard-pork-chop-garlicky-beans-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.389Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "honey-zaatar-halloumi-herby-pomegranate-slaw-hummus": {
+    "slug": "honey-zaatar-halloumi-herby-pomegranate-slaw-hummus",
+    "source": "src/data/recipes/mob/lunches/honey-zaatar-halloumi-herby-pomegranate-slaw-hummus.json",
+    "seededAt": "2026-03-30T22:01:17.389Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "korean-marinated-eggs": {
+    "slug": "korean-marinated-eggs",
+    "source": "src/data/recipes/mob/lunches/korean-marinated-eggs.json",
+    "seededAt": "2026-03-30T22:01:17.389Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "lunch-box-chicken-basil-stir-fry": {
+    "slug": "lunch-box-chicken-basil-stir-fry",
+    "source": "src/data/recipes/mob/lunches/lunch-box-chicken-basil-stir-fry.json",
+    "seededAt": "2026-03-30T22:01:17.389Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "lunch-box-chipotle-chicken-with-chilli-kale-rice": {
+    "slug": "lunch-box-chipotle-chicken-with-chilli-kale-rice",
+    "source": "src/data/recipes/mob/lunches/lunch-box-chipotle-chicken-with-chilli-kale-rice.json",
+    "seededAt": "2026-03-30T22:01:17.389Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "lunch-box-harissa-chicken-traybake-with-herby-grains": {
+    "slug": "lunch-box-harissa-chicken-traybake-with-herby-grains",
+    "source": "src/data/recipes/mob/lunches/lunch-box-harissa-chicken-traybake-with-herby-grains.json",
+    "seededAt": "2026-03-30T22:01:17.390Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "lunch-box-one-pot-thai-green-chicken-curry": {
+    "slug": "lunch-box-one-pot-thai-green-chicken-curry",
+    "source": "src/data/recipes/mob/lunches/lunch-box-one-pot-thai-green-chicken-curry.json",
+    "seededAt": "2026-03-30T22:01:17.390Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "mackerel-petit-pois-feta-smoosh": {
+    "slug": "mackerel-petit-pois-feta-smoosh",
+    "source": "src/data/recipes/mob/lunches/mackerel-petit-pois-feta-smoosh.json",
+    "seededAt": "2026-03-30T22:01:17.390Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "marry-me-chicken-pasta-bake-meal-prep": {
+    "slug": "marry-me-chicken-pasta-bake-meal-prep",
+    "source": "src/data/recipes/mob/lunches/marry-me-chicken-pasta-bake-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.390Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "marry-me-halloumi-bowl": {
+    "slug": "marry-me-halloumi-bowl",
+    "source": "src/data/recipes/mob/lunches/marry-me-halloumi-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.390Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "minced-beef-broccoli-stir-fry-meal-prep": {
+    "slug": "minced-beef-broccoli-stir-fry-meal-prep",
+    "source": "src/data/recipes/mob/lunches/minced-beef-broccoli-stir-fry-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.390Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "miso-glazed-chicken-with-sweet-potato-edamame-2": {
+    "slug": "miso-glazed-chicken-with-sweet-potato-edamame-2",
+    "source": "src/data/recipes/mob/lunches/miso-glazed-chicken-with-sweet-potato-edamame-2.json",
+    "seededAt": "2026-03-30T22:01:17.390Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "miso-maple-chicken-with-rice-meal-prep": {
+    "slug": "miso-maple-chicken-with-rice-meal-prep",
+    "source": "src/data/recipes/mob/lunches/miso-maple-chicken-with-rice-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.391Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "mushroom-miso-ramen-lunch-pots": {
+    "slug": "mushroom-miso-ramen-lunch-pots",
+    "source": "src/data/recipes/mob/lunches/mushroom-miso-ramen-lunch-pots.json",
+    "seededAt": "2026-03-30T22:01:17.391Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "nourishing-lemon-herb-chicken-soup": {
+    "slug": "nourishing-lemon-herb-chicken-soup",
+    "source": "src/data/recipes/mob/lunches/nourishing-lemon-herb-chicken-soup.json",
+    "seededAt": "2026-03-30T22:01:17.391Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "parmesan-crusted-chicken-caesar-wrap": {
+    "slug": "parmesan-crusted-chicken-caesar-wrap",
+    "source": "src/data/recipes/mob/lunches/parmesan-crusted-chicken-caesar-wrap.json",
+    "seededAt": "2026-03-30T22:01:17.391Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "pasta-primavera": {
+    "slug": "pasta-primavera",
+    "source": "src/data/recipes/mob/lunches/pasta-primavera.json",
+    "seededAt": "2026-03-30T22:01:17.391Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "peanut-sriracha-noodles": {
+    "slug": "peanut-sriracha-noodles",
+    "source": "src/data/recipes/mob/lunches/peanut-sriracha-noodles.json",
+    "seededAt": "2026-03-30T22:01:17.391Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "peri-peri-halloumi-sweet-potato-hummus-bowl": {
+    "slug": "peri-peri-halloumi-sweet-potato-hummus-bowl",
+    "source": "src/data/recipes/mob/lunches/peri-peri-halloumi-sweet-potato-hummus-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.392Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "pesto-butter-beans-with-charred-tenderstem-broccoli": {
+    "slug": "pesto-butter-beans-with-charred-tenderstem-broccoli",
+    "source": "src/data/recipes/mob/lunches/pesto-butter-beans-with-charred-tenderstem-broccoli.json",
+    "seededAt": "2026-03-30T22:01:17.392Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "piri-piri-chicken-herby-lemon-chickpeas-meal-prep": {
+    "slug": "piri-piri-chicken-herby-lemon-chickpeas-meal-prep",
+    "source": "src/data/recipes/mob/lunches/piri-piri-chicken-herby-lemon-chickpeas-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.392Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "prawn-mango-coconut-bowl-2": {
+    "slug": "prawn-mango-coconut-bowl-2",
+    "source": "src/data/recipes/mob/lunches/prawn-mango-coconut-bowl-2.json",
+    "seededAt": "2026-03-30T22:01:17.392Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "pulled-chicken-miso-spring-onion-high-protein-smash-2": {
+    "slug": "pulled-chicken-miso-spring-onion-high-protein-smash-2",
+    "source": "src/data/recipes/mob/lunches/pulled-chicken-miso-spring-onion-high-protein-smash-2.json",
+    "seededAt": "2026-03-30T22:01:17.392Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "roast-sweet-potato-salad-with-gochujang-tahini-sauce": {
+    "slug": "roast-sweet-potato-salad-with-gochujang-tahini-sauce",
+    "source": "src/data/recipes/mob/lunches/roast-sweet-potato-salad-with-gochujang-tahini-sauce.json",
+    "seededAt": "2026-03-30T22:01:17.392Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "saucy-tomatoey-gochujang-noodles-with-cucumber-salad-2": {
+    "slug": "saucy-tomatoey-gochujang-noodles-with-cucumber-salad-2",
+    "source": "src/data/recipes/mob/lunches/saucy-tomatoey-gochujang-noodles-with-cucumber-salad-2.json",
+    "seededAt": "2026-03-30T22:01:17.393Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spanakopita-halloumi-bowl": {
+    "slug": "spanakopita-halloumi-bowl",
+    "source": "src/data/recipes/mob/lunches/spanakopita-halloumi-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.393Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spanakopita-orzo-2": {
+    "slug": "spanakopita-orzo-2",
+    "source": "src/data/recipes/mob/lunches/spanakopita-orzo-2.json",
+    "seededAt": "2026-03-30T22:01:17.393Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-miso-dense-bean-salad": {
+    "slug": "spicy-miso-dense-bean-salad",
+    "source": "src/data/recipes/mob/lunches/spicy-miso-dense-bean-salad.json",
+    "seededAt": "2026-03-30T22:01:17.393Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-mushroom-tofu-soup": {
+    "slug": "spicy-mushroom-tofu-soup",
+    "source": "src/data/recipes/mob/lunches/spicy-mushroom-tofu-soup.json",
+    "seededAt": "2026-03-30T22:01:17.393Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-pork-rice-bowl-with-sesame-broccoli-2": {
+    "slug": "spicy-pork-rice-bowl-with-sesame-broccoli-2",
+    "source": "src/data/recipes/mob/lunches/spicy-pork-rice-bowl-with-sesame-broccoli-2.json",
+    "seededAt": "2026-03-30T22:01:17.393Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-tuna-rice-bowl": {
+    "slug": "spicy-tuna-rice-bowl",
+    "source": "src/data/recipes/mob/lunches/spicy-tuna-rice-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.393Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "steak-tacos-chilli-pineapple-salsa": {
+    "slug": "steak-tacos-chilli-pineapple-salsa",
+    "source": "src/data/recipes/mob/lunches/steak-tacos-chilli-pineapple-salsa.json",
+    "seededAt": "2026-03-30T22:01:17.394Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sticky-aubergine-on-miso-mash": {
+    "slug": "sticky-aubergine-on-miso-mash",
+    "source": "src/data/recipes/mob/lunches/sticky-aubergine-on-miso-mash.json",
+    "seededAt": "2026-03-30T22:01:17.394Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sticky-honey-gochujang-chicken-salad": {
+    "slug": "sticky-honey-gochujang-chicken-salad",
+    "source": "src/data/recipes/mob/lunches/sticky-honey-gochujang-chicken-salad.json",
+    "seededAt": "2026-03-30T22:01:17.394Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sticky-honey-miso-aubergine-rice": {
+    "slug": "sticky-honey-miso-aubergine-rice",
+    "source": "src/data/recipes/mob/lunches/sticky-honey-miso-aubergine-rice.json",
+    "seededAt": "2026-03-30T22:01:17.394Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sticky-mango-paneer-kebabs": {
+    "slug": "sticky-mango-paneer-kebabs",
+    "source": "src/data/recipes/mob/lunches/sticky-mango-paneer-kebabs.json",
+    "seededAt": "2026-03-30T22:01:17.394Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sticky-pomegranate-glazed-chicken-herby-quinoa-meal-prep": {
+    "slug": "sticky-pomegranate-glazed-chicken-herby-quinoa-meal-prep",
+    "source": "src/data/recipes/mob/lunches/sticky-pomegranate-glazed-chicken-herby-quinoa-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.394Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sweet-chilli-mince-bowl": {
+    "slug": "sweet-chilli-mince-bowl",
+    "source": "src/data/recipes/mob/lunches/sweet-chilli-mince-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.395Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sweet-potatoes-with-tahini-butter-chickpeas": {
+    "slug": "sweet-potatoes-with-tahini-butter-chickpeas",
+    "source": "src/data/recipes/mob/lunches/sweet-potatoes-with-tahini-butter-chickpeas.json",
+    "seededAt": "2026-03-30T22:01:17.395Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sweet-sticky-chicken-with-broccoli-rice": {
+    "slug": "sweet-sticky-chicken-with-broccoli-rice",
+    "source": "src/data/recipes/mob/lunches/sweet-sticky-chicken-with-broccoli-rice.json",
+    "seededAt": "2026-03-30T22:01:17.395Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "thai-red-curry-salmon-bites-with-lime-coconut-rice": {
+    "slug": "thai-red-curry-salmon-bites-with-lime-coconut-rice",
+    "source": "src/data/recipes/mob/lunches/thai-red-curry-salmon-bites-with-lime-coconut-rice.json",
+    "seededAt": "2026-03-30T22:01:17.395Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "tofu-gyros-bowl-meal-prep": {
+    "slug": "tofu-gyros-bowl-meal-prep",
+    "source": "src/data/recipes/mob/lunches/tofu-gyros-bowl-meal-prep.json",
+    "seededAt": "2026-03-30T22:01:17.395Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "tomato-soup": {
+    "slug": "tomato-soup",
+    "source": "src/data/recipes/mob/lunches/tomato-soup.json",
+    "seededAt": "2026-03-30T22:01:17.395Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "tuna-celery-miso-smoosh": {
+    "slug": "tuna-celery-miso-smoosh",
+    "source": "src/data/recipes/mob/lunches/tuna-celery-miso-smoosh.json",
+    "seededAt": "2026-03-30T22:01:17.395Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "tuna-green-bean-chopped-salad": {
+    "slug": "tuna-green-bean-chopped-salad",
+    "source": "src/data/recipes/mob/lunches/tuna-green-bean-chopped-salad.json",
+    "seededAt": "2026-03-30T22:01:17.396Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "tuna-lentil-feta-salad-2": {
+    "slug": "tuna-lentil-feta-salad-2",
+    "source": "src/data/recipes/mob/lunches/tuna-lentil-feta-salad-2.json",
+    "seededAt": "2026-03-30T22:01:17.396Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "tuna-melt-enchiladas": {
+    "slug": "tuna-melt-enchiladas",
+    "source": "src/data/recipes/mob/lunches/tuna-melt-enchiladas.json",
+    "seededAt": "2026-03-30T22:01:17.396Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "warming-bean-and-veg-soup": {
+    "slug": "warming-bean-and-veg-soup",
+    "source": "src/data/recipes/mob/lunches/warming-bean-and-veg-soup.json",
+    "seededAt": "2026-03-30T22:01:17.396Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "10-minute-smoky-harissa-creamy-butter-beans": {
+    "slug": "10-minute-smoky-harissa-creamy-butter-beans",
+    "source": "src/data/recipes/mob/dinners/10-minute-smoky-harissa-creamy-butter-beans.json",
+    "seededAt": "2026-03-30T22:01:17.397Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "anchovy-butter-spaghetti-recipe": {
+    "slug": "anchovy-butter-spaghetti-recipe",
+    "source": "src/data/recipes/mob/dinners/anchovy-butter-spaghetti-recipe.json",
+    "seededAt": "2026-03-30T22:01:17.397Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "aubergine-and-mascarpone-gnocchi-traybake": {
+    "slug": "aubergine-and-mascarpone-gnocchi-traybake",
+    "source": "src/data/recipes/mob/dinners/aubergine-and-mascarpone-gnocchi-traybake.json",
+    "seededAt": "2026-03-30T22:01:17.397Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "baked-paprika-cod": {
+    "slug": "baked-paprika-cod",
+    "source": "src/data/recipes/mob/dinners/baked-paprika-cod.json",
+    "seededAt": "2026-03-30T22:01:17.397Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "batch-beef-chilli-con-carne": {
+    "slug": "batch-beef-chilli-con-carne",
+    "source": "src/data/recipes/mob/dinners/batch-beef-chilli-con-carne.json",
+    "seededAt": "2026-03-30T22:01:17.397Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "broccoli-pesto-pasta-with-whipped-lemon-tofu": {
+    "slug": "broccoli-pesto-pasta-with-whipped-lemon-tofu",
+    "source": "src/data/recipes/mob/dinners/broccoli-pesto-pasta-with-whipped-lemon-tofu.json",
+    "seededAt": "2026-03-30T22:01:17.397Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "butter-halloumi-curry": {
+    "slug": "butter-halloumi-curry",
+    "source": "src/data/recipes/mob/dinners/butter-halloumi-curry.json",
+    "seededAt": "2026-03-30T22:01:17.397Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "caprese-gnocchi-bake": {
+    "slug": "caprese-gnocchi-bake",
+    "source": "src/data/recipes/mob/dinners/caprese-gnocchi-bake.json",
+    "seededAt": "2026-03-30T22:01:17.397Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "caramelised-soy-chicken-in-garlic-ginger-broth-with-rice": {
+    "slug": "caramelised-soy-chicken-in-garlic-ginger-broth-with-rice",
+    "source": "src/data/recipes/mob/dinners/caramelised-soy-chicken-in-garlic-ginger-broth-with-rice.json",
+    "seededAt": "2026-03-30T22:01:17.398Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "charred-halloumi-tomato-traybake-curry": {
+    "slug": "charred-halloumi-tomato-traybake-curry",
+    "source": "src/data/recipes/mob/dinners/charred-halloumi-tomato-traybake-curry.json",
+    "seededAt": "2026-03-30T22:01:17.398Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-biryani": {
+    "slug": "chicken-biryani",
+    "source": "src/data/recipes/mob/dinners/chicken-biryani.json",
+    "seededAt": "2026-03-30T22:01:17.398Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-chilli-stir-fry": {
+    "slug": "chicken-chilli-stir-fry",
+    "source": "src/data/recipes/mob/dinners/chicken-chilli-stir-fry.json",
+    "seededAt": "2026-03-30T22:01:17.398Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "chicken-chorizo-fajitas": {
+    "slug": "chicken-chorizo-fajitas",
+    "source": "src/data/recipes/mob/dinners/chicken-chorizo-fajitas.json",
+    "seededAt": "2026-03-30T22:01:17.398Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "creamy-garlic-herb-chicken-gnocchi": {
+    "slug": "creamy-garlic-herb-chicken-gnocchi",
+    "source": "src/data/recipes/mob/dinners/creamy-garlic-herb-chicken-gnocchi.json",
+    "seededAt": "2026-03-30T22:01:17.398Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "creamy-pesto-sausage-pasta": {
+    "slug": "creamy-pesto-sausage-pasta",
+    "source": "src/data/recipes/mob/dinners/creamy-pesto-sausage-pasta.json",
+    "seededAt": "2026-03-30T22:01:17.398Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "creamy-spicy-pork-ramen": {
+    "slug": "creamy-spicy-pork-ramen",
+    "source": "src/data/recipes/mob/dinners/creamy-spicy-pork-ramen.json",
+    "seededAt": "2026-03-30T22:01:17.398Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "crispy-beef-dan-dan-noodles": {
+    "slug": "crispy-beef-dan-dan-noodles",
+    "source": "src/data/recipes/mob/dinners/crispy-beef-dan-dan-noodles.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "crispy-chicken-brown-rice-chickpeas-tzatziki": {
+    "slug": "crispy-chicken-brown-rice-chickpeas-tzatziki",
+    "source": "src/data/recipes/mob/dinners/crispy-chicken-brown-rice-chickpeas-tzatziki.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "crispy-harissa-lamb-hummus-bowl": {
+    "slug": "crispy-harissa-lamb-hummus-bowl",
+    "source": "src/data/recipes/mob/dinners/crispy-harissa-lamb-hummus-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "crispy-mushroom-black-bean-tacos": {
+    "slug": "crispy-mushroom-black-bean-tacos",
+    "source": "src/data/recipes/mob/dinners/crispy-mushroom-black-bean-tacos.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "curried-coconut-chicken-rice": {
+    "slug": "curried-coconut-chicken-rice",
+    "source": "src/data/recipes/mob/dinners/curried-coconut-chicken-rice.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "firecracker-beef-rice-bowl": {
+    "slug": "firecracker-beef-rice-bowl",
+    "source": "src/data/recipes/mob/dinners/firecracker-beef-rice-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "garlic-butter-shrimp-noodles": {
+    "slug": "garlic-butter-shrimp-noodles",
+    "source": "src/data/recipes/mob/dinners/garlic-butter-shrimp-noodles.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "garlicky-mustard-chicken-zingy-broth-with-rice": {
+    "slug": "garlicky-mustard-chicken-zingy-broth-with-rice",
+    "source": "src/data/recipes/mob/dinners/garlicky-mustard-chicken-zingy-broth-with-rice.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "ginger-chilli-chicken-rice": {
+    "slug": "ginger-chilli-chicken-rice",
+    "source": "src/data/recipes/mob/dinners/ginger-chilli-chicken-rice.json",
+    "seededAt": "2026-03-30T22:01:17.399Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "gnocchi-with-smashed-peas-lemon-parmesan": {
+    "slug": "gnocchi-with-smashed-peas-lemon-parmesan",
+    "source": "src/data/recipes/mob/dinners/gnocchi-with-smashed-peas-lemon-parmesan.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "greek-gnocchi-traybake": {
+    "slug": "greek-gnocchi-traybake",
+    "source": "src/data/recipes/mob/dinners/greek-gnocchi-traybake.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "green-herby-chicken-and-rice-soup": {
+    "slug": "green-herby-chicken-and-rice-soup",
+    "source": "src/data/recipes/mob/dinners/green-herby-chicken-and-rice-soup.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "green-tofu-udon": {
+    "slug": "green-tofu-udon",
+    "source": "src/data/recipes/mob/dinners/green-tofu-udon.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "harissa-chicken": {
+    "slug": "harissa-chicken",
+    "source": "src/data/recipes/mob/dinners/harissa-chicken.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "healthy-green-queen-pasta": {
+    "slug": "healthy-green-queen-pasta",
+    "source": "src/data/recipes/mob/dinners/healthy-green-queen-pasta.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "herby-chicken-caesar-schnitzel": {
+    "slug": "herby-chicken-caesar-schnitzel",
+    "source": "src/data/recipes/mob/dinners/herby-chicken-caesar-schnitzel.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "honey-dijon-roast-chicken-with-leek-y-parmesan-chickpeas": {
+    "slug": "honey-dijon-roast-chicken-with-leek-y-parmesan-chickpeas",
+    "source": "src/data/recipes/mob/dinners/honey-dijon-roast-chicken-with-leek-y-parmesan-chickpeas.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "honey-gochujang-chicken-rigatoni": {
+    "slug": "honey-gochujang-chicken-rigatoni",
+    "source": "src/data/recipes/mob/dinners/honey-gochujang-chicken-rigatoni.json",
+    "seededAt": "2026-03-30T22:01:17.400Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "hot-halloumi-corn-quinoa-bowl": {
+    "slug": "hot-halloumi-corn-quinoa-bowl",
+    "source": "src/data/recipes/mob/dinners/hot-halloumi-corn-quinoa-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "jalepeno-coconut-chicken-thighs": {
+    "slug": "jalepeno-coconut-chicken-thighs",
+    "source": "src/data/recipes/mob/dinners/jalepeno-coconut-chicken-thighs.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "juicy-pulled-chipotle-chicken": {
+    "slug": "juicy-pulled-chipotle-chicken",
+    "source": "src/data/recipes/mob/dinners/juicy-pulled-chipotle-chicken.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "keralan-inspired-prawn-curry": {
+    "slug": "keralan-inspired-prawn-curry",
+    "source": "src/data/recipes/mob/dinners/keralan-inspired-prawn-curry.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "korma-dal-with-honey-halloumi": {
+    "slug": "korma-dal-with-honey-halloumi",
+    "source": "src/data/recipes/mob/dinners/korma-dal-with-honey-halloumi.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "lazy-cottage-cheese-tomato-pasta": {
+    "slug": "lazy-cottage-cheese-tomato-pasta",
+    "source": "src/data/recipes/mob/dinners/lazy-cottage-cheese-tomato-pasta.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "leek-y-beans": {
+    "slug": "leek-y-beans",
+    "source": "src/data/recipes/mob/dinners/leek-y-beans.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "lemony-braised-chicken": {
+    "slug": "lemony-braised-chicken",
+    "source": "src/data/recipes/mob/dinners/lemony-braised-chicken.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "mallika-basus-butter-chicken-curry": {
+    "slug": "mallika-basus-butter-chicken-curry",
+    "source": "src/data/recipes/mob/dinners/mallika-basus-butter-chicken-curry.json",
+    "seededAt": "2026-03-30T22:01:17.401Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "marry-me-chicken-orzo": {
+    "slug": "marry-me-chicken-orzo",
+    "source": "src/data/recipes/mob/dinners/marry-me-chicken-orzo.json",
+    "seededAt": "2026-03-30T22:01:17.402Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "marry-me-chicken-pasta-bake": {
+    "slug": "marry-me-chicken-pasta-bake",
+    "source": "src/data/recipes/mob/dinners/marry-me-chicken-pasta-bake.json",
+    "seededAt": "2026-03-30T22:01:17.402Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "marry-me-spaghetti-meatballs": {
+    "slug": "marry-me-spaghetti-meatballs",
+    "source": "src/data/recipes/mob/dinners/marry-me-spaghetti-meatballs.json",
+    "seededAt": "2026-03-30T22:01:17.402Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "meatball-gnocchi-bake": {
+    "slug": "meatball-gnocchi-bake",
+    "source": "src/data/recipes/mob/dinners/meatball-gnocchi-bake.json",
+    "seededAt": "2026-03-30T22:01:17.402Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "minced-beef-broccoli-stir-fry": {
+    "slug": "minced-beef-broccoli-stir-fry",
+    "source": "src/data/recipes/mob/dinners/minced-beef-broccoli-stir-fry.json",
+    "seededAt": "2026-03-30T22:01:17.402Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "minestrone-soup": {
+    "slug": "minestrone-soup",
+    "source": "src/data/recipes/mob/dinners/minestrone-soup.json",
+    "seededAt": "2026-03-30T22:01:17.402Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "miso-butter-pasta": {
+    "slug": "miso-butter-pasta",
+    "source": "src/data/recipes/mob/dinners/miso-butter-pasta.json",
+    "seededAt": "2026-03-30T22:01:17.402Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "miso-butter-salmon-rice": {
+    "slug": "miso-butter-salmon-rice",
+    "source": "src/data/recipes/mob/dinners/miso-butter-salmon-rice.json",
+    "seededAt": "2026-03-30T22:01:17.403Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "mujadara": {
+    "slug": "mujadara",
+    "source": "src/data/recipes/mob/dinners/mujadara.json",
+    "seededAt": "2026-03-30T22:01:17.403Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "nduja-anchovy-spaghetti": {
+    "slug": "nduja-anchovy-spaghetti",
+    "source": "src/data/recipes/mob/dinners/nduja-anchovy-spaghetti.json",
+    "seededAt": "2026-03-30T22:01:17.403Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "one-pot-miso-butter-cod-rice": {
+    "slug": "one-pot-miso-butter-cod-rice",
+    "source": "src/data/recipes/mob/dinners/one-pot-miso-butter-cod-rice.json",
+    "seededAt": "2026-03-30T22:01:17.403Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "peanut-butter-chicken-curry": {
+    "slug": "peanut-butter-chicken-curry",
+    "source": "src/data/recipes/mob/dinners/peanut-butter-chicken-curry.json",
+    "seededAt": "2026-03-30T22:01:17.403Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "pork-fennel-marry-me-pasta": {
+    "slug": "pork-fennel-marry-me-pasta",
+    "source": "src/data/recipes/mob/dinners/pork-fennel-marry-me-pasta.json",
+    "seededAt": "2026-03-30T22:01:17.403Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "rigatoni-with-broccoli": {
+    "slug": "rigatoni-with-broccoli",
+    "source": "src/data/recipes/mob/dinners/rigatoni-with-broccoli.json",
+    "seededAt": "2026-03-30T22:01:17.403Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "salmon-tacos": {
+    "slug": "salmon-tacos",
+    "source": "src/data/recipes/mob/dinners/salmon-tacos.json",
+    "seededAt": "2026-03-30T22:01:17.404Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sardine-lemon-jalapeño-linguine": {
+    "slug": "sardine-lemon-jalapeño-linguine",
+    "source": "src/data/recipes/mob/dinners/sardine-lemon-jalapeño-linguine.json",
+    "seededAt": "2026-03-30T22:01:17.404Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sausage-gochujang-rigatoni": {
+    "slug": "sausage-gochujang-rigatoni",
+    "source": "src/data/recipes/mob/dinners/sausage-gochujang-rigatoni.json",
+    "seededAt": "2026-03-30T22:01:17.404Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "shredded-chicken-warming-spring-onion-brothy-rice": {
+    "slug": "shredded-chicken-warming-spring-onion-brothy-rice",
+    "source": "src/data/recipes/mob/dinners/shredded-chicken-warming-spring-onion-brothy-rice.json",
+    "seededAt": "2026-03-30T22:01:17.404Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "smacked-cucumber-dumpling-salad": {
+    "slug": "smacked-cucumber-dumpling-salad",
+    "source": "src/data/recipes/mob/dinners/smacked-cucumber-dumpling-salad.json",
+    "seededAt": "2026-03-30T22:01:17.404Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "smashed-chicken-tacos-pineapple-salsa": {
+    "slug": "smashed-chicken-tacos-pineapple-salsa",
+    "source": "src/data/recipes/mob/dinners/smashed-chicken-tacos-pineapple-salsa.json",
+    "seededAt": "2026-03-30T22:01:17.404Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "smashed-prawn-tacos": {
+    "slug": "smashed-prawn-tacos",
+    "source": "src/data/recipes/mob/dinners/smashed-prawn-tacos.json",
+    "seededAt": "2026-03-30T22:01:17.404Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "soy-butter-aubergine-noodles": {
+    "slug": "soy-butter-aubergine-noodles",
+    "source": "src/data/recipes/mob/dinners/soy-butter-aubergine-noodles.json",
+    "seededAt": "2026-03-30T22:01:17.404Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spaghetti-with-spicy-tomato-and-pepper-sauce": {
+    "slug": "spaghetti-with-spicy-tomato-and-pepper-sauce",
+    "source": "src/data/recipes/mob/dinners/spaghetti-with-spicy-tomato-and-pepper-sauce.json",
+    "seededAt": "2026-03-30T22:01:17.405Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "speedy-thai-red-curry-noodle-soup": {
+    "slug": "speedy-thai-red-curry-noodle-soup",
+    "source": "src/data/recipes/mob/dinners/speedy-thai-red-curry-noodle-soup.json",
+    "seededAt": "2026-03-30T22:01:17.405Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spiced-aubergine-lentil-stew-hummus-bowl": {
+    "slug": "spiced-aubergine-lentil-stew-hummus-bowl",
+    "source": "src/data/recipes/mob/dinners/spiced-aubergine-lentil-stew-hummus-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.405Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spiced-chicken-shawarma-rice-bowl": {
+    "slug": "spiced-chicken-shawarma-rice-bowl",
+    "source": "src/data/recipes/mob/dinners/spiced-chicken-shawarma-rice-bowl.json",
+    "seededAt": "2026-03-30T22:01:17.405Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-chorizo-pepper-stew": {
+    "slug": "spicy-chorizo-pepper-stew",
+    "source": "src/data/recipes/mob/dinners/spicy-chorizo-pepper-stew.json",
+    "seededAt": "2026-03-30T22:01:17.405Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-gochujang-beef-pasta": {
+    "slug": "spicy-gochujang-beef-pasta",
+    "source": "src/data/recipes/mob/dinners/spicy-gochujang-beef-pasta.json",
+    "seededAt": "2026-03-30T22:01:17.405Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-lamb-meatball-traybake": {
+    "slug": "spicy-lamb-meatball-traybake",
+    "source": "src/data/recipes/mob/dinners/spicy-lamb-meatball-traybake.json",
+    "seededAt": "2026-03-30T22:01:17.406Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-mushroom-ragu-with-pasta": {
+    "slug": "spicy-mushroom-ragu-with-pasta",
+    "source": "src/data/recipes/mob/dinners/spicy-mushroom-ragu-with-pasta.json",
+    "seededAt": "2026-03-30T22:01:17.406Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-pork-sesame-noodles": {
+    "slug": "spicy-pork-sesame-noodles",
+    "source": "src/data/recipes/mob/dinners/spicy-pork-sesame-noodles.json",
+    "seededAt": "2026-03-30T22:01:17.406Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "spicy-salmon-bowl-with-sesame-rice-soy-butter-spinach": {
+    "slug": "spicy-salmon-bowl-with-sesame-rice-soy-butter-spinach",
+    "source": "src/data/recipes/mob/dinners/spicy-salmon-bowl-with-sesame-rice-soy-butter-spinach.json",
+    "seededAt": "2026-03-30T22:01:17.406Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "squash-and-halloumi-curry-caramelised-limes": {
+    "slug": "squash-and-halloumi-curry-caramelised-limes",
+    "source": "src/data/recipes/mob/dinners/squash-and-halloumi-curry-caramelised-limes.json",
+    "seededAt": "2026-03-30T22:01:17.406Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sticky-beef-mince-brothy-rice": {
+    "slug": "sticky-beef-mince-brothy-rice",
+    "source": "src/data/recipes/mob/dinners/sticky-beef-mince-brothy-rice.json",
+    "seededAt": "2026-03-30T22:01:17.406Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "sticky-sesame-chicken-meatballs": {
+    "slug": "sticky-sesame-chicken-meatballs",
+    "source": "src/data/recipes/mob/dinners/sticky-sesame-chicken-meatballs.json",
+    "seededAt": "2026-03-30T22:01:17.406Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "thai-red-chicken-meatballs-with-peanut-sauce": {
+    "slug": "thai-red-chicken-meatballs-with-peanut-sauce",
+    "source": "src/data/recipes/mob/dinners/thai-red-chicken-meatballs-with-peanut-sauce.json",
+    "seededAt": "2026-03-30T22:01:17.406Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "the-ultimate-lasagne": {
+    "slug": "the-ultimate-lasagne",
+    "source": "src/data/recipes/mob/dinners/the-ultimate-lasagne.json",
+    "seededAt": "2026-03-30T22:01:17.407Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "ultimate-cauliflower-cheese": {
+    "slug": "ultimate-cauliflower-cheese",
+    "source": "src/data/recipes/mob/dinners/ultimate-cauliflower-cheese.json",
+    "seededAt": "2026-03-30T22:01:17.407Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  },
+  "weeknight-chicken-gyros": {
+    "slug": "weeknight-chicken-gyros",
+    "source": "src/data/recipes/mob/dinners/weeknight-chicken-gyros.json",
+    "seededAt": "2026-03-30T22:01:17.407Z",
+    "stages": {
+      "seed": true,
+      "structureIngredients": false,
+      "enrichNutrition": false,
+      "downloadImages": false,
+      "translate": false,
+      "computePortions": false
+    }
+  }
+}

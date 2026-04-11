@@ -5,10 +5,8 @@
  * Usage: node scripts/generate-week.js [start-date] [--seed=123]
  * Example: node scripts/generate-week.js 2026-03-23 --seed=42
  *
- * Recipe sources:
- *   src/data/allBreakfasts.json  — morning meals
- *   src/data/AllLunches.json    — lunch meals
- *   src/data/AllDinners.json    — dinner meals
+ * Recipe source:
+ *   src/data/current_meals.json  — pool of meals, filtered by mealType property
  */
 
 import fs from 'fs';
@@ -20,12 +18,17 @@ const __dirname = path.dirname(__filename);
 
 const DATA_DIR = path.join(__dirname, '..', 'src', 'data');
 
-function loadJson(filename) {
-  const filePath = path.join(DATA_DIR, filename);
+function loadCurrentMeals() {
+  const filePath = path.join(DATA_DIR, 'current_meals.json');
   if (!fs.existsSync(filePath)) {
-    throw new Error(`Recipe file not found: ${filePath}`);
+    throw new Error(`Recipe pool not found: ${filePath}`);
   }
-  return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  const { current_meals } = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  return current_meals;
+}
+
+function byMealType(meals, type) {
+  return meals.filter(m => m.mealType === type);
 }
 
 // Seeded random number generator for deterministic randomness
@@ -77,6 +80,12 @@ function getCurrentMonday(fromDate) {
   return date;
 }
 
+function getPrevMonday(fromDate) {
+  const monday = getCurrentMonday(fromDate);
+  monday.setDate(monday.getDate() - 7);
+  return monday;
+}
+
 function makeMealEntry(recipe, type) {
   const configs = {
     breakfast: {
@@ -100,8 +109,14 @@ function makeMealEntry(recipe, type) {
   };
 
   const cfg = configs[type];
+
+  // Derive a stable slug-based id from the URL path (last segment) or from the name
+  const idSlug = recipe.url
+    ? recipe.url.split('/').filter(Boolean).pop()
+    : recipe.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
+
   const entry = {
-    id: `${cfg.idPrefix}-${recipe.id}`,
+    id: `${cfg.idPrefix}-${idSlug}`,
     label: cfg.label,
     time: cfg.time,
     title: recipe.name,
@@ -110,27 +125,32 @@ function makeMealEntry(recipe, type) {
     cook: recipe.cookTime,
     tags: recipe.tags,
     ingredients: recipe.ingredients,
+    ingredientsParsed: recipe.ingredientsParsed || null,
     steps: recipe.steps,
     url: recipe.url || null,
     image: recipe.image || null,
   };
   if (cfg.notes) entry.notes = cfg.notes;
-  if (recipe.nutrition) entry.nutrition = recipe.nutrition;
+  if (recipe.calories != null) {
+    entry.calories = recipe.calories ?? null;
+    entry.protein  = recipe.protein  ?? null;
+    entry.carbs    = recipe.carbs    ?? null;
+    entry.fat      = recipe.fat      ?? null;
+  }
+  if (recipe.i18n) entry.i18n = recipe.i18n;
   return entry;
 }
 
 function generateWeek(startDate, seed = null) {
-  const breakfastRecipes = loadJson('allBreakfasts.json');
-  const lunchRecipes     = loadJson('AllLunches.json');
-  const dinnerRecipes    = loadJson('AllDinners.json');
+  const allMeals = loadCurrentMeals();
 
   const random = seed !== null ? new SeededRandom(seed) : null;
   const shuffle = arr =>
     random ? random.shuffle(arr) : [...arr].sort(() => Math.random() - 0.5);
 
-  const breakfasts = shuffle(breakfastRecipes).slice(0, 7);
-  const lunches    = shuffle(lunchRecipes).slice(0, 7);
-  const dinners    = shuffle(dinnerRecipes).slice(0, 7);
+  const breakfasts = shuffle(byMealType(allMeals, 'breakfast')).slice(0, 7);
+  const lunches    = shuffle(byMealType(allMeals, 'lunch')).slice(0, 7);
+  const dinners    = shuffle(byMealType(allMeals, 'dinner')).slice(0, 7);
 
   const meals = {};
 
@@ -200,10 +220,11 @@ function parseArgs() {
     seed: null,
     replace: false,
     nextWeek: false,
+    prevWeek: false,
     dryRun: false,
     help: false
   };
-  
+
   args.forEach(arg => {
     if (arg === '--help' || arg === '-h') {
       options.help = true;
@@ -211,6 +232,8 @@ function parseArgs() {
       options.replace = true;
     } else if (arg === '--next-week' || arg === '-n') {
       options.nextWeek = true;
+    } else if (arg === '--prev-week' || arg === '-p') {
+      options.prevWeek = true;
     } else if (arg === '--dry-run' || arg === '-d') {
       options.dryRun = true;
     } else if (arg.startsWith('--seed=')) {
@@ -219,7 +242,7 @@ function parseArgs() {
       options.startDate = arg;
     }
   });
-  
+
   return options;
 }
 
@@ -228,9 +251,7 @@ function printHelp() {
 Generate Week - Meal Planner Script
 
 Generates a full week of meals (breakfast, lunch, dinner) from:
-  src/data/allBreakfasts.json
-  src/data/AllLunches.json
-  src/data/AllDinners.json
+  src/data/current_meals.json  (filtered by mealType: breakfast | lunch | dinner)
 
 Usage: node scripts/generate-week.js [start-date] [options]
 
@@ -240,6 +261,7 @@ Arguments:
 
 Options:
   --next-week, -n   Target next week instead of the current week
+  --prev-week, -p   Target the previous week instead of the current week
   --seed=NUMBER     Use a seed for deterministic random selection (default: random)
   --replace, -r     Replace existing meals for these dates (default: keep existing)
   --dry-run, -d     Show what would be generated without writing to file
@@ -254,15 +276,14 @@ Examples:
 `);
 }
 
-// Main execution
 function main() {
   const options = parseArgs();
-  
+
   if (options.help) {
     printHelp();
     return;
   }
-  
+
   try {
     // Determine start date
     let startDate;
@@ -270,10 +291,12 @@ function main() {
       startDate = parseDate(options.startDate);
     } else if (options.nextWeek) {
       startDate = getNextMonday(new Date());
+    } else if (options.prevWeek) {
+      startDate = getPrevMonday(new Date());
     } else {
       startDate = getCurrentMonday(new Date());
     }
-    
+
     console.log(`Generating meals for week starting ${formatDate(startDate)}`);
     if (options.seed !== null) console.log(`Using seed: ${options.seed} (deterministic)`);
 

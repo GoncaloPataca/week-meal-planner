@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next'
 import { CalendarIcon } from '@heroicons/react/24/outline'
 import { Meal } from '../types'
 import MealCard from './MealCard'
+import DayNutritionSummary from './DayNutritionSummary'
 import useStore, { getMonday } from '../store'
 import { downloadMultipleICS } from '../utils/calendar'
 
@@ -12,8 +13,12 @@ export default function DayDetail({ date }: { date?: Date }) {
   const mealsMap = useStore((s) => s.meals)
   const viewedWeekStart = useStore((s) => s.viewedWeekStart)
 
-  const iso = date ? date.toISOString().slice(0, 10) : selectedISO
-  const currentDate = date ?? new Date(iso)
+  const iso = date
+    ? `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`
+    : selectedISO
+  // Parse ISO as local midnight (not UTC) to avoid timezone shift
+  const [y, mo, da] = iso.split('-').map(Number)
+  const currentDate = date ?? new Date(y, mo - 1, da)
   const meals: Meal[] = mealsMap[iso] ?? []
 
   const dayOfWeek = currentDate.getDay()
@@ -46,8 +51,8 @@ export default function DayDetail({ date }: { date?: Date }) {
   
   return (
     <section className="space-y-4 sm:space-y-6">
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-        <div className="flex flex-col sm:flex-row sm:items-baseline gap-1 sm:gap-3">
+      <div className="flex items-center justify-between gap-3 flex-wrap">
+        <div className="flex items-baseline gap-1 sm:gap-3">
           <h2 className="text-2xl sm:text-3xl font-serif font-semibold heading-themed">
             {dayName}
           </h2>
@@ -74,6 +79,7 @@ export default function DayDetail({ date }: { date?: Date }) {
           </button>
         </div>
       </div>
+      <DayNutritionSummary meals={meals} />
       <div className="flex flex-col gap-4">
         {meals.map((m) => (
           <MealCard key={m.id} meal={m} dateISO={iso} />
