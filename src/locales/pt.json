@@ -55,7 +55,8 @@
   },
   "calendar": {
     "addToCalendar": "Adicionar ao Calendário",
-    "calendar": "Calendário"
+    "calendar": "Calendário",
+    "exportDay": "Exportar Dia"
   },
   "breakfast": {
     "add": "Adicionar Pequeno-Almoço",
