@@ -24,6 +24,26 @@ function toISO(d: Date) {
 const today = new Date()
 const mondayOfCurrentWeek = getMonday(today)
 
+function getInitialDateFromHash(): { selectedISO: string; viewedWeekStart: Date } {
+  const hash = typeof window !== 'undefined' ? window.location.hash.slice(1) : ''
+  if (/^\d{4}-\d{2}-\d{2}$/.test(hash)) {
+    const [y, m, d] = hash.split('-').map(Number)
+    const date = new Date(y, m - 1, d)
+    if (!isNaN(date.getTime())) {
+      return { selectedISO: hash, viewedWeekStart: getMonday(date) }
+    }
+  }
+  return { selectedISO: toISO(today), viewedWeekStart: mondayOfCurrentWeek }
+}
+
+const initial = getInitialDateFromHash()
+
+function syncHash(iso: string) {
+  if (typeof window !== 'undefined') {
+    window.history.replaceState(null, '', '#' + iso)
+  }
+}
+
 interface AppState {
   selectedISO: string
   viewedWeekStart: Date
@@ -36,31 +56,34 @@ interface AppState {
 }
 
 export const useStore = create<AppState>((set, get) => ({
-  selectedISO: toISO(today),
-  viewedWeekStart: mondayOfCurrentWeek,
+  selectedISO: initial.selectedISO,
+  viewedWeekStart: initial.viewedWeekStart,
   meals: mealsData as MealsMap,
-  setSelectedDate: (d: Date) => set({ selectedISO: toISO(d) }),
+  setSelectedDate: (d: Date) => {
+    const iso = toISO(d)
+    syncHash(iso)
+    set({ selectedISO: iso })
+  },
   setMeals: (m: MealsMap) => set({ meals: m }),
   goToPreviousWeek: () => set((state) => {
     const newWeekStart = new Date(state.viewedWeekStart)
     newWeekStart.setDate(newWeekStart.getDate() - 7)
-    return { 
-      viewedWeekStart: newWeekStart,
-      selectedISO: toISO(newWeekStart)
-    }
+    const iso = toISO(newWeekStart)
+    syncHash(iso)
+    return { viewedWeekStart: newWeekStart, selectedISO: iso }
   }),
   goToNextWeek: () => set((state) => {
     const newWeekStart = new Date(state.viewedWeekStart)
     newWeekStart.setDate(newWeekStart.getDate() + 7)
-    return { 
-      viewedWeekStart: newWeekStart,
-      selectedISO: toISO(newWeekStart)
-    }
+    const iso = toISO(newWeekStart)
+    syncHash(iso)
+    return { viewedWeekStart: newWeekStart, selectedISO: iso }
   }),
-  goToCurrentWeek: () => set({ 
-    viewedWeekStart: mondayOfCurrentWeek,
-    selectedISO: toISO(today)
-  }),
+  goToCurrentWeek: () => {
+    const iso = toISO(today)
+    syncHash(iso)
+    set({ viewedWeekStart: mondayOfCurrentWeek, selectedISO: iso })
+  },
 }))
 
 export default useStore
