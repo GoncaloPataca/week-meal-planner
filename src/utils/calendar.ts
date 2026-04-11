@@ -1,64 +1,106 @@
 import { Meal } from '../types'
 
-function parseDuration(timeStr?: string): number {
-  if (!timeStr) return 0
-  const match = timeStr.match(/(\d+)\s*(min|hour|hr|h)/i)
-  if (!match) return 0
+function parseDuration(timeStr?: string | number): number {
+  if (timeStr == null) return 0
+  // Raw number → already in minutes
+  if (typeof timeStr === 'number') return timeStr
+  const s = String(timeStr).trim()
+  if (!s) return 0
+  const match = s.match(/(\d+)\s*(min|hour|hr|h|m)/i)
+  if (!match) {
+    // Plain numeric string like "55"
+    const n = parseInt(s)
+    return isNaN(n) ? 0 : n
+  }
   const value = parseInt(match[1])
   const unit = match[2].toLowerCase()
-  return unit.includes('h') ? value * 60 : value
+  return unit === 'h' || unit.startsWith('hour') || unit === 'hr' ? value * 60 : value
+}
+
+/** Format a prep/cook value for human display ("25 min", "1h 10min", etc.) */
+function formatTime(val?: string | number): string | null {
+  if (val == null) return null
+  if (typeof val === 'number') return `${val} min`
+  const s = String(val).trim()
+  if (!s) return null
+  // Already has a unit label — use as-is
+  if (/[a-zA-Z]/.test(s)) return s
+  // Bare number string
+  const n = parseInt(s)
+  return isNaN(n) ? s : `${n} min`
+}
+
+/** Render one ingredient regardless of whether it's a plain string or {amount, name} object */
+function formatIngredient(ing: any): string {
+  if (typeof ing === 'string') return ing
+  const amount = ing.amount ? String(ing.amount).trim() : ''
+  const name   = ing.name   ? String(ing.name).trim()   : (ing.item ? String(ing.item).trim() : '')
+  return [amount, name].filter(Boolean).join(' ')
 }
 
 function formatICSDate(date: Date): string {
   return date.toISOString().replace(/[-:]/g, '').split('.')[0] + 'Z'
 }
 
-export function generateICS(meal: Meal, dateISO: string): string {
-  // Use meal.time if available, otherwise default to 10:00 AM
+export interface ICSLabels {
+  servings: string
+  prep: string
+  cook: string
+  ingredients: string
+  steps: string
+  notes: string
+}
+
+const DEFAULT_LABELS: ICSLabels = {
+  servings:    'Servings',
+  prep:        'Prep time',
+  cook:        'Cook time',
+  ingredients: 'Ingredients',
+  steps:       'Steps',
+  notes:       'Notes',
+}
+
+function buildDescription(meal: Meal, labels: ICSLabels = DEFAULT_LABELS): string {
+  let d = `${meal.title}\\n\\n`
+
+  if (meal.servings) d += `${labels.servings}: ${meal.servings}\\n`
+
+  const prep = formatTime(meal.prep)
+  const cook = formatTime(meal.cook)
+  if (prep) d += `${labels.prep}: ${prep}\\n`
+  if (cook) d += `${labels.cook}: ${cook}\\n`
+
+  if (meal.ingredients && meal.ingredients.length > 0) {
+    d += `\\n${labels.ingredients}:\\n`
+    meal.ingredients.forEach((ing: any) => {
+      d += `- ${formatIngredient(ing)}\\n`
+    })
+  }
+
+  if (meal.steps && meal.steps.length > 0) {
+    d += `\\n${labels.steps}:\\n`
+    meal.steps.forEach((step, i) => {
+      d += `${i + 1}. ${step}\\n\\n`
+    })
+  }
+
+  if (meal.notes) d += `\\n${labels.notes}: ${meal.notes}\\n`
+
+  return d
+}
+
+export function generateICS(meal: Meal, dateISO: string, labels?: ICSLabels): string {
   const timeStr = meal.time || '10:00'
   const date = new Date(dateISO + 'T' + timeStr + ':00')
-  
-  // Calculate duration from prep + cook time
+
   const prepMinutes = parseDuration(meal.prep)
   const cookMinutes = parseDuration(meal.cook)
-  const totalMinutes = prepMinutes + cookMinutes || 60 // default 1 hour if no times
-  
+  const totalMinutes = prepMinutes + cookMinutes || 60
+
   const endDate = new Date(date.getTime() + totalMinutes * 60 * 1000)
-  
-  // Build description with ingredients and steps
-  let description = `${meal.title}\\n\\n`
-  
-  if (meal.servings) {
-    description += `Servings: ${meal.servings}\\n`
-  }
-  if (meal.prep) {
-    description += `Prep time: ${meal.prep}\\n`
-  }
-  if (meal.cook) {
-    description += `Cook time: ${meal.cook}\\n`
-  }
-  if (meal.tags) {
-    description += `Tags: ${meal.tags.join(', ')}\\n`
-  }
-  
-  if (meal.ingredients && meal.ingredients.length > 0) {
-    description += `\\nIngredients:\\n`
-    meal.ingredients.forEach(ing => {
-      description += `- ${ing.amount ? ing.amount + ' ' : ''}${ing.name}\\n`
-    })
-  }
-  
-  if (meal.steps && meal.steps.length > 0) {
-    description += `\\nSteps:\\n`
-    meal.steps.forEach((step, i) => {
-      description += `${i + 1}. ${step}\\n`
-    })
-  }
-  
-  if (meal.notes) {
-    description += `\\nNotes: ${meal.notes}\\n`
-  }
-  
+
+  const description = buildDescription(meal, labels)
+
   const ics = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
@@ -72,49 +114,29 @@ export function generateICS(meal: Meal, dateISO: string): string {
     `UID:${meal.id}-${dateISO}@week-meal-planner`,
     `SUMMARY:${meal.label}: ${meal.title}`,
     `DESCRIPTION:${description.replace(/\n/g, '\\n')}`,
+    ...(meal.url ? [`URL:${meal.url}`] : []),
     'STATUS:CONFIRMED',
     'SEQUENCE:0',
     'END:VEVENT',
-    'END:VCALENDAR'
+    'END:VCALENDAR',
   ].join('\r\n')
-  
+
   return ics
 }
 
-export function generateMultipleICS(meals: Array<{ meal: Meal, dateISO: string }>, filename: string): string {
+export function generateMultipleICS(meals: Array<{ meal: Meal; dateISO: string }>, _filename: string, labels?: ICSLabels): string {
   const events = meals.map(({ meal, dateISO }) => {
     const timeStr = meal.time || '10:00'
     const date = new Date(dateISO + 'T' + timeStr + ':00')
-    
+
     const prepMinutes = parseDuration(meal.prep)
     const cookMinutes = parseDuration(meal.cook)
     const totalMinutes = prepMinutes + cookMinutes || 60
-    
+
     const endDate = new Date(date.getTime() + totalMinutes * 60 * 1000)
-    
-    let description = `${meal.title}\\n\\n`
-    
-    if (meal.servings) description += `Servings: ${meal.servings}\\n`
-    if (meal.prep) description += `Prep time: ${meal.prep}\\n`
-    if (meal.cook) description += `Cook time: ${meal.cook}\\n`
-    if (meal.tags) description += `Tags: ${meal.tags.join(', ')}\\n`
-    
-    if (meal.ingredients && meal.ingredients.length > 0) {
-      description += `\\nIngredients:\\n`
-      meal.ingredients.forEach(ing => {
-        description += `- ${ing.amount ? ing.amount + ' ' : ''}${ing.name}\\n`
-      })
-    }
-    
-    if (meal.steps && meal.steps.length > 0) {
-      description += `\\nSteps:\\n`
-      meal.steps.forEach((step, i) => {
-        description += `${i + 1}. ${step}\\n`
-      })
-    }
-    
-    if (meal.notes) description += `\\nNotes: ${meal.notes}\\n`
-    
+
+    const description = buildDescription(meal, labels)
+
     return [
       'BEGIN:VEVENT',
       `DTSTART:${formatICSDate(date)}`,
@@ -123,27 +145,26 @@ export function generateMultipleICS(meals: Array<{ meal: Meal, dateISO: string }
       `UID:${meal.id}-${dateISO}@week-meal-planner`,
       `SUMMARY:${meal.label}: ${meal.title}`,
       `DESCRIPTION:${description.replace(/\n/g, '\\n')}`,
+      ...(meal.url ? [`URL:${meal.url}`] : []),
       'STATUS:CONFIRMED',
       'SEQUENCE:0',
-      'END:VEVENT'
+      'END:VEVENT',
     ].join('\r\n')
   })
-  
-  const ics = [
+
+  return [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
     'PRODID:-//Week Meal Planner//EN',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
     ...events,
-    'END:VCALENDAR'
+    'END:VCALENDAR',
   ].join('\r\n')
-  
-  return ics
 }
 
-export function downloadICS(meal: Meal, dateISO: string) {
-  const ics = generateICS(meal, dateISO)
+export function downloadICS(meal: Meal, dateISO: string, labels?: ICSLabels) {
+  const ics = generateICS(meal, dateISO, labels)
   const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' })
   const url = URL.createObjectURL(blob)
   const link = document.createElement('a')
@@ -155,8 +176,8 @@ export function downloadICS(meal: Meal, dateISO: string) {
   URL.revokeObjectURL(url)
 }
 
-export function downloadMultipleICS(meals: Array<{ meal: Meal, dateISO: string }>, filename: string) {
-  const ics = generateMultipleICS(meals, filename)
+export function downloadMultipleICS(meals: Array<{ meal: Meal, dateISO: string }>, filename: string, labels?: ICSLabels) {
+  const ics = generateMultipleICS(meals, filename, labels)
   const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' })
   const url = URL.createObjectURL(blob)
   const link = document.createElement('a')
@@ -172,11 +193,11 @@ export function generateTodoICS(meal: Meal, dateISO: string): string {
     return ''
   }
 
-  const todoComponents = meal.ingredients.map((ing, index) => {
+  const todoComponents = meal.ingredients.map((ing: any, index) => {
     const uid = `${meal.id}-ingredient-${index}-${dateISO}@week-meal-planner`
-    const summary = `${ing.amount ? ing.amount + ' ' : ''}${ing.name}`
+    const summary = formatIngredient(ing)
     const description = `Ingredient for: ${meal.title} (${meal.label})`
-    
+
     return [
       'BEGIN:VTODO',
       `UID:${uid}`,
@@ -185,7 +206,7 @@ export function generateTodoICS(meal: Meal, dateISO: string): string {
       `DESCRIPTION:${description}`,
       'STATUS:NEEDS-ACTION',
       'PRIORITY:5',
-      'END:VTODO'
+      'END:VTODO',
     ]
   })
 

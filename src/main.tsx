@@ -1,10 +1,11 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import { useTranslation } from 'react-i18next'
 import { ThemeProvider } from 'next-themes'
 import Navbar from './components/Navbar'
 import WeekBanner from './components/WeekBanner'
 import DayDetail from './components/DayDetail'
+import Footer from './components/Footer'
 import './styles.css'
 import './i18n'
 
@@ -27,6 +28,7 @@ function AppContent() {
           <WeekBanner />
           <DayDetail />
         </div>
+        <Footer />
       </div>
     </>
   )

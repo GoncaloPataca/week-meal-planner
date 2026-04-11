@@ -18,10 +18,11 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '../../');
 
+// Each source dir is paired with the mealType it represents
 const SOURCES = [
-  path.join(ROOT, 'src/data/recipes/mob/breakfasts'),
-  path.join(ROOT, 'src/data/recipes/mob/lunches'),
-  path.join(ROOT, 'src/data/recipes/mob/dinners'),
+  { dir: path.join(ROOT, 'src/data/recipes/mob/breakfasts'), mealType: 'breakfast' },
+  { dir: path.join(ROOT, 'src/data/recipes/mob/lunches'),    mealType: 'lunch'     },
+  { dir: path.join(ROOT, 'src/data/recipes/mob/dinners'),    mealType: 'dinner'    },
   // Add more source folders here as new scrapers are built
 ];
 
@@ -58,7 +59,7 @@ let copied = 0;
 let skipped = 0;
 const seen = new Set();
 
-for (const sourceDir of SOURCES) {
+for (const { dir: sourceDir, mealType } of SOURCES) {
   for (const srcPath of scanSource(sourceDir)) {
     const slug = path.basename(srcPath, '.json');
 
@@ -75,13 +76,17 @@ for (const sourceDir of SOURCES) {
       continue;
     }
 
-    fs.copyFileSync(srcPath, destPath);
+    // Read source JSON, inject mealType, write to pipeline/recipes/
+    const recipe = JSON.parse(fs.readFileSync(srcPath, 'utf8'));
+    recipe.mealType = mealType;
+    fs.writeFileSync(destPath, JSON.stringify(recipe, null, 2) + '\n');
     copied++;
 
     // Register in manifest if not already there
     if (!manifest[slug]) {
       manifest[slug] = {
         slug,
+        mealType,
         source: path.relative(ROOT, srcPath),
         seededAt: new Date().toISOString(),
         stages: {

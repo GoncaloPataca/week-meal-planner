@@ -1,0 +1,19 @@
+{
+  "_comment": "This file is auto-managed by scrape-recipe.js. After the LLM successfully extracts a recipe from a domain for the first time, it saves the CSS selectors here. Subsequent runs against the same domain will use these selectors via cheerio — bypassing the LLM entirely (faster and free). If a site redesigns its HTML and the selectors stop working, the agent falls back to the LLM and updates this entry automatically.",
+
+  "www.apitadadopai.com": {
+    "_comment": "Example entry — replace with real selectors after first successful scrape.",
+    "detectedAt": "2026-03-30",
+    "exampleUrl": "https://www.apitadadopai.com/cogumelos-recheados/",
+    "selectors": {
+      "name": "h1.entry-title",
+      "image": ".wp-post-image",
+      "servings": ".wprm-recipe-servings",
+      "prepTime": ".wprm-recipe-prep_time-container",
+      "cookTime": ".wprm-recipe-cook_time-container",
+      "ingredients": ".wprm-recipe-ingredient",
+      "steps": ".wprm-recipe-instruction-text",
+      "tags": ".wprm-recipe-tag"
+    }
+  }
+}

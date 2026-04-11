@@ -89,6 +89,7 @@ function flag(name) {
 const filterWeek = flag('--week')
 const filterFrom = flag('--from')
 const filterTo   = flag('--to')
+const filterDay  = flag('--day')
 const typeArg    = flag('--type')
 const filterTypes = typeArg
   ? typeArg.split(',').map(s => s.trim()).filter(Boolean)
@@ -97,7 +98,7 @@ const filterTypes = typeArg
 const ALL_TYPES = ['Morning', 'Lunch', 'Dinner']
 const targetTypes = filterTypes.length > 0 ? filterTypes : ALL_TYPES
 
-if (!filterWeek && !filterFrom && !filterTo) {
+if (!filterWeek && !filterFrom && !filterTo && !filterDay) {
   console.error('\nError: at least one date filter is required (--week, --from, --to).\n')
   process.exit(1)
 }
@@ -120,7 +121,10 @@ function addDays(dateStr, n) {
 function buildDateSet() {
   // Returns an array of ISO dates that fall within the requested range
   let from, to
-  if (filterWeek) {
+  if (filterDay) {
+    from = filterDay
+    to = filterDay
+  } else if (filterWeek) {
     from = isoMonday(filterWeek)
     to   = addDays(from, 6)
   } else {

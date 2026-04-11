@@ -1,0 +1,88 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Minimal Scraped Recipe",
+  "description": "Output contract of the scrape-recipe agent. Contains only fields that can be directly extracted from a recipe page. Enrichment agents are responsible for computing derived fields (nutrition, normalized ingredients, difficulty, etc.).",
+  "type": "object",
+  "required": ["name", "url", "ingredients", "steps"],
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Recipe name as found on the page. Do not translate."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Canonical URL of the recipe page."
+    },
+    "image": {
+      "type": ["string", "null"],
+      "description": "Absolute URL of the main recipe image. null if not found."
+    },
+    "servings": {
+      "type": ["number", "null"],
+      "minimum": 1,
+      "description": "Number of servings as stated on the page. null if not found."
+    },
+    "prepTime": {
+      "type": ["string", "null"],
+      "description": "Prep time as a plain string, e.g. '20 minutes'. null if not stated."
+    },
+    "cookTime": {
+      "type": ["string", "null"],
+      "description": "Cook/bake time as a plain string. null if not stated."
+    },
+    "ingredients": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "description": "A single ingredient as a flat string combining amount and name. Examples: '2 cloves garlic', '200g queijo ralado', 'q.b. sal', '1 lata de tomate pelado'."
+      },
+      "description": "Flat list of ingredient strings. Each string merges the amount and name into one readable line. Do NOT use structured objects."
+    },
+    "steps": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "description": "A single preparation step. One instruction per array entry."
+      },
+      "description": "Ordered list of preparation steps."
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "Lowercase, hyphenated tag. E.g. 'prato-principal', 'sem-gluten', 'apitadadopai'."
+      },
+      "description": "Category or label tags found on the page. Always include the source site's domain slug as a tag so recipes can be grouped by origin."
+    }
+  },
+  "examples": [
+    {
+      "name": "Cogumelos recheados",
+      "url": "https://www.apitadadopai.com/cogumelos-recheados/",
+      "image": "https://www.apitadadopai.com/wp-content/uploads/cogumelos-recheados.jpg",
+      "servings": 4,
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "ingredients": [
+        "4 cogumelos Portobello",
+        "1 queijo creme",
+        "q.b. Salmão Fumado",
+        "q.b. Sal",
+        "q.b. Azeite Virgem Extra",
+        "q.b. Orégãos ou cebolinho",
+        "q.b. Queijo ralado ou Queijo da ilha ralado"
+      ],
+      "steps": [
+        "Comece por limpar os cogumelos, retire os pés e coloque-os num tabuleiro, adicione uma pitada de sal e um fio de azeite. Leve a assar cerca de 15 mins a 200ºC.",
+        "Enquanto os cogumelos estão no forno, numa taça coloque o queijo creme, o salmão fumado, o alho em pó e o cebolinho. Envolva bem.",
+        "Coloque o recheio por cima dos cogumelos, junte queijo ralado e um fio de azeite. Leve ao forno a gratinar cerca de 10 mins no forno, na máxima temperatura."
+      ],
+      "tags": ["prato-principal", "apitadadopai"]
+    }
+  ]
+}

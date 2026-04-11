@@ -90,9 +90,33 @@ function placeAfterIngredients(obj, parsed){
 }
 
 (function main(){
+  const argv = process.argv.slice(2);
+  let batch = 10;
+  let doAll = false;
+  for(const a of argv){
+    if(a === '--all') doAll = true;
+    const m = a.match(/^--batch=(\d+)$/);
+    if(m) batch = parseInt(m[1],10);
+  }
+
   const files = fs.readdirSync(RECIPES_DIR).filter(f => f.endsWith('.json')).sort();
-  const toProcess = files.slice(0,5);
   const manifest = fs.existsSync(MANIFEST_PATH) ? JSON.parse(fs.readFileSync(MANIFEST_PATH,'utf8')) : {};
+
+  // Build candidate list: prefer manifest flag; fall back to absence of in-file ingredientsParsed
+  const candidates = [];
+  for(const fname of files){
+    const slug = path.basename(fname, '.json');
+    const mEntry = manifest[slug];
+    if(mEntry && mEntry.stages && mEntry.stages.structureIngredients) continue;
+    const fpath = path.join(RECIPES_DIR, fname);
+    try{
+      const data = JSON.parse(fs.readFileSync(fpath,'utf8'));
+      if(data.ingredientsParsed) continue;
+    }catch(e){ /* include file if parsing failed */ }
+    candidates.push(fname);
+  }
+
+  const toProcess = doAll ? candidates : candidates.slice(0, batch);
   let processed = 0;
   for(const fname of toProcess){
     const slug = path.basename(fname, '.json');

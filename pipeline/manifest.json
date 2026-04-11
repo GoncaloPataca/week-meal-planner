@@ -5,12 +5,13 @@
     "seededAt": "2026-03-30T22:01:17.368Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "almond-croissant-baked-oats": {
     "slug": "almond-croissant-baked-oats",
@@ -18,12 +19,13 @@
     "seededAt": "2026-03-30T22:01:17.368Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "american-pancakes": {
     "slug": "american-pancakes",
@@ -31,12 +33,13 @@
     "seededAt": "2026-03-30T22:01:17.369Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "apple-blueberry-quaker-oats-with-almond-butter-banana": {
     "slug": "apple-blueberry-quaker-oats-with-almond-butter-banana",
@@ -44,12 +47,13 @@
     "seededAt": "2026-03-30T22:01:17.369Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "apple-crumble-overnight-oats": {
     "slug": "apple-crumble-overnight-oats",
@@ -57,12 +61,13 @@
     "seededAt": "2026-03-30T22:01:17.369Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "bacon-brie-blueberry-french-toastie": {
     "slug": "bacon-brie-blueberry-french-toastie",
@@ -70,12 +75,13 @@
     "seededAt": "2026-03-30T22:01:17.369Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "bacon-sarnie": {
     "slug": "bacon-sarnie",
@@ -83,12 +89,13 @@
     "seededAt": "2026-03-30T22:01:17.369Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "banoffee-overnight-oats": {
     "slug": "banoffee-overnight-oats",
@@ -96,12 +103,13 @@
     "seededAt": "2026-03-30T22:01:17.369Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "bean-cheese-brekkie-quesadilla": {
     "slug": "bean-cheese-brekkie-quesadilla",
@@ -109,12 +117,13 @@
     "seededAt": "2026-03-30T22:01:17.370Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "biscoff-baked-oats": {
     "slug": "biscoff-baked-oats",
@@ -122,12 +131,13 @@
     "seededAt": "2026-03-30T22:01:17.370Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "blueberry-almond-smoothie-bowl": {
     "slug": "blueberry-almond-smoothie-bowl",
@@ -135,12 +145,13 @@
     "seededAt": "2026-03-30T22:01:17.370Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "blueberry-almond-smoothie": {
     "slug": "blueberry-almond-smoothie",
@@ -148,12 +159,13 @@
     "seededAt": "2026-03-30T22:01:17.371Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "blueberry-crunch-overnight-oats": {
     "slug": "blueberry-crunch-overnight-oats",
@@ -161,12 +173,13 @@
     "seededAt": "2026-03-30T22:01:17.371Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "breakfast-tacos": {
     "slug": "breakfast-tacos",
@@ -174,12 +187,13 @@
     "seededAt": "2026-03-30T22:01:17.371Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "butter-bean-shakshuka": {
     "slug": "butter-bean-shakshuka",
@@ -187,12 +201,13 @@
     "seededAt": "2026-03-30T22:01:17.371Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "caramelised-banana-coconut-overnight-oats": {
     "slug": "caramelised-banana-coconut-overnight-oats",
@@ -200,12 +215,13 @@
     "seededAt": "2026-03-30T22:01:17.372Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "carrot-cake-bircher-muesli": {
     "slug": "carrot-cake-bircher-muesli",
@@ -213,12 +229,13 @@
     "seededAt": "2026-03-30T22:01:17.372Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "cheese-scones": {
     "slug": "cheese-scones",
@@ -226,12 +243,13 @@
     "seededAt": "2026-03-30T22:01:17.372Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "cheesy-chorizo-brekkie-burritos": {
     "slug": "cheesy-chorizo-brekkie-burritos",
@@ -239,12 +257,13 @@
     "seededAt": "2026-03-30T22:01:17.372Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "cheesy-okonomiyaki-recipe": {
     "slug": "cheesy-okonomiyaki-recipe",
@@ -252,12 +271,13 @@
     "seededAt": "2026-03-30T22:01:17.372Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "cherry-bakewell-overnight-oats": {
     "slug": "cherry-bakewell-overnight-oats",
@@ -265,12 +285,13 @@
     "seededAt": "2026-03-30T22:01:17.372Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "chilli-pan-con-tomate": {
     "slug": "chilli-pan-con-tomate",
@@ -278,12 +299,13 @@
     "seededAt": "2026-03-30T22:01:17.372Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "chipotle-mushroom-egg-breakfast-tacos": {
     "slug": "chipotle-mushroom-egg-breakfast-tacos",
@@ -291,12 +313,13 @@
     "seededAt": "2026-03-30T22:01:17.372Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "chocolate-raspberry-protein-overnight-oats": {
     "slug": "chocolate-raspberry-protein-overnight-oats",
@@ -304,12 +327,13 @@
     "seededAt": "2026-03-30T22:01:17.373Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "crispy-bacon-egg-high-protein-smash": {
     "slug": "crispy-bacon-egg-high-protein-smash",
@@ -317,12 +341,13 @@
     "seededAt": "2026-03-30T22:01:17.373Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "crunchy-egg-salad-bagels": {
     "slug": "crunchy-egg-salad-bagels",
@@ -330,12 +355,13 @@
     "seededAt": "2026-03-30T22:01:17.373Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "easiest-rarebit-scones-with-a-fried-egg-ham": {
     "slug": "easiest-rarebit-scones-with-a-fried-egg-ham",
@@ -343,12 +369,13 @@
     "seededAt": "2026-03-30T22:01:17.373Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "easy-blueberry-pancakes": {
     "slug": "easy-blueberry-pancakes",
@@ -356,12 +383,13 @@
     "seededAt": "2026-03-30T22:01:17.373Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "easy-crepe-recipe": {
     "slug": "easy-crepe-recipe",
@@ -369,12 +397,13 @@
     "seededAt": "2026-03-30T22:01:17.373Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "egg-cheese-breakfast-quesadillas": {
     "slug": "egg-cheese-breakfast-quesadillas",
@@ -382,12 +411,13 @@
     "seededAt": "2026-03-30T22:01:17.373Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "french-omelette": {
     "slug": "french-omelette",
@@ -395,12 +425,13 @@
     "seededAt": "2026-03-30T22:01:17.373Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "fruity-coconut-grain-porridge": {
     "slug": "fruity-coconut-grain-porridge",
@@ -408,12 +439,13 @@
     "seededAt": "2026-03-30T22:01:17.374Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "full-vegan-breakfast": {
     "slug": "full-vegan-breakfast",
@@ -421,12 +453,13 @@
     "seededAt": "2026-03-30T22:01:17.374Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "greek-baked-beans": {
     "slug": "greek-baked-beans",
@@ -434,12 +467,13 @@
     "seededAt": "2026-03-30T22:01:17.374Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "hazelnut-mocha-overnight-oats": {
     "slug": "hazelnut-mocha-overnight-oats",
@@ -447,12 +481,13 @@
     "seededAt": "2026-03-30T22:01:17.374Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "healthy-chocolate-spread": {
     "slug": "healthy-chocolate-spread",
@@ -460,12 +495,13 @@
     "seededAt": "2026-03-30T22:01:17.374Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "healthy-kid-friendly-granola": {
     "slug": "healthy-kid-friendly-granola",
@@ -473,12 +509,13 @@
     "seededAt": "2026-03-30T22:01:17.374Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "herby-feta-scrambled-eggs": {
     "slug": "herby-feta-scrambled-eggs",
@@ -486,12 +523,13 @@
     "seededAt": "2026-03-30T22:01:17.375Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "herby-omelette-tomato-sandwich": {
     "slug": "herby-omelette-tomato-sandwich",
@@ -499,12 +537,13 @@
     "seededAt": "2026-03-30T22:01:17.375Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "high-protein-air-fryer-granola": {
     "slug": "high-protein-air-fryer-granola",
@@ -512,12 +551,13 @@
     "seededAt": "2026-03-30T22:01:17.375Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "high-protein-banana-bread-baked-oats": {
     "slug": "high-protein-banana-bread-baked-oats",
@@ -525,12 +565,13 @@
     "seededAt": "2026-03-30T22:01:17.375Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "high-protein-breakfast-beans-eggs": {
     "slug": "high-protein-breakfast-beans-eggs",
@@ -538,12 +579,13 @@
     "seededAt": "2026-03-30T22:01:17.375Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "high-protein-breakfast-burritos": {
     "slug": "high-protein-breakfast-burritos",
@@ -551,12 +593,13 @@
     "seededAt": "2026-03-30T22:01:17.375Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "high-protein-breakfast-smoothie": {
     "slug": "high-protein-breakfast-smoothie",
@@ -564,12 +607,13 @@
     "seededAt": "2026-03-30T22:01:17.375Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "high-protein-tiramisu-overnight-oats": {
     "slug": "high-protein-tiramisu-overnight-oats",
@@ -577,12 +621,13 @@
     "seededAt": "2026-03-30T22:01:17.375Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "hot-sauce-egg-salad-breakfast-wraps": {
     "slug": "hot-sauce-egg-salad-breakfast-wraps",
@@ -590,12 +635,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "island-brunch-bowl": {
     "slug": "island-brunch-bowl",
@@ -603,12 +649,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "kedgeree": {
     "slug": "kedgeree",
@@ -616,12 +663,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "kefir-delight": {
     "slug": "kefir-delight",
@@ -629,12 +677,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "kimchi-baked-beans-with-sesame-fried-eggs": {
     "slug": "kimchi-baked-beans-with-sesame-fried-eggs",
@@ -642,12 +691,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "lemon-poppy-seed-sunshine-pots": {
     "slug": "lemon-poppy-seed-sunshine-pots",
@@ -655,12 +705,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "maple-bacon-egg-cheese-bagels": {
     "slug": "maple-bacon-egg-cheese-bagels",
@@ -668,12 +719,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "morning-milk-tea-chia-pudding": {
     "slug": "morning-milk-tea-chia-pudding",
@@ -681,12 +733,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "new-york-style-poppy-seed-bagels-lox": {
     "slug": "new-york-style-poppy-seed-bagels-lox",
@@ -694,12 +747,13 @@
     "seededAt": "2026-03-30T22:01:17.376Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "nori-egg-wraps-with-miso-peanut-butter-slaw": {
     "slug": "nori-egg-wraps-with-miso-peanut-butter-slaw",
@@ -707,12 +761,13 @@
     "seededAt": "2026-03-30T22:01:17.377Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "oozy-jammy-eggs": {
     "slug": "oozy-jammy-eggs",
@@ -720,12 +775,13 @@
     "seededAt": "2026-03-30T22:01:17.377Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "overnight-strawberry-matcha-brekkie-bowl": {
     "slug": "overnight-strawberry-matcha-brekkie-bowl",
@@ -733,12 +789,13 @@
     "seededAt": "2026-03-30T22:01:17.377Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "parmesan-fried-egg": {
     "slug": "parmesan-fried-egg",
@@ -746,12 +803,13 @@
     "seededAt": "2026-03-30T22:01:17.377Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "parmesan-rosti-with-hot-sauce-eggs": {
     "slug": "parmesan-rosti-with-hot-sauce-eggs",
@@ -759,12 +817,13 @@
     "seededAt": "2026-03-30T22:01:17.377Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "pb-j-overnight-oats-with-a-chocolate-smash-lid": {
     "slug": "pb-j-overnight-oats-with-a-chocolate-smash-lid",
@@ -772,12 +831,13 @@
     "seededAt": "2026-03-30T22:01:17.377Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "peanut-butter-overnight-oats-three-ways": {
     "slug": "peanut-butter-overnight-oats-three-ways",
@@ -785,12 +845,13 @@
     "seededAt": "2026-03-30T22:01:17.377Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "peanut-curry-beans-on-toast": {
     "slug": "peanut-curry-beans-on-toast",
@@ -798,12 +859,13 @@
     "seededAt": "2026-03-30T22:01:17.377Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "perfect-scrambled-eggs-and-crisps": {
     "slug": "perfect-scrambled-eggs-and-crisps",
@@ -811,12 +873,13 @@
     "seededAt": "2026-03-30T22:01:17.378Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "pink-power-smoothie-bowl": {
     "slug": "pink-power-smoothie-bowl",
@@ -824,12 +887,13 @@
     "seededAt": "2026-03-30T22:01:17.378Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "pink-power-smoothie": {
     "slug": "pink-power-smoothie",
@@ -837,12 +901,13 @@
     "seededAt": "2026-03-30T22:01:17.378Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "poached-eggs-with-green-chilli-butter": {
     "slug": "poached-eggs-with-green-chilli-butter",
@@ -850,12 +915,13 @@
     "seededAt": "2026-03-30T22:01:17.378Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "pork-belly-benedict-with-gochujang-hollandaise": {
     "slug": "pork-belly-benedict-with-gochujang-hollandaise",
@@ -863,12 +929,13 @@
     "seededAt": "2026-03-30T22:01:17.378Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "potato-rosti-recipe": {
     "slug": "potato-rosti-recipe",
@@ -876,12 +943,13 @@
     "seededAt": "2026-03-30T22:01:17.378Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "probiotic-bircher-muesli": {
     "slug": "probiotic-bircher-muesli",
@@ -889,12 +957,13 @@
     "seededAt": "2026-03-30T22:01:17.378Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "protein-french-toast-recipe": {
     "slug": "protein-french-toast-recipe",
@@ -902,12 +971,13 @@
     "seededAt": "2026-03-30T22:01:17.379Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "protein-pancakes": {
     "slug": "protein-pancakes",
@@ -915,12 +985,13 @@
     "seededAt": "2026-03-30T22:01:17.379Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "rhubarb-and-blood-orange-overnight-oats": {
     "slug": "rhubarb-and-blood-orange-overnight-oats",
@@ -928,12 +999,13 @@
     "seededAt": "2026-03-30T22:01:17.379Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "rolled-eggs-breakfast-wrap": {
     "slug": "rolled-eggs-breakfast-wrap",
@@ -941,12 +1013,13 @@
     "seededAt": "2026-03-30T22:01:17.379Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "smoky-bacon-beans-on-fried-bread": {
     "slug": "smoky-bacon-beans-on-fried-bread",
@@ -954,12 +1027,13 @@
     "seededAt": "2026-03-30T22:01:17.379Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "smoky-mushroom-maple-bagel": {
     "slug": "smoky-mushroom-maple-bagel",
@@ -967,12 +1041,13 @@
     "seededAt": "2026-03-30T22:01:17.379Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "smoky-tempeh-breakfast-bowl-meal-plan": {
     "slug": "smoky-tempeh-breakfast-bowl-meal-plan",
@@ -980,12 +1055,13 @@
     "seededAt": "2026-03-30T22:01:17.379Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "smoky-tempeh-breakfast-bowl": {
     "slug": "smoky-tempeh-breakfast-bowl",
@@ -993,12 +1069,13 @@
     "seededAt": "2026-03-30T22:01:17.379Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "spanakopita-breakfast-wraps": {
     "slug": "spanakopita-breakfast-wraps",
@@ -1006,12 +1083,13 @@
     "seededAt": "2026-03-30T22:01:17.380Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "spicy-breakfast-burrito": {
     "slug": "spicy-breakfast-burrito",
@@ -1019,12 +1097,13 @@
     "seededAt": "2026-03-30T22:01:17.380Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "spicy-egg-cheese-breakfast-sandos": {
     "slug": "spicy-egg-cheese-breakfast-sandos",
@@ -1032,12 +1111,13 @@
     "seededAt": "2026-03-30T22:01:17.380Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "spicy-sausage-shakshuka": {
     "slug": "spicy-sausage-shakshuka",
@@ -1045,12 +1125,13 @@
     "seededAt": "2026-03-30T22:01:17.380Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "squidgy-french-toast-dippers": {
     "slug": "squidgy-french-toast-dippers",
@@ -1058,12 +1139,13 @@
     "seededAt": "2026-03-30T22:01:17.380Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "sticky-toffee-baked-oats": {
     "slug": "sticky-toffee-baked-oats",
@@ -1071,12 +1153,13 @@
     "seededAt": "2026-03-30T22:01:17.381Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "strapatsada": {
     "slug": "strapatsada",
@@ -1084,12 +1167,13 @@
     "seededAt": "2026-03-30T22:01:17.381Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "strawberry-cheesecake-honey-butter-toast": {
     "slug": "strawberry-cheesecake-honey-butter-toast",
@@ -1097,12 +1181,13 @@
     "seededAt": "2026-03-30T22:01:17.381Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "sun-dried-tomato-cottage-cheese-cilbir": {
     "slug": "sun-dried-tomato-cottage-cheese-cilbir",
@@ -1110,12 +1195,13 @@
     "seededAt": "2026-03-30T22:01:17.381Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "super-berry-chia-pudding": {
     "slug": "super-berry-chia-pudding",
@@ -1123,12 +1209,13 @@
     "seededAt": "2026-03-30T22:01:17.381Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "supergreen-matcha-smoothie-bowl": {
     "slug": "supergreen-matcha-smoothie-bowl",
@@ -1136,12 +1223,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "supergreen-matcha-smoothie": {
     "slug": "supergreen-matcha-smoothie",
@@ -1149,12 +1237,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "sweetcorn-fritters-2": {
     "slug": "sweetcorn-fritters-2",
@@ -1162,12 +1251,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "thai-sausage-breakfast-sandwich": {
     "slug": "thai-sausage-breakfast-sandwich",
@@ -1175,12 +1265,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "tropical-sunshine-smoothie-bowl": {
     "slug": "tropical-sunshine-smoothie-bowl",
@@ -1188,12 +1279,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "tropical-sunshine-smoothie": {
     "slug": "tropical-sunshine-smoothie",
@@ -1201,12 +1293,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "turkish-air-fryer-poached-eggs-recipe": {
     "slug": "turkish-air-fryer-poached-eggs-recipe",
@@ -1214,12 +1307,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "turkish-eggs-with-confit-chickpeas-tomatoes": {
     "slug": "turkish-eggs-with-confit-chickpeas-tomatoes",
@@ -1227,12 +1321,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "veggie-sheet-pan-breakfast-burritos": {
     "slug": "veggie-sheet-pan-breakfast-burritos",
@@ -1240,12 +1335,13 @@
     "seededAt": "2026-03-30T22:01:17.382Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "xo-sauce-omelette-with-prawns-spring-onions": {
     "slug": "xo-sauce-omelette-with-prawns-spring-onions",
@@ -1253,12 +1349,13 @@
     "seededAt": "2026-03-30T22:01:17.383Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "yoghurt-bowl-with-high-protein-granola": {
     "slug": "yoghurt-bowl-with-high-protein-granola",
@@ -1266,12 +1363,13 @@
     "seededAt": "2026-03-30T22:01:17.383Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "yoghurt-flatbreads-with-crispy-chorizo-eggs": {
     "slug": "yoghurt-flatbreads-with-crispy-chorizo-eggs",
@@ -1279,12 +1377,13 @@
     "seededAt": "2026-03-30T22:01:17.383Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "zoe-granola": {
     "slug": "zoe-granola",
@@ -1292,12 +1391,13 @@
     "seededAt": "2026-03-30T22:01:17.383Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "breakfast"
   },
   "10-minute-smoky-harissa-creamy-butter-beans-lunch": {
     "slug": "10-minute-smoky-harissa-creamy-butter-beans-lunch",
@@ -1305,12 +1405,13 @@
     "seededAt": "2026-03-30T22:01:17.383Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "beef-kofte-with-tahini-rippled-greek-yoghurt-2": {
     "slug": "beef-kofte-with-tahini-rippled-greek-yoghurt-2",
@@ -1318,12 +1419,13 @@
     "seededAt": "2026-03-30T22:01:17.383Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "beef-udon-noodle-stir-fry-meal-plan": {
     "slug": "beef-udon-noodle-stir-fry-meal-plan",
@@ -1331,12 +1433,13 @@
     "seededAt": "2026-03-30T22:01:17.384Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "blt-chicken-salad-meal-prep": {
     "slug": "blt-chicken-salad-meal-prep",
@@ -1344,12 +1447,13 @@
     "seededAt": "2026-03-30T22:01:17.384Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "braised-lentils-with-fennel-sausage-and-salsa-verde": {
     "slug": "braised-lentils-with-fennel-sausage-and-salsa-verde",
@@ -1357,12 +1461,13 @@
     "seededAt": "2026-03-30T22:01:17.384Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "cauliflower-with-harissa-tahini-and-lentils": {
     "slug": "cauliflower-with-harissa-tahini-and-lentils",
@@ -1370,12 +1475,13 @@
     "seededAt": "2026-03-30T22:01:17.384Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chargrilled-chicken-garlicky-broccoli-rice-meal-prep": {
     "slug": "chargrilled-chicken-garlicky-broccoli-rice-meal-prep",
@@ -1383,12 +1489,13 @@
     "seededAt": "2026-03-30T22:01:17.384Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chicken-bacon-chopped-salad": {
     "slug": "chicken-bacon-chopped-salad",
@@ -1396,12 +1503,13 @@
     "seededAt": "2026-03-30T22:01:17.384Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chicken-caesar-chopped-salad": {
     "slug": "chicken-caesar-chopped-salad",
@@ -1409,12 +1517,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep": {
     "slug": "chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep",
@@ -1422,12 +1531,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chicken-pepper-cucumber-chopped-salad": {
     "slug": "chicken-pepper-cucumber-chopped-salad",
@@ -1435,12 +1545,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chicken-pesto-sun-dried-tomato-high-protein-smash": {
     "slug": "chicken-pesto-sun-dried-tomato-high-protein-smash",
@@ -1448,12 +1559,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chicken-quinoa-salad-lunch": {
     "slug": "chicken-quinoa-salad-lunch",
@@ -1461,12 +1573,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chicken-satay-grain-bowl": {
     "slug": "chicken-satay-grain-bowl",
@@ -1474,12 +1587,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "chickpea-tahini-harissa-smoosh": {
     "slug": "chickpea-tahini-harissa-smoosh",
@@ -1487,12 +1601,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "coconut-spinach-tomato-dahl": {
     "slug": "coconut-spinach-tomato-dahl",
@@ -1500,12 +1615,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "cottage-cheese-caesar-high-protein-smash": {
     "slug": "cottage-cheese-caesar-high-protein-smash",
@@ -1513,12 +1629,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "courgette-butter-bean-pasta-salad-lunch": {
     "slug": "courgette-butter-bean-pasta-salad-lunch",
@@ -1526,12 +1643,13 @@
     "seededAt": "2026-03-30T22:01:17.385Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "creamy-green-pasta-beans-2": {
     "slug": "creamy-green-pasta-beans-2",
@@ -1539,12 +1657,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "creamy-miso-tahini-udon": {
     "slug": "creamy-miso-tahini-udon",
@@ -1552,12 +1671,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "creamy-sun-dried-tomato-pasta-salad-meal-prep": {
     "slug": "creamy-sun-dried-tomato-pasta-salad-meal-prep",
@@ -1565,12 +1685,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "creamy-tomato-gnocchi-bake-2": {
     "slug": "creamy-tomato-gnocchi-bake-2",
@@ -1578,12 +1699,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "crispy-salmon-ponzy-rice-salad": {
     "slug": "crispy-salmon-ponzy-rice-salad",
@@ -1591,12 +1713,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "curry-leaf-swirly-omelette": {
     "slug": "curry-leaf-swirly-omelette",
@@ -1604,12 +1727,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "edamame-hummus-quinoa-bowl-meal-prep": {
     "slug": "edamame-hummus-quinoa-bowl-meal-prep",
@@ -1617,12 +1741,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "emergency-gyoza-soup": {
     "slug": "emergency-gyoza-soup",
@@ -1630,12 +1755,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "everything-salmon-rice-bowl": {
     "slug": "everything-salmon-rice-bowl",
@@ -1643,12 +1769,13 @@
     "seededAt": "2026-03-30T22:01:17.386Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "fennel-anchovy-pasta": {
     "slug": "fennel-anchovy-pasta",
@@ -1656,12 +1783,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "firecracker-beef-rice-bowl-2": {
     "slug": "firecracker-beef-rice-bowl-2",
@@ -1669,12 +1797,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "five-spice-meatball-cabbage-soup": {
     "slug": "five-spice-meatball-cabbage-soup",
@@ -1682,12 +1811,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "fried-chilli-pork-and-green-beans": {
     "slug": "fried-chilli-pork-and-green-beans",
@@ -1695,12 +1825,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "gado-gado-salad-bowl": {
     "slug": "gado-gado-salad-bowl",
@@ -1708,12 +1839,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "ginger-chicken-brothy-greens": {
     "slug": "ginger-chicken-brothy-greens",
@@ -1721,12 +1853,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "gochujang-tofu-mince-rice-bowl-meal-prep": {
     "slug": "gochujang-tofu-mince-rice-bowl-meal-prep",
@@ -1734,12 +1867,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "gochujang-tofu-rice-bowl": {
     "slug": "gochujang-tofu-rice-bowl",
@@ -1747,12 +1881,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "greek-dense-bean-salad": {
     "slug": "greek-dense-bean-salad",
@@ -1760,12 +1895,13 @@
     "seededAt": "2026-03-30T22:01:17.387Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "green-goddess-chopped-salad": {
     "slug": "green-goddess-chopped-salad",
@@ -1773,12 +1909,13 @@
     "seededAt": "2026-03-30T22:01:17.388Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "green-peanut-aubergine-noodles": {
     "slug": "green-peanut-aubergine-noodles",
@@ -1786,12 +1923,13 @@
     "seededAt": "2026-03-30T22:01:17.388Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "halloumi-grains-green-tahini": {
     "slug": "halloumi-grains-green-tahini",
@@ -1799,12 +1937,13 @@
     "seededAt": "2026-03-30T22:01:17.388Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "halloumi-tabbouleh": {
     "slug": "halloumi-tabbouleh",
@@ -1812,12 +1951,13 @@
     "seededAt": "2026-03-30T22:01:17.388Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "harissa-courgette-grain-salad": {
     "slug": "harissa-courgette-grain-salad",
@@ -1825,12 +1965,13 @@
     "seededAt": "2026-03-30T22:01:17.388Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "harrisa-and-mackerel-rigatoni": {
     "slug": "harrisa-and-mackerel-rigatoni",
@@ -1838,12 +1979,13 @@
     "seededAt": "2026-03-30T22:01:17.388Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "herby-creamy-chicken-salad-roast-potatoes-2": {
     "slug": "herby-creamy-chicken-salad-roast-potatoes-2",
@@ -1851,12 +1993,13 @@
     "seededAt": "2026-03-30T22:01:17.388Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "high-protein-cauliflower-mac-cheese-meal-prep": {
     "slug": "high-protein-cauliflower-mac-cheese-meal-prep",
@@ -1864,12 +2007,13 @@
     "seededAt": "2026-03-30T22:01:17.388Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "high-protein-moroccan-inspired-chickpea-soup": {
     "slug": "high-protein-moroccan-inspired-chickpea-soup",
@@ -1877,12 +2021,13 @@
     "seededAt": "2026-03-30T22:01:17.389Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "honey-garlic-chicken-broccoli-rice": {
     "slug": "honey-garlic-chicken-broccoli-rice",
@@ -1890,12 +2035,13 @@
     "seededAt": "2026-03-30T22:01:17.389Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "honey-harissa-carrot-couscous-with-feta-dressing": {
     "slug": "honey-harissa-carrot-couscous-with-feta-dressing",
@@ -1903,12 +2049,13 @@
     "seededAt": "2026-03-30T22:01:17.389Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "honey-mustard-pork-chop-garlicky-beans-meal-prep": {
     "slug": "honey-mustard-pork-chop-garlicky-beans-meal-prep",
@@ -1916,12 +2063,13 @@
     "seededAt": "2026-03-30T22:01:17.389Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "honey-zaatar-halloumi-herby-pomegranate-slaw-hummus": {
     "slug": "honey-zaatar-halloumi-herby-pomegranate-slaw-hummus",
@@ -1929,12 +2077,13 @@
     "seededAt": "2026-03-30T22:01:17.389Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "korean-marinated-eggs": {
     "slug": "korean-marinated-eggs",
@@ -1942,12 +2091,13 @@
     "seededAt": "2026-03-30T22:01:17.389Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "lunch-box-chicken-basil-stir-fry": {
     "slug": "lunch-box-chicken-basil-stir-fry",
@@ -1955,12 +2105,13 @@
     "seededAt": "2026-03-30T22:01:17.389Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "lunch-box-chipotle-chicken-with-chilli-kale-rice": {
     "slug": "lunch-box-chipotle-chicken-with-chilli-kale-rice",
@@ -1968,12 +2119,13 @@
     "seededAt": "2026-03-30T22:01:17.389Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "lunch-box-harissa-chicken-traybake-with-herby-grains": {
     "slug": "lunch-box-harissa-chicken-traybake-with-herby-grains",
@@ -1981,12 +2133,13 @@
     "seededAt": "2026-03-30T22:01:17.390Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "lunch-box-one-pot-thai-green-chicken-curry": {
     "slug": "lunch-box-one-pot-thai-green-chicken-curry",
@@ -1994,12 +2147,13 @@
     "seededAt": "2026-03-30T22:01:17.390Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "mackerel-petit-pois-feta-smoosh": {
     "slug": "mackerel-petit-pois-feta-smoosh",
@@ -2007,12 +2161,13 @@
     "seededAt": "2026-03-30T22:01:17.390Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "marry-me-chicken-pasta-bake-meal-prep": {
     "slug": "marry-me-chicken-pasta-bake-meal-prep",
@@ -2020,12 +2175,13 @@
     "seededAt": "2026-03-30T22:01:17.390Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "marry-me-halloumi-bowl": {
     "slug": "marry-me-halloumi-bowl",
@@ -2033,12 +2189,13 @@
     "seededAt": "2026-03-30T22:01:17.390Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "minced-beef-broccoli-stir-fry-meal-prep": {
     "slug": "minced-beef-broccoli-stir-fry-meal-prep",
@@ -2046,12 +2203,13 @@
     "seededAt": "2026-03-30T22:01:17.390Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "miso-glazed-chicken-with-sweet-potato-edamame-2": {
     "slug": "miso-glazed-chicken-with-sweet-potato-edamame-2",
@@ -2059,12 +2217,13 @@
     "seededAt": "2026-03-30T22:01:17.390Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "miso-maple-chicken-with-rice-meal-prep": {
     "slug": "miso-maple-chicken-with-rice-meal-prep",
@@ -2072,12 +2231,13 @@
     "seededAt": "2026-03-30T22:01:17.391Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "mushroom-miso-ramen-lunch-pots": {
     "slug": "mushroom-miso-ramen-lunch-pots",
@@ -2085,12 +2245,13 @@
     "seededAt": "2026-03-30T22:01:17.391Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "nourishing-lemon-herb-chicken-soup": {
     "slug": "nourishing-lemon-herb-chicken-soup",
@@ -2098,12 +2259,13 @@
     "seededAt": "2026-03-30T22:01:17.391Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "parmesan-crusted-chicken-caesar-wrap": {
     "slug": "parmesan-crusted-chicken-caesar-wrap",
@@ -2111,12 +2273,13 @@
     "seededAt": "2026-03-30T22:01:17.391Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "pasta-primavera": {
     "slug": "pasta-primavera",
@@ -2124,12 +2287,13 @@
     "seededAt": "2026-03-30T22:01:17.391Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "peanut-sriracha-noodles": {
     "slug": "peanut-sriracha-noodles",
@@ -2137,12 +2301,13 @@
     "seededAt": "2026-03-30T22:01:17.391Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "peri-peri-halloumi-sweet-potato-hummus-bowl": {
     "slug": "peri-peri-halloumi-sweet-potato-hummus-bowl",
@@ -2150,12 +2315,13 @@
     "seededAt": "2026-03-30T22:01:17.392Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "pesto-butter-beans-with-charred-tenderstem-broccoli": {
     "slug": "pesto-butter-beans-with-charred-tenderstem-broccoli",
@@ -2163,12 +2329,13 @@
     "seededAt": "2026-03-30T22:01:17.392Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "piri-piri-chicken-herby-lemon-chickpeas-meal-prep": {
     "slug": "piri-piri-chicken-herby-lemon-chickpeas-meal-prep",
@@ -2176,12 +2343,13 @@
     "seededAt": "2026-03-30T22:01:17.392Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "prawn-mango-coconut-bowl-2": {
     "slug": "prawn-mango-coconut-bowl-2",
@@ -2189,12 +2357,13 @@
     "seededAt": "2026-03-30T22:01:17.392Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "pulled-chicken-miso-spring-onion-high-protein-smash-2": {
     "slug": "pulled-chicken-miso-spring-onion-high-protein-smash-2",
@@ -2202,12 +2371,13 @@
     "seededAt": "2026-03-30T22:01:17.392Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "roast-sweet-potato-salad-with-gochujang-tahini-sauce": {
     "slug": "roast-sweet-potato-salad-with-gochujang-tahini-sauce",
@@ -2215,12 +2385,13 @@
     "seededAt": "2026-03-30T22:01:17.392Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "saucy-tomatoey-gochujang-noodles-with-cucumber-salad-2": {
     "slug": "saucy-tomatoey-gochujang-noodles-with-cucumber-salad-2",
@@ -2228,12 +2399,13 @@
     "seededAt": "2026-03-30T22:01:17.393Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "spanakopita-halloumi-bowl": {
     "slug": "spanakopita-halloumi-bowl",
@@ -2241,12 +2413,13 @@
     "seededAt": "2026-03-30T22:01:17.393Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "spanakopita-orzo-2": {
     "slug": "spanakopita-orzo-2",
@@ -2254,12 +2427,13 @@
     "seededAt": "2026-03-30T22:01:17.393Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "spicy-miso-dense-bean-salad": {
     "slug": "spicy-miso-dense-bean-salad",
@@ -2267,12 +2441,13 @@
     "seededAt": "2026-03-30T22:01:17.393Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "spicy-mushroom-tofu-soup": {
     "slug": "spicy-mushroom-tofu-soup",
@@ -2280,12 +2455,13 @@
     "seededAt": "2026-03-30T22:01:17.393Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "spicy-pork-rice-bowl-with-sesame-broccoli-2": {
     "slug": "spicy-pork-rice-bowl-with-sesame-broccoli-2",
@@ -2293,12 +2469,13 @@
     "seededAt": "2026-03-30T22:01:17.393Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "spicy-tuna-rice-bowl": {
     "slug": "spicy-tuna-rice-bowl",
@@ -2306,12 +2483,13 @@
     "seededAt": "2026-03-30T22:01:17.393Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "steak-tacos-chilli-pineapple-salsa": {
     "slug": "steak-tacos-chilli-pineapple-salsa",
@@ -2319,12 +2497,13 @@
     "seededAt": "2026-03-30T22:01:17.394Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "sticky-aubergine-on-miso-mash": {
     "slug": "sticky-aubergine-on-miso-mash",
@@ -2332,12 +2511,13 @@
     "seededAt": "2026-03-30T22:01:17.394Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "sticky-honey-gochujang-chicken-salad": {
     "slug": "sticky-honey-gochujang-chicken-salad",
@@ -2345,12 +2525,13 @@
     "seededAt": "2026-03-30T22:01:17.394Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "sticky-honey-miso-aubergine-rice": {
     "slug": "sticky-honey-miso-aubergine-rice",
@@ -2358,12 +2539,13 @@
     "seededAt": "2026-03-30T22:01:17.394Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "sticky-mango-paneer-kebabs": {
     "slug": "sticky-mango-paneer-kebabs",
@@ -2371,12 +2553,13 @@
     "seededAt": "2026-03-30T22:01:17.394Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "sticky-pomegranate-glazed-chicken-herby-quinoa-meal-prep": {
     "slug": "sticky-pomegranate-glazed-chicken-herby-quinoa-meal-prep",
@@ -2384,12 +2567,13 @@
     "seededAt": "2026-03-30T22:01:17.394Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "sweet-chilli-mince-bowl": {
     "slug": "sweet-chilli-mince-bowl",
@@ -2397,12 +2581,13 @@
     "seededAt": "2026-03-30T22:01:17.395Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "sweet-potatoes-with-tahini-butter-chickpeas": {
     "slug": "sweet-potatoes-with-tahini-butter-chickpeas",
@@ -2410,12 +2595,13 @@
     "seededAt": "2026-03-30T22:01:17.395Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "sweet-sticky-chicken-with-broccoli-rice": {
     "slug": "sweet-sticky-chicken-with-broccoli-rice",
@@ -2423,12 +2609,13 @@
     "seededAt": "2026-03-30T22:01:17.395Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "thai-red-curry-salmon-bites-with-lime-coconut-rice": {
     "slug": "thai-red-curry-salmon-bites-with-lime-coconut-rice",
@@ -2436,12 +2623,13 @@
     "seededAt": "2026-03-30T22:01:17.395Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "tofu-gyros-bowl-meal-prep": {
     "slug": "tofu-gyros-bowl-meal-prep",
@@ -2449,12 +2637,13 @@
     "seededAt": "2026-03-30T22:01:17.395Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "tomato-soup": {
     "slug": "tomato-soup",
@@ -2462,12 +2651,13 @@
     "seededAt": "2026-03-30T22:01:17.395Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "tuna-celery-miso-smoosh": {
     "slug": "tuna-celery-miso-smoosh",
@@ -2475,12 +2665,13 @@
     "seededAt": "2026-03-30T22:01:17.395Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "tuna-green-bean-chopped-salad": {
     "slug": "tuna-green-bean-chopped-salad",
@@ -2488,12 +2679,13 @@
     "seededAt": "2026-03-30T22:01:17.396Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "tuna-lentil-feta-salad-2": {
     "slug": "tuna-lentil-feta-salad-2",
@@ -2501,12 +2693,13 @@
     "seededAt": "2026-03-30T22:01:17.396Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "tuna-melt-enchiladas": {
     "slug": "tuna-melt-enchiladas",
@@ -2514,12 +2707,13 @@
     "seededAt": "2026-03-30T22:01:17.396Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "warming-bean-and-veg-soup": {
     "slug": "warming-bean-and-veg-soup",
@@ -2527,12 +2721,13 @@
     "seededAt": "2026-03-30T22:01:17.396Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "lunch"
   },
   "10-minute-smoky-harissa-creamy-butter-beans": {
     "slug": "10-minute-smoky-harissa-creamy-butter-beans",
@@ -2540,12 +2735,13 @@
     "seededAt": "2026-03-30T22:01:17.397Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "anchovy-butter-spaghetti-recipe": {
     "slug": "anchovy-butter-spaghetti-recipe",
@@ -2553,12 +2749,13 @@
     "seededAt": "2026-03-30T22:01:17.397Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "aubergine-and-mascarpone-gnocchi-traybake": {
     "slug": "aubergine-and-mascarpone-gnocchi-traybake",
@@ -2566,12 +2763,13 @@
     "seededAt": "2026-03-30T22:01:17.397Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "baked-paprika-cod": {
     "slug": "baked-paprika-cod",
@@ -2579,12 +2777,13 @@
     "seededAt": "2026-03-30T22:01:17.397Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "batch-beef-chilli-con-carne": {
     "slug": "batch-beef-chilli-con-carne",
@@ -2592,12 +2791,13 @@
     "seededAt": "2026-03-30T22:01:17.397Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "broccoli-pesto-pasta-with-whipped-lemon-tofu": {
     "slug": "broccoli-pesto-pasta-with-whipped-lemon-tofu",
@@ -2605,12 +2805,13 @@
     "seededAt": "2026-03-30T22:01:17.397Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "butter-halloumi-curry": {
     "slug": "butter-halloumi-curry",
@@ -2618,12 +2819,13 @@
     "seededAt": "2026-03-30T22:01:17.397Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "caprese-gnocchi-bake": {
     "slug": "caprese-gnocchi-bake",
@@ -2631,12 +2833,13 @@
     "seededAt": "2026-03-30T22:01:17.397Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "caramelised-soy-chicken-in-garlic-ginger-broth-with-rice": {
     "slug": "caramelised-soy-chicken-in-garlic-ginger-broth-with-rice",
@@ -2644,12 +2847,13 @@
     "seededAt": "2026-03-30T22:01:17.398Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "charred-halloumi-tomato-traybake-curry": {
     "slug": "charred-halloumi-tomato-traybake-curry",
@@ -2657,12 +2861,13 @@
     "seededAt": "2026-03-30T22:01:17.398Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "chicken-biryani": {
     "slug": "chicken-biryani",
@@ -2670,12 +2875,13 @@
     "seededAt": "2026-03-30T22:01:17.398Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "chicken-chilli-stir-fry": {
     "slug": "chicken-chilli-stir-fry",
@@ -2683,12 +2889,13 @@
     "seededAt": "2026-03-30T22:01:17.398Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "chicken-chorizo-fajitas": {
     "slug": "chicken-chorizo-fajitas",
@@ -2696,12 +2903,13 @@
     "seededAt": "2026-03-30T22:01:17.398Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "creamy-garlic-herb-chicken-gnocchi": {
     "slug": "creamy-garlic-herb-chicken-gnocchi",
@@ -2709,12 +2917,13 @@
     "seededAt": "2026-03-30T22:01:17.398Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "creamy-pesto-sausage-pasta": {
     "slug": "creamy-pesto-sausage-pasta",
@@ -2722,12 +2931,13 @@
     "seededAt": "2026-03-30T22:01:17.398Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "creamy-spicy-pork-ramen": {
     "slug": "creamy-spicy-pork-ramen",
@@ -2735,12 +2945,13 @@
     "seededAt": "2026-03-30T22:01:17.398Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "crispy-beef-dan-dan-noodles": {
     "slug": "crispy-beef-dan-dan-noodles",
@@ -2748,12 +2959,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "crispy-chicken-brown-rice-chickpeas-tzatziki": {
     "slug": "crispy-chicken-brown-rice-chickpeas-tzatziki",
@@ -2761,12 +2973,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "crispy-harissa-lamb-hummus-bowl": {
     "slug": "crispy-harissa-lamb-hummus-bowl",
@@ -2774,12 +2987,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "crispy-mushroom-black-bean-tacos": {
     "slug": "crispy-mushroom-black-bean-tacos",
@@ -2787,12 +3001,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "curried-coconut-chicken-rice": {
     "slug": "curried-coconut-chicken-rice",
@@ -2800,12 +3015,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "firecracker-beef-rice-bowl": {
     "slug": "firecracker-beef-rice-bowl",
@@ -2813,12 +3029,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "garlic-butter-shrimp-noodles": {
     "slug": "garlic-butter-shrimp-noodles",
@@ -2826,12 +3043,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "garlicky-mustard-chicken-zingy-broth-with-rice": {
     "slug": "garlicky-mustard-chicken-zingy-broth-with-rice",
@@ -2839,12 +3057,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "ginger-chilli-chicken-rice": {
     "slug": "ginger-chilli-chicken-rice",
@@ -2852,12 +3071,13 @@
     "seededAt": "2026-03-30T22:01:17.399Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "gnocchi-with-smashed-peas-lemon-parmesan": {
     "slug": "gnocchi-with-smashed-peas-lemon-parmesan",
@@ -2865,12 +3085,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "greek-gnocchi-traybake": {
     "slug": "greek-gnocchi-traybake",
@@ -2878,12 +3099,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "green-herby-chicken-and-rice-soup": {
     "slug": "green-herby-chicken-and-rice-soup",
@@ -2891,12 +3113,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "green-tofu-udon": {
     "slug": "green-tofu-udon",
@@ -2904,12 +3127,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "harissa-chicken": {
     "slug": "harissa-chicken",
@@ -2917,12 +3141,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "healthy-green-queen-pasta": {
     "slug": "healthy-green-queen-pasta",
@@ -2930,12 +3155,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "herby-chicken-caesar-schnitzel": {
     "slug": "herby-chicken-caesar-schnitzel",
@@ -2943,12 +3169,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "honey-dijon-roast-chicken-with-leek-y-parmesan-chickpeas": {
     "slug": "honey-dijon-roast-chicken-with-leek-y-parmesan-chickpeas",
@@ -2956,12 +3183,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "honey-gochujang-chicken-rigatoni": {
     "slug": "honey-gochujang-chicken-rigatoni",
@@ -2969,12 +3197,13 @@
     "seededAt": "2026-03-30T22:01:17.400Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "hot-halloumi-corn-quinoa-bowl": {
     "slug": "hot-halloumi-corn-quinoa-bowl",
@@ -2982,12 +3211,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "jalepeno-coconut-chicken-thighs": {
     "slug": "jalepeno-coconut-chicken-thighs",
@@ -2995,12 +3225,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "juicy-pulled-chipotle-chicken": {
     "slug": "juicy-pulled-chipotle-chicken",
@@ -3008,12 +3239,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "keralan-inspired-prawn-curry": {
     "slug": "keralan-inspired-prawn-curry",
@@ -3021,12 +3253,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "korma-dal-with-honey-halloumi": {
     "slug": "korma-dal-with-honey-halloumi",
@@ -3034,12 +3267,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "lazy-cottage-cheese-tomato-pasta": {
     "slug": "lazy-cottage-cheese-tomato-pasta",
@@ -3047,12 +3281,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "leek-y-beans": {
     "slug": "leek-y-beans",
@@ -3060,12 +3295,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "lemony-braised-chicken": {
     "slug": "lemony-braised-chicken",
@@ -3073,12 +3309,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "mallika-basus-butter-chicken-curry": {
     "slug": "mallika-basus-butter-chicken-curry",
@@ -3086,12 +3323,13 @@
     "seededAt": "2026-03-30T22:01:17.401Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "marry-me-chicken-orzo": {
     "slug": "marry-me-chicken-orzo",
@@ -3099,12 +3337,13 @@
     "seededAt": "2026-03-30T22:01:17.402Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "marry-me-chicken-pasta-bake": {
     "slug": "marry-me-chicken-pasta-bake",
@@ -3112,12 +3351,13 @@
     "seededAt": "2026-03-30T22:01:17.402Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "marry-me-spaghetti-meatballs": {
     "slug": "marry-me-spaghetti-meatballs",
@@ -3125,12 +3365,13 @@
     "seededAt": "2026-03-30T22:01:17.402Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "meatball-gnocchi-bake": {
     "slug": "meatball-gnocchi-bake",
@@ -3138,12 +3379,13 @@
     "seededAt": "2026-03-30T22:01:17.402Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "minced-beef-broccoli-stir-fry": {
     "slug": "minced-beef-broccoli-stir-fry",
@@ -3151,12 +3393,13 @@
     "seededAt": "2026-03-30T22:01:17.402Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "minestrone-soup": {
     "slug": "minestrone-soup",
@@ -3164,12 +3407,13 @@
     "seededAt": "2026-03-30T22:01:17.402Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "miso-butter-pasta": {
     "slug": "miso-butter-pasta",
@@ -3177,12 +3421,13 @@
     "seededAt": "2026-03-30T22:01:17.402Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "miso-butter-salmon-rice": {
     "slug": "miso-butter-salmon-rice",
@@ -3190,12 +3435,13 @@
     "seededAt": "2026-03-30T22:01:17.403Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "mujadara": {
     "slug": "mujadara",
@@ -3203,12 +3449,13 @@
     "seededAt": "2026-03-30T22:01:17.403Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "nduja-anchovy-spaghetti": {
     "slug": "nduja-anchovy-spaghetti",
@@ -3216,12 +3463,13 @@
     "seededAt": "2026-03-30T22:01:17.403Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "one-pot-miso-butter-cod-rice": {
     "slug": "one-pot-miso-butter-cod-rice",
@@ -3229,12 +3477,13 @@
     "seededAt": "2026-03-30T22:01:17.403Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "peanut-butter-chicken-curry": {
     "slug": "peanut-butter-chicken-curry",
@@ -3242,12 +3491,13 @@
     "seededAt": "2026-03-30T22:01:17.403Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "pork-fennel-marry-me-pasta": {
     "slug": "pork-fennel-marry-me-pasta",
@@ -3255,12 +3505,13 @@
     "seededAt": "2026-03-30T22:01:17.403Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "rigatoni-with-broccoli": {
     "slug": "rigatoni-with-broccoli",
@@ -3268,12 +3519,13 @@
     "seededAt": "2026-03-30T22:01:17.403Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "salmon-tacos": {
     "slug": "salmon-tacos",
@@ -3281,12 +3533,13 @@
     "seededAt": "2026-03-30T22:01:17.404Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "sardine-lemon-jalapeño-linguine": {
     "slug": "sardine-lemon-jalapeño-linguine",
@@ -3294,12 +3547,13 @@
     "seededAt": "2026-03-30T22:01:17.404Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "sausage-gochujang-rigatoni": {
     "slug": "sausage-gochujang-rigatoni",
@@ -3307,12 +3561,13 @@
     "seededAt": "2026-03-30T22:01:17.404Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "shredded-chicken-warming-spring-onion-brothy-rice": {
     "slug": "shredded-chicken-warming-spring-onion-brothy-rice",
@@ -3320,12 +3575,13 @@
     "seededAt": "2026-03-30T22:01:17.404Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "smacked-cucumber-dumpling-salad": {
     "slug": "smacked-cucumber-dumpling-salad",
@@ -3333,12 +3589,13 @@
     "seededAt": "2026-03-30T22:01:17.404Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "smashed-chicken-tacos-pineapple-salsa": {
     "slug": "smashed-chicken-tacos-pineapple-salsa",
@@ -3346,12 +3603,13 @@
     "seededAt": "2026-03-30T22:01:17.404Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "smashed-prawn-tacos": {
     "slug": "smashed-prawn-tacos",
@@ -3359,12 +3617,13 @@
     "seededAt": "2026-03-30T22:01:17.404Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "soy-butter-aubergine-noodles": {
     "slug": "soy-butter-aubergine-noodles",
@@ -3372,12 +3631,13 @@
     "seededAt": "2026-03-30T22:01:17.404Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spaghetti-with-spicy-tomato-and-pepper-sauce": {
     "slug": "spaghetti-with-spicy-tomato-and-pepper-sauce",
@@ -3385,12 +3645,13 @@
     "seededAt": "2026-03-30T22:01:17.405Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "speedy-thai-red-curry-noodle-soup": {
     "slug": "speedy-thai-red-curry-noodle-soup",
@@ -3398,12 +3659,13 @@
     "seededAt": "2026-03-30T22:01:17.405Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spiced-aubergine-lentil-stew-hummus-bowl": {
     "slug": "spiced-aubergine-lentil-stew-hummus-bowl",
@@ -3411,12 +3673,13 @@
     "seededAt": "2026-03-30T22:01:17.405Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spiced-chicken-shawarma-rice-bowl": {
     "slug": "spiced-chicken-shawarma-rice-bowl",
@@ -3424,12 +3687,13 @@
     "seededAt": "2026-03-30T22:01:17.405Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spicy-chorizo-pepper-stew": {
     "slug": "spicy-chorizo-pepper-stew",
@@ -3437,12 +3701,13 @@
     "seededAt": "2026-03-30T22:01:17.405Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spicy-gochujang-beef-pasta": {
     "slug": "spicy-gochujang-beef-pasta",
@@ -3450,12 +3715,13 @@
     "seededAt": "2026-03-30T22:01:17.405Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spicy-lamb-meatball-traybake": {
     "slug": "spicy-lamb-meatball-traybake",
@@ -3463,12 +3729,13 @@
     "seededAt": "2026-03-30T22:01:17.406Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spicy-mushroom-ragu-with-pasta": {
     "slug": "spicy-mushroom-ragu-with-pasta",
@@ -3476,12 +3743,13 @@
     "seededAt": "2026-03-30T22:01:17.406Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spicy-pork-sesame-noodles": {
     "slug": "spicy-pork-sesame-noodles",
@@ -3489,12 +3757,13 @@
     "seededAt": "2026-03-30T22:01:17.406Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "spicy-salmon-bowl-with-sesame-rice-soy-butter-spinach": {
     "slug": "spicy-salmon-bowl-with-sesame-rice-soy-butter-spinach",
@@ -3502,12 +3771,13 @@
     "seededAt": "2026-03-30T22:01:17.406Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "squash-and-halloumi-curry-caramelised-limes": {
     "slug": "squash-and-halloumi-curry-caramelised-limes",
@@ -3515,12 +3785,13 @@
     "seededAt": "2026-03-30T22:01:17.406Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "sticky-beef-mince-brothy-rice": {
     "slug": "sticky-beef-mince-brothy-rice",
@@ -3528,12 +3799,13 @@
     "seededAt": "2026-03-30T22:01:17.406Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "sticky-sesame-chicken-meatballs": {
     "slug": "sticky-sesame-chicken-meatballs",
@@ -3541,12 +3813,13 @@
     "seededAt": "2026-03-30T22:01:17.406Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "thai-red-chicken-meatballs-with-peanut-sauce": {
     "slug": "thai-red-chicken-meatballs-with-peanut-sauce",
@@ -3554,12 +3827,13 @@
     "seededAt": "2026-03-30T22:01:17.406Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "the-ultimate-lasagne": {
     "slug": "the-ultimate-lasagne",
@@ -3567,12 +3841,13 @@
     "seededAt": "2026-03-30T22:01:17.407Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "ultimate-cauliflower-cheese": {
     "slug": "ultimate-cauliflower-cheese",
@@ -3580,12 +3855,13 @@
     "seededAt": "2026-03-30T22:01:17.407Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   },
   "weeknight-chicken-gyros": {
     "slug": "weeknight-chicken-gyros",
@@ -3593,11 +3869,12 @@
     "seededAt": "2026-03-30T22:01:17.407Z",
     "stages": {
       "seed": true,
-      "structureIngredients": false,
+      "structureIngredients": true,
       "enrichNutrition": false,
-      "downloadImages": false,
+      "downloadImages": true,
       "translate": false,
       "computePortions": false
-    }
+    },
+    "mealType": "dinner"
   }
 }

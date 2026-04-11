@@ -1,3 +1,8 @@
-node_modules/
+pipeline/images/
+pipeline/recipes/node_modules/
 .DS_Store
 .env
+
+# Keep the manifest in git since it's small and useful
+!pipeline/manifest.json
+node_modules
