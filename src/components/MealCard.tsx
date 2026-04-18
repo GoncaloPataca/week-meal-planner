@@ -21,15 +21,12 @@ const tx = translationsData as unknown as Translations
 type StoreAvailability = { continente: boolean|null; auchan: boolean|null; pingodoce: boolean|null; lidl: boolean|null; aldi: boolean|null }
 const av = availabilityData as Record<string, StoreAvailability>
 
-// Google's favicon service gives reliable 32px icons for any domain
-const gFavicon = (domain: string) => `https://www.google.com/s2/favicons?domain=${domain}&sz=32`
-
 const STORES: { key: keyof StoreAvailability; name: string; logo: string }[] = [
-  { key: 'continente', name: 'Continente', logo: gFavicon('continente.pt') },
-  { key: 'auchan',     name: 'Auchan',     logo: gFavicon('auchan.pt') },
-  { key: 'pingodoce',  name: 'Pingo Doce', logo: gFavicon('pingodoce.pt') },
-  { key: 'lidl',       name: 'Lidl',       logo: gFavicon('lidl.pt') },
-  { key: 'aldi',       name: 'Aldi',       logo: gFavicon('aldi.pt') },
+  { key: 'continente', name: 'Continente', logo: './images/stores/continente.png' },
+  { key: 'auchan',     name: 'Auchan',     logo: './images/stores/auchan.png' },
+  { key: 'pingodoce',  name: 'Pingo Doce', logo: './images/stores/pingodoce.png' },
+  { key: 'lidl',       name: 'Lidl',       logo: './images/stores/lidl.png' },
+  { key: 'aldi',       name: 'Aldi',       logo: './images/stores/aldi.png' },
 ]
 
 const STORE_NAMES = STORES.map(s => s.name).join(', ')
