@@ -38,25 +38,25 @@ jobs:
           # Monday of the current ISO week (works regardless of what day it is today)
           THIS_MON=$(date -d "$(date +%Y-%m-%d) - $(( $(date +%u) - 1 )) days" +%Y-%m-%d)
           WEEK_PLUS_2=$(date -d "$THIS_MON + 14 days" +%Y-%m-%d)
-          WEEK_MINUS_2_MON=$(date -d "$THIS_MON - 14 days" +%Y-%m-%d)
-          WEEK_MINUS_2_SUN=$(date -d "$THIS_MON - 8 days"  +%Y-%m-%d)
+          WEEK_MINUS_3_MON=$(date -d "$THIS_MON - 21 days" +%Y-%m-%d)
+          WEEK_MINUS_3_SUN=$(date -d "$THIS_MON - 15 days" +%Y-%m-%d)
           echo "this_mon=$THIS_MON"                   >> $GITHUB_OUTPUT
           echo "week_plus_2=$WEEK_PLUS_2"             >> $GITHUB_OUTPUT
-          echo "week_minus_2_mon=$WEEK_MINUS_2_MON"   >> $GITHUB_OUTPUT
-          echo "week_minus_2_sun=$WEEK_MINUS_2_SUN"   >> $GITHUB_OUTPUT
+          echo "week_minus_3_mon=$WEEK_MINUS_3_MON"   >> $GITHUB_OUTPUT
+          echo "week_minus_3_sun=$WEEK_MINUS_3_SUN"   >> $GITHUB_OUTPUT
           echo "This week starts  : $THIS_MON"
           echo "Week +2 starts    : $WEEK_PLUS_2"
-          echo "Week -2 range     : $WEEK_MINUS_2_MON → $WEEK_MINUS_2_SUN"
+          echo "Week -3 range     : $WEEK_MINUS_3_MON → $WEEK_MINUS_3_SUN"
 
       - name: Generate week+2 meals
         run: |
           node scripts/generate-week.js ${{ steps.dates.outputs.week_plus_2 }} --replace
 
-      - name: Delete week-2 meals
+      - name: Delete week-3 meals
         run: |
           node scripts/meals-manager.js delete \
-            --from ${{ steps.dates.outputs.week_minus_2_mon }} \
-            --to   ${{ steps.dates.outputs.week_minus_2_sun }} \
+            --from ${{ steps.dates.outputs.week_minus_3_mon }} \
+            --to   ${{ steps.dates.outputs.week_minus_3_sun }} \
             --yes
 
       - name: Build
@@ -67,7 +67,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/meals.json
-          git diff --cached --quiet || git commit -m "chore(meals): schedule week ${{ steps.dates.outputs.week_plus_2 }}, remove week ${{ steps.dates.outputs.week_minus_2_mon }}"
+          git diff --cached --quiet || git commit -m "chore(meals): schedule week ${{ steps.dates.outputs.week_plus_2 }}, remove week ${{ steps.dates.outputs.week_minus_3_mon }}"
 
       - name: Push meals.json change
         run: git push
