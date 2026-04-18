@@ -1,0 +1,76 @@
+name: Weekly Meals
+
+# Runs every Monday at 06:00 UTC
+# - Generates meals for the week after next (week+2)
+# - Deletes meals from two weeks ago (week-2)
+# - Rebuilds the app and deploys to GitHub Pages
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch: # allow manual trigger from the Actions tab
+
+jobs:
+  update-meals:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to push the updated meals.json + gh-pages
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history so gh-pages push works
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      # Compute the Monday dates for week+2 and week-2 relative to today (always a Monday)
+      - name: Compute week dates
+        id: dates
+        run: |
+          # Today is Monday (cron guarantees it; --dry-run safe otherwise)
+          WEEK_PLUS_2=$(date -d "next monday + 7 days" +%Y-%m-%d)
+          WEEK_MINUS_2_MON=$(date -d "last monday - 7 days" +%Y-%m-%d)
+          WEEK_MINUS_2_SUN=$(date -d "last monday - 1 day"  +%Y-%m-%d)
+          echo "week_plus_2=$WEEK_PLUS_2"       >> $GITHUB_OUTPUT
+          echo "week_minus_2_mon=$WEEK_MINUS_2_MON" >> $GITHUB_OUTPUT
+          echo "week_minus_2_sun=$WEEK_MINUS_2_SUN" >> $GITHUB_OUTPUT
+          echo "Week +2 starts : $WEEK_PLUS_2"
+          echo "Week -2 range  : $WEEK_MINUS_2_MON → $WEEK_MINUS_2_SUN"
+
+      - name: Generate week+2 meals
+        run: |
+          node scripts/generate-week.js ${{ steps.dates.outputs.week_plus_2 }} --replace
+
+      - name: Delete week-2 meals
+        run: |
+          node scripts/meals-manager.js delete \
+            --from ${{ steps.dates.outputs.week_minus_2_mon }} \
+            --to   ${{ steps.dates.outputs.week_minus_2_sun }} \
+            --yes
+
+      - name: Build
+        run: npm run build
+
+      - name: Commit updated meals.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/meals.json
+          git diff --cached --quiet || git commit -m "chore(meals): schedule week ${{ steps.dates.outputs.week_plus_2 }}, remove week ${{ steps.dates.outputs.week_minus_2_mon }}"
+
+      - name: Push meals.json change
+        run: git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
