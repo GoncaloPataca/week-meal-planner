@@ -22,79 +22,94 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "courgette",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "courgette"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "bone-in-skin-on-chicken-thigh",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "bone -In Skin-On Chicken Thigh"
     },
     {
+      "id": "fresh-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "lemon-wedge",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon Wedge",
       "note": "to serve"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "5-fat-greek-yoghurt",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Greek Yoghurt"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "cooked-brown-rice",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Brown Rice"
     },
     {
+      "id": "chickpeas",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chickpeas"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "smoked-paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "ground-coriander",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Coriander"
     }
   ],
@@ -132,115 +147,5 @@
   "calories": 680,
   "fat": 24,
   "carbs": 56,
-  "protein": 54,
-  "i18n": {
-    "pt": {
-      "name": "Frango Crocante com Arroz Integral, Grão-de-Bico e Tzatziki",
-      "ingredients": [
-        "1 Courgette",
-        "1 Cebola Roxa",
-        "4 Coxas de Frango com Osso e com Pele",
-        "15g Salsa Fresca",
-        "2 Gomos de Limão (para servir)",
-        "0.5 Pepino",
-        "200g Iogurte Grego 5% Gordura",
-        "1 Dente de Alho",
-        "1 Limão",
-        "250g Arroz Integral Cozido",
-        "200g Grão-de-Bico",
-        "1 Dente de Alho",
-        "1c.chá Colorau Fumado",
-        "1c.chá Cominhos em Pó",
-        "1c.chá Coentros em Pó"
-      ],
-      "steps": [
-        "Coloque as coxas de frango com a pele virada para baixo numa tábua. Passe uma faca de cada lado do osso para o expor. Usando tesoura, corte por baixo do osso para o retirar. Repita com as restantes coxas. Quando estiverem todas preparadas, tempere com sal e pimenta.",
-        "Corte a courgette ao meio no sentido do comprimento e depois em meia-lua. Corte a cebola roxa em pedaços grandes.",
-        "Adicione o frango com a pele para baixo numa frigideira grande fria e coloque em lume médio. Cozinhe durante 10-15 minutos até a pele estar dourada.",
-        "Enquanto o frango cozinha, prepare o tzatziki. Rale o pepino para uma tigela e tempere com sal. Reserve durante 5 minutos e depois esprema o excesso de água. Adicione o pepino espremido ao iogurte com a raspa do limão e o sumo de metade do limão. Rale o alho. Misture bem e tempere com sal. Reserve.",
-        "Quando a pele do frango estiver dourada e crocante, vire as coxas e cozinhe por mais 2 minutos. Retire da frigideira e reserve.",
-        "Adicione a cebola roxa, a courgette e as especiarias à frigideira. Rale o alho e cozinhe em lume médio até ficarem macios. Adicione o grão-de-bico escorrido e o arroz integral. Cozinhe em lume médio durante 2-3 minutos até tudo estar bem misturado. Tempere com sal e pimenta.",
-        "Entretanto, retire as folhas de salsa e corte o frango em fatias grossas.",
-        "Para servir, divida o arroz pelos pratos, depois cubra com o frango e o tzatziki. Polvilhe com a salsa e termine com um gomo de limão."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Courgette"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Coxa de Frango com Osso e Pele"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Gomo de Limão"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Iogurte Grego 5% de Gordura"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Arroz Integral Cozido"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Grão-de-Bico"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Coentros em Pó"
-        }
-      ]
-    }
-  }
+  "protein": 54
 }

@@ -23,84 +23,100 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "tenderstem-broccoli",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "jasmine-rice",
       "amount": 160,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "water",
       "amount": 190,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "butter",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Boneless Skinless Chicken Thigh"
     },
     {
+      "id": "oyster-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Oyster Sauce"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "rice-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "sriracha",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "sesame-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sesame Seeds",
       "note": "to serve"
     },
     {
+      "id": "lemon-wedge",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon Wedge"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -131,120 +147,5 @@
   "calories": 750,
   "fat": 23,
   "carbs": 82,
-  "protein": 48,
-  "i18n": {
-    "pt": {
-      "name": "Frango Doce e Pegajoso com Arroz de Brócolos",
-      "mealType": "almoço",
-      "ingredients": [
-        "200g Brócolos Tenderstem",
-        "2 Dentes de Alho",
-        "160g Arroz Jasmine",
-        "190ml Água",
-        "10g Manteiga",
-        "400g Coxas de Frango sem Pele e sem Osso",
-        "2 c. sopa de Molho de Ostra",
-        "1 c. sopa de Molho de Soja",
-        "1 c. sopa de Vinagre de Arroz",
-        "1 c. sopa de Sriracha",
-        "1 c. chá de Mel",
-        "2 Cebolinhas",
-        "Sementes de Sésamo (para servir)",
-        "1 Gomo de Limão",
-        "Azeite",
-        "Sal"
-      ],
-      "steps": [
-        "Corta o alho em fatias finas e pica grosseiramente os brócolos.",
-        "Adiciona a manteiga a uma panela grande em lume médio. Quando derreter, adiciona o alho e cozinha durante 2 minutos, mexendo regularmente até amolecer. Adiciona os brócolos picados e cozinha mais 2-3 minutos.",
-        "Lava o arroz e incorpora-o na mistura de brócolos. Adiciona a água e leva a ferver. Tapa, reduz o lume para o mínimo e cozinha durante 12 minutos. Desliga o lume e deixa tapado mais 10 minutos para terminar o cozimento a vapor.",
-        "Entretanto, mistura o molho de ostra, o molho de soja, o vinagre de arroz, a sriracha e o mel numa tigela pequena.",
-        "Corta as coxas de frango em pedaços do tamanho de uma bouchée — cerca de 5-6 pedaços por coxa. Aquece uma frigideira grande em lume médio-alto com um fio de azeite. Quando estiver quente, adiciona o frango numa camada única (podes precisar de fazer em partes para não sobrelotares). Tempera com sal e cozinha durante 6 minutos até dourar e ficar crocante de um lado. Vira e cozinha mais 2-3 minutos até estar completamente cozinhado.",
-        "Retira a frigideira do lume e adiciona o molho. Mistura para cobrir o frango com o glaze. Se o molho parecer demasiado líquido, volta ao lume durante 1-2 minutos para engrossar ligeiramente.",
-        "Corta as cebolinhas em fatias finas. Divide o arroz de brócolos pelas tigelas ou caixas, coloca por cima o frango pegajoso e qualquer molho restante na frigideira. Termina com cebolinhas, sementes de sésamo e um gomo de limão."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 160,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 190,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Ostra"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Gomo de Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 48
 }

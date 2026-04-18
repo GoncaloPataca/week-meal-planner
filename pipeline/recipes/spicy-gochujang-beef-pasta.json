@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "fresh-ginger",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "garlic-clove",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "spring-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "5-fat-beef-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Beef Mince"
     },
     {
+      "id": "conchiglioni",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Conchiglioni"
     },
     {
+      "id": "tomato-pure",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "honey",
       "amount": 1.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "sesame-seeds",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "sesame-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sesame Oil"
     }
   ],
@@ -114,108 +128,5 @@
   "calories": 590,
   "fat": 18,
   "carbs": 66,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Massa de Carne Picada com Gochujang Picante",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Chalotas",
-        "10g Gengibre Fresco",
-        "3 Dentes de Alho",
-        "1 Malagueta Vermelha",
-        "1 Cebolinho",
-        "500g Carne Picada de Vaca 5% Gordura",
-        "400g Conchiglioni",
-        "1,5c.s. Concentrado de Tomate",
-        "2c.s. Gochujang",
-        "1,5c.s. Molho de Soja Escuro",
-        "1,5c.c. Mel",
-        "1 Lima",
-        "1c.c. Sementes de Sésamo",
-        "Óleo de Sésamo"
-      ],
-      "steps": [
-        "Pique finamente as chalotas e o gengibre e esmague o alho. Fatie finamente a malagueta e os cebolinhos e reserve para guarnição.",
-        "Encha uma panela grande com água salgada e leve a ferver em lume médio-alto. Quando ferver, adicione a massa e cozinhe de acordo com as instruções até al dente.",
-        "Entretanto, aqueça um fio de óleo de sésamo noutra frigideira grande em lume alto. Quando o óleo começar a borbulhar, adicione a carne picada de vaca e espalhe em camada fina com uma colher de pau. Deixe cozinhar alguns minutos até dourar bem, depois vire e cozinhe o outro lado mais alguns minutos, usando a colher para desfazer. Transfira a carne para um prato e reserve, deixando os sucos na frigideira.",
-        "Devolva a frigideira com os sucos ao lume e reduza para médio. Adicione as chalotas, o alho e o gengibre e cozinhe cerca de 7 min até amolecerem.",
-        "Devolva a carne à frigideira com os aromáticos amolecidos e adicione o concentrado de tomate, a pasta de gochujang, o molho de soja, o mel e o sumo de lima. Adicione algumas conchas de água de cozer a massa, misture e leve a ferver suavemente.",
-        "Escorra a massa cozida e adicione ao molho, juntamente com outra concha de água de cozer se necessário. Misture para cobrir e continue a ferver um ou dois minutos até a massa estar ao seu gosto.",
-        "Para servir, distribua a massa pelas tigelas e cubra com o cebolinho e malagueta fatiados e sementes de sésamo."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Carne Picada de Vaca 5% de Gordura"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Conchiglioni"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Sésamo"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

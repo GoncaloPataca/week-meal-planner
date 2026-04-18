@@ -20,70 +20,83 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "fresh-dill",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "celery",
       "amount": 0.5,
-      "unit": "stalk",
+      "unitId": "stalk",
       "item": "Celery"
     },
     {
+      "id": "carrot",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Carrot"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "ditalini",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Ditalini"
     },
     {
+      "id": "chicken-stock",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "chicken-breast",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "parmesan",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan",
       "optional": true
     },
     {
+      "id": "chilli-flakes",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chilli Flakes",
       "optional": true
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -117,100 +130,5 @@
   "calories": 320,
   "fat": 6,
   "carbs": 24,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Sopa Nutritiva de Frango com Limão e Ervas",
-      "mealType": "almoço",
-      "ingredients": [
-        "10g de Aneto Fresco",
-        "10g de Salsa Fresca",
-        "0,5 Talo de Aipo",
-        "40g de Cenoura",
-        "1 Dente de Alho",
-        "30g de Ditalini",
-        "400ml de Caldo de Frango",
-        "0,5 Limão",
-        "1 Peito de Frango",
-        "10g de Parmesão (opcional)",
-        "Flocos de Malagueta (opcional)",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente o aneto e a salsa, incluindo os talos! Descasque e corte a cenoura em palitos finos (ou pique muito finamente). Corte finamente o aipo e rale o alho.",
-        "Adicione o aneto, a salsa, o ditalini (qualquer outra massa pequena serve!), a cenoura, o alho e o aipo a um recipiente próprio para congelador, juntamente com o caldo de frango e a raspa do limão. Coloque o peito de frango por cima, tempere com sal e pimenta, depois leve ao congelador até estar pronto a usar.",
-        "Quando estiver pronto para cozinhar, transfira o conteúdo congelado do recipiente para uma panela em lume médio. Tape, deixe derreter. Depois deixe fervilhar a sopa durante 10 minutos.",
-        "Vire o frango e cozinhe mais 5 minutos até estar completamente cozido. Assim que estiver cozido, retire o frango da panela e desfie em pedaços e adicione novamente à sopa.",
-        "Tempere a gosto com sal, pimenta e sumo de limão. Polvilhe com parmesão e flocos de malagueta se gostar e sirva."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 0.5,
-          "unit": "talo",
-          "item": "Aipo"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Cenoura"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Ditalini"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

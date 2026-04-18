@@ -22,80 +22,95 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cumin-seeds",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Cumin Seeds"
     },
     {
+      "id": "coriander-seed",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Coriander Seed"
     },
     {
+      "id": "ground-turmeric",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "halloumi",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "coconut-milk",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coconut Milk"
     },
     {
+      "id": "tamarind-paste",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tamarind Paste"
     },
     {
+      "id": "fish-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "microwaveable-basmati-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Microwaveable Basmati Rice"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander",
       "note": "to serve"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Crispy Chilli Oil",
       "optional": true
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -125,112 +140,5 @@
   "calories": 695,
   "fat": 35,
   "carbs": 65,
-  "protein": 27,
-  "i18n": {
-    "pt": {
-      "name": "Caril de Halloumi e Tomate no Tabuleiro",
-      "ingredients": [
-        "1.5c.sopa Sementes de Cominhos",
-        "1.5c.sopa Sementes de Coentro",
-        "2c.chá Curcuma em Pó",
-        "2x 225g Bloco de Halloumi",
-        "800g Tomate-Cereja",
-        "1c.sopa Azeite",
-        "1x 400g Lata de Leite de Coco",
-        "1c.sopa Pasta de Tamarindo",
-        "1c.sopa Molho de Peixe",
-        "1 Lima",
-        "2x 250g Saqueta de Arroz Basmati",
-        "15g Coentros Frescos (para servir)",
-        "Óleo de Malagueta Crocante (opcional)",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Ligue o grelhador no máximo. Torre as sementes de cominhos e coentros numa frigideira seca em lume médio durante 2-3 minutos, até ficarem aromáticas. Verta num pilão e moa em pó grosso, depois misture a curcuma em pó. Corte o halloumi em cubos grandes e envolva com a mistura de especiarias.",
-        "Coloque os tomates-cereja num tabuleiro grande, coloque o halloumi especiado por cima e regue com azeite. Coloque sob o grelhador durante 4-5 minutos, até o halloumi começar a tostar e os tomates a rebentar.",
-        "Retire o tabuleiro do grelhador. Desligue o grelhador e pré-aqueça o forno a 200°C ventilado. Coloque metade dos tomates num liquidificador, esprema o sumo da lima, verta o leite de coco e adicione a pasta de tamarindo e o molho de peixe (pode substituir por molho de soja para manter vegetariano). Tempere bem com sal e pimenta e bata até ficar completamente suave.",
-        "Adicione o arroz diretamente ao tabuleiro (não precisa de ir ao micro-ondas, vai cozinhar no molho) e misture bem, depois verta o molho. Leve ao forno durante 20 minutos, até o molho estar a borbulhar e ter engrossado.",
-        "Retire as folhas de coentros e espalhe sobre o caril, coloque o óleo de malagueta crocante e sirva diretamente do tabuleiro."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Sementes de Cominhos"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Sementes de Coentros"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pasta de Tamarindo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Basmati de Micro-ondas"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Malagueta Crocante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 27
 }

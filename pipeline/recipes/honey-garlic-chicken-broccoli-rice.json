@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "garlic-powder",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "chilli-powder",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "plain-flour",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Plain Flour"
     },
     {
+      "id": "garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "honey",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "broccoli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "broccoli"
     },
     {
+      "id": "jasmine-rice",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "sesame-seeds",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -121,106 +135,5 @@
   "calories": 580,
   "fat": 18,
   "carbs": 58,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Frango com Mel e Alho com Arroz de Brócolos",
-      "mealType": "almoço",
-      "ingredients": [
-        "8 Coxas de Frango sem Osso e sem Pele",
-        "1 colher de sopa de Alho em Pó",
-        "0,5 colher de sopa de Pimentão em Pó",
-        "2 colheres de sopa de Farinha",
-        "4 Dentes de Alho",
-        "2 colheres de sopa de Gochujang",
-        "2 colheres de sopa de Molho de Soja",
-        "3 colheres de sopa de Mel",
-        "2 Limas",
-        "1 Brócolos",
-        "300g de Arroz Jasmim",
-        "3 Ceboletes",
-        "2 colheres de sopa de Sementes de Sésamo",
-        "Azeite"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C. Corte os brócolos em pedaços pequenos. Cozinhe o arroz seguindo as instruções da embalagem, adicionando os brócolos 3 minutos antes do final da cozedura.",
-        "Entretanto, fatie finamente as ceboletes. Corte o frango em pedaços de 3 cm. Numa tigela ou tabuleiro, misture o alho em pó, o pimentão em pó, a farinha e uma pitada de sal.",
-        "Envolva o frango na mistura para cobrir uniformemente, depois transfira para um tabuleiro e regue com azeite. Leve ao forno quente durante 15 a 20 minutos até estar completamente cozido.",
-        "Pique o alho e adicione a uma tigela com o gochujang, o molho de soja, o mel e o sumo das limas. Misture e verta sobre o frango. Leve ao forno mais 5 minutos até ficar pegajoso.",
-        "Coloque ou sirva o arroz de brócolos, cubra com o frango pegajoso e regue com o molho restante. Polvilhe com as ceboletes e as sementes de sésamo. Dura bem no frigorífico 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Farinha Simples"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Brócolos"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

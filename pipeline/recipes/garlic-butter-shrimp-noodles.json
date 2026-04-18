@@ -25,94 +25,112 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "raw-peeled-king-prawn",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raw Peeled King Prawn"
     },
     {
+      "id": "udon-noodle",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Udon Noodle"
     },
     {
+      "id": "butter",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "spinach",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-ginger",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "cashew-nut",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cashew Nut"
     },
     {
+      "id": "spring-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "chilli-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chilli Oil",
       "note": "to serve"
     },
     {
+      "id": "oyster-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Oyster Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "sriracha",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sugar"
     },
     {
+      "id": "chinese-black-vinegar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chinese Black Vinegar"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -145,134 +163,5 @@
   "calories": 620,
   "fat": 18,
   "carbs": 72,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Noodles de Gambas com Manteiga e Alho",
-      "mealType": "jantar",
-      "ingredients": [
-        "400g de Gambas Cruas Descascadas",
-        "400g de Noodles Udon",
-        "30g de Manteiga",
-        "100g de Espinafres",
-        "3 Dentes de Alho",
-        "30g de Gengibre Fresco",
-        "1 Malagueta Vermelha",
-        "20g de Cajus",
-        "1 Cebolinha Verde",
-        "Óleo de Malagueta (para servir)",
-        "2 colheres de sopa de Molho de Ostras",
-        "1 colher de sopa de Molho de Soja Escuro",
-        "1 colher de sopa de Molho de Soja Claro",
-        "1 colher de sopa de Sriracha",
-        "1 colher de sopa de Açúcar",
-        "1 colher de chá de Vinagre Negro Chinês",
-        "Azeite",
-        "Sal"
-      ],
-      "steps": [
-        "Leve uma panela grande de água com sal a ferver.",
-        "Fatie finamente a malagueta. Descasque e rale finamente o alho e o gengibre. Misture todos os ingredientes do molho numa tigela pequena e reserve.",
-        "Coloque um wok ou frigideira grande em lume médio. Adicione a manteiga e um fio de azeite. Quando derreter e estiver a espumar, adicione o alho, o gengibre e a malagueta. Cozinhe 2 a 3 minutos, mexendo constantemente, até amolecerem e ficarem levemente caramelizados.",
-        "Adicione as gambas à frigideira e cozinhe 1 minuto de cada lado até começarem a ficar rosadas.",
-        "Coza os noodles udon conforme as instruções da embalagem e escorra.",
-        "Adicione os espinafres à frigideira com as gambas e mexa até murcharem. Junte os noodles e verta o molho. Misture tudo em lume alto durante 1 a 2 minutos até os noodles ficarem cobertos e brilhantes. Prove e tempere com mais sal ou vinagre negro se necessário.",
-        "Pique grosseiramente os cajus e torre numa frigideira seca 2 a 3 minutos até ficarem dourados e aromáticos. Misture nos noodles.",
-        "Fatie finamente a cebolinha verde.",
-        "Distribua os noodles pelas tigelas e cubra com os cajus torrados picados e a cebolinha verde fatiada e um fio de óleo de malagueta, se usar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Gamba Grande Crua Descascada"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Noodles Udon"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Castanha de Caju"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Malagueta"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Ostra"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Vinagre Preto Chinês"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

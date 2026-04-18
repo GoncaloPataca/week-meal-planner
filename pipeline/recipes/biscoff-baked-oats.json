@@ -18,59 +18,70 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "rolled-oat",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "banana",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "banana"
     },
     {
+      "id": "egg-white",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Egg White"
     },
     {
+      "id": "skimmed-milk",
       "amount": 70,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Skimmed Milk"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "baking-powder",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Baking Powder"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "biscoff-spread",
       "amount": 3,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Biscoff Spread"
     },
     {
+      "id": "biscoff-biscuit",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "biscoff Biscuit"
     },
     {
+      "id": "coconut-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Coconut Oil",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -99,88 +110,5 @@
   "calories": 500,
   "fat": 8,
   "carbs": 73,
-  "protein": 27,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Assada com Biscoff",
-      "ingredients": [
-        "50g Aveia em Flocos",
-        "1 Banana",
-        "1c.sopa Clara de Ovo",
-        "70ml Leite Magro",
-        "20g Proteína com Baunilha em Pó",
-        "0.25c.chá Fermento em Pó",
-        "0.5c.chá Canela em Pó",
-        "3c.chá Creme de Biscoff",
-        "0.5 Bolacha Biscoff",
-        "Óleo de Coco (para untar)",
-        "Sal"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 175°C. Misture a aveia, a banana, as claras de ovo, o leite, a proteína em pó, o fermento, a canela e uma pitada de sal num liquidificador, depois bata até ficar suave.",
-        "Unte uma forma refratária com spray de óleo ou óleo de coco, depois verta a mistura.",
-        "Derreta 1 c.chá de creme Biscoff durante 10 a 15 segundos no microondas e verta na forma. Misture-o na massa com um palito ou a ponta de uma faca.",
-        "Adicione mais 1 c.chá de creme Biscoff (não derretido) no centro da mistura, alisando a aveia por cima para que fique no meio. Asse durante 15 a 20 minutos, ou até o palito sair limpo.",
-        "Derreta mais 1 c.chá de creme Biscoff e regue por cima, seguido de meia bolacha Lotus."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Clara de Ovo"
-        },
-        {
-          "amount": 70,
-          "unit": "ml",
-          "item": "Leite Magro"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 3,
-          "unit": "c. chá",
-          "item": "Creme Biscoff"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Bolacha Biscoff"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Coco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 27
 }

@@ -26,99 +26,118 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "neutral-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Neutral Oil"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "beef-mince",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Beef Mince"
     },
     {
+      "id": "fresh-ginger",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "shaoxing-wine",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Shaoxing Wine"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "sugar",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar",
       "optional": true
     },
     {
+      "id": "peanut-butter",
       "amount": 45,
-      "unit": "g",
+      "unitId": "g",
       "item": "Peanut Butter"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "chinese-black-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chinese Black Vinegar"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Crispy Chilli Oil"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "choy-sum",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Choy Sum"
     },
     {
+      "id": "nest-fresh-wheat-noodles",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "nest Fresh Wheat Noodles"
     },
     {
+      "id": "peanut",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Peanut"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Crispy Chilli Oil"
     }
   ],
@@ -148,137 +167,5 @@
   "calories": 820,
   "fat": 46,
   "carbs": 52,
-  "protein": 50,
-  "i18n": {
-    "pt": {
-      "name": "Massa Dan Dan com Carne de Vaca Crocante",
-      "ingredients": [
-        "2c.sopa Óleo Neutro",
-        "2 Cebolinhas",
-        "400g Carne de Vaca Picada",
-        "10g Gengibre Fresco",
-        "2c.sopa Vinho de Shaoxing",
-        "1c.chá Molho de Soja Light",
-        "0.5c.chá Molho de Soja Escuro",
-        "0.5c.chá Açúcar (opcional)",
-        "45g Manteiga de Amendoim",
-        "1c.sopa Molho de Soja Light",
-        "1c.sopa Molho de Soja Escuro",
-        "1c.sopa Vinagre Preto Chinês",
-        "1c.sopa Óleo de Malagueta Crocante",
-        "1c.chá Açúcar",
-        "2 Dentes de Alho",
-        "200g Choy Sum",
-        "2 Ninhos de Massa de Trigo Fresca",
-        "30g Amendoins",
-        "Óleo de Malagueta Crocante"
-      ],
-      "steps": [
-        "Comece por preparar o picado. Rale o gengibre e corte as cebolinhas em fatias, reservando as partes verdes para decorar mais tarde.",
-        "Aqueça o óleo numa frigideira em lume médio e frite o picado durante 8 minutos, até a água evaporar e a gordura começar a soltar e a fritar.",
-        "Adicione o gengibre e as partes brancas das cebolinhas. Salteie por alguns minutos até ficar aromático. Verta o vinho de Shaoxing e cozinhe durante 2 minutos, até o álcool evaporar. Depois tempere com o molho de soja light, o molho de soja escuro e o açúcar. Mantenha em lume brando para manter quente.",
-        "Rale o alho para uma tigela pequena e adicione os restantes ingredientes do molho, misturando tudo até ficar suave.",
-        "Coza a massa de acordo com as instruções da embalagem e adicione o choy sum nos últimos 45 segundos de cozedura.",
-        "Misture a massa com o molho, soltando com um pouco de água de cozedura se necessário. Emprate com o choy sum e o picado cozido, depois termine com as cebolinhas verdes em fatias, os amendoins esmagados e mais óleo de malagueta crocante, se quiser."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Óleo Neutro"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Carne Picada de Vaca"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinho Shaoxing"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 45,
-          "unit": "g",
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre Preto Chinês"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Malagueta Crocante"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Choy Sum"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Noodles de Trigo Fresco"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Amendoim"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Malagueta Crocante"
-        }
-      ]
-    }
-  }
+  "protein": 50
 }

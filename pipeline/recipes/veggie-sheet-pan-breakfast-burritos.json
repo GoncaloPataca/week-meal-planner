@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cooked-kidney-beans",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Kidney Beans"
     },
     {
+      "id": "red-pepper",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Pepper"
     },
     {
+      "id": "white-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "white Onion"
     },
     {
+      "id": "ground-cumin",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "portobello-mushroom",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Portobello Mushroom"
     },
     {
+      "id": "fresh-coriander",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "spinach",
       "amount": 230,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "cottage-cheese",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "egg",
       "amount": 18,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "cheddar-cheese",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cheddar Cheese"
     },
     {
+      "id": "flour-tortilla",
       "amount": 9,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -109,98 +121,5 @@
   "calories": 535,
   "fat": 22,
   "carbs": 48,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Burritos de Pequeno-Almoço Vegetarianos no Tabuleiro",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "2x 400g Lata de Feijão Vermelho Cozido",
-        "2 Pimentos Vermelhos",
-        "1 Cebola Branca",
-        "2 c. chá de Cominhos Moídos",
-        "800g Cogumelos Portobello",
-        "30g Coentros Frescos",
-        "230g Espinafres",
-        "600g Queijo Cottage",
-        "18 Ovos",
-        "100g Queijo Cheddar",
-        "9 Tortilhas de Farinha",
-        "Azeite"
-      ],
-      "steps": [
-        "Pré-aquece o forno a 200°C. Escorre e lava o feijão vermelho e corta finamente o pimento e a cebola em cubos. Transfere para um tabuleiro e envolve com azeite, cominhos, sal e pimenta. Corta os cogumelos em fatias finas e coloca-os num tabuleiro separado e envolve com azeite, sal e pimenta.",
-        "Coloca o tabuleiro do feijão no nível do meio do forno e os cogumelos no nível inferior. Deixa assar durante 20 minutos, depois troca os tabuleiros e assa mais 15 minutos. Quando estiver pronto, transfere tudo para uma tigela. Pica finamente os coentros frescos e adiciona à mistura de feijão e legumes, temperando com sal e pimenta. Reduz o forno para 160°C.",
-        "Enche uma tigela com água a ferver, depois adiciona os espinafres e deixa durante 30 segundos a 1 minuto, mexendo ocasionalmente, até murcharem. Escorre a água, esprème todo o líquido dos espinafres e pica grosseiramente.",
-        "Entretanto, adiciona o queijo cottage a um liquidificador e tritura até ficar suave. Bate os ovos numa tigela e depois incorpora o queijo cottage suave. Tempera bem com sal e pimenta.",
-        "Forra um tabuleiro com papel vegetal, depois verte a mistura de ovos e distribui os espinafres murchos por cima. Coloca no forno para assar durante 15 minutos até ficar dourado e inchado, depois vira o tabuleiro e cozinha mais 5 minutos. Retira do forno e deixa arrefecer até ser fácil de manusear se servires imediatamente, ou até arrefecer completamente se fizeres com antecedência.",
-        "Rala o queijo Cheddar. Corta o ovo em 9 retângulos. Aquece as tortilhas numa frigideira.",
-        "Para montar, começa por colocar o ovo no meio da tortilha, depois coloca por cima o queijo ralado, uma grande colherada de feijão e um punhado de cogumelos. Dobra as bordas do wrap para cobrir o recheio, depois enrola pelo lado mais comprido até ficar selado. Repete até usar todos os ingredientes.",
-        "Aquece uma frigideira em lume médio e adiciona os wraps com o lado selado para baixo — isto garante que não abram. Repete até todos os burritos estarem selados.",
-        "Serve imediatamente. Ou, se fizeres com antecedência, embrulha cada burrito em papel de alumínio e guarda no congelador. Para reaquecer, remove o papel de alumínio, molha um pedaço de papel de cozinha e envolve o burrito com ele. Coloca no micro-ondas durante 10-15 minutos, depois transfere para a fritadeira de ar e cozinha durante 10-15 minutos a 180°C até estar completamente quente. Duram até 3 meses no congelador e 3 dias no frigorífico."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Feijão Vermelho Cozido"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pimento Vermelho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Branca"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Cogumelos Portobello"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 230,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 18,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Queijo Cheddar"
-        },
-        {
-          "amount": 9,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

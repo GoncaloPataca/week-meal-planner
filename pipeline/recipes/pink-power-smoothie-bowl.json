@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-strawberry",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Strawberry"
     },
     {
+      "id": "frozen-raspberry",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Raspberry"
     },
     {
+      "id": "pitted-frozen-cherries",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pitted Frozen Cherries"
     },
     {
+      "id": "frozen-banana",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Banana"
     },
     {
+      "id": "almond-milk",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Almond Milk"
     },
     {
+      "id": "skyr-natural-yoghurt",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skyr Natural Yoghurt"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "lime-juice",
       "amount": 10,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Lime Juice"
     },
     {
+      "id": "chia-seed",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "strawberry",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Strawberry"
     },
     {
+      "id": "coconut-flake",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Coconut Flake"
     },
     {
+      "id": "granola",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Granola"
     },
     {
+      "id": "chia-seed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chia Seed"
     },
     {
+      "id": "almond-butter",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Almond Butter"
     }
   ],
@@ -113,104 +127,5 @@
   "calories": 390,
   "fat": 6,
   "carbs": 48,
-  "protein": 32,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Smoothie Rosa de Frutas Vermelhas",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "100g de Morangos Congelados",
-        "75g de Framboesas Congeladas",
-        "50g de Cerejas Sem Caroço Congeladas",
-        "100g de Banana Congelada",
-        "40ml de Leite de Amêndoa",
-        "60g de Skyr Natural",
-        "30g de Proteína em Pó de Baunilha",
-        "10ml de Sumo de Lima",
-        "10g de Sementes de Chia",
-        "Morango",
-        "Flocos de Coco",
-        "Granola",
-        "Sementes de Chia",
-        "Manteiga de Amêndoa"
-      ],
-      "steps": [
-        "Coloque os morangos, as framboesas, as cerejas e a banana congelados num liquidificador com o leite de amêndoa, o iogurte, a proteína em pó, o sumo de lima e as sementes de chia.",
-        "Comece a triturar em velocidade baixa. Use o pisão para empurrar a mistura para as lâminas — pode demorar um minuto a começar. Não adicione mais líquido a menos que seja absolutamente necessário. Se realmente não se mover, adicione 10ml mais de leite de amêndoa de cada vez.",
-        "Coloque o smoothie espesso numa tigela, depois cubra com o que preferir — fruta fatiada, flocos de coco, granola, sementes ou um fio de manteiga de amêndoa."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Morango Congelado"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Framboesa Congelada"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Cerejas Congeladas sem Caroço"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Banana Congelada"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Leite de Amêndoa"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Skyr Natural"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 10,
-          "unit": "ml",
-          "item": "Sumo de Lima"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Morango"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Flocos de Coco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Granola"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Manteiga de Amêndoa"
-        }
-      ]
-    }
-  }
+  "protein": 32
 }

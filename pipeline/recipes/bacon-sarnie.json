@@ -13,35 +13,41 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "rasher-bacon",
       "amount": 16,
-      "unit": null,
+      "unitId": null,
       "item": "rasher Bacon"
     },
     {
+      "id": "butter",
       "amount": 1,
-      "unit": "knob",
+      "unitId": "knob",
       "item": "Butter"
     },
     {
+      "id": "sourdough",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sourdough"
     },
     {
+      "id": "tomato-ketchup",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Tomato Ketchup",
       "note": "to serve"
     },
     {
+      "id": "tabasco",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Tabasco",
       "note": "to serve"
     },
     {
+      "id": "brown-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Brown Sauce",
       "note": "to serve"
     }
@@ -68,56 +74,5 @@
   "calories": 500,
   "fat": 15,
   "carbs": 50,
-  "protein": 27,
-  "i18n": {
-    "pt": {
-      "name": "A Sanduíche de Bacon Perfeita do Mob",
-      "ingredients": [
-        "16 Fatias de Bacon",
-        "1 Noz de Manteiga",
-        "400g Pão de Fermentação Natural",
-        "Ketchup de Tomate (para servir)",
-        "Tabasco (para servir)",
-        "Molho Inglês (para servir)"
-      ],
-      "steps": [
-        "Comece por fritar o bacon. À medida que cozinha, coloque uma panela por cima do bacon para o achatar. Vire o bacon quando começar a ficar crocante de um lado. Quando ambos os lados estiverem crocantes, reserve.",
-        "Adicione a manteiga à frigideira e mexa até derreter. Depois de derretida, adicione as fatias de pão certificando-se de que ficam cobertas de manteiga. Quando dourar de um lado, vire. Entretanto, coloque o bacon de volta na frigideira com o pão para os cobrir de manteiga. Está pronto para empratar!",
-        "Comece com um fio de ketchup numa das fatias de pão. Depois, algumas gotas de Tabasco para dar sabor picante, e finalmente um fio de molho inglês. Empilhe 4 fatias de bacon e cubra com outra fatia de pão para a melhor sanduíche de bacon que vai comer na vida."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 16,
-          "unit": null,
-          "item": "Fatia de Bacon"
-        },
-        {
-          "amount": 1,
-          "unit": "noz",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Pão de Massa Mãe"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Ketchup de Tomate"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Tabasco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Castanho"
-        }
-      ]
-    }
-  }
+  "protein": 27
 }

@@ -25,93 +25,111 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skinless-chicken-thigh",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skinless Chicken Thigh"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "cm-ginger",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "cm Ginger"
     },
     {
+      "id": "garlic",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "garlic"
     },
     {
+      "id": "ground-coriander",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "kashmiri-chilli-powder",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Kashmiri Chilli Powder"
     },
     {
+      "id": "lemon-juice",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon Juice"
     },
     {
+      "id": "salt",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "passata",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Passata"
     },
     {
+      "id": "sour-cream",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sour Cream"
     },
     {
+      "id": "chilli-powder",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "garam-masala",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garam Masala"
     },
     {
+      "id": "butter",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "fenugreek-leaf",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fenugreek Leaf"
     },
     {
+      "id": "coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coriander"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     }
   ],
@@ -141,130 +159,5 @@
   "calories": 440,
   "fat": 28,
   "carbs": 8,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Caril de Frango com Manteiga da Mallika Basu",
-      "mealType": "jantar",
-      "ingredients": [
-        "600g de Coxas de Frango sem Pele",
-        "2 colheres de sopa de Iogurte Grego",
-        "3cm de Gengibre",
-        "6 Dentes de Alho",
-        "1 colher de sopa de Coentros em Pó",
-        "1 colher de chá de Cominhos em Pó",
-        "2 colheres de chá de Pimentão Caxemira em Pó",
-        "0,5 Sumo de Limão",
-        "0,5 colher de chá de Sal",
-        "500g de Passata",
-        "4 colheres de sopa de Creme Fresco",
-        "0,5 colher de chá de Pimentão em Pó",
-        "0,5 colher de chá de Garam Masala",
-        "75g de Manteiga",
-        "0,5 colher de chá de Folhas de Feno-Grego",
-        "15g de Coentros Frescos",
-        "Sal",
-        "Óleo Vegetal"
-      ],
-      "steps": [
-        "Ligue o grelhador em lume alto. Prepare primeiro o frango tikka. Corte o frango em pedaços de 2 a 3 cm e rale finamente o gengibre e o alho. Coloque numa tigela com o resto dos ingredientes do tikka. Misture bem.",
-        "Forre um tabuleiro com papel de alumínio e regue com um pouco de óleo. Espalhe os pedaços de frango e coloque sob o grelhador quente. Grelhe até estar completamente cozido e começar a carbonizar, 10 a 15 minutos — cada grelhador é diferente, por isso pode demorar um pouco mais ou menos.",
-        "Prepare o arroz basmati — cozinhe seguindo as instruções da embalagem.",
-        "Para fazer o caril, coloque a passata e o creme fresco numa panela de fundo pesado e mexa bem. Coloque em lume baixo, adicionando o pimentão em pó e o garam masala e por fim a manteiga. Quando começar a borbulhar, adicione o frango à panela com os sucos e as folhas de feno-grego. Se o caril começar a espirrar, tape com uma tampa de forma solta.",
-        "Deixe fervilhar, mexendo ocasionalmente, durante 10 minutos, ou até ver a manteiga a emergir pelo caril e a cor ficar a um vermelho intenso. Adicione sal a gosto. Polvilhe com coentros frescos. Sirva sobre arroz basmati bem quente."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Coxa de Frango sem Pele"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Gengibre"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Kashmiri"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Sumo de Limão"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Passata"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Natas Azedas"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Garam Masala"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Folhas de Feno-Grego"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

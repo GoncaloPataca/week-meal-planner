@@ -17,54 +17,64 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "leek",
       "amount": 750,
-      "unit": "g",
+      "unitId": "g",
       "item": "Leek"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "fresh-parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "fennel-seed",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fennel Seed"
     },
     {
+      "id": "butter-beans",
       "amount": 1200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter Beans"
     },
     {
+      "id": "vegetable-stock-cube",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "vegetable Stock Cube"
     },
     {
+      "id": "dijon-mustard",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dijon Mustard"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "natural-yoghurt",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Natural Yoghurt",
       "note": "to serve"
     },
     {
+      "id": "pumpkin-seed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Pumpkin Seed",
       "note": "to serve"
     }
@@ -98,83 +108,5 @@
   "calories": 320,
   "fat": 6,
   "carbs": 46,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Feijão com Alho-Francês",
-      "mealType": "jantar",
-      "ingredients": [
-        "750g de Alho-Francês",
-        "2 Dentes de Alho",
-        "25g de Salsa Fresca",
-        "1 colher de chá de Sementes de Funcho",
-        "3 Latas de 400g de Feijão Manteiga",
-        "1 Cubo de Caldo de Vegetais",
-        "1 colher de sopa de Mostarda de Dijon",
-        "1 Limão",
-        "100g de Iogurte Natural (para servir)",
-        "Sementes de Abóbora (para servir)"
-      ],
-      "steps": [
-        "Corte os alhos-franceses em fatias finas, coloque-os numa tigela grande e lave bem com água fria.",
-        "Adicione um fio de azeite a uma frigideira grande em lume médio-alto, adicione os alhos-franceses com uma boa pitada de sal e cozinhe, mexendo frequentemente, até amolecerem, cerca de 10 a 15 minutos.",
-        "Entretanto, corte o alho em fatias finas e pique grosseiramente a maior parte da salsa, reservando algumas folhas para servir.",
-        "Adicione o alho fatiado e as sementes de funcho e cozinhe 1 minuto, depois adicione o feijão manteiga com a água das latas. Adicione o cubo de caldo e a mostarda e leve a ferver. Deixe borbulhar 10 minutos até engrossar, use uma colher para esmagar um pouco o feijão para engrossar mais.",
-        "Adicione o sumo de limão e a salsa picada, tempere com sal e pimenta.",
-        "Coloque nas tigelas e cubra com um fio de iogurte, sementes de abóbora tostadas e folhas de salsa. Termine com bastante pimenta preta moída."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 750,
-          "unit": "g",
-          "item": "Alho-Francês"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Funcho"
-        },
-        {
-          "amount": 1200,
-          "unit": "g",
-          "item": "Feijão Manteiga"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cubo de Caldo de Legumes"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mostarda Dijon"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Iogurte Natural"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Abóbora"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

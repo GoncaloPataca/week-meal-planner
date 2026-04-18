@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "red-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "apple-cider-vinegar",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Apple Cider Vinegar"
     },
     {
+      "id": "garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "bacon-lardons",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Bacon Lardons"
     },
     {
+      "id": "olive-oil",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Olive Oil"
     },
     {
+      "id": "slice-bread",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "slice Bread"
     },
     {
+      "id": "smoked-paprika",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "dried-bay-leaf",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "dried Bay Leaf"
     },
     {
+      "id": "cooked-black-beans",
       "amount": 1200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Black Beans"
     },
     {
+      "id": "sugar",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sugar"
     }
   ],
@@ -95,81 +105,5 @@
   "calories": 560,
   "fat": 20,
   "carbs": 62,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Feijão com Bacon Fumado em Pão Frito",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "2 Cebolas Roxas",
-        "40ml Vinagre de Sidra",
-        "4 Dentes de Alho",
-        "200g Lardons de Bacon",
-        "40ml Azeite",
-        "4 Fatias de Pão",
-        "2c.c. Paprika Fumada",
-        "1 Folha de Louro Seca",
-        "3 Latas de 400g de Feijão Preto Cozido",
-        "Açúcar"
-      ],
-      "steps": [
-        "Fatie finamente ½ das cebolas e misture com o vinagre, uma pitada de açúcar e um pouco de sal. Reserve. Pique finamente o alho e corte a cebola restante em cubos finos.",
-        "Aqueça uma frigideira em lume médio. Adicione os lardons com um fio de azeite e cozinhe até ficarem dourados e estaladiços. Transfira para um prato, deixando a gordura na frigideira. Verta o azeite (a quantidade total indicada nos ingredientes) na frigideira e frite o pão em lotes até dourar de ambos os lados. Transfira o pão frito para os pratos.",
-        "Adicione a cebola picada e o alho à frigideira e refogue 6-8 min até ficarem macios. Misture a paprika fumada e a folha de louro, depois devolva os lardons à frigideira. Verta o feijão preto com o líquido da lata e leve a ferver suavemente. Cozinhe, mexendo ocasionalmente, 4-5 min até engrossar. Tempere com sal e bastante pimenta preta.",
-        "Coloque o feijão sobre o pão frito e cubra com as cebolas em pickle e um pouco do líquido do pickle."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Vinagre de Cidra de Maçã"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Lardons de Bacon"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Azeite"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Fatia de Pão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Folha de Louro Seca"
-        },
-        {
-          "amount": 1200,
-          "unit": "g",
-          "item": "Feijão Preto Cozido"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Açúcar"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

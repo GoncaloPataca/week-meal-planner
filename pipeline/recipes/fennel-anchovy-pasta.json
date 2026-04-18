@@ -20,70 +20,83 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pine-nuts",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pine Nuts"
     },
     {
+      "id": "bulb-fennel",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "bulb Fennel"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fennel-seed",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fennel Seed"
     },
     {
+      "id": "anchovy",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Anchovy"
     },
     {
+      "id": "white-wine",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "White Wine"
     },
     {
+      "id": "dried-currant",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dried Currant"
     },
     {
+      "id": "fresh-dill",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "bucatini",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Bucatini"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to taste, to serve"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper",
       "note": "to taste, to serve"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -115,104 +128,5 @@
   "calories": 690,
   "fat": 28,
   "carbs": 78,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Bucatini de Anchova e Funcho",
-      "mealType": "almoço",
-      "ingredients": [
-        "50g de Pinhões",
-        "1 Bulbo de Funcho",
-        "2 Dentes de Alho",
-        "1 colher de chá de Sementes de Funcho",
-        "50g de Anchovas",
-        "100ml de Vinho Branco",
-        "3 colheres de sopa de Passas de Corinto",
-        "15g de Aneto Fresco",
-        "1 Limão",
-        "200g de Bucatini",
-        "Sal (a gosto, para servir)",
-        "Pimenta Preta (a gosto, para servir)",
-        "Azeite"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C. Espalhe os pinhões num tabuleiro e torre durante 5 minutos até ficarem dourados, tendo cuidado pois queimam rapidamente. Reserve.",
-        "Entretanto, leve uma panela grande de água com sal a ferver.",
-        "Corte o funcho ao meio, retire o miolo e fatie finamente. Coloque uma frigideira grande em lume médio com um bom fio de azeite e o óleo da lata das anchovas. Junte o funcho com uma pitada de sal e cozinhe durante cerca de 15 minutos, mexendo frequentemente, até ficar macio, doce e sedoso.",
-        "Pique a maior parte do aneto, reservando algumas folhas para o final.",
-        "Quando o funcho estiver pronto, coza o bucatini na água a ferver durante 2 minutos a menos do que as instruções da embalagem.",
-        "Enquanto a massa cozinha, fatie finamente o alho. Adicione ao funcho com as sementes de funcho e as anchovas. Cozinhe alguns minutos, desfazendo as anchovas enquanto derretem na frigideira.",
-        "Verta o vinho branco e deixe borbulhar alguns minutos até reduzir para metade. Incorpore as passas, o sumo de meio limão e o aneto picado.",
-        "Transfira a massa diretamente para o molho com um pouco da água de cozedura. Junte a maior parte dos pinhões e misture tudo até ficar brilhante e bem combinado.",
-        "Prove e tempere generosamente com sal e pimenta preta. Distribua pelas tigelas e termine com os restantes pinhões e aneto. Sirva com a outra metade do limão em gomos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Pinhões"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Bolbo de Funcho"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Funcho"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Anchova"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Vinho Branco"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Groselha Seca"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Bucatini"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

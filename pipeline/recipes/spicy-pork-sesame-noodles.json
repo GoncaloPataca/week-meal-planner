@@ -26,99 +26,118 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "tahini",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tahini"
     },
     {
+      "id": "white-miso",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "White Miso"
     },
     {
+      "id": "rice-vinegar",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Rice Vinegar"
     },
     {
+      "id": "shoyu-soy-sauce",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Shoyu Soy Sauce"
     },
     {
+      "id": "msg",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "MSG",
       "optional": true
     },
     {
+      "id": "water",
       "amount": 130,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "fresh-mint",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "spring-onion",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "korean-chilli-flake",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Korean Chilli Flake"
     },
     {
+      "id": "chinese-dark-soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chinese Dark Soy Sauce"
     },
     {
+      "id": "rice-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sugar"
     },
     {
+      "id": "5-fat-pork-mince",
       "amount": 1,
-      "unit": "kg",
+      "unitId": "kg",
       "item": "5% Fat Pork Mince"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     },
     {
+      "id": "egg-noodle",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Egg Noodle"
     }
   ],
@@ -152,139 +171,5 @@
   "calories": 750,
   "fat": 34,
   "carbs": 56,
-  "protein": 52,
-  "i18n": {
-    "pt": {
-      "name": "Noodles de Porco Picante com Sésamo",
-      "mealType": "jantar",
-      "ingredients": [
-        "120g Tahini",
-        "50g Miso Branco",
-        "40ml Vinagre de Arroz",
-        "40ml Molho de Soja Shoyu",
-        "1c.c. MSG (opcional)",
-        "130ml Água",
-        "1 Pepino",
-        "15g Coentros Frescos",
-        "15g Hortelã Fresca",
-        "8 Cebolinhos",
-        "6 Dentes de Alho",
-        "2c.s. Gochujang",
-        "2c.s. Flocos de Malagueta Coreana",
-        "2c.s. Molho de Soja Escuro Chinês",
-        "1c.s. Vinagre de Arroz",
-        "1c.s. Açúcar",
-        "1kg Carne Picada de Porco 5% Gordura",
-        "Óleo Vegetal",
-        "400g Noodles de Ovo"
-      ],
-      "steps": [
-        "Prepare o molho de tahini e miso: numa tigela média, bata todos os ingredientes (exceto a água) até ficar suave e cremoso. Adicione a água aos poucos, batendo bem após cada adição até obter um molho aveludado. Reserve.",
-        "Para a salada de ervas: corte o pepino ao meio no comprimento e depois em meias luas finas. Separe as folhas dos coentros e da hortelã, e fatie finamente os topos verdes dos cebolinhos (reserve os brancos para o porco). Misture tudo numa tigela. Para mais crocância e durabilidade, coloque em água com gelo enquanto termina de cozinhar.",
-        "Para o porco picante, misture todos os ingredientes do porco — exceto a carne e o óleo, incluindo os brancos dos cebolinhos — num liquidificador e triture até ficar suave e perfumado.",
-        "Aqueça uma frigideira grande em lume alto. Quando bem quente, adicione um fio de óleo vegetal e ½ da carne picada. Espalhe na frigideira e deixe dourar de um lado. Após alguns minutos, use uma espátula para desfazer. Quando totalmente cozinhado, retire e repita com a carne restante.",
-        "Devolva toda a carne cozinhada à frigideira e verta o molho triturado. Misture bem e cozinhe mais 2-3 min, garantindo que tudo fica uniformemente coberto.",
-        "Para guardar com antecedência, distribua o porco picante por 4 caixas. Para frescura, guarde o molho de tahini e a salada de ervas em caixas separadas. Conservam-se no frigorífico até 5 dias.",
-        "Na hora de comer, cozinhe os noodles de acordo com as instruções, escorra e misture com o molho de tahini e miso. Se necessário, aqueça o porco picante no micro-ondas cerca de 2 min.",
-        "Para servir, distribua os noodles pelos pratos, cubra com o porco e a salada de ervas frescas. Termine com um fio extra de molho de tahini e miso, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Tahini"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Molho de Soja Shoyu"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "MSG"
-        },
-        {
-          "amount": 130,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Flocos de Malagueta Coreana"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro Chinês"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 1,
-          "unit": "kg",
-          "item": "Carne Picada de Porco 5% de Gordura"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Noodles de Ovo"
-        }
-      ]
-    }
-  }
+  "protein": 52
 }

@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "unsalted-butter",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Unsalted Butter"
     },
     {
+      "id": "mature-cheddar-cheese",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mature Cheddar Cheese"
     },
     {
+      "id": "chive",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chive"
     },
     {
+      "id": "plain-flour",
       "amount": 425,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plain Flour"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "baking-powder",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Baking Powder"
     },
     {
+      "id": "bicarbonate-of-soda",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Bicarbonate of Soda"
     },
     {
+      "id": "sugar",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "mustard-powder",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mustard Powder"
     },
     {
+      "id": "buttermilk",
       "amount": 275,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Buttermilk"
     },
     {
+      "id": "cream-cheese",
       "amount": 230,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cream Cheese"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "chive",
       "amount": 12.5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chive"
     }
   ],
@@ -119,105 +133,5 @@
   "calories": 530,
   "fat": 31,
   "carbs": 47,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Os Melhores Scones de Queijo e Sementes",
-      "ingredients": [
-        "120g Manteiga sem Sal",
-        "200g Queijo Cheddar Curado",
-        "20g Cebolinho",
-        "425g Farinha de Trigo",
-        "1c.chá Sal",
-        "Pimenta Preta",
-        "1c.sopa Fermento em Pó",
-        "0.25c.chá Bicarbonato de Sódio",
-        "0.5c.chá Açúcar",
-        "1c.sopa Mostarda em Pó",
-        "275ml Leitelho",
-        "230g Queijo Creme",
-        "4 Cebolinhas",
-        "12.5g Cebolinho"
-      ],
-      "steps": [
-        "Corte a manteiga em cubos e coloque no congelador durante 15 minutos, depois rale o queijo e pique finamente o cebolinho. Numa tigela grande adicione a farinha, o sal, pimenta preta e o fermento em pó, o bicarbonato e o açúcar. Misture bem. Retire a manteiga do congelador e, usando uma faca de manteiga, corte na farinha até obter pedaços do tamanho de ervilhas — pode também usar as mãos mas precisa de trabalhar rapidamente! Faça um buraco na mistura e adicione três quartos do queijo cheddar juntamente com o cebolinho, a mostarda em pó e o leitelho, dobrando com uma espátula até estar combinado.",
-        "Verta para uma superfície limpa e molde a massa numa forma circular. Polvilhe levemente com farinha e estenda a massa num retângulo de cerca de 36 x 18 cm. Dobre o terço superior para o meio, depois dobre o terço inferior para cima para cobrir, como dobrar um folheto. Rode a massa 90° e estenda novamente até um retângulo de cerca de 36 x 18 cm. Repita. Corte a massa em 6 peças iguais, coloque num tabuleiro, cubra com película aderente e volte ao frigorífico durante 20 minutos. Retire o queijo creme do frigorífico e deixe atingir temperatura ambiente.",
-        "Entretanto, pré-aqueça o forno a 220°C. Quando a massa tiver arrefecido, transfira para um tabuleiro forrado e pincele com leite. Polvilhe com o queijo e as sementes ou mistura de especiarias à escolha e asse durante 25-30 minutos até estar dourado e cozido.",
-        "Enquanto os scones cozinham, pique finamente as cebolinhas e o cebolinho. Misture as cebolinhas no queijo creme e guarde o cebolinho para servir. Quando os scones estiverem suficientemente frios para manusear, barre com queijo creme e polvilhe com cebolinho."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Queijo Cheddar Curado"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Cebolinho"
-        },
-        {
-          "amount": 425,
-          "unit": "g",
-          "item": "Farinha Simples"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Bicarbonato de Sódio"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mostarda em Pó"
-        },
-        {
-          "amount": 275,
-          "unit": "ml",
-          "item": "Leitelho"
-        },
-        {
-          "amount": 230,
-          "unit": "g",
-          "item": "Queijo Creme"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 12.5,
-          "unit": "g",
-          "item": "Cebolinho"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

@@ -20,71 +20,84 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "durum-wheat-semolina-pasta",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Durum Wheat Semolina Pasta"
     },
     {
+      "id": "shallot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "spinach",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "basil",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basil"
     },
     {
+      "id": "cannellini-bean",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cannellini Bean"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "nutritional-yeast",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Nutritional Yeast"
     },
     {
+      "id": "pasta-water",
       "amount": 120,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Pasta Water"
     },
     {
+      "id": "vegan-burrata",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegan Burrata",
       "note": "to serve"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper",
       "note": "to serve"
     }
@@ -115,99 +128,5 @@
   "calories": 440,
   "fat": 6,
   "carbs": 72,
-  "protein": 20,
-  "i18n": {
-    "pt": {
-      "name": "Massa Green Queen Saudável",
-      "mealType": "jantar",
-      "ingredients": [
-        "300g de Massa de Sêmola de Trigo Duro",
-        "1 Chalota",
-        "4 Dentes de Alho",
-        "250g de Espinafres",
-        "30g de Manjericão",
-        "240g de Feijão Branco",
-        "0,5 Limão",
-        "2 colheres de sopa de Levedura Nutricional",
-        "120ml de Água de Cozedura da Massa",
-        "Burrata Vegan (para servir)",
-        "Azeite (para servir)",
-        "Sal (para servir)",
-        "Pimenta Preta (para servir)"
-      ],
-      "steps": [
-        "Coza a massa em abundante água bem salgada durante 1 minuto a menos do que o indicado na embalagem. Escorra, reservando a água de cozedura.",
-        "Pique finamente a chalota e esmague o alho. Adicione a cebola a uma frigideira larga em lume médio-baixo, tempere com sal e refogue 10 minutos até ficar translúcida. Adicione o alho e frite 2 minutos.",
-        "Ferva a chaleira. Coloque os espinafres e o manjericão num passador e verta a água a ferver por cima até murcharem. Deixe arrefecer ligeiramente e esprema o excesso de água. Adicione ambos a um liquidificador com a cebola e o alho, os feijões, o sumo de limão, a levedura nutricional e a água de cozedura, tempere generosamente e triture até ficar muito liso. Adicione mais água de cozedura se quiser mais fluido. Tempere com mais sal e pimenta se necessário.",
-        "Para servir, combine a massa e o molho e cubra com burrata vegan. Termine com pimenta preta recém moída."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Massa de Sêmola de Trigo Duro"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manjericão"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Feijão Cannellini"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Levedura Nutricional"
-        },
-        {
-          "amount": 120,
-          "unit": "ml",
-          "item": "Água de Cozer Massa"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Burrata Vegan"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 20
 }

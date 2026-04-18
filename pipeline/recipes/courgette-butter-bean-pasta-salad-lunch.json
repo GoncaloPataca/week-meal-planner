@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "orecchiette",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Orecchiette"
     },
     {
+      "id": "courgette",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "courgette"
     },
     {
+      "id": "green-olive",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Green Olive"
     },
     {
+      "id": "fresh-mint",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "parmesan",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "drained-cooked-butter-beans",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Butter Beans"
     },
     {
+      "id": "pumpkin-seed",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pumpkin Seed"
     },
     {
+      "id": "pesto",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pesto"
     },
     {
+      "id": "olive-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     }
   ],
@@ -94,84 +104,5 @@
   "calories": 680,
   "fat": 26,
   "carbs": 82,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Massa com Courgette e Feijão Manteiga",
-      "ingredients": [
-        "500g Orecchiette",
-        "3 Courgettes",
-        "100g Azeitonas Verdes",
-        "25g Hortelã Fresca",
-        "60g Parmesão",
-        "240g Feijão Manteiga Cozido Escorrido",
-        "100g Sementes de Abóbora",
-        "3c.sopa Pesto",
-        "3c.sopa Azeite",
-        "1 Limão"
-      ],
-      "steps": [
-        "Leve uma panela grande com água salgada a ferver e coza o orecchiette de acordo com as instruções da embalagem até al dente. Escorra e passe por água fria para arrefecer rapidamente. Reserve.",
-        "Coloque as sementes de abóbora numa frigideira pequena em lume médio-alto, torre durante 2-3 minutos, mexendo regularmente, até começarem a saltar. Coloque num prato para arrefecer.",
-        "Corte as courgettes em rodelas finas ou meia-lua. Não é preciso cozinhá-las, são deliciosas cruas! Retire o caroço e corte as azeitonas verdes ao meio. Lave e escorra o feijão manteiga.",
-        "Prepare o molho. Numa tigela pequena ou jarro, bata o pesto, o azeite e o sumo do limão. Tempere com sal e pimenta.",
-        "Numa tigela grande, adicione a massa cozida, as courgettes cruas, as azeitonas verdes, o feijão manteiga e as sementes de abóbora tostadas. Corte o parmesão em lascas e adicione à tigela juntamente com as folhas de hortelã.",
-        "Verta o molho sobre a salada e misture tudo bem até estar combinado.",
-        "Divida a salada de massa pelos recipientes com as sementes de abóbora tostadas restantes e parmesão ralado por cima. Quando arrefecer, feche e guarde no frigorífico — dura até 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Orecchiette"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Courgette"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Azeitona Verde"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Feijão Manteiga Cozido e Escorrido"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Sementes de Abóbora"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Pesto"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

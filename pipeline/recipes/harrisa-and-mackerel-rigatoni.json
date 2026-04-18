@@ -17,54 +17,64 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "rigatoni",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rigatoni"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "harissa-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "mackerel",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mackerel"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "fresh-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to taste"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -94,84 +104,5 @@
   "calories": 620,
   "fat": 22,
   "carbs": 70,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Rigatoni de Harissa e Cavala",
-      "mealType": "almoço",
-      "ingredients": [
-        "200g de Rigatoni",
-        "2 Dentes de Alho",
-        "2 colheres de sopa de Pasta de Harissa",
-        "400g de Tomates Cherry",
-        "2 Latas de 125g de Cavala",
-        "1 Limão",
-        "15g de Salsa Fresca",
-        "1 colher de sopa de Azeite",
-        "Sal (a gosto)",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Leve uma panela grande de água bem salgada a ferver. Adicione o rigatoni e cozinhe 2 minutos a menos do que as instruções da embalagem.",
-        "Entretanto, pique a maior parte da salsa e reserve, guardando as folhas restantes para servir.",
-        "Fatie finamente o alho. Coloque uma frigideira em lume médio com o azeite. Adicione o alho e cozinhe cerca de 1 minuto até amolecer mas sem colorir.",
-        "Misture a pasta de harissa e cozinhe mais 1 minuto. Junte os tomates cherry inteiros e fure cada um com uma faca para a pele rebentar. Use as costas de uma colher ou um espremedor de batatas para os esmagar levemente enquanto cozinham.",
-        "Adicione a cavala, desfazendo-a suavemente com uma colher. Tempere bem com sal e pimenta preta e cozinhe 2 minutos até estar tudo quente e com molho.",
-        "Com uma escumadeira, transfira o rigatoni diretamente para o molho e envolva bem para cobrir, adicionando um bom pouco da água de cozedura. Esprima o sumo de meio limão e misture a salsa picada. Prove e ajuste o tempero se necessário.",
-        "Distribua pelas tigelas, polvilhe com a salsa restante e sirva com o restante limão em gomos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Rigatoni"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Cavala"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

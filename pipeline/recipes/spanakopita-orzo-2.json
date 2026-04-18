@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pine-nuts",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pine Nuts"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "white-wine",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "White Wine"
     },
     {
+      "id": "spinach",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "rocket",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rocket"
     },
     {
+      "id": "orzo",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Orzo"
     },
     {
+      "id": "vegetable-stock",
       "amount": 1000,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vegetable Stock"
     },
     {
+      "id": "dill",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dill"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "feta",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -117,107 +131,5 @@
   "calories": 490,
   "fat": 14,
   "carbs": 72,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Orzo Spanakopita",
-      "mealType": "almoço",
-      "ingredients": [
-        "4c.s. Pinhões",
-        "1 Cebola",
-        "2 Dentes de Alho",
-        "100ml Vinho Branco",
-        "200g Espinafres",
-        "150g Rúcula",
-        "400g Orzo",
-        "1000ml Caldo de Legumes",
-        "50g Endro",
-        "1 Limão",
-        "100g Feta",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Preaqueça o forno a 160°C. Coloque os pinhões num tabuleiro e asse 10-12 min até dourarem.",
-        "Fatie finamente a cebola e pique o alho. Aqueça um fio de azeite na panela maior que tiver, depois adicione a cebola e frite 10 min em lume médio. Adicione o alho, cozinhe mais 2 min e verta o vinho, cozinhando até evaporar.",
-        "Adicione um punhado grande de espinafres e rúcula — vai precisar de várias vezes para murchar tudo. Continue a murchar e a adicionar as folhas até terminar, depois retire a mistura da panela e reserve para arrefecer.",
-        "Deite o orzo na panela juntamente com o caldo de legumes. Misture ao adicionar para evitar que cole, leve a ferver suavemente, tape e cozinhe 10 min até o líquido ser absorvido.",
-        "Entretanto, esprema o máximo de líquido possível da mistura de espinafres, depois pique finamente. Pique finamente o endro e misture a maior parte com o orzo, juntamente com os espinafres picados. Rale a casca do limão com um pouco de sumo, depois tempere com sal e pimenta.",
-        "Distribua o orzo pelas caixas herméticas. Quando frio, cubra com feta esfarelado, os pinhões e o endro restante. Guarde no frigorífico — conservam-se até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Pinhões"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Vinho Branco"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Rúcula"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Orzo"
-        },
-        {
-          "amount": 1000,
-          "unit": "ml",
-          "item": "Caldo de Legumes"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Endro"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "gnocchi",
       "amount": 160,
-      "unit": "g",
+      "unitId": "g",
       "item": "Gnocchi"
     },
     {
+      "id": "olive-oil",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Olive Oil"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "cottage-cheese",
       "amount": 225,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "chickpeas",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chickpeas"
     },
     {
+      "id": "parmesan",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "fresh-basil",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -101,88 +112,5 @@
   "calories": 580,
   "fat": 14,
   "carbs": 74,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Nhoque no Forno com Molho de Tomate Cremoso",
-      "ingredients": [
-        "160g Nhoque",
-        "0.5c.chá Azeite",
-        "2 Dentes de Alho",
-        "1c.sopa Concentrado de Tomate",
-        "225g Queijo Cottage",
-        "100g Tomate-Cereja",
-        "0.5x 400g Lata de Grão-de-Bico",
-        "20g Parmesão",
-        "5g Manjericão Fresco",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Ligue o grelhador no máximo. Leve um tacho pequeno com água salgada a ferver e coza o nhoque durante cerca de 2 minutos, até flutuar. Escorra e reserve. Corte os tomates-cereja ao meio.",
-        "Aqueça o azeite numa frigideira em lume médio. Adicione o alho e frite durante 2 minutos até ficar aromático. Adicione o concentrado de tomate e cozinhe por mais um minuto antes de adicionar os tomates-cereja.",
-        "Misture bem, depois retire a frigideira do lume e misture o grão-de-bico e o queijo cottage até tudo estar combinado. Tempere com sal e pimenta.",
-        "Se não estiver a usar uma frigideira que possa ir ao forno, transfira a mistura para um tabuleiro refratário. Cubra com o parmesão e coloque sob o grelhador durante 3-5 minutos até estar dourado e borbulhante.",
-        "Polvilhe com o manjericão rasgado e sirva imediatamente."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 160,
-          "unit": "g",
-          "item": "Gnocchi"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 225,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Grão-de-Bico"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

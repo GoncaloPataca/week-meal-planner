@@ -24,89 +24,106 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "red-chilli",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "vegetable-oil",
       "amount": 250,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vegetable Oil"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "msg",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "MSG",
       "optional": true
     },
     {
+      "id": "cavolo-nero",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cavolo Nero"
     },
     {
+      "id": "baby-spinach",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Baby Spinach"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "silken-tofu",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Silken Tofu"
     },
     {
+      "id": "tahini",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tahini"
     },
     {
+      "id": "sriracha",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sriracha"
     },
     {
+      "id": "miso-paste",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Miso Paste"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 25,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "udon-noodle",
       "amount": 750,
-      "unit": "g",
+      "unitId": "g",
       "item": "Udon Noodle"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     }
   ],
@@ -141,126 +158,5 @@
   "calories": 680,
   "fat": 36,
   "carbs": 68,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Noodles Verdes",
-      "mealType": "jantar",
-      "ingredients": [
-        "4 Dentes de Alho",
-        "2 Malaguetas Vermelhas",
-        "2 Chalotas",
-        "250ml de Óleo Vegetal",
-        "1 colher de chá de Açúcar",
-        "1 colher de chá de MSG (opcional)",
-        "200g de Couve Negra",
-        "100g de Espinafres Baby",
-        "15g de Coentros Frescos",
-        "2 Dentes de Alho",
-        "300g de Tofu Sedoso",
-        "30g de Tahini",
-        "30g de Sriracha",
-        "30g de Pasta de Miso",
-        "25ml de Molho de Soja Claro",
-        "750g de Noodles Udon",
-        "2 Ovos"
-      ],
-      "steps": [
-        "Comece pelo topping crocante. Descasque e fatie o alho, corte finamente a malagueta e descasque e corte a chalota em cubos. Adicione a uma panela pequena e cubra generosamente com óleo vegetal para que os aromáticos fiquem completamente submersos. Coloque a panela em lume médio-alto e cozinhe cerca de 5 a 7 minutos até ficarem dourados e crocantes.",
-        "Use uma escumadeira para retirar os aromáticos crocantes e coloque numa tigela. Tempere com o açúcar e o MSG, se usar, e reserve. (Guarde o óleo no frigorífico para outros usos, como fritar ovos.)",
-        "Coloque uma panela grande de água com sal em lume alto e leve a ferver. Quando ferver, adicione os ovos e cozinhe 7 minutos. Use uma escumadeira para transferir os ovos para uma tigela. Passe por água fria até estarem frescos o suficiente para manusear, depois descasque e reserve.",
-        "Enquanto os ovos cozem, prepare o molho verde. Descasque o alho e separe as folhas da couve negra dos talos. Adicione as folhas de couve negra, os espinafres, o alho e os coentros à água a ferver dos ovos e cozinhe 3 minutos. Use pinças para transferir os legumes para um coador e passe por água fria até estarem frescos o suficiente para manusear.",
-        "Esprema o excesso de humidade dos legumes escalados e adicione-os a um liquidificador com os restantes ingredientes do molho. Triture até ficar liso, adicionando um pouco de água para soltar, depois verta o molho para uma tigela grande.",
-        "Coloque os udon na água a ferver e cozinhe conforme as instruções da embalagem (cerca de 2 minutos para udon fresco ou congelado). Use pinças para transferir os noodles para a tigela com o molho e envolva bem.",
-        "Para servir, distribua os noodles pelas tigelas, raspando todo o molho. Cubra generosamente com o topping de alho crocante e termine com os ovos cozidos cortados ao meio."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 250,
-          "unit": "ml",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "MSG"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Couve Cavolo Nero"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Espinafres Baby"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Tofu Sedoso"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Tahini"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Pasta de Miso"
-        },
-        {
-          "amount": 25,
-          "unit": "ml",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 750,
-          "unit": "g",
-          "item": "Noodles Udon"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

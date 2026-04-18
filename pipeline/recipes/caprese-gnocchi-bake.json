@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cherry-tomatoes",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "vine-tomato",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vine Tomato"
     },
     {
+      "id": "clove-garlic",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "chilli-flakes",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "fresh-basil",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "gnocchi",
       "amount": 1,
-      "unit": "kg",
+      "unitId": "kg",
       "item": "Gnocchi"
     },
     {
+      "id": "mozzarella",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mozzarella"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -94,84 +104,5 @@
   "calories": 570,
   "fat": 17,
   "carbs": 81,
-  "protein": 21,
-  "i18n": {
-    "pt": {
-      "name": "Nhoque no Forno à Caprese",
-      "ingredients": [
-        "500g Tomate-Cereja",
-        "500g Tomate em Cacho",
-        "6 Dentes de Alho",
-        "2c.chá Flocos de Malagueta",
-        "30g Manjericão Fresco",
-        "1kg Nhoque",
-        "250g Mozzarella",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite"
-      ],
-      "steps": [
-        "Prepare os tomates. Retire o cabo dos tomates em cacho maiores e corte em pedaços. Misture com os tomates-cereja.",
-        "Coloque o azeite numa frigideira resistente ao forno em lume médio. Se não tiver uma, uma frigideira normal serve — transfira para uma travessa de ir ao forno mais à frente. Corte o alho em fatias e adicione à frigideira juntamente com os flocos de malagueta, cozinhe durante alguns minutos.",
-        "Adicione os tomates e cozinhe até começarem a desfazer e a borbulhar para um molho de tomate fresco. Adicione o manjericão.",
-        "Adicione o nhoque a uma tigela e cubra com água a ferver. Deixe durante 5 minutos, depois escorra, reservando um pouco da água. Ligue o grelhador no máximo.",
-        "Escorra o nhoque e adicione ao molho de tomate com um pouco da água reservada. Mexa e deixe reduzir na frigideira durante alguns minutos até ter um molho espesso. Tempere com sal e pimenta e rasgue o manjericão.",
-        "Verta o nhoque para uma travessa de ir ao forno se não estiver a usar uma frigideira resistente. Rasgue a mozzarella e espalhe por cima.",
-        "Coloque sob o grelhador durante 7 a 8 minutos até o queijo estar dourado e borbulhante. Retire, sirva e espalhe com mais manjericão se quiser."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Tomate de Videira"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": "kg",
-          "item": "Gnocchi"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Mozzarella"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 21
 }

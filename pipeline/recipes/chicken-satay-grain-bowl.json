@@ -25,93 +25,111 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "peanut-butter",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Peanut Butter"
     },
     {
+      "id": "sriracha",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "water",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "kale",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kale"
     },
     {
+      "id": "cooked-mixed-grains",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Mixed Grains"
     },
     {
+      "id": "cooked-butter-beans",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Butter Beans"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "red-birds-eye-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Bird's Eye Chilli"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -141,132 +159,5 @@
   "calories": 730,
   "fat": 24,
   "carbs": 68,
-  "protein": 54,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Frango Satay com Grãos",
-      "ingredients": [
-        "4 Coxas de Frango Sem Osso e Sem Pele",
-        "1 Lima",
-        "1c.sopa Molho de Soja",
-        "Sal",
-        "Pimenta Preta",
-        "3c.sopa Manteiga de Amendoim",
-        "1c.sopa Sriracha",
-        "1c.sopa Molho de Soja",
-        "1c.chá Mel",
-        "1c.sopa Água",
-        "1 Lima",
-        "250g Couve Kale",
-        "400g Grãos Mistos Cozidos",
-        "1x 400g Lata de Feijão Manteiga Cozido",
-        "2 Cebolinhas",
-        "1 Malagueta Olho de Pássaro Vermelha",
-        "1 Lima",
-        "Azeite"
-      ],
-      "steps": [
-        "Rale a raspa e esprema o sumo da lima para uma tigela. Adicione o molho de soja, uma pitada de sal e 1c.chá de pimenta preta. Misture, depois adicione as coxas de frango e envolva. Reserve para marinar enquanto prepara o resto.",
-        "Coloque uma frigideira de fundo pesado em lume médio-alto. Quando estiver quente, coloque as coxas de frango e cozinhe durante 10 minutos de um lado sem mover. Vire e cozinhe por mais 4-5 minutos até estarem douradas e cozidas. Reserve para descansar.",
-        "Para o molho satay, misture a manteiga de amendoim, a sriracha, o molho de soja, o sumo de lima, o mel e a água numa tigela até ficar suave. Se estiver demasiado espesso, solte com mais um pouco de água. Prove e ajuste — deve ter um bom equilíbrio de acidez e picante.",
-        "Retire os talos da couve kale para uma tigela grande, adicione uma boa pitada de sal e um fio de azeite. Massaje com as mãos durante cerca de 1 minuto até amolecer. Escorra o feijão manteiga e misture. Aqueça os grãos de acordo com as instruções e adicione à tigela.",
-        "Apare e corte finamente as cebolinhas, separando as partes brancas e verdes. Adicione as partes brancas à tigela com um pouco do molho e misture.",
-        "Corte o frango em fatias.",
-        "Divida a salada de couve e grãos pelas tigelas ou recipientes. Cubra com o frango fatiado, regue com o molho restante e termine com as partes verdes da cebolinha, a malagueta em fatias (se usar) e uma cunha de lima para espremer."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Couve Kale"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Cereais Mistos Cozidos"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Feijão Manteiga Cozido"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Bird's Eye Vermelha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 54
 }

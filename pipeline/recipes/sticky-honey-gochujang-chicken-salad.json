@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "microwaveable-basmati-rice",
       "amount": 2,
-      "unit": "pouch",
+      "unitId": "pouch",
       "item": "Microwaveable Basmati Rice"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "fresh-coriander",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "fresh-mint",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "roasted-peanuts",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Roasted Peanuts"
     },
     {
+      "id": "honey",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "gochujang",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "rice-vinegar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "sesame-oil",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "water",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "toasted-sesame-seed",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Toasted Sesame Seed"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     }
   ],
@@ -125,112 +140,5 @@
   "calories": 580,
   "fat": 18,
   "carbs": 58,
-  "protein": 46,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Frango e Arroz com Molho Pegajoso de Mel e Gochujang",
-      "mealType": "almoço",
-      "ingredients": [
-        "4 Peitos de Frango",
-        "2 Saquetas de Arroz Basmati para Micro-ondas",
-        "300g Brócolos Tenderstem",
-        "1 Pepino",
-        "50g Coentros Frescos",
-        "20g Hortelã Fresca",
-        "70g Amendoins Torrados",
-        "4c.s. Mel",
-        "6c.s. Gochujang",
-        "2c.s. Vinagre de Arroz",
-        "2c.c. Óleo de Sésamo",
-        "2c.s. Molho de Soja",
-        "1c.s. Água",
-        "3c.s. Sementes de Sésamo Torradas",
-        "3 Dentes de Alho"
-      ],
-      "steps": [
-        "Preaqueça o forno a 200°C. Coloque os peitos de frango num tabuleiro, regue com azeite e tempere com sal e pimenta preta. Asse 20 minutos até estarem cozinhados, depois retire e deixe arrefecer ligeiramente antes de desfiar em pedaços do tamanho de uma bouchée.",
-        "Leve uma panela com água bem salgada a ferver. Corte os brócolos tenderstem ao meio e cozinhe 4 minutos até al dente. Escorra e deixe secar e arrefecer. Entretanto, cozinhe o arroz de acordo com as instruções da embalagem.",
-        "Corte o pepino ao meio no comprimento e em pedaços grandes e irregulares. Pique grosseiramente os amendoins. Separe as folhas de coentros e hortelã.",
-        "Para o molho, rale o alho para uma tigela, depois adicione o mel, o gochujang, o vinagre de arroz, o óleo de sésamo, o molho de soja, a água e as sementes de sésamo. Bata até ficar suave e brilhante.",
-        "Adicione o frango, o arroz, os brócolos, o pepino, as ervas e os amendoins a uma tigela grande. Verta o molho e misture tudo até ficar bem coberto. Prove e tempere com um pouco de sal se necessário e sirva."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 2,
-          "unit": "saqueta",
-          "item": "Arroz Basmati de Micro-ondas"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Amendoins Torrados"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        }
-      ]
-    }
-  }
+  "protein": 46
 }

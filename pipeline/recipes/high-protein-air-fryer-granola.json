@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "coconut-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Coconut Oil"
     },
     {
+      "id": "hazelnut",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Hazelnut"
     },
     {
+      "id": "egg-white",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg White"
     },
     {
+      "id": "oats",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Oats"
     },
     {
+      "id": "shelled-hemp-seeds",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Shelled Hemp Seeds"
     },
     {
+      "id": "pumpkin-seed",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pumpkin Seed"
     },
     {
+      "id": "sunflower-seeds",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sunflower Seeds"
     },
     {
+      "id": "maple-syrup",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "quinoa",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Quinoa"
     },
     {
+      "id": "cinnamon",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cinnamon"
     },
     {
+      "id": "sea-salt",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sea Salt"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vanilla Protein Powder"
     }
   ],
@@ -101,95 +113,5 @@
   "calories": 360,
   "fat": 22,
   "carbs": 22,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Granola de Alta Proteína na Fritadeira de Ar",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "2 colheres de sopa de Óleo de Coco",
-        "30g de Avelãs",
-        "2 Claras de Ovo",
-        "100g de Flocos de Aveia",
-        "100g de Sementes de Cânhamo Descascadas",
-        "100g de Sementes de Abóbora",
-        "100g de Sementes de Girassol",
-        "2 colheres de sopa de Xarope de Ácer",
-        "50g de Quinoa",
-        "0,5 colher de chá de Canela",
-        "0,5 colher de chá de Flor de Sal",
-        "6 colheres de sopa de Proteína em Pó de Baunilha"
-      ],
-      "steps": [
-        "Pré-aqueça a fritadeira de ar a 160°C.",
-        "Se o óleo de coco estiver sólido, derreta numa panela em lume baixo. Em alternativa, coloque num recipiente adequado ao micro-ondas durante 15 segundos de cada vez, mexendo entre cada aquecimento até estar completamente derretido.",
-        "Esmague as avelãs com uma faca grande e pique em pedaços pequenos. Adicione a uma tigela grande com todos os outros ingredientes, exceto as claras de ovo.",
-        "Adicione as claras de ovo a uma tigela grande separada e bata até ficarem macias e fofas (demora cerca de 4 a 5 minutos com uma batedeira manual). Incorpore suavemente as claras nos ingredientes secos.",
-        "Adicione a granola crua ao tabuleiro da fritadeira em camada única (pode ter de fazer em lotes). Cozinhe 15 a 20 minutos, mexendo a meio, até estar completamente dourada e tostada.",
-        "Deixe arrefecer antes de servir imediatamente, ou guarde num recipiente hermético até 10 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Óleo de Coco"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Avelã"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Clara de Ovo"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Aveia"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Sementes de Cânhamo Descascadas"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Sementes de Abóbora"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Sementes de Girassol"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Quinoa"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Canela"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sal Marinho"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Proteína em Pó de Baunilha"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

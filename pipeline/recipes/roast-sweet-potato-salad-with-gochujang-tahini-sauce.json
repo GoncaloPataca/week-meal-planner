@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sweet-potato",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "sweet Potato"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "drained-cooked-lentils",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Lentils"
     },
     {
+      "id": "tahini",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     },
     {
+      "id": "drained-cooked-chickpeas",
       "amount": 480,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Chickpeas"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "kale",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kale"
     },
     {
+      "id": "ground-cumin",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "toasted-sesame-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Toasted Sesame Seeds"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -129,114 +144,5 @@
   "calories": 480,
   "fat": 10,
   "carbs": 72,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Batata-Doce Assada com Molho de Gochujang e Tahini",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Batatas-Doces",
-        "2c.s. Gochujang",
-        "500g Lentilhas Cozidas Escorridas",
-        "2c.s. Tahini",
-        "480g Grão-de-Bico Cozido Escorrido",
-        "1c.s. Molho de Soja",
-        "1c.s. Xarope de Ácer",
-        "2 Limas",
-        "250g Couve Kale",
-        "2c.c. Cominhos em Pó",
-        "4 Cebolinhos",
-        "Sementes de Sésamo Torradas",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Preaqueça o forno a 200°C ventilado. Corte as batatas-doces em cunhas.",
-        "Numa tigela, tempere as cunhas de batata-doce com um fio de azeite, sal, pimenta preta e cominhos. Espalhe num tabuleiro.",
-        "Na mesma tigela, tempere o grão-de-bico com o azeite e temperos restantes. Reserve.",
-        "Asse as batatas-doces 25 min. Vire-as, junte o grão-de-bico ao tabuleiro e asse mais 15 min até dourar e ficar estaladiço.",
-        "Prepare o molho: numa tigela, bata o gochujang, o tahini, o molho de soja, o xarope de ácer e o sumo de lima. Dilua com um pouco de água até obter uma consistência que permita regar. Prove e tempere com sal se necessário.",
-        "Coloque a couve kale num escorredor e regue com água a ferver até murchar. Esprema o excesso de líquido, pique grosseiramente e misture com as lentilhas.",
-        "Para servir, distribua a mistura de lentilhas pelas caixas. Cubra com a batata-doce e o grão-de-bico assados. Regue com o molho de gochujang e tahini e guarnece com sementes de sésamo torradas e cebolinhos fatiados."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Batata-Doce"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Lentilhas Cozidas e Escorridas"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        },
-        {
-          "amount": 480,
-          "unit": "g",
-          "item": "Grão-de-Bico Cozido e Escorrido"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Couve Kale"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

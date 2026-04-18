@@ -14,38 +14,45 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "third-of-peanut-curry-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Third of Peanut Curry Sauce"
     },
     {
+      "id": "butter-beans",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter Beans"
     },
     {
+      "id": "slice-sourdough",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough"
     },
     {
+      "id": "spring-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -79,63 +86,5 @@
   "calories": 440,
   "fat": 14,
   "carbs": 52,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Feijão Manteiga com Molho de Caril de Amendoim em Torrada",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "Um Terço de Molho de Caril de Amendoim",
-        "1 Lata de 400g de Feijão Manteiga",
-        "2 Fatias de Pão de Fermentação Natural",
-        "1 Cebolinha",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Coloque o feijão manteiga e o molho de caril de amendoim numa panela pequena em lume médio. Deixe aquecer, mexendo ocasionalmente.",
-        "Entretanto, toste o pão. Separe as folhas de coentros e corte finamente os talos. Corte a cebolinha em fatias finas.",
-        "Assim que o feijão estiver bem quente, prove e tempere com sal e pimenta preta se necessário.",
-        "Coloque a torrada no prato, adicione o feijão quente e termine com os coentros e a cebolinha. Regue com um pouco de azeite, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Terço do Molho de Caril de Amendoim"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Feijão Manteiga"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

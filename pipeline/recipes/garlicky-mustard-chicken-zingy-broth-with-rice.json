@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "wholegrain-mustard",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Wholegrain Mustard"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "dill",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dill"
     },
     {
+      "id": "parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parsley"
     },
     {
+      "id": "egg-yolk",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "egg Yolk"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "chicken-stock",
       "amount": 700,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "cooked-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -106,95 +118,5 @@
   "calories": 560,
   "fat": 18,
   "carbs": 52,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Frango com Mostarda e Alho em Caldo Refrescante com Arroz",
-      "mealType": "jantar",
-      "ingredients": [
-        "8 Coxas de Frango sem Osso e sem Pele",
-        "2 colheres de sopa de Mostarda de Grão",
-        "2 Dentes de Alho",
-        "10g de Aneto",
-        "25g de Salsa",
-        "3 Gemas de Ovo",
-        "2 Limões",
-        "700ml de Caldo de Frango",
-        "500g de Arroz Cozido",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Coloque as coxas de frango e a mostarda numa tigela. Rale o alho por cima e regue com um fio de azeite. Tempere generosamente com sal e pimenta e misture bem. Reserve.",
-        "Reserve algumas folhas de aneto e salsa para decorar e pique finamente o resto, incluindo os talos.",
-        "Aqueça uma frigideira com um fio de azeite em lume médio-alto. Adicione o frango marinado e cozinhe de ambos os lados até estar levemente tostado e bem cozido.",
-        "Aqueça o arroz cozido e misture as ervas.",
-        "Aqueça o caldo numa panela em lume médio. Bata as gemas numa tigela pequena com o sumo de meio limão e verta a mistura de ovo no caldo quente. Bata vigorosamente até começar a engrossar ligeiramente. Tempere com sal, pimenta e mais sumo de limão a gosto (deve ficar bastante ácido).",
-        "Distribua o arroz por quatro tigelas e verta o caldo por cima. Cubra com o frango e as ervas reservadas. Sirva com os restantes gomos de limão."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mostarda de Grão Inteiro"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Endro"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Gema de Ovo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 700,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

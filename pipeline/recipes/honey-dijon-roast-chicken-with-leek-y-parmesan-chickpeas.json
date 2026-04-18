@@ -23,84 +23,100 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "paprika",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Paprika"
     },
     {
+      "id": "dijon-mustard",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dijon Mustard"
     },
     {
+      "id": "bone-in-skin-on-chicken-thigh",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "bone -In Skin-On Chicken Thigh"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "green-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "green Chilli",
       "optional": true
     },
     {
+      "id": "fresh-dill",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "leek",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "leek"
     },
     {
+      "id": "clove-garlic",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "chilli-flakes",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "chickpeas",
       "amount": 1200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chickpeas"
     },
     {
+      "id": "chicken-stock",
       "amount": 200,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "parmesan",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -131,120 +147,5 @@
   "calories": 680,
   "fat": 26,
   "carbs": 46,
-  "protein": 60,
-  "i18n": {
-    "pt": {
-      "name": "Frango Assado com Mel e Dijon com Grão-de-Bico e Alho-Francês",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Limões",
-        "1 colher de sopa de Mel",
-        "1 colher de sopa de Pimentão",
-        "2 colheres de sopa de Mostarda de Dijon",
-        "8 Coxas de Frango com Osso e Pele",
-        "200g de Iogurte Grego",
-        "1 Malagueta Verde (opcional)",
-        "10g de Aneto Fresco",
-        "10g de Salsa Fresca",
-        "4 Alhos-Franceses",
-        "6 Dentes de Alho",
-        "1 colher de sopa de Flocos de Malagueta",
-        "3 Latas de 400g de Grão-de-Bico",
-        "200ml de Caldo de Frango",
-        "60g de Parmesão",
-        "Azeite"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C ventilação.",
-        "Prepare o frango: Numa tigela grande, esprima o sumo de um quarto dos limões e misture com o mel, o pimentão e metade da mostarda de Dijon. Adicione as coxas de frango e envolva até ficarem bem cobertas. Tempere generosamente com sal e pimenta.",
-        "Asse o frango: Disponha as coxas de frango num tabuleiro em camada única e asse 30 minutos, ou até a pele estar estaladiça e o frango bem cozido.",
-        "Prepare o molho de iogurte com ervas: Enquanto o frango cozinha, adicione o iogurte, a malagueta verde, metade da salsa, metade do aneto e o sumo do limão restante a um liquidificador. Adicione uma boa pitada de sal e triture até ficar liso. Reserve.",
-        "Para o alho-francês e o grão-de-bico: Lave e apare os alhos-franceses e corte-os ao meio no comprimento, depois em meias-luas finas. Fatie finamente o alho. Aqueça um pouco de azeite numa frigideira grande em lume médio. Adicione o alho-francês e o alho e cozinhe 8 a 10 minutos, mexendo ocasionalmente, até o alho-francês estar macio e caramelizado. Misture a mostarda de Dijon restante e os flocos de malagueta e cozinhe mais um minuto.",
-        "Adicione o grão-de-bico escorrido e o caldo de frango, deixe ferver e cozinhe 3 a 4 minutos até a mistura engrossar e ficar cremosa. Rale o parmesão e tempere com pimenta preta, sal e um pouco de sumo de limão. Assim que o frango estiver cozido, verta todos os sucos do tabuleiro para o grão-de-bico.",
-        "Monte o prato: Coloque a mistura cremosa de grão-de-bico nos pratos. Cubra com as coxas de frango estaladiças, um pouco de salsa e aneto frescos e um fio do molho de iogurte com ervas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pimentão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mostarda Dijon"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Coxa de Frango com Osso e Pele"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Verde"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Alho-Francês"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 1200,
-          "unit": "g",
-          "item": "Grão-de-Bico"
-        },
-        {
-          "amount": 200,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 60
 }

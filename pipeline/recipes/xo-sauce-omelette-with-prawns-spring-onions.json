@@ -14,39 +14,46 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "butter",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Butter"
     },
     {
+      "id": "raw-prawn",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raw Prawn"
     },
     {
+      "id": "xo-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "XO Sauce"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -78,66 +85,5 @@
   "calories": 430,
   "fat": 31,
   "carbs": 2,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Omelete de Molho XO com Gambas e Cebolinha",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "3 Ovos",
-        "2 Cebolinhas",
-        "1 c. sopa de Manteiga",
-        "80g Gambas Cruas",
-        "1 c. sopa de Molho XO",
-        "Sal (para servir)",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Parte os ovos para uma tigela e bate-os bem com um garfo ou um batedor até as gemas e as claras estarem completamente combinadas. Tempera bem com uma pitada de sal e muita pimenta preta.",
-        "Corta as cebolinhas em fatias finas e separa as partes verdes das brancas. Adiciona metade das partes verdes da cebolinha e uma pitada de sal aos ovos batidos.",
-        "Aquece metade da manteiga numa frigideira antiaderente média ou grande em lume médio. Quando a manteiga estiver a espumar, adiciona as gambas e as partes brancas da cebolinha. Cozinha durante 30 segundos, mexendo até as gambas ficarem opacas, a ficar cor-de-rosa e quase cozinhadas. Incorpora o molho XO e cozinha durante 30 segundos até as gambas estarem completamente cozinhadas.",
-        "Coloca a mistura de gambas cozinhada num prato e limpa a frigideira. Aquece a manteiga restante na frigideira em lume médio-alto e, quando a manteiga estiver a espumar, verte a mistura de ovos na frigideira.",
-        "À medida que a omelete começa a coagular nas bordas, usa uma espátula para levantar suavemente as bordas e inclina a frigideira, enquanto abalas ligeiramente a frigideira para deixar o ovo cru fluir para as bordas. Cozinha desta forma durante cerca de 1-2 minutos.",
-        "Quando a omelete estiver maioritariamente coagulada mas ainda ligeiramente líquida por cima, distribui a mistura de gambas por cima e dobra cuidadosamente a outra metade por cima.",
-        "Desliza a omelete para um prato, tempera bem a gosto com sal e muita pimenta preta, depois coloca por cima as restantes partes verdes da cebolinha."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Gamba Crua"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho XO"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }

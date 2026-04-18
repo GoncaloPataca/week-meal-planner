@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "salmon",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salmon"
     },
     {
+      "id": "white-miso",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "White Miso"
     },
     {
+      "id": "butter",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "sushi-rice",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sushi Rice"
     },
     {
+      "id": "water",
       "amount": 180,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "rice-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -115,102 +128,5 @@
   "calories": 680,
   "fat": 34,
   "carbs": 40,
-  "protein": 50,
-  "i18n": {
-    "pt": {
-      "name": "Arroz de Salmão com Manteiga de Miso",
-      "mealType": "jantar",
-      "ingredients": [
-        "500g de Salmão",
-        "20g de Miso Branco",
-        "30g de Manteiga",
-        "150g de Arroz para Sushi",
-        "180ml de Água",
-        "2 Ovos",
-        "1 Pepino",
-        "3 Ceboletes",
-        "1 Limão",
-        "1 colher de sopa de Vinagre de Arroz",
-        "1 colher de chá de Açúcar",
-        "1 colher de sopa de Molho de Soja",
-        "Sal"
-      ],
-      "steps": [
-        "Lave o arroz para sushi até a água sair limpa, depois cozinhe com a água medida usando o seu método preferido (panela de arroz ou panela normal). Reserve com a tampa colocada para cozer no vapor. Coza os ovos com a gema mole (cozinhe mais tempo se preferir).",
-        "Tempere os filetes de salmão com sal e deixe repousar enquanto prepara o resto.",
-        "Numa tigela pequena, misture a manteiga amolecida com o miso branco até ficar liso e bem combinado.",
-        "Corte o pepino em fatias finas e adicione a uma tigela com o vinagre de arroz, o açúcar, o molho de soja e o sumo de metade do limão. Envolva e deixe marinar ligeiramente. Depois apare e corte as ceboletes em fatias finas e reserve.",
-        "Seque o salmão com papel de cozinha e espalhe a manteiga de miso uniformemente por cima de cada filete. Coloque sob um grelhador quente durante 4 a 6 minutos até ficar dourado e cozido, com a manteiga a borbulhar.",
-        "Entretanto, coloque uma panela com água em lume médio e leve a ferver. Assim que ferver, reduza o lume e adicione cuidadosamente os ovos. Após 5 a 6 minutos retire e coloque numa tigela com água fria. Assim que estiverem suficientemente frios para manusear, descasque.",
-        "Solte o arroz e divida pelas tigelas. Cubra cada porção com um filete de salmão e a manteiga de miso do tabuleiro. Termine com as ceboletes fatiadas e o pepino marinado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Salmão"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Arroz de Sushi"
-        },
-        {
-          "amount": 180,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 50
 }

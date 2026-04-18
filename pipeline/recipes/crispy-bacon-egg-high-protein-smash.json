@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "rasher-streaky-bacon",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "rasher Streaky Bacon"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "cream-cheese",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cream Cheese"
     },
     {
+      "id": "feta",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "slice-sourdough",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough",
       "note": "to serve"
     }
@@ -87,75 +96,5 @@
   "calories": 490,
   "fat": 38,
   "carbs": 6,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Smash de Alta Proteína de Bacon Crocante e Ovo",
-      "ingredients": [
-        "4 Ovos",
-        "4 Fatias de Bacon Entremeado",
-        "100g Tomate-Cereja",
-        "100g Queijo Creme",
-        "50g Queijo Feta",
-        "2 Cebolinhas",
-        "Sal",
-        "Pimenta Preta",
-        "2 Fatias de Pão de Fermentação Natural (para servir)"
-      ],
-      "steps": [
-        "Leve um tacho com água a ferver e baixe cuidadosamente os ovos. Coza durante 10 minutos, depois transfira para água fria para arrefecer. Descasque os ovos, separe as gemas das claras, pique grosseiramente as claras e reserve.",
-        "Pré-aqueça o forno a 200°C. Coloque o bacon e os tomates-cereja num tabuleiro e asse durante 10-12 minutos, até o bacon estar crocante e os tomates a rebentar. Deixe arrefecer ligeiramente, depois pique o bacon em pedaços pequenos.",
-        "Adicione as gemas a uma tigela com o queijo creme e o feta e esmague tudo junto até ficar suave e cremoso. Misture as claras picadas, o bacon e os tomates assados. Corte as cebolinhas (reservando algumas para decorar) e misture. Tempere bem com sal e pimenta preta e misture até ficar espesso e servível de colher.",
-        "Para servir, distribua generosamente o smash sobre pão torrado quente e termine com mais cebolinha em fatias."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Fatia de Bacon"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Queijo Creme"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

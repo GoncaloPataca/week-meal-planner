@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "pistachio",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pistachio"
     },
     {
+      "id": "parmesan",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "pea",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pea"
     },
     {
+      "id": "basil",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basil"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "water",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "olive-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "spaghetti",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spaghetti"
     },
     {
+      "id": "pea",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pea"
     },
     {
+      "id": "asparagus",
       "amount": 180,
-      "unit": "g",
+      "unitId": "g",
       "item": "Asparagus"
     },
     {
+      "id": "chilli-flakes",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -113,100 +126,5 @@
   "calories": 540,
   "fat": 18,
   "carbs": 76,
-  "protein": 20,
-  "i18n": {
-    "pt": {
-      "name": "Pasta Primavera (Massa de Primavera)",
-      "mealType": "almoço",
-      "ingredients": [
-        "0,5 Dente de Alho",
-        "50g de Pistácios",
-        "40g de Parmesão",
-        "100g de Ervilhas",
-        "30g de Manjericão",
-        "0,5 Limão",
-        "3 colheres de sopa de Água",
-        "3 colheres de sopa de Azeite",
-        "400g de Esparguete",
-        "100g de Ervilhas",
-        "180g de Espargos",
-        "0,5 colher de chá de Flocos de Malagueta",
-        "Sal"
-      ],
-      "steps": [
-        "Para fazer a mistura de ervilhas triturada, adicione o alho, os pistácios, o parmesão, as ervilhas, o sumo do limão e as folhas de manjericão (reservando algumas para decorar) a um liquidificador com 3 colheres de sopa de azeite, 3 colheres de sopa de água e uma pitada de sal. Triture até ficar liso.",
-        "Coloque a massa a cozer em bastante água salgada. Enquanto cozinha, prepare os espargos retirando as pontas duras e as cabeças (certifique-se de reservar as cabeças). Agora desfaça a parte principal dos talos em fitas usando um descascador de legumes e reserve.",
-        "Assim que a massa estiver a cerca de 2 minutos de ficar pronta, adicione os espargos e o resto das ervilhas com as cabeças de espargos reservadas.",
-        "Escorra tudo (reservando uma caneca de água de cozedura) e volte para a panela, adicione a mistura de ervilhas triturada com um bom fio de água de cozedura e misture bem até ficar cremoso e com molho. Prove e adicione sal e mais sumo de limão, se gostar.",
-        "Sirva e cubra com um pouco mais de queijo ralado e uma pitada de flocos de malagueta."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Pistácio"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Ervilha"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manjericão"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Esparguete"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Ervilha"
-        },
-        {
-          "amount": 180,
-          "unit": "g",
-          "item": "Espargos"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 20
 }

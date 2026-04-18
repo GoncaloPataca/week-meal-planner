@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-hash-brown",
       "amount": 230,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Hash Brown"
     },
     {
+      "id": "egg",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "cheddar-cheese",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cheddar Cheese"
     },
     {
+      "id": "crme-frache",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Crème Fraîche"
     },
     {
+      "id": "fine-salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fine Salt"
     },
     {
+      "id": "english-muffin",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "english Muffin"
     },
     {
+      "id": "tomato-ketchup",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Tomato Ketchup",
       "note": "to serve"
     },
     {
+      "id": "green-chilli",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "green Chilli"
     },
     {
+      "id": "cumin-seeds",
       "amount": 3,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cumin Seeds"
     },
     {
+      "id": "fresh-ginger",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "fresh-mint",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "fresh-coriander",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "olive-oil",
       "amount": 75,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Olive Oil"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     }
   ],
@@ -125,107 +139,5 @@
   "calories": 710,
   "fat": 36,
   "carbs": 62,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Sandes de Ovos e Queijo Picante para o Pequeno-Almoço",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "230g Hash Browns Congelados",
-        "12 Ovos",
-        "250g Queijo Cheddar",
-        "150g Crème Fraîche",
-        "1c.c. Sal Fino",
-        "12 Muffins Ingleses",
-        "Ketchup de Tomate (para servir)",
-        "4 Malaguetas Verdes",
-        "3c.c. Sementes de Cominhos",
-        "20g Gengibre Fresco",
-        "50g Hortelã Fresca",
-        "100g Coentros Frescos",
-        "75ml Azeite",
-        "2 Limões"
-      ],
-      "steps": [
-        "Preaqueça o forno a 180°C ventilado. Unte e forre um tabuleiro de 20x20 cm.",
-        "Prepare o chutney: pique grosseiramente as malaguetas e o gengibre. Separe as folhas de hortelã e descarte os caules. Adicione os coentros, com caules, a um liquidificador com os restantes ingredientes e uma pitada de sal e açúcar. Adicione o azeite e triture até ficar suave. Tempere com sumo de limão, pimenta preta e mais sal e açúcar se necessário.",
-        "Parta os hash browns em pedaços de 1 cm e corte o cheddar em cubos de 1 cm. Adicione ao tabuleiro preparado.",
-        "Parta os ovos para uma tigela e bata com o sal e o crème fraîche, depois verta no tabuleiro sobre os hash browns e o cheddar. Misture ½ do chutney e leve ao forno para assar 25-30 min até as bordas estarem inchadas mas o centro ainda ligeiramente mole. Retire do forno e deixe os ovos arrefecer ligeiramente antes de transferir para uma tábua até estarem suficientemente frios para manusear (10-15 min). Corte em 12 porções iguais.",
-        "Se comer imediatamente, toste os pães (ignore este passo se preparar com antecedência). Barre ketchup num lado e chutney no outro. Coloque o ovo no meio.",
-        "Se preparar com antecedência, embrulhe cada sandes em papel vegetal e congele até 3 meses. Antes de servir, aqueça no micro-ondas em intervalos de 30 segundos até estar bem quente."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 230,
-          "unit": "g",
-          "item": "Hash Brown Congelado"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Queijo Cheddar"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Crème Fraîche"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal Fino"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Muffin Inglês"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Ketchup de Tomate"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Malagueta Verde"
-        },
-        {
-          "amount": 3,
-          "unit": "c. chá",
-          "item": "Sementes de Cominhos"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 75,
-          "unit": "ml",
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

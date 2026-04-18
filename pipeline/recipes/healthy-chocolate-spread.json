@@ -11,23 +11,27 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "blanched-hazelnuts",
       "amount": 140,
-      "unit": "g",
+      "unitId": "g",
       "item": "Blanched Hazelnuts"
     },
     {
+      "id": "sunflower-seeds",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sunflower Seeds"
     },
     {
+      "id": "70-dark-chocolate",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "70% Dark Chocolate"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     }
   ],
@@ -61,46 +65,5 @@
   "calories": 210,
   "fat": 16,
   "carbs": 10,
-  "protein": 5,
-  "i18n": {
-    "pt": {
-      "name": "Creme de Chocolate Saudável",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "140g de Avelãs Peladas",
-        "150g de Sementes de Girassol",
-        "100g de Chocolate Negro 70%",
-        "1 colher de sopa de Xarope de Ácer"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C e forre um tabuleiro com papel vegetal.",
-        "Espalhe as avelãs e as sementes de girassol num tabuleiro em camada única e torre no forno 8 a 10 minutos. Verifique continuamente pois os fornos variam e as nozes queimam rapidamente. Pretende que as nozes e as sementes fiquem douradas.",
-        "Coloque o chocolate numa tigela resistente ao calor sobre uma panela de água a ferver suavemente, certificando-se de que a tigela não toca na água. Mexa até derreter.",
-        "Quando as nozes estiverem prontas, transfira para um robot de cozinha ou liquidificador potente e triture continuamente durante 6 a 8 minutos (raspando as laterais quando necessário) até ficar liso — a mistura parecerá manteiga de nozes.",
-        "Adicione o chocolate derretido e o xarope de ácer e triture novamente para combinar. Barre em torradas, ou transfira para um frasco e use no prazo de 2 semanas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 140,
-          "unit": "g",
-          "item": "Avelãs Peladas"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Sementes de Girassol"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Chocolate Negro 70%"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        }
-      ]
-    }
-  }
+  "protein": 5
 }

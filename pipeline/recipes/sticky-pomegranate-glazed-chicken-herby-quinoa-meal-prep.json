@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skinless-chicken-thigh",
       "amount": 900,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skinless Chicken Thigh"
     },
     {
+      "id": "lebanese-7-spice",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Lebanese 7-Spice"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "pomegranate-molasses",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pomegranate Molasses"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "quinoa",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Quinoa"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "fresh-coriander",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "pomegranate-seeds",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pomegranate Seeds"
     },
     {
+      "id": "walnut",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Walnut"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "olive-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -120,107 +134,5 @@
   "calories": 760,
   "fat": 33,
   "carbs": 65,
-  "protein": 52,
-  "i18n": {
-    "pt": {
-      "name": "Frango Glaceado com Romã e Quinoa com Ervas (Meal Prep)",
-      "mealType": "almoço",
-      "ingredients": [
-        "900g Coxas de Frango sem Pele",
-        "0,5c.s. Especiarias Libanesas 7-Especiarias",
-        "1c.s. Azeite",
-        "3c.s. Melaço de Romã",
-        "1c.s. Mel",
-        "250g Quinoa",
-        "50g Salsa de Folha Plana Fresca",
-        "50g Coentros Frescos",
-        "150g Sementes de Romã",
-        "50g Nozes",
-        "1 Limão",
-        "3c.s. Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Misture as 7-especiarias libanesas e 1 c.s. de azeite numa tigela grande. Tempere com sal e pimenta e misture as coxas de frango com a marinada. Reserve para marinar.",
-        "Cozinhe a quinoa de acordo com as instruções. Quando pronta, reserve para arrefecer ligeiramente.",
-        "Pique finamente a salsa e os coentros (com caules). Coloque numa tigela com a quinoa e as sementes de romã. Pique grosseiramente as nozes e adicione também. Misture o azeite, tempere com sal e esprima o sumo de limão. Misture tudo bem e ajuste o tempero a gosto.",
-        "Coloque uma frigideira em lume médio. Quando quente, adicione as coxas de frango e cozinhe 10-15 min, virando a meio, até estarem douradas e cozinhadas.",
-        "Verta o melaço de romã e o mel. Retire a frigideira do lume e baste o frango com o glaze pegajoso durante um ou dois minutos até ficarem cobertos e brilhantes.",
-        "Coloque a salada de quinoa nas caixas herméticas. Cubra com o frango glaceado e os sucos da frigideira. Sirva com gomos de limão restantes. Quando frio, guarde no frigorífico — conserva-se até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 900,
-          "unit": "g",
-          "item": "Coxa de Frango sem Pele"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "7 Especiarias Libanesas"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Melaço de Romã"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Quinoa"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Sementes de Romã"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Noz"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 52
 }

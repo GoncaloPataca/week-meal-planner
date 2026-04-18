@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chestnut-mushroom",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chestnut Mushroom"
     },
     {
+      "id": "walnut",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Walnut"
     },
     {
+      "id": "tomato-pure",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "vegetable-stock-cube",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "vegetable Stock Cube"
     },
     {
+      "id": "fresh-basil",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "stick-celery",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "stick Celery"
     },
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "parmesan",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "harissa-powder",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Powder"
     },
     {
+      "id": "pasta",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pasta"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "flaky-sea-salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Flaky Sea Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -127,121 +143,5 @@
   "calories": 560,
   "fat": 22,
   "carbs": 70,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Ragù Picante de Cogumelos com Tagliatelle",
-      "mealType": "jantar",
-      "ingredients": [
-        "600g Cogumelos Castanhos",
-        "150g Nozes",
-        "4c.s. Concentrado de Tomate",
-        "1 Lata de 400g de Tomate Picado",
-        "1 Cubo de Caldo de Legumes",
-        "25g Manjericão Fresco",
-        "1 Cebola",
-        "4 Dentes de Alho",
-        "2 Talos de Aipo",
-        "1 Cenoura",
-        "40g Parmesão",
-        "1,5c.s. Harissa em Pó",
-        "500g Massa",
-        "Azeite",
-        "Sal Marinho em Escamas",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente as nozes ou pulse num robot de cozinha até ficarem grosseiras. Faça o mesmo com os cogumelos, em lotes se necessário.",
-        "Preaqueça o forno a 225°C ventilado. Espalhe os cogumelos em camada única em dois tabuleiros forrados. Regue com azeite e tempere com sal e pimenta. Asse 15 min, depois espalhe as nozes e volte ao forno 5-10 min até tudo estar dourado e torrado.",
-        "Descasque e pique finamente a cebola, o alho, o aipo e a cenoura. Aqueça um fio de azeite numa panela grande em lume médio. Adicione a cebola, o aipo e a cenoura, tempere e cozinhe 10-12 min até ficarem macios e dourados. Misture o alho e cozinhe mais 2 min até perfumar.",
-        "Adicione o concentrado de tomate e a harissa em pó à panela. Cozinhe 2-3 min para aprofundar o sabor. Verta o tomate picado, depois encha a lata vazia com água e adicione. Esfarele o cubo de caldo e leve a ferver suavemente.",
-        "Misture os cogumelos e nozes assados, juntamente com ¼ da lata de tomate cheia de água. Ferva suavemente 15 min, mexendo ocasionalmente, até ficar espesso e rico. Tempere a gosto.",
-        "Cozinhe a massa em água salgada a ferver de acordo com as instruções até al dente. Reserve uma caneca de água de cozer, depois escorra.",
-        "Rale finamente o parmesão. Verta a massa escorrida para o molho com um pouco da água de cozer e o parmesão. Retire do lume e misture bem para emulsionar — o molho deve aderir perfeitamente. Adicione mais água se necessário.",
-        "Distribua pelas tigelas e cubra com manjericão rasgado e parmesão extra, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Cogumelos Castanhos"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Noz"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cubo de Caldo de Legumes"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Talo de Aipo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Harissa em Pó"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Massa"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal Marinho em Escamas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

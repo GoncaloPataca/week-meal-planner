@@ -68,6 +68,23 @@
     "kcalToday": "kcal",
     "mealsWithData": "meals with data"
   },
+  "units": {
+    "g":      "g",
+    "kg":     "kg",
+    "ml":     "ml",
+    "l":      "l",
+    "tbsp":   "tbsp",
+    "tsp":    "tsp",
+    "pinch":  "pinch",
+    "head":   "head",
+    "knob":   "knob",
+    "stalk":  "stalk",
+    "can":    "can",
+    "sprig":  "sprig",
+    "fillet": "fillet",
+    "jar":    "jar",
+    "pouch":  "pouch"
+  },
   "palette": {
     "label": "Colour palette",
     "warmPeach": "Warm Peach",

@@ -21,75 +21,89 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "red-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander",
       "note": "to serve"
     },
     {
+      "id": "roasted-red-pepper",
       "amount": 0.5,
-      "unit": "jar",
+      "unitId": "jar",
       "item": "Roasted Red Pepper"
     },
     {
+      "id": "tuna-in-spring-water",
       "amount": 408,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tuna in Spring Water"
     },
     {
+      "id": "sweetcorn",
       "amount": 340,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sweetcorn"
     },
     {
+      "id": "sour-cream-chive-dip",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sour Cream & Chive Dip"
     },
     {
+      "id": "grated-mozzarella",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Grated Mozzarella"
     },
     {
+      "id": "tortilla",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "tortilla"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to taste"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper",
       "note": "to taste"
     }
@@ -124,109 +138,5 @@
   "calories": 685,
   "fat": 28,
   "carbs": 62,
-  "protein": 48,
-  "i18n": {
-    "pt": {
-      "name": "Enchiladas de Atum Derretido",
-      "mealType": "almoço",
-      "ingredients": [
-        "3 Cebolas Roxas",
-        "4 Dentes de Alho",
-        "15g Coentros Frescos (para servir)",
-        "0,5 Frasco de Pimentos Vermelhos Assados",
-        "4x 102g Lata de Atum em Água",
-        "1x 340g Lata de Milho Doce",
-        "200g Molho de Natas Azedas com Cebolinho",
-        "250g Mozzarella Ralada",
-        "6 Tortilhas",
-        "1x 400g Lata de Tomates Picados",
-        "1 c. sopa de Azeite",
-        "1 Malagueta Vermelha",
-        "Sal (a gosto)",
-        "Pimenta Preta (a gosto)"
-      ],
-      "steps": [
-        "Pré-aquece o forno a 200°C. Pica finamente as cebolas roxas. Pica finamente o alho. Pica grosseiramente a maior parte dos coentros, reservando um pouco para mais tarde.",
-        "Escorre o atum e o milho doce. Numa tigela grande, combina o atum, o milho doce, metade das cebolas picadas e metade do molho de natas azedas com cebolinho. Tempera com sal e muita pimenta preta, depois incorpora metade da mozzarella.",
-        "Divide a mistura uniformemente pelas tortilhas, depois enrola-as firmemente. Coloca-as com o lado da costura para baixo num tabuleiro de forno grande para que fiquem bem apertadas.",
-        "Adiciona os tomates picados, a restante metade da cebola, o alho e a maior parte dos coentros a um liquidificador com um fio de azeite. Tritura até obter um molho suave, depois tempera com sal e pimenta. Deita o molho por cima das tortilhas.",
-        "Distribui o restante molho de natas azedas com cebolinho e espalha o resto do queijo por cima. Assa durante 30 minutos, ou até ficar dourado e borbulhante.",
-        "Entretanto, prepara a salsa. Pica finamente os pimentos vermelhos assados, ¼ da cebola picada e alguns coentros.",
-        "Também podes servir com uma salada de ervas picante para os adultos. Esta usa a cebola roxa sobrante, coentros e algumas malaguetas vermelhas em fatias, temperados com azeite.",
-        "Serve as enchiladas quentes do forno. Adiciona pequenas porções de natas azedas por cima e decora com a salsa."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 0.5,
-          "unit": "frasco",
-          "item": "Pimento Vermelho Assado"
-        },
-        {
-          "amount": 408,
-          "unit": "g",
-          "item": "Atum em Água"
-        },
-        {
-          "amount": 340,
-          "unit": "g",
-          "item": "Milho Doce"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Molho de Natas Azedas com Cebolinho"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Mozzarella Ralada"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Tortilha"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 48
 }

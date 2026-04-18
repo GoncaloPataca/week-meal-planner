@@ -68,6 +68,23 @@
     "kcalToday": "kcal",
     "mealsWithData": "refeições com dados"
   },
+  "units": {
+    "g":      "g",
+    "kg":     "kg",
+    "ml":     "ml",
+    "l":      "l",
+    "tbsp":   "c. sopa",
+    "tsp":    "c. chá",
+    "pinch":  "pitada",
+    "head":   "cabeça",
+    "knob":   "noz",
+    "stalk":  "talo",
+    "can":    "lata",
+    "sprig":  "ramo",
+    "fillet": "filete",
+    "jar":    "frasco",
+    "pouch":  "saqueta"
+  },
   "palette": {
     "label": "Paleta de cores",
     "warmPeach": "Pêssego Quente",

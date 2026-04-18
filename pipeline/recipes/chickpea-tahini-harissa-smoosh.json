@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "romano-pepper",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "romano Pepper"
     },
     {
+      "id": "fresh-parsley",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "chickpeas",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chickpeas"
     },
     {
+      "id": "mayonnaise",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mayonnaise"
     },
     {
+      "id": "tahini",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Tahini"
     },
     {
+      "id": "harissa-paste",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "white-wine-vinegar",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Wine Vinegar"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "sesame-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sesame Seeds",
       "note": "to serve"
     }
@@ -102,86 +113,5 @@
   "calories": 320,
   "fat": 14,
   "carbs": 34,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Esmagar de Grão-de-Bico, Tahini e Harissa",
-      "ingredients": [
-        "2 Pimentos Romanos",
-        "50g Salsa Fresca",
-        "1x 400g Lata de Grão-de-Bico",
-        "1c.sopa Maionese",
-        "1c.chá Tahini",
-        "2c.chá Pasta de Harissa",
-        "1.5c.sopa Vinagre de Vinho Branco",
-        "1 Limão",
-        "Sal",
-        "Pimenta Preta",
-        "Sementes de Sésamo (para servir)"
-      ],
-      "steps": [
-        "Corte os pimentos em cubos pequenos e pique finamente a salsa.",
-        "Combine todos os ingredientes numa tigela (esprema o limão) e tempere generosamente com sal e pimenta.",
-        "Espalhe sobre torrada, pão pita, um bagel ou o que preferir. Polvilhe com sementes de sésamo e a salsa restante e aproveite."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pimento Romano"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Grão-de-Bico"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Maionese"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Tahini"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho Branco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

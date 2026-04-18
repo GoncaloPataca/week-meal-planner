@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "maple-syrup",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "soy-sauce",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "white-miso",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Miso"
     },
     {
+      "id": "water",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "olive-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "cooked-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "frozen-shelled-edamame",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Shelled Edamame"
     },
     {
+      "id": "spinach",
       "amount": 90,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "rice-vinegar",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rice Vinegar"
     },
     {
+      "id": "toasted-sesame-seeds",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Toasted Sesame Seeds"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -128,115 +143,5 @@
   "calories": 550,
   "fat": 16,
   "carbs": 58,
-  "protein": 46,
-  "i18n": {
-    "pt": {
-      "name": "Frango com Miso e Ácer com Arroz (Meal Prep)",
-      "mealType": "almoço",
-      "ingredients": [
-        "4 Peitos de Frango",
-        "3 colheres de sopa de Xarope de Ácer",
-        "0,5 colher de sopa de Molho de Soja",
-        "1 colher de sopa de Miso Branco",
-        "100ml de Água",
-        "3 colheres de sopa de Azeite",
-        "2 Dentes de Alho",
-        "500g de Arroz Cozido",
-        "1 Pepino",
-        "100g de Edamame Descascado Congelado",
-        "90g de Espinafres",
-        "20g de Vinagre de Arroz",
-        "1 colher de sopa de Sementes de Sésamo Tostadas",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Abra os peitos de frango ao meio em borboleta e tempere ambos os lados com sal e pimenta. Esmague os dentes de alho, descartando as peles.",
-        "Misture o xarope de ácer, o molho de soja, o miso e a água numa tigela pequena. Reserve.",
-        "Corte o pepino em fatias finas. Descongele o edamame. Encha um chaleira e leve a ferver. Adicione os espinafres a um passador e verta a água a ferver até murcharem. Deixe arrefecer ligeiramente, depois esprema o excesso de água.",
-        "Coloque o pepino fatiado numa tigela, tempere com sal e reserve.",
-        "Coloque uma frigideira em lume médio e adicione o azeite. Seque o frango, depois coloque na frigideira. Cozinhe 8 a 10 minutos, virando a meio, até ficar dourado de ambos os lados.",
-        "Adicione o alho e verta a mistura de miso e ácer. Deixe borbulhar, regando o frango enquanto cozinha, até o molho engrossar e formar um glaze brilhante e o frango estar cozido.",
-        "Aqueça o arroz. Misture o edamame, os espinafres, o vinagre de arroz e as sementes de sésamo com o pepino para fazer a salada.",
-        "Divida o arroz pelos recipientes e cubra com o frango glaceado e a salada crocante. Verta o glaze restante da frigideira. Depois de arrefecer, guarde e leve ao frigorífico — dura até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Edamame Descascado Congelado"
-        },
-        {
-          "amount": 90,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 46
 }

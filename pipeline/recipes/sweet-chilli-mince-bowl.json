@@ -21,77 +21,91 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "beef-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Beef Mince"
     },
     {
+      "id": "sweet-chilli-sauce",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sweet Chilli Sauce"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "broccoli",
       "amount": 1,
-      "unit": "head",
+      "unitId": "head",
       "item": "Broccoli"
     },
     {
+      "id": "long-grain-rice",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Long Grain Rice"
     },
     {
+      "id": "peanut",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Peanut",
       "note": "to serve"
     },
     {
+      "id": "avocado",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "avocado",
       "note": "to serve,",
       "optional": true
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "red-pepper",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Pepper"
     },
     {
+      "id": "soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper",
       "note": "to serve"
     }
@@ -120,107 +134,5 @@
   "calories": 570,
   "fat": 21,
   "carbs": 57,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Carne Picada Crocante com Molho Doce de Malagueta",
-      "mealType": "almoço",
-      "ingredients": [
-        "500g Carne Picada de Vaca",
-        "4 c. sopa de Molho Doce de Malagueta",
-        "4 Dentes de Alho",
-        "4 Cebolinha",
-        "1 Cabeça de Brócolos",
-        "200g Arroz de Grão Longo",
-        "50g Amendoins (para servir)",
-        "1 Abacate (para servir, opcional)",
-        "1 Lima",
-        "1 Pimento Vermelho",
-        "2 c. sopa de Molho de Soja",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta (para servir)"
-      ],
-      "steps": [
-        "Aquece o azeite numa frigideira grande em lume médio-alto. Quando estiver quente, adiciona a carne picada e espalha-a com a parte de trás de uma colher de pau para formar uma camada uniforme. Deixa tostar antes de a partir. Podes precisar de fazer isto em duas partes para obteres uma boa caramelização. Cozinha até dourar e ficar crocante, depois retira com uma escumadeira e reserva.",
-        "Entretanto, corta as cebolinhas em fatias finas, separando as partes brancas das verdes. Pica o alho finamente. Corta o pimento em tiras finas. Corta os brócolos em floretes pequenos.",
-        "Lava o arroz e coloca-o numa panela com água salgada. Leva a ferver, tapa e cozinha em lume brando durante 6 minutos. Coloca os brócolos por cima, volta a tapar e retira do lume. Deixa cozinhar ao vapor durante 10 minutos até o arroz estar fofo e os brócolos macios. Raspa a lima e incorpora a raspa no arroz com os brócolos.",
-        "Volta a colocar a frigideira em lume médio. Adiciona o alho e as partes brancas da cebolinha e cozinha mais 2 minutos até ficarem aromáticos. Adiciona os pimentos e cozinha mais 5 minutos até amolecerem. Devolve a carne à frigideira juntamente com o molho doce de malagueta e o molho de soja. Mistura bem para cobrir tudo e cozinha por alguns minutos até ficar pegajoso e brilhante. Tempera com pimenta preta.",
-        "Esmaga grosseiramente os amendoins. Fatiaa o abacate, se usares, e corta a lima em gomos.",
-        "Divide o arroz de brócolos entre as tigelas e coloca por cima a carne picada crocante com malagueta. Termina com os amendoins esmagados, as partes verdes da cebolinha e o abacate. Serve com gomos de lima para espremer."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Carne Picada de Vaca"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Molho Doce de Malagueta"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": "cabeça",
-          "item": "Brócolos"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Arroz de Grão Longo"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Amendoim"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pimento Vermelho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }

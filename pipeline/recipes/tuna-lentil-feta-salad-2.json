@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "red-wine-vinegar",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Red Wine Vinegar"
     },
     {
+      "id": "dried-oregano",
       "amount": 1.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "capers",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Capers"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Olive Oil"
     },
     {
+      "id": "fresh-mint",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "lentils",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Lentils"
     },
     {
+      "id": "butter-beans",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter Beans"
     },
     {
+      "id": "tuna",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tuna"
     },
     {
+      "id": "feta",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -111,94 +123,5 @@
   "calories": 520,
   "fat": 9,
   "carbs": 60,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Atum, Lentilhas e Feta",
-      "mealType": "almoço",
-      "ingredients": [
-        "1 Cebola Roxa",
-        "3 c. sopa de Vinagre de Vinho Tinto",
-        "1,5 c. chá de Orégãos Secos",
-        "20g Alcaparras",
-        "1 c. chá de Azeite",
-        "25g Hortelã Fresca",
-        "1x 400g Lata de Lentilhas",
-        "2x 400g Lata de Feijão Manteiga",
-        "1x 125g Lata de Atum",
-        "50g Feta",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Descasca e corta a cebola roxa em fatias e coloca-a numa tigela grande. Adiciona o vinagre de vinho tinto, os orégãos secos, as alcaparras e o azeite e tempera com sal e pimenta. Bate tudo para fazer um molho intenso.",
-        "Pica finamente a hortelã e incorpora-a no molho.",
-        "Escorre e lava as lentilhas e o feijão manteiga, depois coloca-os na tigela e mistura bem para cobrir.",
-        "Escorre o atum e esmigalha o feta.",
-        "Divide a salada por caixas de refeição e coloca por cima o atum e o feta. Termina com pimenta preta moída. Fecha as caixas e guarda no frigorífico — duram 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho Tinto"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Alcaparras"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Azeite"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Lentilhas"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Feijão Manteiga"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Atum"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

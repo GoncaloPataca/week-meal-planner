@@ -17,54 +17,64 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "demi-baguette",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "demi -Baguette"
     },
     {
+      "id": "garlic-clove",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "vine-tomato",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "vine Tomato"
     },
     {
+      "id": "chive",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chive"
     },
     {
+      "id": "parsley",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Parsley"
     },
     {
+      "id": "egg",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "manchego",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Manchego"
     },
     {
+      "id": "mayonnaise",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mayonnaise"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -91,83 +101,5 @@
   "calories": 580,
   "fat": 32,
   "carbs": 42,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Sandes de Omelete com Ervas e Tomate",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1 Mini Baguete",
-        "0,5 Dente de Alho",
-        "1 Tomate em Rama",
-        "1 colher de sopa de Cebolinho",
-        "1 colher de sopa de Salsa",
-        "3 Ovos",
-        "25g de Queijo Manchego",
-        "1 colher de sopa de Maionese",
-        "Azeite (para servir)",
-        "Sal"
-      ],
-      "steps": [
-        "Comece por cortar a baguete ao meio na horizontal, regar com azeite e tostar com a face cortada para baixo numa frigideira antiaderente em lume médio até ficar dourada.",
-        "Esfregue levemente o alho descascado nas superfícies tostadas de ambas as metades da baguete. Corte o tomate ao meio e esfregue também em ambos os lados tostados. Reserve.",
-        "Adicione as ervas finamente picadas a uma tigela com os ovos e uma pitada de sal. Bata bem.",
-        "Volte a colocar a frigideira em lume médio, adicione um fio generoso de azeite e verta os ovos. Mexa vigorosamente enquanto cozinham. Após cerca de 1 minuto, quando começarem a solidificar mas ainda estiverem soltos e cremosos, pare de mexer.",
-        "Rale o queijo sobre os ovos e incline a frigideira enrolando a omelete de um lado.",
-        "Coloque-a na baguete e adicione a maionese, se gostar. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Meia Baguete"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Tomate de Videira"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Cebolinho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Salsa"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Manchego"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Maionese"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

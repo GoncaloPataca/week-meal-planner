@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "full-fat-greek-yoghurt",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Full-Fat Greek Yoghurt"
     },
     {
+      "id": "self-raising-flour",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Self Raising Flour"
     },
     {
+      "id": "chorizo",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chorizo"
     },
     {
+      "id": "spring-onion",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spring Onion"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "kimchi",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kimchi"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -86,78 +95,5 @@
   "calories": 960,
   "fat": 40,
   "carbs": 92,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Pão Pita de Iogurte com Ovos e Chouriço Crocante",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "300g Iogurte Grego Gordo",
-        "250g Farinha com Fermento",
-        "100g Chouriço",
-        "50g Cebolinha",
-        "4 Ovos",
-        "25g Kimchi",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Mistura 250g de iogurte e a farinha com uma boa pitada de sal numa tigela. Trabalha até obter uma massa irregular, depois deita sobre uma superfície de trabalho e amassa até ficar suave. Vira a tigela e cobre a massa durante 10 minutos.",
-        "Entretanto, corta o chouriço em cubos pequenos e corta finamente as cebolinhas.",
-        "Divide a massa do pão pita em 4 e estende cada bola em círculos irregulares. Pré-aquece uma frigideira em lume médio. Pincela cada pão pita com um pouco de azeite.",
-        "Coloca cuidadosamente o primeiro pão pita na frigideira e cozinha durante 1-2 minutos de cada lado. O pão deve ficar bem dourado e inchar um pouco. Adiciona mais óleo se quiseres um pão mais dourado e crocante. Mantém o pão cozinhado num pano de cozinha limpo enquanto cozinhas os outros.",
-        "Quando todos os pães pita estiverem cozinhados, adiciona o chouriço à mesma frigideira e deixa a gordura derreter. Quando o chouriço estiver a começar a ficar crocante, aumenta o lume, polvilha com as partes brancas das cebolinhas e parte os ovos.",
-        "Tempera os ovos com sal e pimenta e cozinha em lume alto durante 2 minutos até ficarem rendilhados e crocantes. Quando estiverem cozinhados ao teu gosto, retira-os.",
-        "Serve os pães pita quentes cobertos com os ovos crocantes, rega com o chouriço crocante e distribui as partes verdes da cebolinha por cima. Termina com o kimchi ou o que quer que tenhas escolhido para o pickle!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Iogurte Grego Gordo"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Farinha com Fermento"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Chouriço"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Kimchi"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

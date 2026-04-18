@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "wholewheat-pasta",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Wholewheat Pasta"
     },
     {
+      "id": "sun-dried-tomato-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sun-Dried Tomato Oil"
     },
     {
+      "id": "cottage-cheese",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "baby-spinach",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Baby Spinach"
     },
     {
+      "id": "parmesan",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "fresh-basil",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -98,82 +108,5 @@
   "calories": 560,
   "fat": 16,
   "carbs": 64,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Massa Cremosa com Tomate Seco",
-      "ingredients": [
-        "80g Massa Integral",
-        "1c.chá Óleo de Tomate Seco",
-        "250g Queijo Cottage",
-        "40g Tomate Seco",
-        "1 Dente de Alho",
-        "125g Espinafres Baby",
-        "15g Parmesão",
-        "10g Manjericão Fresco",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Leve um tacho com água salgada a ferver e coza a massa de acordo com as instruções da embalagem até al dente. Escorra, reservando um pouco da água de cozedura, e deixe arrefecer ligeiramente. Pique finamente o tomate seco e o alho.",
-        "Enquanto a massa cozinha, aqueça o óleo do tomate seco numa frigideira em lume médio. Adicione o alho e o tomate seco picado, cozinhando suavemente durante 1-2 minutos até ficarem aromáticos.",
-        "Coloque os espinafres num passador e regue com dois cheiros de água a ferver para murchar. Esprema o excesso de humidade.",
-        "Misture o queijo cottage, a massa, os espinafres murchados e a maior parte do manjericão com a mistura de tomate seco. Adicione um pouco da água de cozedura reservada se necessário para soltar, e tempere bem com sal e pimenta.",
-        "Sirva coberto com lascas de parmesão e o manjericão restante. Depois de frio, feche e guarde no frigorífico — duram até 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Massa Integral"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Tomate Seco"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Espinafres Baby"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

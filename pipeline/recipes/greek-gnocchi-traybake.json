@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "olive-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "dried-oregano",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "harissa-paste",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "cooked-puy-lentils",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Puy Lentils"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "aubergine",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "aubergine"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "gnocchi",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Gnocchi"
     },
     {
+      "id": "mixed-olive",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Olive"
     },
     {
+      "id": "feta",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parsley"
     },
     {
+      "id": "fresh-mint",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     }
   ],
@@ -119,107 +133,5 @@
   "calories": 550,
   "fat": 22,
   "carbs": 62,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Nhoque no Tabuleiro à Grega",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Limão",
-        "2 Dentes de Alho",
-        "3 colheres de sopa de Azeite",
-        "2 colheres de chá de Orégãos Secos",
-        "1,5 colheres de sopa de Pasta de Harissa",
-        "1 Lata de 400g de Lentilhas Puy Cozidas",
-        "400g de Tomates Cherry",
-        "1 Beringela",
-        "1 Cebola Roxa",
-        "500g de Nhoque",
-        "150g de Azeitonas Mistas",
-        "200g de Feta",
-        "15g de Salsa",
-        "15g de Hortelã Fresca"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C.",
-        "Rale a casca do limão, esprima metade do limão e rale o alho para uma tigela. Adicione o azeite, os orégãos secos, a harissa e uma pitada de sal e pimenta. Bata para combinar.",
-        "Corte os tomates cherry ao meio e corte a beringela em pedaços de 2 cm. Coloque os legumes num tabuleiro, regue com um pouco de azeite e tempere com sal e pimenta. Misture para cobrir e leve ao forno a assar 15 minutos.",
-        "Entretanto, fatie finamente a cebola roxa e coloque numa tigela com o restante sumo de limão. Tempere com sal e reserve para fazer um pickle suave.",
-        "Escorra e lave as lentilhas. Adicione as lentilhas, o nhoque e as azeitonas ao tabuleiro com os legumes semi-assados e verta o molho de harissa preparado. Misture bem e volte ao forno mais 10 minutos. Esfarele o feta por cima e leve ao forno mais 5 minutos finais até o feta estar macio e levemente tostado.",
-        "Distribua pelas tigelas e cubra com as ervas frescas, a cebola em pickle e um fio de azeite."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Lentilhas Puy Cozidas"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Beringela"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Gnocchi"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Azeitonas Mistas"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

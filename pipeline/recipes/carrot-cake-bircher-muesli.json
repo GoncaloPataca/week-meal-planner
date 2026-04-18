@@ -23,84 +23,100 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chia-seed",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "walnut",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Walnut"
     },
     {
+      "id": "pecans",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pecans"
     },
     {
+      "id": "rolled-oat",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "hemp-seeds",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Hemp Seeds"
     },
     {
+      "id": "orange",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "orange"
     },
     {
+      "id": "carrot",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Carrot"
     },
     {
+      "id": "orange-zest",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Orange Zest"
     },
     {
+      "id": "honey",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Honey",
       "note": "to serve"
     },
     {
+      "id": "water",
       "amount": 700,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "mixed-seeds",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Seeds"
     },
     {
+      "id": "sesame-seeds",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "mixed-spice",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Mixed Spice"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     }
   ],
@@ -127,118 +143,5 @@
   "calories": 490,
   "fat": 28,
   "carbs": 38,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Bircher Muesli de Bolo de Cenoura",
-      "ingredients": [
-        "50g Sementes de Chia",
-        "70g Nozes",
-        "70g Nozes Pecan",
-        "250g Aveia em Flocos",
-        "50g Sementes de Cânhamo",
-        "1 Laranja",
-        "250g Cenoura",
-        "0.5c.chá Raspa de Laranja",
-        "Mel (para servir)",
-        "700ml Água",
-        "350g Iogurte Grego",
-        "100g Sementes Mistas",
-        "2c.sopa Sementes de Sésamo",
-        "2c.sopa Mel",
-        "0.25c.chá Especiarias Mistas",
-        "250g Iogurte Grego"
-      ],
-      "steps": [
-        "Pique finamente as nozes e as nozes pecan, rale finamente a laranja e rale grosseiramente as cenouras. Adicione-as a uma tigela juntamente com as sementes de chia, a aveia e as sementes de cânhamo.",
-        "Num jarro, bata a água e o iogurte até ficarem suaves, depois misture o sumo da laranja. Tempere com uma pitada de sal e mel a gosto.",
-        "Verta a mistura líquida nos ingredientes secos e mexa bem. Divida pelos frascos ou recipientes, cubra e refrigere durante pelo menos 4 horas ou de um dia para o outro, até a aveia e as sementes de chia absorverem o líquido.",
-        "Para a cobertura de sementes, torre as sementes mistas e as sementes de sésamo numa frigideira seca em lume médio durante 3 a 4 minutos, até dourarem. Retire do lume e misture as especiarias, uma pitada de sal e o mel. Espalhe num prato para arrefecer e guarde num recipiente hermético à temperatura ambiente.",
-        "Quando pronto para servir, cubra cada porção de muesli com uma colher de iogurte grego e uma generosa pitada de cobertura de sementes especiadas."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Noz"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Nozes Pecan"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes de Cânhamo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Laranja"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Cenoura"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Raspa de Laranja"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Mel"
-        },
-        {
-          "amount": 700,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Sementes Mistas"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Mistura de Especiarias"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

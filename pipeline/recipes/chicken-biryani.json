@@ -34,138 +34,165 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skinless-chicken-thigh",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skinless Chicken Thigh"
     },
     {
+      "id": "yoghurt",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Yoghurt"
     },
     {
+      "id": "basmati-rice",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basmati Rice"
     },
     {
+      "id": "cumin-seed",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cumin Seed"
     },
     {
+      "id": "coriander-seed",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Coriander Seed"
     },
     {
+      "id": "clove",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "clove"
     },
     {
+      "id": "fennel-seed",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fennel Seed"
     },
     {
+      "id": "black-peppercorn",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Black Peppercorn"
     },
     {
+      "id": "green-cardamom-pod",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "green Cardamom Pod"
     },
     {
+      "id": "onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "tomato",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "chilli-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "ground-turmeric",
       "amount": 3,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "nutmeg",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Nutmeg"
     },
     {
+      "id": "cardamom-pod",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "cardamom Pod"
     },
     {
+      "id": "cinnamon-stick",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cinnamon Stick"
     },
     {
+      "id": "white-sugar",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "White Sugar"
     },
     {
+      "id": "ghee",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ghee"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "cm-ginger",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "cm Ginger"
     },
     {
+      "id": "green-finger-chilli",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "green Finger Chilli"
     },
     {
+      "id": "mint",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mint"
     },
     {
+      "id": "coriander",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coriander"
     },
     {
+      "id": "milk",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Milk"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -206,193 +233,5 @@
   "calories": 660,
   "fat": 22,
   "carbs": 74,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Biryani Clássico de Frango",
-      "ingredients": [
-        "600g Coxas de Frango Sem Pele",
-        "100g Iogurte",
-        "350g Arroz Basmati",
-        "1c.chá Sementes de Cominhos",
-        "2c.chá Sementes de Coentro",
-        "6 Cravos",
-        "0.5c.chá Sementes de Funcho",
-        "1c.chá Grãos de Pimenta Preta",
-        "4 Vagens de Cardamomo Verde",
-        "4 Cebolas",
-        "3 Tomates",
-        "2 Limões",
-        "1c.chá Pó de Malagueta",
-        "3c.chá Curcuma em Pó",
-        "0.5c.chá Noz-Moscada",
-        "2 Vagens de Cardamomo",
-        "0.5 Pau de Canela",
-        "0.25c.chá Açúcar Branco",
-        "4c.sopa Ghee",
-        "2 Dentes de Alho",
-        "3cm Gengibre",
-        "2 Malaguetas Verdes",
-        "15g Hortelã",
-        "25g Coentros",
-        "4c.sopa Leite",
-        "Óleo Vegetal",
-        "Sal"
-      ],
-      "steps": [
-        "Corte as coxas ao meio no sentido do comprimento.",
-        "Misture o frango com o iogurte até estar pronto para usar, ou até 12 horas.",
-        "Lave bem o arroz em água fria, três vezes até a água sair limpa. Deixe demolhar em 1 litro de água durante 30 minutos.",
-        "Numa frigideira seca, torre as sementes de cominhos, as sementes de coentro, os cravos, as sementes de funcho, os grãos de pimenta e o cardamomo. Torre durante 1 minuto até ficarem aromáticos e triture num moedor de especiarias. Se não tiver moedor, esmague a mistura num pilão até obter uma pasta fina.",
-        "Corte as cebolas em fatias finas e pique finamente os tomates. Corte 1 limão em fatias finas e corte o outro ao meio.",
-        "Aqueça 50ml de óleo numa panela e frite as cebolas até ficarem muito crocantes e escurecidas, cerca de 15 minutos. Retire ¼ das cebolas e reserve.",
-        "Adicione a mistura de especiarias do biryani juntamente com o pó de malagueta, ½c.chá de curcuma, a noz-moscada em pó, o pau de canela, o cardamomo e 2c.chá de sal. Cozinhe durante 1 minuto para as especiarias libertarem os aromas.",
-        "Adicione os tomates, as malaguetas verdes inteiras, o açúcar, rale o alho e o gengibre. Cozinhe durante 5 minutos até os tomates estarem moles e borbulhantes.",
-        "Adicione o frango, o iogurte e 100ml de água. Misture bem e cozinhe durante 10 minutos até o frango estar 80% cozido. Reserve.",
-        "Escorra o arroz e cozinhe em 1 litro de água fria nova com 1c.sopa de ghee, 1c.chá de sal e o sumo de meio limão. Leve a ferver e marque 4 minutos. Escorra o arroz pré-cozido num passador e reserve.",
-        "Pique finamente os coentros e a hortelã. Numa tigela pequena combine 1c.chá de curcuma com 4c.sopa de leite.",
-        "Espalhe o ghee no fundo de uma panela de fundo pesado. Espalhe metade do arroz e cubra com o frango cozido e o molho. Coloque uma camada com metade do limão em fatias e depois cubra com o arroz restante. Cubra com mais arroz, hortelã, coentros e as cebolas reservadas. Polvilhe com a mistura de leite de curcuma para dar cor ao arroz.",
-        "Cubra com uma tampa e leve a lume médio até ver vapor a sair, depois marque 5 minutos.",
-        "Descubra, emprate com um aperto de limão e aproveite."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Coxa de Frango sem Pele"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Iogurte"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Arroz Basmati"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Cominhos"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Sementes de Coentros"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Cravo"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sementes de Funcho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Grãos de Pimenta Preta"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Vagem de Cardamomo Verde"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 3,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Noz-Moscada"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Vagem de Cardamomo"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pau de Canela"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Açúcar Branco"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Ghee"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Gengibre"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Malagueta Verde Comprida"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Hortelã"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Coentros"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Leite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

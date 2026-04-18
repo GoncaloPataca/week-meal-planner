@@ -33,133 +33,159 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "beef-mince",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Beef Mince"
     },
     {
+      "id": "white-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "white Onion"
     },
     {
+      "id": "carrot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "stick-celery",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "stick Celery"
     },
     {
+      "id": "fresh-rosemary",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Rosemary"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-thyme",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Thyme"
     },
     {
+      "id": "bay-leaf",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "bay Leaf"
     },
     {
+      "id": "red-wine",
       "amount": 250,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Red Wine"
     },
     {
+      "id": "chicken-stock",
       "amount": 500,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "plum-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plum Tomatoes"
     },
     {
+      "id": "milk",
       "amount": 300,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Milk"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "butter",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "plain-flour",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plain Flour"
     },
     {
+      "id": "milk",
       "amount": 1,
-      "unit": "l",
+      "unitId": "l",
       "item": "Milk"
     },
     {
+      "id": "ground-nutmeg",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Nutmeg"
     },
     {
+      "id": "parmesan",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "fresh-lasagne-sheet",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Lasagne Sheet"
     },
     {
+      "id": "low-moisture-mozzarella-cheese",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Low-Moisture Mozzarella Cheese"
     },
     {
+      "id": "fresh-parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "parmesan",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     }
   ],
@@ -192,183 +218,5 @@
   "calories": 810,
   "fat": 38,
   "carbs": 61,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "A Lasanha Perfeita",
-      "mealType": "jantar",
-      "ingredients": [
-        "800g Carne Picada de Vaca",
-        "2 Cebolas Brancas",
-        "2 Cenouras",
-        "2 Talos de Aipo",
-        "15g Alecrim Fresco",
-        "1 Dente de Alho",
-        "15g Tomilho Fresco",
-        "5 Folhas de Louro",
-        "250ml Vinho Tinto",
-        "500ml Caldo de Frango",
-        "1x 400g Lata de Tomates Pelados",
-        "300ml Leite",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "100g Manteiga",
-        "100g Farinha Simples",
-        "1L Leite",
-        "1 c. chá de Noz-Moscada Moída",
-        "20g Parmesão",
-        "Sal",
-        "Pimenta Preta",
-        "600g Folhas de Lasanha Fresca",
-        "250g Mozzarella de Baixo Teor de Humidade",
-        "25g Salsa Fresca",
-        "30g Parmesão"
-      ],
-      "steps": [
-        "Pré-aquece o forno a 150°C.",
-        "Aquece uma panela grande própria para forno ou um tacho em lume alto até ficar bem quente, depois adiciona um fio de azeite e esfarela a carne picada. Trabalha em partes se necessário e frita a carne até ficar muito crocante. Quanto mais cor, melhor, por isso leva o tempo que precisares!",
-        "Enquanto a carne aloura, coloca as cebolas, as cenouras e o aipo num robot de cozinha e tritura até obter uma pasta finamente picada. Rala o alho. Ata as ervas aromáticas num molhinho e reserva.",
-        "Quando a carne estiver bem alourads, retira-a da panela e adiciona a mistura de legumes. Tempera com sal e cozinha durante 13-15 minutos em lume médio. Deve reduzir em volume e ganhar um pouco de cor. Volta a adicionar a carne à panela e adiciona o vinho. Raspa todos os sabores do fundo da panela e reduz o vinho a metade.",
-        "Adiciona o molhinho de ervas e adiciona o caldo de frango, os tomates em lata e o leite. Leva a ferver, tapa e coloca no forno durante 2 horas e meia a 3 horas.",
-        "Entretanto, prepara o béchamel. Em lume médio, derrete a manteiga numa panela pequena e adiciona a farinha. Bate e cozinha durante 1-2 minutos até começar a cheirar a bolachas. Agora adiciona gradualmente o leite, certificando-te de que o incorporas totalmente entre cada adição. Quando todo o leite tiver sido adicionado, leva a ferver e tempera com sal, pimenta e noz-moscada. Retira do lume e incorpora o parmesão ralado. Tapa e reserva.",
-        "Retira o ragù do forno e ajusta o tempero com sal e pimenta. Deve ter reduzido significativamente e ter uma cor castanha intensa. Reserva.",
-        "Leva uma panela de água salgada a ferver e escalda as folhas de lasanha durante 1 minuto antes de as mergulhar em água com gelo. Rala grosseiramente a mozzarella, pica finamente a salsa e rala finamente o parmesão.",
-        "Aumenta a temperatura do forno para 200°C. Pega num tabuleiro de lasanha e começa a fazer as camadas. Começa com uma camada fina de ragù, depois massa, depois béchamel coberto com mozzarella ralada, salsa e parmesão, depois massa, depois ragù. Repete até usar todos os ingredientes.",
-        "Termina a camada de cima com béchamel, mozzarella e parmesão e coloca no forno durante 35-40 minutos. Deve sair borbulhante, com bordas crocantes e um topo dourado e bonito. Deixa repousar pelo menos 15 minutos antes de cortar e servir."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Carne Picada de Vaca"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebola Branca"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Talo de Aipo"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Alecrim Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Tomilho Fresco"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Folha de Louro"
-        },
-        {
-          "amount": 250,
-          "unit": "ml",
-          "item": "Vinho Tinto"
-        },
-        {
-          "amount": 500,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Pelados"
-        },
-        {
-          "amount": 300,
-          "unit": "ml",
-          "item": "Leite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Farinha Simples"
-        },
-        {
-          "amount": 1,
-          "unit": "l",
-          "item": "Leite"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Noz-Moscada em Pó"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Folhas de Lasanha Fresca"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Mozzarella de Baixo Teor de Humidade"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Parmesão"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

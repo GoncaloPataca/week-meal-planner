@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "kalamata-olives",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Kalamata Olives"
     },
     {
+      "id": "basil",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basil"
     },
     {
+      "id": "jarred-red-pepper",
       "amount": 7,
-      "unit": null,
+      "unitId": null,
       "item": "jarred Red Pepper"
     },
     {
+      "id": "pistachio",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pistachio"
     },
     {
+      "id": "cucumber",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "red-wine-vinegar",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Red Wine Vinegar"
     },
     {
+      "id": "olive-oil",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "cottage-cheese",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Cottage Cheese"
     }
   ],
@@ -99,86 +110,5 @@
   "calories": 420,
   "fat": 20,
   "carbs": 10,
-  "protein": 46,
-  "i18n": {
-    "pt": {
-      "name": "Salada Picada de Frango, Pimento e Pepino",
-      "ingredients": [
-        "4 Peitos de Frango",
-        "2c.sopa Azeitonas Kalamata",
-        "50g Manjericão",
-        "7 Pimentos Vermelhos em Frasco",
-        "15g Pistácios",
-        "2 Pepinos",
-        "4c.sopa Vinagre de Vinho Tinto",
-        "4c.sopa Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "4c.sopa Queijo Cottage"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C. Tempere os peitos de frango generosamente com sal e pimenta. Coloque-os num tabuleiro e leve ao forno durante 25 minutos. Deixe arrefecer depois de cozidos — a salada não precisa de estar quente.",
-        "Pique o manjericão, os pimentos vermelhos assados, os pepinos, os pistácios e o frango em pedaços de tamanho uniforme. Combine numa tigela e cubra com as azeitonas kalamata e o molho. Misture vigorosamente.",
-        "Sirva com uma colher de queijo cottage em cada porção e aproveite."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeitonas Kalamata"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Manjericão"
-        },
-        {
-          "amount": 7,
-          "unit": null,
-          "item": "Pimento Vermelho em Frasco"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Pistácio"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho Tinto"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Queijo Cottage"
-        }
-      ]
-    }
-  }
+  "protein": 46
 }

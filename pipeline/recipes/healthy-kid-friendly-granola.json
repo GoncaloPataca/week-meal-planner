@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "rolled-oat",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "mixed-seeds",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Seeds"
     },
     {
+      "id": "chopped-nut",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Nut"
     },
     {
+      "id": "whole-flaxseed",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Whole Flaxseed"
     },
     {
+      "id": "chia-seed",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chia Seed"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "ground-ginger",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Ginger"
     },
     {
+      "id": "coconut-oil",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Oil"
     },
     {
+      "id": "apple-juice",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Apple Juice"
     },
     {
+      "id": "honey",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "egg-white",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "egg White"
     },
     {
+      "id": "raisin",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raisin"
     }
   ],
@@ -105,95 +117,5 @@
   "calories": 380,
   "fat": 20,
   "carbs": 40,
-  "protein": 9,
-  "i18n": {
-    "pt": {
-      "name": "Granola Saudável para Crianças",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "500g de Flocos de Aveia",
-        "200g de Sementes Mistas",
-        "200g de Nozes Picadas",
-        "3 colheres de sopa de Linhaça Inteira",
-        "3 colheres de sopa de Sementes de Chia",
-        "2 colheres de chá de Canela em Pó",
-        "1 colher de chá de Gengibre em Pó",
-        "150ml de Óleo de Coco",
-        "100ml de Sumo de Maçã",
-        "3 colheres de sopa de Mel",
-        "3 Claras de Ovo",
-        "100g de Passas"
-      ],
-      "steps": [
-        "1 Porção de Adulto = 2 Porções de Criança\nPré-aqueça o forno a 160°C.",
-        "Pegue na maior tigela que tiver e junte os flocos de aveia, as sementes mistas, as nozes picadas, a linhaça e as sementes de chia. Adicione a canela e o gengibre — dão apenas um calor suave e doçura natural, nada picante.",
-        "Derreta o óleo de coco numa panela pequena em lume baixo. Verta para a tigela com o sumo de maçã, o mel ou xarope de ácer e as claras de ovo. Misture muito bem para ficarem uniformemente cobertos.",
-        "Forre um tabuleiro grande (ou dois menores) com papel vegetal. Espalhe a granola em camada uniforme e leve ao forno 30 a 40 minutos, mexendo a cada 10 minutos até ficar dourada e crocante. Deixe arrefecer completamente.",
-        "Depois de arrefecer, misture as passas e transfira para frascos ou recipientes herméticos.",
-        "Sirva!\nPrato para Crianças e Pais: Distribua a granola pelas tigelas com leite frio, iogurte, ou em cima de panquecas, o que funcionar melhor para a família."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Sementes Mistas"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Frutos Secos Picados"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Linhaça Inteira"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Gengibre em Pó"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Óleo de Coco"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Sumo de Maçã"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Clara de Ovo"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Passa"
-        }
-      ]
-    }
-  }
+  "protein": 9
 }

@@ -24,89 +24,106 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "flour",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Flour"
     },
     {
+      "id": "golden-breadcrumbs",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Golden Breadcrumbs"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "romaine-lettuce",
       "amount": 2,
-      "unit": "head",
+      "unitId": "head",
       "item": "Romaine Lettuce"
     },
     {
+      "id": "cornichon",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cornichon"
     },
     {
+      "id": "fresh-jalapeo",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "fresh Jalapeño"
     },
     {
+      "id": "fresh-parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "fresh-chive",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "mayonnaise",
       "amount": 8,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mayonnaise"
     },
     {
+      "id": "anchovy",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "anchovy"
     },
     {
+      "id": "garlic-clove",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "parmesan",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     }
   ],
@@ -134,126 +151,5 @@
   "calories": 720,
   "fat": 36,
   "carbs": 48,
-  "protein": 48,
-  "i18n": {
-    "pt": {
-      "name": "Schnitzel de Frango Caesar com Ervas",
-      "mealType": "jantar",
-      "ingredients": [
-        "4 Peitos de Frango",
-        "2 Ovos",
-        "100g de Farinha",
-        "150g de Pão Ralado Dourado",
-        "Óleo Vegetal (para servir)",
-        "Sal",
-        "Pimenta Preta",
-        "2 Cabeças de Alface Romana",
-        "50g de Cornichons",
-        "1 Jalapeño Fresco",
-        "25g de Salsa Fresca",
-        "25g de Cebolinho Fresco",
-        "8 colheres de sopa de Maionese",
-        "2 Anchovas",
-        "0,5 Dente de Alho",
-        "1 Limão",
-        "50g de Parmesão"
-      ],
-      "steps": [
-        "Estenda um pedaço de papel vegetal ou película aderente na superfície de trabalho. Coloque 1 peito de frango por cima, cubra com outro pedaço e bata com um rolo da massa até ter cerca de 3 mm de espessura. Repita com os restantes peitos.",
-        "Espalhe a farinha num tabuleiro e tempere com sal e pimenta. Parta os ovos noutro tabuleiro e bata, tempere com sal e pimenta. Por fim, espalhe o pão ralado num terceiro tabuleiro e tempere também.",
-        "Passe os peitos de frango um a um pela farinha, depois pelo ovo e depois pelo pão ralado para ficarem completamente cobertos. Leve ao frigorífico até estar pronto a fritar.",
-        "Adicione cerca de 1 cm de óleo a uma frigideira grande e aqueça em lume médio até cerca de 170°C. Coloque cuidadosamente os peitos de frango na frigideira, dois de cada vez, e frite cerca de 3 minutos de cada lado, regando enquanto cozinham, até o frango estar crocante e dourado. Retire da frigideira e escorra num passador forrado com papel de cozinha.",
-        "Para a salada, fatie a alface romana, depois corte finamente os cornichons e o jalapeño (retire as sementes se for muito picante). Transfira tudo para uma tigela grande. Pique a salsa e adicione à tigela, depois pique finamente o cebolinho e reserve.",
-        "Coloque a maionese, as anchovas, o alho e o sumo de limão num liquidificador. Triture até ficar liso e tempere com sal e pimenta preta generosa.",
-        "Quando estiver pronto para servir, envolva a salada com o molho. Sirva o schnitzel nos pratos, cubra com a salada e termine com parmesão ralado e o cebolinho."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Farinha"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Pão Ralado Dourado"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 2,
-          "unit": "cabeça",
-          "item": "Alface Romaine"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Cornichon"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Jalapeño Fresco"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": 8,
-          "unit": "c. sopa",
-          "item": "Maionese"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Anchova"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Parmesão"
-        }
-      ]
-    }
-  }
+  "protein": 48
 }

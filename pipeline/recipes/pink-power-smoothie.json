@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-strawberry",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Strawberry"
     },
     {
+      "id": "frozen-raspberry",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Raspberry"
     },
     {
+      "id": "pitted-frozen-cherries",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pitted Frozen Cherries"
     },
     {
+      "id": "banana",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "banana"
     },
     {
+      "id": "almond-milk",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Almond Milk"
     },
     {
+      "id": "skyr-natural-yoghurt",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skyr Natural Yoghurt"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     }
   ],
@@ -75,68 +83,5 @@
   "calories": 360,
   "fat": 4,
   "carbs": 50,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Smoothie Rosa de Frutas Vermelhas",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "100g de Morangos Congelados",
-        "75g de Framboesas Congeladas",
-        "50g de Cerejas Sem Caroço Congeladas",
-        "1 Banana",
-        "100ml de Leite de Amêndoa",
-        "60g de Skyr Natural",
-        "30g de Proteína em Pó de Baunilha",
-        "1 Lima"
-      ],
-      "steps": [
-        "Adicione os morangos, 50g das framboesas, as cerejas, a banana, o leite de amêndoa, o iogurte e a proteína em pó a um liquidificador. Rale a casca da lima e esprima o sumo.",
-        "Triture até ficar liso. Verta num copo.",
-        "Esmague as 25g restantes de framboesas congeladas com o dorso de uma colher e sirva por cima. Sirva imediatamente — frio, cremoso e cheio de frutas vermelhas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Morango Congelado"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Framboesa Congelada"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Cerejas Congeladas sem Caroço"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Leite de Amêndoa"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Skyr Natural"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

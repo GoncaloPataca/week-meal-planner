@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "white-miso",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Miso"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Crispy Chilli Oil"
     },
     {
+      "id": "chicken-breast",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Breast"
     },
     {
+      "id": "sweet-potato",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sweet Potato"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 160,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "frozen-shelled-edamame",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Shelled Edamame"
     },
     {
+      "id": "fresh-mint",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "sesame-seeds",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -121,108 +135,5 @@
   "calories": 490,
   "fat": 14,
   "carbs": 42,
-  "protein": 46,
-  "i18n": {
-    "pt": {
-      "name": "Frango Glaceado com Miso com Batata-Doce e Edamame",
-      "mealType": "almoço",
-      "ingredients": [
-        "1 Dente de Alho",
-        "2 colheres de sopa de Miso Branco",
-        "1 colher de sopa de Molho de Soja Claro",
-        "2 colheres de chá de Mel",
-        "1 colher de sopa de Óleo de Malagueta Crocante",
-        "300g de Peitos de Frango",
-        "300g de Batata-Doce",
-        "160g de Brócolos Tenderstem",
-        "100g de Edamame Descascado Congelado",
-        "5g de Hortelã Fresca",
-        "1 colher de chá de Sementes de Sésamo",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C.",
-        "Descasque e pique finamente o alho. Adicione a uma tigela rasa com a pasta de miso, o molho de soja, o mel e o óleo de malagueta crocante. Misture até ficar liso.",
-        "Faça cortes em xadrez nos peitos de frango para ajudar a marinada a penetrar e acelerar a cozedura. Adicione à tigela e cubra bem. Transfira para um tabuleiro de assar.",
-        "Descasque e corte as batatas-doces em pedaços de 3 cm, depois envolva na marinada.",
-        "Coloque as batatas no tabuleiro e leve ao forno. Asse 18 a 20 minutos, virando a batata-doce a meio.",
-        "Com 5 minutos para acabar, regue os brócolos com azeite e tempere com sal e pimenta. Adicione os brócolos e o edamame ao tabuleiro com o frango e a batata-doce.",
-        "Divida a batata-doce, o edamame, os brócolos e o frango pelos recipientes. Polvilhe com as folhas de hortelã e as sementes de sésamo. Depois de arrefecer, guarde e leve ao frigorífico — dura até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Malagueta Crocante"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Batata-Doce"
-        },
-        {
-          "amount": 160,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Edamame Descascado Congelado"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 46
 }

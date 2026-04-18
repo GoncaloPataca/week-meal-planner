@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-mixed-berries",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Mixed Berries"
     },
     {
+      "id": "lemon-juice",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Lemon Juice"
     },
     {
+      "id": "chia-seed",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chia Seed"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "skimmed-milk",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Skimmed Milk"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "egg-white",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Egg White"
     },
     {
+      "id": "slice-seeded-bread",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "slice Seeded Bread"
     },
     {
+      "id": "0-fat-greek-yoghurt",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "0% Fat Greek Yoghurt⁣"
     },
     {
+      "id": "peanut-butter",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Peanut Butter"
     },
     {
+      "id": "strawberry-jam",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Strawberry Jam"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "peanut",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Peanut"
     }
   ],
@@ -114,106 +128,5 @@
   "calories": 660,
   "fat": 16,
   "carbs": 90,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Torrada Francesa Proteica com Manteiga de Amendoim e Compota Caseira",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "400g Frutos Vermelhos Congelados Variados",
-        "1c.c. Sumo de Limão",
-        "1c.s. Semente de Chia",
-        "1c.c. Mel",
-        "40ml Leite Magro",
-        "15g Proteína em Pó de Baunilha",
-        "1 Ovo",
-        "3c.s. Clara de Ovo",
-        "3 Fatias de Pão com Sementes",
-        "1c.s. Iogurte Grego 0% Gordura",
-        "1,5c.s. Manteiga de Amendoim",
-        "1c.s. Compota de Morango",
-        "1c.c. Mel",
-        "5g Amendoim"
-      ],
-      "steps": [
-        "Deite os frutos vermelhos numa panela em lume médio. Cozinhe 5-7 min até ficarem suculentos, depois misture o sumo de limão e esmague até à consistência de compota desejada. Adicione as sementes de chia e o mel, cozinhe mais alguns minutos até engrossar, depois reserve para arrefecer.",
-        "Misture o leite e a proteína em pó num prato fundo para formar uma pasta. Junte o ovo e as claras, depois bata com a pasta de proteína até ficar suave.",
-        "Aqueça uma frigideira antiaderente e mergulhe ambos os lados de cada fatia de pão na mistura de ovo. Quando a frigideira estiver quente, adicione o pão embebido. Cozinhe em lume médio alguns minutos de cada lado.",
-        "Disponha as fatias num prato, depois adicione o iogurte, a manteiga de amendoim e a compota. Regue com mel e manteiga de amendoim extra, depois espalhe os amendoins esmagados por cima.",
-        "Monte e adicione os seus toppings!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Frutos Vermelhos Mistos Congelados"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sumo de Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Leite Magro"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Clara de Ovo"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Fatia de Pão com Sementes"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Iogurte Grego 0% de Gordura"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Compota de Morango"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Amendoim"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }

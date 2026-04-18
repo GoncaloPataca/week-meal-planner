@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skinless-chicken-thigh",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "skinless Chicken Thigh"
     },
     {
+      "id": "garlic-clove",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "oyster-sauce",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Oyster Sauce"
     },
     {
+      "id": "fresh-coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "coconut-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "thai-yellow-curry-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Thai Yellow Curry Paste"
     },
     {
+      "id": "water",
       "amount": 300,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "sugar",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "cooked-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice"
     },
     {
+      "id": "crispy-fried-onion",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Crispy Fried Onion"
     },
     {
+      "id": "chilli-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chilli Oil"
     }
   ],
@@ -122,111 +137,5 @@
   "calories": 620,
   "fat": 22,
   "carbs": 58,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Frango com Coco e Caril com Arroz",
-      "ingredients": [
-        "8 Coxas de Frango Sem Pele",
-        "1 Dente de Alho",
-        "4c.sopa Molho de Ostra",
-        "10g Coentros Frescos",
-        "400ml Leite de Coco",
-        "2c.sopa Pasta de Caril Amarelo Tailandês",
-        "300ml Água",
-        "2 Limas",
-        "0.5c.chá Açúcar",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "500g Arroz Cozido",
-        "25g Cebola Frita Crocante",
-        "Óleo de Malagueta"
-      ],
-      "steps": [
-        "Coloque o frango numa tigela. Rale o alho por cima, depois misture metade do molho de ostra. Tempere com sal e pimenta, depois reserve para marinar. Retire as folhas dos coentros e pique finamente os talos. Reserve.",
-        "Coloque uma panela em lume médio-alto. Quando estiver quente, adicione um pouco de leite de coco e cozinhe por alguns segundos. Misture os talos dos coentros, a pasta de caril e o restante molho de ostra até ficarem aromáticos. Adicione a água e o leite de coco restante, leve a ferver, depois reduza o lume e cozinhe em lume brando durante 10-15 minutos.",
-        "Entretanto, coloque uma frigideira com um fio de azeite em lume médio-alto. Quando estiver quente, cozinhe o frango marinado de ambos os lados, até estar ligeiramente tostado e cozido. Tempere o caldo com sumo de lima, sal, açúcar e pimenta.",
-        "Divida o arroz pelas tigelas, coloque o caldo por cima e termine com o frango fatiado. Regue com o óleo de malagueta e polvilhe com as cebolas fritas crocantes. Termine com as folhas de coentros."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Coxa de Frango sem Pele"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Molho de Ostra"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Caril Amarelo Tailandês"
-        },
-        {
-          "amount": 300,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Cebola Frita Crocante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Malagueta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

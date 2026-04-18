@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "fresh-ginger",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "watercress",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Watercress"
     },
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "soy-sauce",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "ground-white-pepper",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground White Pepper"
     },
     {
+      "id": "chicken-stock",
       "amount": 900,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Crispy Chilli Oil",
       "optional": true
     }
@@ -92,75 +101,5 @@
   "calories": 220,
   "fat": 10,
   "carbs": 4,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Sopa de Frango com Gengibre e Legumes em Caldo",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Cebolinhas Verdes",
-        "5g de Gengibre Fresco",
-        "2 Dentes de Alho",
-        "120g de Agrião",
-        "4 Coxas de Frango sem Osso e sem Pele",
-        "4 colheres de sopa de Molho de Soja",
-        "0,25 colher de chá de Pimenta Branca em Pó",
-        "900ml de Caldo de Frango",
-        "1 colher de chá de Óleo de Malagueta Crocante (opcional)"
-      ],
-      "steps": [
-        "Fatie finamente as cebolinhas verdes e rale finamente o gengibre e o alho. Coloque num recipiente próprio para congelador e cubra com o agrião. Coloque as coxas de frango por cima e verta o molho de soja, a pimenta branca e o caldo de frango. Feche e leve ao congelador.",
-        "Quando estiver pronto para cozinhar, transfira o bloco congelado para uma panela grande em lume médio. Leve a um fervilhar suave e cozinhe 15 a 20 minutos até o frango estar completamente cozido e tenro.",
-        "Com dois garfos, desfie o frango diretamente na panela.",
-        "Distribua a sopa pelas tigelas e termine com um fio de óleo de malagueta, se usar. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Agrião"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Pimenta Branca em Pó"
-        },
-        {
-          "amount": 900,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Malagueta Crocante"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

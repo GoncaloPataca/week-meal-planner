@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cooked-chicken",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Chicken"
     },
     {
+      "id": "cottage-cheese",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "pesto",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pesto"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "spinach",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "fresh-basil",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "spring-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "slice-sourdough",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -94,86 +105,5 @@
   "calories": 590,
   "fat": 26,
   "carbs": 38,
-  "protein": 46,
-  "i18n": {
-    "pt": {
-      "name": "Smash de Alta Proteína de Frango, Pesto e Tomate Seco",
-      "ingredients": [
-        "300g Frango Cozido",
-        "150g Queijo Cottage",
-        "60g Pesto",
-        "60g Tomate Seco",
-        "100g Tomate-Cereja",
-        "20g Espinafres",
-        "10g Manjericão Fresco",
-        "1 Cebolinha",
-        "2 Fatias de Pão de Fermentação Natural",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Desfie o frango cozido e adicione a uma tigela grande com o queijo cottage e o pesto. Misture até o frango estar bem envolvido.",
-        "Pique finamente o tomate seco e os espinafres, corte o tomate-cereja em quartos, rasgue o manjericão e corte finamente a cebolinha. Dobre tudo na mistura de frango, tempere com sal e pimenta preta e misture até estar bem combinado e espesso o suficiente para servir de colher.",
-        "Para servir, torre o pão e distribua generosamente a mistura sobre cada fatia. Guarde as sobras no frigorífico — duram até 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Frango Cozido"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Pesto"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 46
 }

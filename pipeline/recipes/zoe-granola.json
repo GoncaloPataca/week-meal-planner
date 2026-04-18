@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "slivered-almonds",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Slivered Almonds"
     },
     {
+      "id": "oat-bran",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Oat Bran"
     },
     {
+      "id": "pecans",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pecans"
     },
     {
+      "id": "mixed-seeds",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Seeds"
     },
     {
+      "id": "coconut-flake",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coconut Flake"
     },
     {
+      "id": "chia-seed",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chia Seed"
     },
     {
+      "id": "milled-flaxseed",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Milled Flaxseed"
     },
     {
+      "id": "psyllium-husk",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Psyllium Husk"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "coconut-oil",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Oil"
     },
     {
+      "id": "honey",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "almond-butter",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Almond Butter"
     }
   ],
@@ -104,97 +116,5 @@
   "calories": 335,
   "fat": 28,
   "carbs": 16,
-  "protein": 6,
-  "i18n": {
-    "pt": {
-      "name": "Granola ZOE",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "60g Amêndoas em Lâminas",
-        "100g Farelo de Aveia",
-        "100g Nozes Pecan",
-        "50g Sementes Mistas",
-        "40g Flocos de Coco",
-        "2 c. sopa de Sementes de Chia",
-        "2 c. sopa de Linhaça Moída",
-        "1 c. sopa de Casca de Psyllium",
-        "2 c. chá de Canela em Pó",
-        "100ml Óleo de Coco",
-        "4 c. sopa de Mel",
-        "1 c. sopa de Manteiga de Amêndoa"
-      ],
-      "steps": [
-        "Pré-aquece o forno a 160°C com ventilação.",
-        "Numa tigela grande, mistura todos os ingredientes secos (tudo exceto o óleo de coco, o mel e a manteiga de amêndoa) juntamente com uma pitada de sal.",
-        "Num jarro ou tigela separada, mistura o óleo de coco, o mel e a manteiga de amêndoa até estarem combinados.",
-        "Incorpora os ingredientes húmidos na mistura seca até tudo estar coberto.",
-        "Espalha a mistura de granola num tabuleiro forrado, pressionando-a numa camada plana e uniforme.",
-        "Assa durante 25 minutos, verificando a meio e virando se necessário para garantir que dourar uniformemente.",
-        "Deixa repousar durante 10 minutos e não toque na granola se quiseres pedaços grandes.",
-        "Quando a granola tiver arrefecido completamente, deve partir em pedaços grandes e deliciosos. Desfruta imediatamente ou guarda num frasco hermético até algumas semanas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Amêndoas em Lâminas"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Farelo de Aveia"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Nozes Pecan"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes Mistas"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Flocos de Coco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Linhaça Moída"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Casca de Psyllium"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Óleo de Coco"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amêndoa"
-        }
-      ]
-    }
-  }
+  "protein": 6
 }

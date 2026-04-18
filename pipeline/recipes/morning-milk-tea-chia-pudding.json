@@ -23,85 +23,101 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "english-breakfast-teabag",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "english Breakfast Teabag"
     },
     {
+      "id": "water",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "milk",
       "amount": 480,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Milk"
     },
     {
+      "id": "chia-seed",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "rolled-oat",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "hemp-seeds",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Hemp Seeds"
     },
     {
+      "id": "sea-salt",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sea Salt"
     },
     {
+      "id": "maple-syrup",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Maple Syrup",
       "note": "to serve"
     },
     {
+      "id": "greek-yoghurt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Greek Yoghurt",
       "note": "to serve"
     },
     {
+      "id": "pecans",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pecans"
     },
     {
+      "id": "olive-oil",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "sunflower-seeds",
       "amount": 45,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sunflower Seeds"
     },
     {
+      "id": "flaked-almond",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Flaked Almond"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "maple-syrup",
       "amount": 125,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Maple Syrup"
     },
     {
+      "id": "sea-salt",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sea Salt"
     }
   ],
@@ -128,117 +144,5 @@
   "calories": 480,
   "fat": 28,
   "carbs": 44,
-  "protein": 12,
-  "i18n": {
-    "pt": {
-      "name": "Pudim de Chia com Chá de Leite Matinal",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "6 Saquetas de Chá Inglês de Pequeno-Almoço",
-        "400ml de Água",
-        "480ml de Leite",
-        "100g de Sementes de Chia",
-        "250g de Flocos de Aveia",
-        "50g de Sementes de Cânhamo",
-        "0,25 colher de chá de Flor de Sal",
-        "Xarope de Ácer (para servir)",
-        "Iogurte Grego (para servir)",
-        "60g de Nozes-Pecã",
-        "6 colheres de sopa de Azeite",
-        "45g de Sementes de Girassol",
-        "40g de Amêndoas Laminadas",
-        "2 colheres de chá de Canela em Pó",
-        "125ml de Xarope de Ácer",
-        "0,25 colher de chá de Flor de Sal"
-      ],
-      "steps": [
-        "Verta a água, o sal e o leite numa panela e leve a ferver. Assim que ferver, adicione as saquetas de chá, depois retire a panela do lume e deixe o chá em infusão durante 4 a 5 minutos até ter uma infusão escura.",
-        "Coe a mistura de chá para uma tigela ou recipiente e tempere a gosto com xarope de ácer. Depois misture a chia, a aveia e as sementes de cânhamo. Tape e leve ao frigorífico por no mínimo 5 horas, idealmente durante a noite.",
-        "Entretanto, prepare as nozes com canela: Pique grosseiramente as nozes-pecã. Aqueça o óleo numa frigideira grande em lume médio. Assim que estiver quente, adicione as nozes-pecã, as sementes de girassol e as amêndoas laminadas e cozinhe, mexendo, até ficarem tostadas e douradas. Retire do lume e misture a canela, o sal e o xarope de ácer. Transfira para um frasco ou recipiente e feche com uma tampa. Leve ao frigorífico até estar pronto a usar.",
-        "Para servir, coloque a mistura de aveia nas tigelas (misture um pouco de leite se tiver engrossado demais). Sirva com uma colherada de iogurte grego e cubra com a mistura de nozes com canela e ácer."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Saqueta de Chá English Breakfast"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 480,
-          "unit": "ml",
-          "item": "Leite"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes de Cânhamo"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Sal Marinho"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Nozes Pecan"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 45,
-          "unit": "g",
-          "item": "Sementes de Girassol"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Amêndoa em Lâminas"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 125,
-          "unit": "ml",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Sal Marinho"
-        }
-      ]
-    }
-  }
+  "protein": 12
 }

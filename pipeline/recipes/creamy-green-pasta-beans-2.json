@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "butter-beans",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter Beans"
     },
     {
+      "id": "pasta",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pasta"
     },
     {
+      "id": "cavolo-nero",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cavolo Nero"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Olive Oil"
     },
     {
+      "id": "edamame",
       "amount": 160,
-      "unit": "g",
+      "unitId": "g",
       "item": "Edamame"
     },
     {
+      "id": "fresh-basil",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -93,77 +102,5 @@
   "calories": 530,
   "fat": 10,
   "carbs": 76,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Massa Verde Cremosa com Feijão",
-      "ingredients": [
-        "2x 400g Lata de Feijão Manteiga",
-        "100g Massa",
-        "100g Couve Negra",
-        "4 Dentes de Alho",
-        "1c.chá Azeite",
-        "160g Edamame",
-        "10g Manjericão Fresco",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Escorra e lave o feijão manteiga. Retire as folhas da couve negra dos talos e pique grosseiramente. Pique finamente o alho.",
-        "Leve uma panela grande com água salgada a ferver e coza a massa de acordo com as instruções da embalagem. Quando cozida, escorra e reserve a água de cozedura.",
-        "Enquanto a massa cozinha, aqueça o azeite numa frigideira grande em lume médio. Adicione o alho e cozinhe durante 1-2 minutos até ficar aromático.",
-        "Adicione a couve negra e o edamame à frigideira com uma boa pitada de sal. Coloque uma tampa e cozinhe durante 3-5 minutos, até as folhas terem murchado e o edamame estar verde vivo.",
-        "Transfira os legumes cozidos para um liquidificador com algumas colheres de feijão manteiga e um pouco de água de cozedura da massa. Bata até ficar suave, adicionando mais água conforme necessário. Tempere a gosto com sal e pimenta preta.",
-        "Misture o molho verde com a massa juntamente com o feijão manteiga restante. Divida pelos recipientes e cubra com o manjericão e pimenta preta. Depois de frio, feche e guarde no frigorífico — duram até 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Feijão Manteiga"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Massa"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Couve Cavolo Nero"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Azeite"
-        },
-        {
-          "amount": 160,
-          "unit": "g",
-          "item": "Edamame"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

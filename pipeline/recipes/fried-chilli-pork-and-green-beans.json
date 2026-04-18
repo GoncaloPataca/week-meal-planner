@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "red-chilli",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "green-bean",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Green Bean"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "pork-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pork Mince"
     },
     {
+      "id": "soy-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "cornflour",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Cornflour"
     },
     {
+      "id": "water",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "sugar",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "water",
       "amount": 300,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "egg-noodle",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Egg Noodle"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "ground-white-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Ground White Pepper"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     }
   ],
@@ -121,109 +135,5 @@
   "calories": 520,
   "fat": 24,
   "carbs": 44,
-  "protein": 32,
-  "i18n": {
-    "pt": {
-      "name": "Porco Frito com Malagueta e Feijão Verde",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Malaguetas Vermelhas",
-        "4 Dentes de Alho",
-        "200g de Feijão Verde",
-        "4 Cebolinhas Verdes",
-        "500g de Carne de Porco Picada",
-        "3 colheres de sopa de Molho de Soja",
-        "1 colher de sopa de Amido de Milho",
-        "1 colher de sopa de Água",
-        "2 colheres de chá de Açúcar",
-        "300ml de Água",
-        "250g de Massa de Ovo",
-        "Sal",
-        "Pimenta Branca em Pó",
-        "Óleo Vegetal"
-      ],
-      "steps": [
-        "Fatie finamente as malaguetas vermelhas. Pique finamente o alho. Retire as pontas do feijão verde e corte ao meio. Corte as cebolinhas verdes em pedaços de 4 cm.",
-        "Aqueça um wok em lume médio com um fio de óleo vegetal. Junte a carne de porco e tempere com sal. Salteie durante cerca de 5 minutos até a carne estar dourada e o líquido ter evaporado. Transfira para uma tigela e reserve.",
-        "Adicione o feijão verde, a malagueta fatiada e as cebolinhas verdes à mesma frigideira e frite 3 minutos até amolecerem e ficarem levemente tostados. Adicione o alho e cozinhe 30 segundos.",
-        "Volte a juntar a carne de porco à frigideira com o molho de soja, o açúcar e uma pitada de pimenta branca. Verta a água e deixe fervilhar suavemente.",
-        "Leve uma panela de água a ferver. Coza a massa conforme as instruções da embalagem e escorra.",
-        "Misture o amido de milho com um pouco de água para fazer uma pasta e verta para a mistura de carne. Mexa bem.",
-        "Deixe o molho engrossar e os sabores combinarem, fervendo 3 minutos. Ajuste o tempero se necessário.",
-        "Misture a massa na mistura de carne e distribua pelos pratos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Feijão Verde"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Carne Picada de Porco"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Farinha Maizena"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 300,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Noodles de Ovo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Branca em Pó"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        }
-      ]
-    }
-  }
+  "protein": 32
 }

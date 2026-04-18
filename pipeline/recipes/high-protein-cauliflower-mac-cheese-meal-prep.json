@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "macaroni",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Macaroni"
     },
     {
+      "id": "cauliflower",
       "amount": 625,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cauliflower"
     },
     {
+      "id": "silken-tofu",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Silken Tofu"
     },
     {
+      "id": "50-reduced-fat-cheddar",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "50% Reduced-Fat Cheddar⁣"
     },
     {
+      "id": "grated-parmesan",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Grated Parmesan"
     },
     {
+      "id": "dijon-mustard",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dijon Mustard"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Olive Oil"
     },
     {
+      "id": "garlic-powder",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "ground-nutmeg",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Nutmeg"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -109,96 +121,5 @@
   "calories": 490,
   "fat": 16,
   "carbs": 44,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Macarrão com Queijo e Couve-Flor de Alta Proteína",
-      "mealType": "almoço",
-      "ingredients": [
-        "100g de Macarrão",
-        "625g de Couve-Flor",
-        "600g de Tofu Sedoso",
-        "120g de Queijo Cheddar com 50% Menos Gordura",
-        "30g de Parmesão Ralado",
-        "2 colheres de chá de Mostarda de Dijon",
-        "2 colheres de chá de Azeite",
-        "0,5 colher de chá de Alho em Pó",
-        "0,5 colher de chá de Noz-Moscada em Pó",
-        "10g de Salsa Fresca",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C. Leve uma panela grande de água salgada a ferver.",
-        "Corte a couve-flor em raminhos, envolva com azeite, sal e pimenta e asse 15 minutos até estar tenra e dourada. Rale os queijos.",
-        "Adicione a massa à água salgada a ferver e cozinhe conforme as instruções da embalagem. Escorra, reservando um pouco da água de cozedura.",
-        "Num liquidificador, misture o tofu sedoso, a mostarda de Dijon, o alho em pó, o parmesão e uma pitada de noz-moscada. Tempere bem com sal e pimenta e triture até ficar liso e cremoso.",
-        "Volte a colocar a massa e a couve-flor assada na panela. Verta o molho de tofu e mexa para envolver. Adicione a maior parte dos queijos (reservando um pouco para o topo) e aqueça suavemente durante alguns minutos até o queijo derreter, soltando com um pouco da água de cozedura se necessário.",
-        "Transfira para um recipiente de forno, polvilhe com o queijo restante e leve ao forno 10 minutos até ficar dourado e borbulhante. Pique finamente a salsa.",
-        "Distribua pelos recipientes, cubra com salsa picada e pimenta preta moída. Depois de arrefecer, guarde e leve ao frigorífico — dura até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Macarrão"
-        },
-        {
-          "amount": 625,
-          "unit": "g",
-          "item": "Couve-Flor"
-        },
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Tofu Sedoso"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Cheddar com 50% Menos Gordura"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Parmesão Ralado"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Mostarda Dijon"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Azeite"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Noz-Moscada em Pó"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

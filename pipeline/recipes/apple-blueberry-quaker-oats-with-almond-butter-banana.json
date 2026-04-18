@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "blueberry",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Blueberry"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "apple-blueberry-quaker-oats-sachet",
       "amount": 144,
-      "unit": "g",
+      "unitId": "g",
       "item": "Apple & Blueberry Quaker Oats Sachet"
     },
     {
+      "id": "milk",
       "amount": 750,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Milk"
     },
     {
+      "id": "banana",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "banana"
     },
     {
+      "id": "almond",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Almond"
     },
     {
+      "id": "almond-butter",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Almond Butter"
     }
   ],
@@ -75,69 +83,5 @@
   "calories": 360,
   "fat": 12,
   "carbs": 40,
-  "protein": 12,
-  "i18n": {
-    "pt": {
-      "name": "Papas Quaker de Maçã e Mirtilo com Manteiga de Amêndoa e Banana",
-      "ingredients": [
-        "150g Mirtilos",
-        "1 Limão",
-        "1c.sopa Xarope de Ácer",
-        "144g Saqueta Quaker Oats de Maçã e Mirtilo",
-        "750ml Leite",
-        "1 Banana",
-        "10g Amêndoa",
-        "2c.sopa Manteiga de Amêndoa"
-      ],
-      "steps": [
-        "Para o composto de mirtilo, adicione 100g de mirtilos, a raspa e o sumo de limão e o xarope de ácer a um tacho. Cozinhe em lume médio durante 5 minutos até ficar em compota.",
-        "Num tacho separado, adicione as saquetas Quaker Oats de Maçã e Mirtilo com o leite e cozinhe durante 2 minutos ou até o leite ser absorvido, mexendo ocasionalmente.",
-        "Fatie as bananas e pique grosseiramente as amêndoas.",
-        "Distribua as papas pelas tigelas, envolva uma colher de sopa do composto de mirtilo, coloque as rodelas de banana, regue com a manteiga de amêndoa e termine com as amêndoas grosseiramente picadas e os mirtilos frescos restantes."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Mirtilo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 144,
-          "unit": "g",
-          "item": "Saqueta de Aveia Quaker de Maçã e Mirtilo"
-        },
-        {
-          "amount": 750,
-          "unit": "ml",
-          "item": "Leite"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Amêndoa"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amêndoa"
-        }
-      ]
-    }
-  }
+  "protein": 12
 }

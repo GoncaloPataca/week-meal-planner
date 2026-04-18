@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "slice-sourdough",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough"
     },
     {
+      "id": "brie",
       "amount": 330,
-      "unit": "g",
+      "unitId": "g",
       "item": "Brie"
     },
     {
+      "id": "blueberry",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Blueberry"
     },
     {
+      "id": "rasher-smoked-streaky-bacon",
       "amount": 16,
-      "unit": null,
+      "unitId": null,
       "item": "rasher Smoked Streaky Bacon"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "icing-sugar",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Icing Sugar"
     },
     {
+      "id": "maple-syrup",
       "amount": 8,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "butter",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "red-wine-vinegar",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Red Wine Vinegar"
     },
     {
+      "id": "milk",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Milk"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -105,99 +118,5 @@
   "calories": 1300,
   "fat": 75,
   "carbs": 90,
-  "protein": 58,
-  "i18n": {
-    "pt": {
-      "name": "Tosta Francesa com Bacon, Brie e Mirtilos",
-      "ingredients": [
-        "8 Fatias de Pão de Fermentação Natural",
-        "330g Brie",
-        "250g Mirtilos",
-        "16 Fatias de Bacon Fumado",
-        "4 Ovos",
-        "3c.sopa Açúcar em Pó",
-        "8c.sopa Xarope de Ácer",
-        "80g Manteiga",
-        "3c.sopa Vinagre de Vinho Tinto",
-        "4c.sopa Leite",
-        "1c.sopa Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Coloque os mirtilos num tacho pequeno com o vinagre de vinho tinto e aqueça suavemente até os mirtilos rebentarem — dê-lhes uma pequena amassada para fazer uma compota solta.",
-        "Aqueça o azeite numa frigideira grande em lume médio e adicione o bacon. Cozinhe até ficar bem dourado, cerca de 5 minutos, depois retire e escorra em papel de cozinha.",
-        "Bata os ovos com o leite e tempere com sal e pimenta, depois fatie o brie. Limpe a frigideira do bacon e adicione a manteiga, derretendo em lume médio. Mergulhe rapidamente uma fatia de pão na mistura de ovo e coloque na frigideira com manteiga; disponha as fatias de brie, por cima o bacon e uma colher de compota de mirtilo. Repita com outra fatia de pão, e quando a fatia de baixo estiver dourada, vire cuidadosamente e cozinhe.",
-        "Corte ao meio e sirva imediatamente coberto com xarope de ácer e açúcar em pó."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        },
-        {
-          "amount": 330,
-          "unit": "g",
-          "item": "Brie"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Mirtilo"
-        },
-        {
-          "amount": 16,
-          "unit": null,
-          "item": "Fatia de Bacon Fumado"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Açúcar em Pó"
-        },
-        {
-          "amount": 8,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho Tinto"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Leite"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 58
 }

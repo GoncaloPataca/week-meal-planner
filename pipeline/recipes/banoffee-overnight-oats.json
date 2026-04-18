@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pitted-medjool-dates",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pitted Medjool Dates"
     },
     {
+      "id": "oat-milk",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Oat Milk"
     },
     {
+      "id": "vanilla-extract",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vanilla Extract"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "peanut-butter",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Peanut Butter"
     },
     {
+      "id": "sea-salt",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "Sea Salt"
     },
     {
+      "id": "water",
       "amount": 5,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water",
       "optional": true
     },
     {
+      "id": "jumbo-oat",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jumbo Oat"
     },
     {
+      "id": "whole-flaxseed",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Whole Flaxseed"
     },
     {
+      "id": "oat-milk",
       "amount": 320,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Oat Milk"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "banana",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "banana"
     },
     {
+      "id": "greek-yoghurt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Greek Yoghurt"
     },
     {
+      "id": "granola",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Granola"
     }
   ],
@@ -114,106 +128,5 @@
   "calories": 250,
   "fat": 6,
   "carbs": 34,
-  "protein": 5,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna Banoffee",
-      "ingredients": [
-        "150g Tâmaras Medjool sem Caroço",
-        "150ml Leite de Aveia",
-        "1c.chá Extrato de Baunilha",
-        "1c.sopa Xarope de Ácer",
-        "70g Manteiga de Amendoim",
-        "1 Pitada de Sal Marinho",
-        "5ml Água (opcional)",
-        "150g Aveia em Flocos Grossos",
-        "3c.sopa Linhaça Inteira",
-        "320ml Leite de Aveia",
-        "150g Iogurte Grego",
-        "4 Banana",
-        "Iogurte Grego",
-        "4c.sopa Granola"
-      ],
-      "steps": [
-        "Primeiro, demolhe as tâmaras em água a ferver durante 30 minutos, depois escorra-as.",
-        "Triture as tâmaras com o leite de aveia, a baunilha, o xarope de ácer, a manteiga de amendoim e uma pitada de sal até ficar suave. Adicione um pouco de água se necessário para soltar a mistura.",
-        "Misture a aveia, as sementes de linhaça, o iogurte grego e o leite de aveia numa tigela. Misture bem, depois cubra e reserve para demolhar.",
-        "Fatie as bananas.",
-        "Pegue em copos ou frascos e comece a montar camadas. Coloque uma colher de aveia no fundo, seguida de uma colher de molho de caramelo de tâmara e algumas rodelas de banana. Repita as camadas em cada copo até usar tudo. Termine com uma colherada de iogurte grego (se usar) e granola. Guarde no frigorífico durante a noite, pronto para o pequeno-almoço de amanhã."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Tâmaras Medjool sem Caroço"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Leite de Aveia"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Extrato de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "Sal Marinho"
-        },
-        {
-          "amount": 5,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Flocos de Aveia Grandes"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Linhaça Inteira"
-        },
-        {
-          "amount": 320,
-          "unit": "ml",
-          "item": "Leite de Aveia"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Granola"
-        }
-      ]
-    }
-  }
+  "protein": 5
 }

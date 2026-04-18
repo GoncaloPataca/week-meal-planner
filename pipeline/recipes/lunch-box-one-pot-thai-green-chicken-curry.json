@@ -24,92 +24,109 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "vegetable-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegetable Oil"
     },
     {
+      "id": "thai-green-curry-paste",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Thai Green Curry Paste"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sugar"
     },
     {
+      "id": "coconut-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "fish-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "chicken-stock",
       "amount": 200,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Boneless Skinless Chicken Thigh"
     },
     {
+      "id": "baby-corn",
       "amount": 175,
-      "unit": "g",
+      "unitId": "g",
       "item": "Baby Corn"
     },
     {
+      "id": "mangetout",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mangetout"
     },
     {
+      "id": "fresh-coriander",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "cooked-rice",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice",
       "note": "to serve"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime",
       "note": "to serve"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli",
       "note": "to serve"
     },
     {
+      "id": "crispy-shallot",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Crispy Shallot",
       "note": "to serve"
     },
     {
+      "id": "fresh-coriander",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fresh Coriander",
       "note": "to serve"
     }
@@ -140,126 +157,5 @@
   "calories": 620,
   "fat": 36,
   "carbs": 20,
-  "protein": 52,
-  "i18n": {
-    "pt": {
-      "name": "Caril Verde Tailandês de Frango Numa Panela",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 colheres de sopa de Óleo Vegetal",
-        "70g de Pasta de Caril Verde Tailandês",
-        "1 colher de sopa de Açúcar",
-        "400ml de Leite de Coco",
-        "3 colheres de sopa de Molho de Peixe",
-        "200ml de Caldo de Frango",
-        "500g de Coxas de Frango sem Osso e sem Pele",
-        "175g de Mini-Milho",
-        "150g de Ervilha-Torta",
-        "30g de Coentros Frescos",
-        "Sal",
-        "Pimenta Preta",
-        "300g de Arroz Cozido (para servir)",
-        "1 Lima (para servir)",
-        "1 Malagueta Vermelha (para servir)",
-        "Chalota Crocante (para servir)",
-        "Coentros Frescos (para servir)"
-      ],
-      "steps": [
-        "Corte as coxas de frango em pedaços. Apare o mini-milho e a ervilha-torta. Corte a malagueta vermelha em fatias finas. Separe as folhas de coentros para decorar e corte a lima em gomos.",
-        "Coloque uma panela grande em lume médio. Verta metade do leite de coco e cozinhe 5 minutos até a gordura começar a separar e cheirar a tostado.",
-        "Adicione a pasta de caril verde tailandês e mexa mais 5 minutos até ficar mais escuro e muito aromático. Adicione o frango e cozinhe 3 a 4 minutos até estar apenas selado.",
-        "Polvilhe com o açúcar e deixe borbulhar e caramelizar 2 minutos. Verta metade do molho de peixe e raspe os pedaços pegajosos.",
-        "Adicione o restante leite de coco e o caldo de frango. Leve a um fervilhar suave e cozinhe 15 minutos até engrossar ligeiramente e o frango estar cozido.",
-        "Adicione o mini-milho e a ervilha-torta nos últimos 2 minutos. Misture a maior parte dos coentros e o restante molho de peixe. Prove e tempere.",
-        "Sirva sobre arroz cozido e cubra com malagueta fresca, chalotas crocantes, folhas de coentros e um gomo de lima."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Pasta de Caril Verde Tailandês"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 200,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 175,
-          "unit": "g",
-          "item": "Mini Milho"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Ervilhas de Quebrar"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Chalota Crocante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Coentros Frescos"
-        }
-      ]
-    }
-  }
+  "protein": 52
 }

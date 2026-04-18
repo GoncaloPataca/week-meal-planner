@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "freshly-ground-coffee",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Freshly Ground Coffee"
     },
     {
+      "id": "boiling-water",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Boiling Water"
     },
     {
+      "id": "oats",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Oats"
     },
     {
+      "id": "maple-syrup",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "oat-milk",
       "amount": 240,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Oat Milk"
     },
     {
+      "id": "shelled-hemp-seeds",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Shelled Hemp Seeds"
     },
     {
+      "id": "vanilla-extract",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vanilla Extract"
     },
     {
+      "id": "sea-salt",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sea Salt"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "oat-milk",
       "amount": 55,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Oat Milk"
     },
     {
+      "id": "vanilla-extract",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vanilla Extract"
     },
     {
+      "id": "cocoa-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cocoa Powder"
     }
   ],
@@ -116,105 +130,5 @@
   "calories": 380,
   "fat": 14,
   "carbs": 40,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna de Tiramisu com Alta Proteína",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "25g de Café Moído Fresco",
-        "100ml de Água a Ferver",
-        "200g de Flocos de Aveia",
-        "2 colheres de sopa de Xarope de Ácer",
-        "240ml de Leite de Aveia",
-        "120g de Sementes de Cânhamo Descascadas",
-        "1 colher de chá de Extrato de Baunilha",
-        "0,5 colher de chá de Flor de Sal",
-        "4 colheres de sopa de Proteína em Pó de Baunilha",
-        "350g de Iogurte Grego",
-        "1 colher de sopa de Xarope de Ácer",
-        "55ml de Leite de Aveia",
-        "1 colher de chá de Extrato de Baunilha",
-        "1 colher de chá de Cacau em Pó"
-      ],
-      "steps": [
-        "Comece por preparar o café. Misture o café moído com a água a ferver.",
-        "Para a base, adicione a aveia, o café, o xarope de ácer, o leite de aveia, as sementes de cânhamo, o extrato de baunilha, o sal e a proteína em pó (se usar) a uma tigela grande. Misture bem e verta num tabuleiro, ou em copos individuais. Deixe repousar 20 a 30 minutos.",
-        "Para o topping, misture o iogurte grego, o xarope de ácer, o leite de aveia e o extrato de baunilha noutra tigela. Verta o topping por cima da base de aveia e reserve no frigorífico durante a noite.",
-        "Na manhã seguinte, retire a aveia do frigorífico e polvilhe com cacau em pó."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Café Moído Fresco"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Água a Ferver"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Aveia"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 240,
-          "unit": "ml",
-          "item": "Leite de Aveia"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Sementes de Cânhamo Descascadas"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Extrato de Baunilha"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sal Marinho"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 55,
-          "unit": "ml",
-          "item": "Leite de Aveia"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Extrato de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cacau em Pó"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

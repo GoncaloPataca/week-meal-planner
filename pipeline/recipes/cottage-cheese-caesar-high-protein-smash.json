@@ -23,84 +23,100 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cooked-chicken-breast",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Chicken Breast"
     },
     {
+      "id": "cottage-cheese",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "anchovy",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "anchovy"
     },
     {
+      "id": "dijon-mustard",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dijon Mustard"
     },
     {
+      "id": "garlic-clove",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "parmesan",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "worcestershire-sauce",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Worcestershire Sauce"
     },
     {
+      "id": "pickled-jalapeo",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pickled Jalapeño"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "fresh-basil",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion",
       "optional": true
     },
     {
+      "id": "slice-sourdough",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -126,117 +142,5 @@
   "calories": 470,
   "fat": 16,
   "carbs": 36,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Smash de Alta Proteína Caesar de Frango e Jalapeño",
-      "ingredients": [
-        "100g Peito de Frango Cozido",
-        "100g Queijo Cottage",
-        "60g Iogurte Grego",
-        "3 Anchovas",
-        "1c.chá Mostarda de Dijon",
-        "1 Dente de Alho",
-        "30g Parmesão",
-        "2c.chá Molho Worcestershire",
-        "30g Jalapeño em Conserva",
-        "0.5 Limão",
-        "100g Tomate-Cereja",
-        "10g Manjericão Fresco",
-        "1 Cebola Roxa (opcional)",
-        "2 Fatias de Pão de Fermentação Natural",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente o peito de frango em pedaços pequenos para que se misture facilmente, depois adicione a uma tigela grande com o queijo cottage e o iogurte.",
-        "Pique finamente os filetes de anchova e os jalapeños e corte os tomates-cereja ao meio. Rale o alho e rale finamente o parmesão. Adicione à tigela juntamente com a mostarda de Dijon, o molho Worcestershire, o sumo do limão e rasgue as folhas de manjericão. Se usar, pique finamente um pouco de cebola roxa e adicione também.",
-        "Misture tudo até ficar cremoso mas ainda com textura. Tempere com sal e bastante pimenta preta e mexa até ficar espesso e servível de colher.",
-        "Torre o pão, depois amontoar generosamente a mistura por cima e sirva. As sobras conservam-se no frigorífico até três dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Peito de Frango Cozido"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Anchova"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mostarda Dijon"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Molho Worcestershire"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Jalapeño em Conserva"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "black-bean",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Black Bean"
     },
     {
+      "id": "tomato-pure",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "fresh-oregano",
       "amount": 2,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Oregano"
     },
     {
+      "id": "water",
       "amount": 50,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "feta",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "fresh-coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     }
   ],
@@ -97,83 +107,5 @@
   "calories": 380,
   "fat": 16,
   "carbs": 30,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Feijão e Ovos de Alta Proteína para o Pequeno-Almoço",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "2 Latas de 400g de Feijão Preto",
-        "2 colheres de sopa de Concentrado de Tomate",
-        "1 Cebola",
-        "2 Dentes de Alho",
-        "2g de Orégãos Frescos",
-        "50ml de Água",
-        "150g de Feta",
-        "1 Lima",
-        "10g de Coentros Frescos",
-        "4 Ovos"
-      ],
-      "steps": [
-        "Separe as folhas das ervas, pique finamente os talos dos coentros e descarte os talos dos orégãos. Pique finamente a cebola e rale finamente o alho.",
-        "Coloque uma frigideira em lume médio-alto com um fio de azeite. Quando estiver quente, adicione a cebola e cozinhe até ficar translúcida, 4 a 6 minutos. Depois adicione os talos de coentros, os orégãos, o alho e o concentrado de tomate. Cozinhe, mexendo, até o concentrado de tomate escurecer, 2 a 3 minutos.",
-        "Verta o feijão com o líquido da lata para o concentrado de tomate com a água. Leve a ferver e reduza o lume para baixo. Deixe fervilhar até ficar cremoso e espesso, 6 a 10 minutos.",
-        "Entretanto, coloque uma panela de água a ferver. Quando ferver, coloque suavemente os ovos e cozinhe até ficarem cozidos com a gema mole, 6 a 7 minutos, ou mais se preferir bem cozidos. Transfira para uma tigela com água gelada para parar a cozedura. Deixe arrefecer antes de descascar.",
-        "Prove e tempere o feijão e distribua pelos recipientes. Cubra com o feta, um ovo cozido e um gomo de lima.",
-        "Para reaquecer, retire o ovo ou corte-o ao meio antes de aquecer no micro-ondas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Feijão Preto"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "g",
-          "item": "Orégãos Frescos"
-        },
-        {
-          "amount": 50,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-blueberries",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Blueberries"
     },
     {
+      "id": "frozen-blackberry",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Blackberry"
     },
     {
+      "id": "frozen-banana",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Banana"
     },
     {
+      "id": "almond-milk",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Almond Milk"
     },
     {
+      "id": "skyr-natural-yoghurt",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skyr Natural Yoghurt"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "almond-butter",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Almond Butter"
     },
     {
+      "id": "chia-seed",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "fresh-berries",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fresh Berries"
     },
     {
+      "id": "granola",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Granola"
     },
     {
+      "id": "flaked-almond",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Flaked Almond"
     },
     {
+      "id": "almond-butter",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Almond Butter"
     },
     {
+      "id": "chia-seed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chia Seed"
     }
   ],
@@ -111,104 +125,5 @@
   "calories": 460,
   "fat": 12,
   "carbs": 42,
-  "protein": 37,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Smoothie de Mirtilo e Amêndoa",
-      "ingredients": [
-        "100g Mirtilos Congelados",
-        "50g Amoras Congeladas",
-        "50g Banana Congelada",
-        "40ml Leite de Amêndoa",
-        "60g Iogurte Skyr Natural",
-        "30g Proteína com Baunilha em Pó",
-        "15g Manteiga de Amêndoa",
-        "10g Sementes de Chia",
-        "1 Lima",
-        "Frutos Silvestres Frescos",
-        "Granola",
-        "Amêndoa Laminada",
-        "Manteiga de Amêndoa",
-        "Sementes de Chia"
-      ],
-      "steps": [
-        "Coloque os mirtilos, as amoras, a banana, o leite, o iogurte, a proteína em pó, a manteiga de amêndoa, o sumo de lima e as sementes de chia num liquidificador.",
-        "Comece a bater em velocidade baixa. Use o calcador para empurrar tudo para baixo — ficará espesso. Adicione 10ml de leite de cada vez apenas se realmente não bater.",
-        "Coloque numa tigela e cubra com as suas coberturas favoritas — frutos silvestres frescos, granola, amêndoas, sementes ou outro fio de manteiga de amêndoa."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Mirtilos Congelados"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Amora Congelada"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Banana Congelada"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Leite de Amêndoa"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Skyr Natural"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Manteiga de Amêndoa"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Frutos Vermelhos Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Granola"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Amêndoa em Lâminas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Manteiga de Amêndoa"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Chia"
-        }
-      ]
-    }
-  }
+  "protein": 37
 }

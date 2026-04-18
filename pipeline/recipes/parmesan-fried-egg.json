@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "shallot",
       "amount": 0.25,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "fresh-jalapeo",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "fresh Jalapeño"
     },
     {
+      "id": "lime",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "fresh-coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "flaky-sea-salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Flaky Sea Salt"
     },
     {
+      "id": "mature-cheddar-cheese",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mature Cheddar Cheese"
     },
     {
+      "id": "parmesan",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "corn-tortilla",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "corn Tortilla"
     }
   ],
@@ -85,77 +94,5 @@
   "calories": 270,
   "fat": 16,
   "carbs": 16,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Ovo Estrelado com Parmesão e Salsa de Jalapeño",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "0,25 Chalota",
-        "1 Jalapeño Fresco",
-        "0,5 Lima",
-        "10g de Coentros Frescos",
-        "Sal Grosso",
-        "25g de Queijo Cheddar Curado",
-        "5g de Parmesão",
-        "1 Ovo",
-        "1 Tortilha de Milho"
-      ],
-      "steps": [
-        "Prepare primeiro a salsa picando finamente a chalota e o jalapeño antes de os combinar numa tigela pequena. Polvilhe com uma pitada de sal e deixe 5 minutos, depois misture o sumo de lima, o azeite e os coentros finamente picados.",
-        "Rale grosseiramente o cheddar curado e rale finamente o parmesão. Quando estiver pronto para comer, disponha o cheddar numa pilha do tamanho de um ovo estrelado numa frigideira de ferro fundido bem temperada ou noutra frigideira antiaderente e coloque em lume médio. Polvilhe o parmesão por cima. Faça uma cavidade no meio como ponto de aterragem.",
-        "Parta o ovo na área pretendida antes do queijo estar completamente derretido, depois frite 2,5 minutos (ou um pouco mais) até o queijo ficar dourado e estaladiço. Retire do lume antes de qualquer coisa queimar. Se a clara do ovo não estiver completamente firme, deixe na frigideira quente mais 30 a 60 segundos.",
-        "Depois de retirar do lume, deixe o queijo arrefecer e endurecer mais 30 a 60 segundos, aquecendo a tortilha numa frigideira seca em lume médio-alto enquanto espera.",
-        "Use uma espátula para levantar cuidadosamente o ovo com a sua saia de queijo estaladiço da frigideira e transfira para a tortilha morna.",
-        "Coloque a salsa generosamente por cima, dobre ao meio e coma imediatamente."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 0.25,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Jalapeño Fresco"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal Marinho em Escamas"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Queijo Cheddar Curado"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Tortilha de Milho"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

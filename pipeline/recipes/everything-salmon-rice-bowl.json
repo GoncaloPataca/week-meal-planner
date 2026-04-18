@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "poppy-seed",
       "amount": 4,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Poppy Seed"
     },
     {
+      "id": "white-sesame-seed",
       "amount": 4,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "White Sesame Seed"
     },
     {
+      "id": "black-sesame-seed",
       "amount": 4,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Black Sesame Seed"
     },
     {
+      "id": "garlic-powder",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "onion-powder",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Onion Powder"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "boneless-skin-on-salmon-fillet",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skin-On Salmon Fillet"
     },
     {
+      "id": "baby-cucumber",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "baby Cucumber"
     },
     {
+      "id": "gherkin",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "gherkin"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "dill",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dill"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "cooked-quinoa-and-rice",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Quinoa and Rice"
     },
     {
+      "id": "feta",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil",
       "note": "to serve"
     }
@@ -133,121 +149,5 @@
   "calories": 580,
   "fat": 30,
   "carbs": 28,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Salmão Everything com Arroz",
-      "mealType": "almoço",
-      "ingredients": [
-        "4 colheres de chá de Sementes de Papoila",
-        "4 colheres de chá de Sementes de Sésamo Branco",
-        "4 colheres de chá de Sementes de Sésamo Preto",
-        "2 colheres de chá de Alho em Pó",
-        "2 colheres de chá de Cebola em Pó",
-        "1 colher de chá de Sal",
-        "4 Filetes de Salmão com Pele sem Espinhas",
-        "4 Mini Pepinos",
-        "6 Pepinos em Vinagre",
-        "3 Cebolinhas Verdes",
-        "15g de Aneto Fresco",
-        "2 Limões",
-        "200g de Quinoa e Arroz Cozidos",
-        "200g de Feta",
-        "50g de Iogurte Grego",
-        "Azeite (para servir)"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 190°C. Coloque um tabuleiro pequeno a pré-aquecer.",
-        "Misture as sementes de papoila, as sementes de sésamo, o alho em pó, a cebola em pó e o sal numa tigela e misture bem.",
-        "Prepare a salada. Bata os mini pepinos com o lado de uma faca e corte em pedaços pequenos. Coloque num coador sobre uma tigela e polvilhe com um pouco de sal. Deixe repousar enquanto prepara o resto.",
-        "Fatie finamente os pepinos em vinagre e as cebolinhas verdes. Pique finamente o aneto. Coloque numa tigela com o arroz, a quinoa e o pepino salgado. Esfarele o feta e misture bem. Tempere com o sumo de meio limão e um pouco de sal.",
-        "Seque os filetes de salmão com papel de cozinha e coloque numa tábua com a pele para baixo. Pressione a mistura de temperos everything por toda a superfície da carne (evitando a pele).",
-        "Retire o tabuleiro quente do forno e cubra com papel vegetal. Coloque os filetes de salmão com a pele para baixo, regue com um pouco de azeite e leve ao forno 7 minutos.",
-        "Ligue o grelhador em temperatura alta. Grelhe o salmão 2 minutos até a superfície ficar levemente dourada.",
-        "Distribua a salada pelas tigelas, coloque o salmão por cima com uma colherada de iogurte. Sirva com um pedaço de limão."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": "c. chá",
-          "item": "Sementes de Papoila"
-        },
-        {
-          "amount": 4,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo Branco"
-        },
-        {
-          "amount": 4,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo Preto"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cebola em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Filete de Salmão sem Osso com Pele"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Mini Pepino"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Pepininho em Conserva"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Endro"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Quinoa e Arroz Cozidos"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

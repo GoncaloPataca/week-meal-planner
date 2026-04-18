@@ -19,64 +19,76 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "chickpeas",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chickpeas"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli",
       "optional": true
     },
     {
+      "id": "fennel-seed",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fennel Seed"
     },
     {
+      "id": "piri-piri-seasoning",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Piri Piri Seasoning"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -110,97 +122,5 @@
   "calories": 520,
   "fat": 14,
   "carbs": 34,
-  "protein": 60,
-  "i18n": {
-    "pt": {
-      "name": "Frango Piri-Piri com Grão-de-Bico com Ervas e Limão (Meal Prep)",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Peitos de Frango",
-        "1,5 Latas de 400g de Grão-de-Bico",
-        "1 Limão",
-        "4 Dentes de Alho",
-        "10g de Salsa Fresca",
-        "1 Malagueta Vermelha (opcional)",
-        "1 colher de chá de Sementes de Funcho",
-        "2 colheres de chá de Tempero Piri-Piri",
-        "40g de Iogurte Grego",
-        "1 colher de chá de Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C.",
-        "Bata os peitos de frango entre duas folhas de papel vegetal até ficarem com cerca de 1 cm de espessura. Regue com metade do azeite, polvilhe com o tempero piri-piri e tempere bem com sal e pimenta.",
-        "Transfira para um tabuleiro forrado com papel de alumínio e asse cerca de 12 minutos, ou até estarem completamente cozidos. Reserve e fatie antes de servir.",
-        "Entretanto, fatie finamente o alho. Use um descascador de legumes para tirar algumas tiras de casca de limão. Corte finamente a malagueta vermelha, se usar.",
-        "Aqueça o restante azeite numa frigideira grande em lume médio. Adicione o alho e cozinhe alguns minutos até ficar ligeiramente dourado. Misture as sementes de funcho e a malagueta e deixe fritar 30 segundos.",
-        "Verta o grão-de-bico com cerca de metade do seu líquido, adicione as tiras de raspa de limão e tempere bem com sal e pimenta. Mexa, tape e deixe fervilhar suavemente 10 minutos.",
-        "Pique finamente a salsa. Retire a frigideira do lume e misture o iogurte grego e a maior parte da salsa picada.",
-        "Fatie o frango cozido e sirva num recipiente por cima do grão-de-bico cremoso. Termine com um pouco mais de salsa. Depois de arrefecer, guarde e leve ao frigorífico — dura até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Grão-de-Bico"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Funcho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Tempero Piri-Piri"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 60
 }

@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-blueberries",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Blueberries"
     },
     {
+      "id": "frozen-blackberry",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Blackberry"
     },
     {
+      "id": "banana",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Banana"
     },
     {
+      "id": "almond-milk",
       "amount": 160,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Almond Milk"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "almond-butter",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Almond Butter"
     },
     {
+      "id": "chia-seed",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "water",
       "amount": 5,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     }
   ],
@@ -77,68 +85,5 @@
   "calories": 420,
   "fat": 12,
   "carbs": 40,
-  "protein": 27,
-  "i18n": {
-    "pt": {
-      "name": "Smoothie de Mirtilo e Amêndoa",
-      "ingredients": [
-        "75g Mirtilos Congelados",
-        "75g Amoras Congeladas",
-        "50g Banana",
-        "160ml Leite de Amêndoa",
-        "30g Proteína com Baunilha em Pó",
-        "15g Manteiga de Amêndoa",
-        "10g Sementes de Chia",
-        "5ml Água"
-      ],
-      "steps": [
-        "Coloque os mirtilos, as amoras, a banana, o leite, a proteína em pó, a manteiga de amêndoa e as sementes de chia num liquidificador.",
-        "Bata até ficar suave. Se estiver demasiado espesso, solte com um pouco de água fria.",
-        "Verta num copo e aproveite."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Mirtilos Congelados"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Amora Congelada"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Banana"
-        },
-        {
-          "amount": 160,
-          "unit": "ml",
-          "item": "Leite de Amêndoa"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Manteiga de Amêndoa"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 5,
-          "unit": "ml",
-          "item": "Água"
-        }
-      ]
-    }
-  }
+  "protein": 27
 }

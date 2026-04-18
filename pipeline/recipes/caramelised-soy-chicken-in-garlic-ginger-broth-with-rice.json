@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "fresh-ginger",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "garlic-clove",
       "amount": 10,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "chicken-stock",
       "amount": 700,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "spring-onion",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "kecap-manis",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Kecap Manis"
     },
     {
+      "id": "ground-white-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Ground White Pepper"
     },
     {
+      "id": "neutral-oil",
       "amount": 30,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Neutral Oil"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "toasted-sesame-seed",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Toasted Sesame Seed"
     },
     {
+      "id": "water",
       "amount": 70,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "cooked-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice"
     },
     {
+      "id": "sambal",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sambal",
       "note": "to serve"
     }
@@ -119,107 +133,5 @@
   "calories": 570,
   "fat": 18,
   "carbs": 54,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Frango com Molho de Soja Caramelizado em Caldo de Alho e Gengibre com Arroz",
-      "ingredients": [
-        "10g Gengibre Fresco",
-        "10 Dentes de Alho",
-        "700ml Caldo de Frango",
-        "5 Cebolinhas",
-        "8 Coxas de Frango Sem Osso e Sem Pele",
-        "3c.sopa Kecap Manis",
-        "Pimenta Branca em Pó",
-        "30ml Óleo Neutro",
-        "1c.sopa Óleo de Sésamo",
-        "2c.chá Sementes de Sésamo Tostadas",
-        "70ml Água",
-        "1 Pepino",
-        "500g Arroz Cozido",
-        "Sambal (para servir)"
-      ],
-      "steps": [
-        "Esmague o gengibre e o alho, depois transfira para uma panela com o caldo e leve a lume médio. Apare as cebolinhas, corte finamente a parte verde e corte as partes brancas ao meio no sentido do comprimento. Adicione as partes brancas ao caldo. Deixe o caldo cozinhar até aquecer enquanto prepara o resto.",
-        "Coloque as coxas de frango numa tigela com o kecap manis, depois tempere com sal e pimenta branca. Reserve para marinar.",
-        "Adicione o óleo neutro a uma frigideira com a parte verde das cebolinhas e leve a lume alto. Quando as cebolinhas estiverem murchas, transfira-as para uma tigela. Misture com o óleo de sésamo e as sementes de sésamo tostadas. Reserve.",
-        "Coloque a frigideira de volta em lume médio-alto e cozinhe o frango durante 7 a 8 minutos até ficar dourado e caramelizado. Junte a água à marinada restante e verta sobre o frango. Cozinhe até reduzir a um molho espesso.",
-        "Entretanto, corte o pepino em fatias finas e tempere com sal. Aqueça o arroz cozido.",
-        "Distribua o arroz pelas tigelas. Adicione o caldo por cima e coloque o frango fatiado e o pepino. Regue com sambal e o óleo de sésamo com cebolinhas."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 10,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 700,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Kecap Manis"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Branca em Pó"
-        },
-        {
-          "amount": 30,
-          "unit": "ml",
-          "item": "Óleo Neutro"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 70,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sambal"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

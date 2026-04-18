@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "fresh-breadcrumbs",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Breadcrumbs"
     },
     {
+      "id": "single-cream",
       "amount": 120,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Single Cream"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parsley"
     },
     {
+      "id": "beef-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Beef Mince"
     },
     {
+      "id": "sausage",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "sausage"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "gnocchi",
       "amount": 900,
-      "unit": "g",
+      "unitId": "g",
       "item": "Gnocchi"
     },
     {
+      "id": "mozzarella",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mozzarella"
     }
   ],
@@ -97,87 +107,5 @@
   "calories": 780,
   "fat": 36,
   "carbs": 72,
-  "protein": 42,
-  "i18n": {
-    "pt": {
-      "name": "Nhoque com Almôndegas no Forno",
-      "mealType": "jantar",
-      "ingredients": [
-        "30g de Pão Ralado Fresco",
-        "120ml de Natas Simples",
-        "1 Cebola",
-        "3 Dentes de Alho",
-        "15g de Salsa",
-        "500g de Carne de Vaca Picada",
-        "6 Salsichas",
-        "800g de Tomate Picado",
-        "900g de Nhoque",
-        "250g de Mozzarella"
-      ],
-      "steps": [
-        "Mergulhe o pão ralado fresco nas natas e reserve.",
-        "Descasque e pique finamente a cebola e o alho. Frite numa frigideira em lume médio-baixo com um fio de azeite.",
-        "Enquanto frita, corte os talos de salsa e adicione à frigideira, misturando tudo até os ingredientes amolecerem. Retire do lume.",
-        "Numa tigela separada, coloque a carne picada. Retire as salsichas das tripas, empurrando a carne para a tigela e descartando as peles.",
-        "Adicione a cebola, o alho e a salsa fritos à mistura. Adicione o pão ralado demolhado. Comece a misturar tudo.",
-        "Assim que estiver misturado, forme pequenas almôndegas, colocando numa tábua de cortar ou tabuleiro. Tape e deixe repousar no frigorífico durante 20 minutos.",
-        "Após 20 minutos, retire as almôndegas do frigorífico e comece a cozinhá-las numa frigideira grande e funda em lume médio com um fio de azeite. Vire as almôndegas suavemente, deixando-as ganhar forma enquanto cozinham.",
-        "Assim que estiverem douradas, adicione 2 latas de tomate para que as almôndegas cozinhem completamente.",
-        "Adicione o nhoque à frigideira das almôndegas e misture tudo, garantindo que tudo fica coberto no molho de tomate. Deixe fervilhar 5 minutos.",
-        "Cubra com mozzarella e coloque a frigideira sob o grelhador até borbulhar — demora alguns minutos. Sirva e aproveite."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Pão Ralado Fresco"
-        },
-        {
-          "amount": 120,
-          "unit": "ml",
-          "item": "Natas Simples"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Carne Picada de Vaca"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Salsicha"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 900,
-          "unit": "g",
-          "item": "Gnocchi"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Mozzarella"
-        }
-      ]
-    }
-  }
+  "protein": 42
 }

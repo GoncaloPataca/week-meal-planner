@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "petit-pois",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Petit Pois"
     },
     {
+      "id": "smoked-mackerel",
       "amount": 420,
-      "unit": "g",
+      "unitId": "g",
       "item": "Smoked Mackerel"
     },
     {
+      "id": "mint",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mint"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "feta",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "tabasco",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tabasco"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -77,68 +85,5 @@
   "calories": 570,
   "fat": 36,
   "carbs": 12,
-  "protein": 46,
-  "i18n": {
-    "pt": {
-      "name": "Patê de Cavala, Ervilhas e Feta",
-      "mealType": "almoço",
-      "ingredients": [
-        "150g de Petit Pois",
-        "420g de Cavala Fumada",
-        "20g de Hortelã",
-        "1 Limão",
-        "200g de Feta",
-        "1 colher de sopa de Tabasco",
-        "Pimenta Preta",
-        "Sal"
-      ],
-      "steps": [
-        "Coza as ervilhas (ou petit pois) durante 1 a 2 minutos. Pique grosseiramente a cavala e a hortelã e esprima o limão.",
-        "Misture todos os ingredientes numa tigela antes de barrar em torradas, pão pita, um bagel ou o que preferir.",
-        "Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Ervilhas Petit Pois"
-        },
-        {
-          "amount": 420,
-          "unit": "g",
-          "item": "Cavala Fumada"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Hortelã"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Tabasco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 46
 }

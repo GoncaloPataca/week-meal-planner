@@ -24,88 +24,105 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "paneer",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Paneer"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "clove-garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic Clove"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "chilli-powder",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "ground-turmeric",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "vegetable-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegetable Oil"
     },
     {
+      "id": "mango-chutney",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mango Chutney"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "curry-powder",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Curry Powder"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "yoghurt",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Yoghurt"
     },
     {
+      "id": "naan",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "naan"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "red-chilli",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     }
   ],
@@ -145,128 +162,5 @@
   "calories": 780,
   "fat": 38,
   "carbs": 68,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Espetadas Pegajosas de Paneer com Manga",
-      "mealType": "almoço",
-      "ingredients": [
-        "500g Paneer",
-        "15g Gengibre Fresco",
-        "4 Dentes de Alho",
-        "1c.c. Cominhos em Pó",
-        "0,5c.c. Piri-Piri em Pó",
-        "0,5c.c. Curcuma em Pó",
-        "1c.s. Concentrado de Tomate",
-        "3c.s. Óleo Vegetal",
-        "3c.s. Chutney de Manga",
-        "1 Cebola Roxa",
-        "2c.s. Caril em Pó",
-        "1 Lima",
-        "250g Iogurte",
-        "4 Pães Naan",
-        "15g Coentros Frescos",
-        "2 Malaguetas Vermelhas",
-        "Óleo Vegetal"
-      ],
-      "steps": [
-        "Deixe os espetos de madeira de molho em água. Corte o paneer em cubos de 3 cm e coloque numa tigela grande.",
-        "Para a marinada do paneer, pique grosseiramente o gengibre e o alho e coloque num robot de cozinha com os cominhos em pó, o piri-piri e a curcuma. Adicione o concentrado de tomate, o óleo vegetal, ⅔ do chutney de manga e uma boa pitada de sal e pimenta. Triture até obter uma pasta suave. Verta sobre o paneer e misture para cobrir. Deixe marinar pelo menos 30 min, ou no frigorífico durante a noite se tiver tempo.",
-        "Entretanto, fatie finamente a cebola roxa. Aqueça um pouco de óleo vegetal numa frigideira em lume médio. Adicione ½ das cebolas e cozinhe 15 min até ficarem completamente macias e começarem a caramelizar. Adicione o caril em pó e cozinhe 2 min até perfumar. Desligue o lume e deixe as cebolas arrefecer ligeiramente.",
-        "Adicione a cebola restante a uma tigela e esprima o sumo de lima. Polvilhe com uma boa pitada de sal e amasse as cebolas com as mãos para as fazer marinar. Reserve.",
-        "Coloque as cebolas caramelizadas no robot de cozinha. Adicione o iogurte e o restante chutney de manga e triture até ficar completamente suave. Reserve.",
-        "Aqueça o grelhador, o churrasco ou a grelha do forno a lume médio-alto.",
-        "Coloque os pedaços de paneer nos espetos. Se grelhar no forno, disponha num tabuleiro e leve ao grelhador 6 min de cada lado, virando até estarem uniformemente cozinhados e ligeiramente carbonizados nas bordas. Se usar churrasco, coloque nas grelhas e cozinhe da mesma forma.",
-        "Aqueça os naans no forno de acordo com as instruções. Pique grosseiramente os coentros e fatie as malaguetas.",
-        "Para servir, espalhe um pouco de iogurte na base do naan e depois deslize o paneer dos espetos por cima. Termine com as cebolas em pickle, as malaguetas e os coentros frescos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Paneer"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Chutney de Manga"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Caril em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Iogurte"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Naan"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

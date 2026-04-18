@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "celery",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "celery"
     },
     {
+      "id": "tomato",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "vegetable-stock",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vegetable Stock"
     },
     {
+      "id": "butter-beans",
       "amount": 1200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter Beans"
     },
     {
+      "id": "bay-leaf",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "bay Leaf"
     },
     {
+      "id": "cinnamon-stick",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cinnamon Stick"
     },
     {
+      "id": "mint",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mint"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -132,110 +146,5 @@
   "calories": 340,
   "fat": 8,
   "carbs": 46,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Feijão à Grega",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1 Cebola",
-        "1 Cenoura",
-        "0,5 Talo de Aipo",
-        "4 Tomates",
-        "1 colher de chá de Orégãos Secos",
-        "1 colher de chá de Concentrado de Tomate",
-        "400ml de Caldo de Legumes",
-        "3 Latas de 400g de Feijão Manteiga",
-        "1 Folha de Louro",
-        "1 Pau de Canela",
-        "15g de Hortelã",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 160°C.",
-        "Descasque e pique finamente a cebola, a cenoura e o aipo. Pique grosseiramente os tomates.",
-        "Aqueça um recipiente de forno grande em lume médio com um fio de azeite. Adicione a cebola, o aipo e a cenoura e cozinhe 10 minutos até amolecerem.",
-        "Adicione os orégãos secos e o concentrado de tomate e cozinhe 2 minutos. Adicione os tomates picados e deixe fervilhar 5 minutos até começarem a desfazer-se.",
-        "Escorra as latas de feijão manteiga. Coloque o feijão na panela com o caldo de legumes, a folha de louro e o pau de canela. Tempere com um pouco de sal e leve a fervilhar.",
-        "Tape o recipiente e leve ao forno 30 minutos.",
-        "Retire a tampa e misture. Volte ao forno sem tampa por mais 15 minutos.",
-        "Pique a maior parte da hortelã, reservando algumas folhas pequenas para decorar.",
-        "Retire o feijão do forno e tempere a gosto. Adicione a hortelã picada e misture. Polvilhe com as folhas de hortelã restantes e um pouco de azeite e sirva."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Aipo"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Caldo de Legumes"
-        },
-        {
-          "amount": 1200,
-          "unit": "g",
-          "item": "Feijão Manteiga"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Folha de Louro"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pau de Canela"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Hortelã"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

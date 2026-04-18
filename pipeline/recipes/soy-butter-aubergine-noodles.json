@@ -19,65 +19,77 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "aubergine",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "aubergine"
     },
     {
+      "id": "butter",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "spring-onion",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "white-wine-vinegar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Wine Vinegar"
     },
     {
+      "id": "clove-garlic",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "chilli-flakes",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chilli Flakes",
       "note": "to serve"
     },
     {
+      "id": "toasted-sesame-seed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Toasted Sesame Seed",
       "note": "to serve"
     },
     {
+      "id": "egg-noodle",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Egg Noodle"
     }
   ],
@@ -108,96 +120,5 @@
   "calories": 430,
   "fat": 16,
   "carbs": 54,
-  "protein": 10,
-  "i18n": {
-    "pt": {
-      "name": "Noodles de Beringela com Manteiga de Soja",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Beringelas",
-        "30g Manteiga",
-        "5 Cebolinhos",
-        "1c.s. Azeite",
-        "3c.s. Molho de Soja Claro",
-        "2c.s. Molho de Soja Escuro",
-        "2c.s. Vinagre de Vinho Branco",
-        "5 Dentes de Alho",
-        "1 Limão",
-        "Flocos de Malagueta (para servir)",
-        "Sementes de Sésamo Torradas (para servir)",
-        "150g Noodles de Ovo"
-      ],
-      "steps": [
-        "Corte a beringela ao meio no comprimento, depois em 4 batões compridos. Corte ao meio novamente pelo meio para obter batões curtos. Coloque numa tigela com uma boa pitada de sal, massaje e reserve.",
-        "Leve uma panela com água salgada a ferver e cozinhe os noodles de ovo de acordo com as instruções. Escorra os noodles e reserve uma chávena de água de cozer.",
-        "Fatie finamente o alho e os cebolinhos, reservando os verdes para guarnição. Esprema o excesso de água das beringelas com as mãos e reserve.",
-        "Coloque uma frigideira grande em lume médio-alto, adicione um fio de azeite, depois junte as beringelas diretamente na frigideira e cozinhe 2 min ou até ficarem ligeiramente carbonizadas. Use uma espátula para soltar o excesso de líquido, vire e repita do outro lado.",
-        "Adicione uma concha de água de noodles à frigideira para cozinhar as beringelas 1 min, depois baixe para lume baixo. Adicione óleo neutro seguido da manteiga, alho e cebolinhos. Cozinhe 2 min ou até ficarem ligeiramente dourados e perfumados.",
-        "Adicione o vinagre de vinho branco, o molho de soja claro, o molho de soja escuro e misture bem, depois cozinhe 1 min e junte os noodles de ovo, misturando 1 min ou até ficarem brilhantes. Adicione uma pequena concha de água de noodles se necessário e misture novamente até ficar brilhante, depois desligue o lume.",
-        "Rale a casca de um limão inteiro, esprima o sumo, adicione pimenta, flocos de malagueta, sementes de sésamo e todos os verdes dos cebolinhos. Sirva."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Beringela"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho Branco"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Noodles de Ovo"
-        }
-      ]
-    }
-  }
+  "protein": 10
 }

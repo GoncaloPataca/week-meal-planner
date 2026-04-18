@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "garlic-clove",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "spring-onion",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "red-chilli",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "soy-sauce",
       "amount": 250,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Soy Sauce"
     },
     {
+      "id": "water",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "rice-wine-vinegar",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Wine Vinegar"
     },
     {
+      "id": "fish-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "honey",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Honey"
     },
     {
+      "id": "sesame-seeds",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sesame Seeds"
     },
     {
+      "id": "cooked-rice",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Cooked Rice",
       "note": "to serve"
     }
@@ -107,87 +118,5 @@
   "calories": 280,
   "fat": 14,
   "carbs": 22,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Ovos Marinados Coreanos (Mayak Eggs)",
-      "mealType": "almoço",
-      "ingredients": [
-        "12 Ovos",
-        "6 Dentes de Alho",
-        "6 Ceboletes",
-        "4 Malaguetas Vermelhas",
-        "250ml de Molho de Soja",
-        "100ml de Água",
-        "3 colheres de sopa de Vinagre de Arroz",
-        "2 colheres de sopa de Molho de Peixe",
-        "100g de Mel",
-        "40g de Sementes de Sésamo",
-        "Arroz Cozido (para servir)"
-      ],
-      "steps": [
-        "Leve uma panela grande de água a ferver em lume alto. Assim que ferver, coloque cuidadosamente os ovos frios do frigorífico na água quente e deixe fervilhar 6 minutos. Retire da água e coloque imediatamente em água gelada para arrefecer. Quando estiverem frios o suficiente para manusear, descasque os ovos.",
-        "Para fazer a marinada, pique o alho finamente e corte as ceboletes e as malaguetas em fatias finas. Adicione a um recipiente com todos os ingredientes restantes e mexa para incorporar.",
-        "Coloque os ovos na marinada de modo a ficarem cobertos e coloque uma folha de papel de cozinha por cima. Isto garantirá que a marinada seja distribuída uniformemente.",
-        "Leve ao frigorífico durante a noite, ou até 4 dias. Sirva com arroz fresco cozido."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 250,
-          "unit": "ml",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho de Arroz"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Mel"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Arroz Cozido"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

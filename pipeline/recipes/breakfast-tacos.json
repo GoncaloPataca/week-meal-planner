@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "black-bean",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Black Bean"
     },
     {
+      "id": "ground-cumin",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "smoked-paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "tomato",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "chilli-powder",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "Chilli Powder"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "small-flour-tortilla",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "small Flour Tortilla"
     },
     {
+      "id": "butter",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "spring-onion",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spring Onion"
     },
     {
+      "id": "egg",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "sour-cream",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sour Cream"
     },
     {
+      "id": "hot-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Hot Sauce"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -125,115 +140,5 @@
   "calories": 510,
   "fat": 22,
   "carbs": 50,
-  "protein": 25,
-  "i18n": {
-    "pt": {
-      "name": "Tacos de Pequeno-Almoço",
-      "ingredients": [
-        "2x 400g Lata de Feijão Preto",
-        "2c.chá Cominhos em Pó",
-        "1c.chá Colorau Fumado",
-        "2 Tomates",
-        "15g Coentros Frescos",
-        "1 Pitada de Pó de Malagueta",
-        "1 Lima",
-        "4 Tortilhas de Farinha Pequenas",
-        "30g Manteiga",
-        "50g Cebolinhas",
-        "8 Ovos",
-        "4c.sopa Natas Azedas",
-        "2c.sopa Molho Picante",
-        "Sal",
-        "Azeite"
-      ],
-      "steps": [
-        "Coloque uma frigideira em lume médio e adicione um fio de azeite. Escorra o feijão preto e adicione à frigideira com uma pitada de sal. Cozinhe, mexendo ocasionalmente, durante cerca de 3 minutos.",
-        "Adicione os cominhos e o colorau e cozinhe por mais 2 minutos.",
-        "Enquanto o feijão frita, corte o tomate em cubos e pique finamente os coentros. Adicione ambos a uma tigela pequena juntamente com o pó de malagueta e o sumo de lima, misture bem e reserve.",
-        "Quando o feijão estiver pronto, distribua-o igualmente pelas quatro tortilhas.",
-        "Enxágue a frigideira, adicione a manteiga e um fio de azeite e leve a lume médio.",
-        "Pique finamente as cebolinhas, adicione à frigideira e deixe fritar por alguns minutos.",
-        "Bata os ovos numa tigela com uma pitada de sal e verta na frigideira. Mantenha-os em movimento e ajuste o lume conforme necessário até obter ovos mexidos macios e apenas definidos.",
-        "Distribua os ovos sobre o feijão, depois cubra com a salsa de tomate e algumas gotas de molho picante (se quiser). Adicione uma colher de natas azedas, dobre e aproveite."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Feijão Preto"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Tortilha de Farinha Pequena"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Natas Azedas"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho Picante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 25
 }

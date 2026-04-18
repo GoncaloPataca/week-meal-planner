@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sweetcorn",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sweetcorn"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "fresh-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "chickpea-flour",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chickpea Flour"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "avocado",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "avocado"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "zoe-daily30",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "ZOE Daily30+",
       "note": "to serve"
     }
@@ -110,94 +122,5 @@
   "calories": 380,
   "fat": 22,
   "carbs": 34,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Bolinhos de Milho Doce",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1x 200g Lata de Milho Doce",
-        "2 Cebolinhas",
-        "1 Malagueta Vermelha",
-        "15g Coentros Frescos",
-        "15g Salsa Fresca",
-        "1 Ovo",
-        "3 c. sopa de Farinha de Grão-de-Bico",
-        "2 Ovos",
-        "1 Abacate",
-        "1 c. sopa de Iogurte Grego",
-        "20g Tomates Cherry",
-        "30g ZOE Daily30+ (para servir)"
-      ],
-      "steps": [
-        "Adiciona o milho escorrido, as cebolinhas, a malagueta vermelha e os coentros e salsa frescos a um liquidificador e tritura até combinar, mas ainda com alguma textura. Adiciona ⅓ do ovo e tritura novamente para combinar.",
-        "Adiciona a farinha de grão-de-bico e uma pitada de sal e tritura novamente até obteres uma massa espessa. Usa uma colher para incorporar metade do Daily 30+ (se usares). Se a massa estiver demasiado líquida, adiciona 1 c. sopa de farinha de grão-de-bico de cada vez até engrossar.",
-        "Aquece um fio de azeite virgem extra numa frigideira grande em lume médio. Adiciona algumas colheres de sopa da mistura de milho à frigideira e cozinha durante 2 minutos de cada lado até dourar e estar completamente cozinhado. Repete com a restante massa, cozinhando 2-3 bolinhos de cada vez.",
-        "Enquanto os bolinhos estão a cozinhar, escalfa os ovos em água a ferver conforme a tua preferência (4 minutos para gemas líquidas). Fatiaa o abacate e corta os tomates cherry ao meio.",
-        "Para servir, empilha os bolinhos e coloca por cima uma colher de sopa de iogurte grego e um ovo escalfado. Serve com o abacate fatiado e os tomates cherry e uma pitada adicional de Daily 30+ (se usares)."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Milho Doce"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Farinha de Grão-de-Bico"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "ZOE Daily30+"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

@@ -14,38 +14,45 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "tomato",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "slice-sourdough",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough"
     },
     {
+      "id": "lime",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "chilli-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Oil"
     },
     {
+      "id": "toasted-sesame-seed",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Toasted Sesame Seed"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -71,62 +78,5 @@
   "calories": 230,
   "fat": 8,
   "carbs": 30,
-  "protein": 6,
-  "i18n": {
-    "pt": {
-      "name": "Pan Con Tomate Picante",
-      "ingredients": [
-        "2 Tomates",
-        "1 Fatia de Pão de Fermentação Natural",
-        "0.5 Lima",
-        "1c.chá Óleo de Malagueta",
-        "1c.chá Sementes de Sésamo Tostadas",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Primeiro, rale os tomates. Quando ralados, verta-os para um passador sobre uma tigela. Adicione uma pitada de sal e deixe repousar 5-10 minutos para escorrer o excesso de água.",
-        "Entretanto, torre o pão até ficar dourado. Depois, verta os tomates ralados do passador para uma tigela limpa. Adicione a raspa e o sumo da lima, o óleo de malagueta e mais sal e pimenta para temperar.",
-        "Para servir, espalhe o tomate sobre a torrada e cubra com sementes de sésamo tostadas."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Malagueta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 6
 }

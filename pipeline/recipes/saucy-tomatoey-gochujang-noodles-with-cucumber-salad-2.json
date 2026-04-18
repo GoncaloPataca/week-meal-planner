@@ -23,84 +23,100 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "chilli-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chilli Oil"
     },
     {
+      "id": "rice-vinegar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "sesame-seeds",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Seeds",
       "optional": true
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "smoked-tofu",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Smoked Tofu"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "maple-syrup",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "tomato-pure",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "silken-tofu",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Silken Tofu"
     },
     {
+      "id": "gochujang",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "egg-noodle",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Egg Noodle"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "chilli-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chilli Oil",
       "note": "to serve"
     }
@@ -128,118 +144,5 @@
   "calories": 430,
   "fat": 14,
   "carbs": 54,
-  "protein": 20,
-  "i18n": {
-    "pt": {
-      "name": "Noodles de Gochujang com Tomate e Tofu Fumado",
-      "mealType": "almoço",
-      "ingredients": [
-        "0,5 Pepino",
-        "1c.s. Óleo de Malagueta",
-        "2c.s. Vinagre de Arroz",
-        "1c.c. Sementes de Sésamo (opcional)",
-        "4 Cebolinhos",
-        "250g Tofu Fumado",
-        "1c.s. Molho de Soja",
-        "0,5c.s. Xarope de Ácer",
-        "4 Dentes de Alho",
-        "15g Gengibre Fresco",
-        "4c.s. Concentrado de Tomate",
-        "350g Tofu Sedoso",
-        "1,5c.s. Gochujang",
-        "300g Noodles de Ovo",
-        "1c.s. Molho de Soja",
-        "Óleo de Malagueta (para servir)"
-      ],
-      "steps": [
-        "Fatie finamente o pepino e coloque numa tigela com o óleo de malagueta, o vinagre de arroz, uma pitada de sal e as sementes de sésamo. Fatie finamente os cebolinhos e reserve para guarnição.",
-        "Corte o tofu fumado em pedaços de 2 cm. Coloque uma frigideira em lume médio com um fio de azeite. Quando quente, adicione o tofu, cozinhando de todos os lados até dourar. Depois adicione o molho de soja e o xarope de ácer, deixe borbulhar até ficar pegajoso e retire do lume. Reserve.",
-        "Aqueça um fio de azeite numa panela grande em lume médio. Rale o alho e o gengibre e cozinhe 2 min. Adicione o concentrado de tomate e cozinhe mais 2 min, depois retire do lume. Adicione a mistura cozinhada a um liquidificador com o tofu sedoso e o gochujang. Triture até ficar suave, temperando com sal e pimenta a gosto. Devolva o molho à panela.",
-        "Cozinhe os noodles de acordo com as instruções, escorra e reserve um pouco da água de cozer. Misture os noodles com o molho, diluindo com um pouco de água de cozer se necessário.",
-        "Distribua os noodles pelas caixas. Cubra cada uma com a salada de pepino e o tofu estaladiço, um fio de óleo de malagueta e cebolinhos. Guarde no frigorífico — conservam-se até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Malagueta"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Tofu Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Tofu Sedoso"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Noodles de Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Malagueta"
-        }
-      ]
-    }
-  }
+  "protein": 20
 }

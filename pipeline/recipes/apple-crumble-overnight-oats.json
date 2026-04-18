@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "apple",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "apple"
     },
     {
+      "id": "rolled-oat",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "unsweetened-almond-milk",
       "amount": 180,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Unsweetened Almond Milk"
     },
     {
+      "id": "maple-syrup",
       "amount": 15,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Maple Syrup"
     },
     {
+      "id": "5-fat-greek-yoghurt",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Greek Yoghurt"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "vanilla-extract",
       "amount": 15,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vanilla Extract"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "5-fat-greek-yoghurt",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Greek Yoghurt"
     },
     {
+      "id": "brown-sugar",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Brown Sugar"
     },
     {
+      "id": "unsweetened-almond-milk",
       "amount": 15,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Unsweetened Almond Milk"
     },
     {
+      "id": "unsalted-butter",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Unsalted Butter"
     },
     {
+      "id": "rolled-oat",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "brown-sugar",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Brown Sugar"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     }
   ],
@@ -125,111 +140,5 @@
   "calories": 360,
   "fat": 9,
   "carbs": 44,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna de Crumble de Maçã",
-      "ingredients": [
-        "1 Maçã",
-        "120g Aveia em Flocos",
-        "180ml Leite de Amêndoa sem Açúcar",
-        "15ml Xarope de Ácer",
-        "150g Iogurte Grego 5% Gordura",
-        "30g Proteína com Baunilha em Pó",
-        "15ml Extrato de Baunilha",
-        "1c.chá Canela em Pó",
-        "450g Iogurte Grego 5% Gordura",
-        "20g Açúcar Mascavado",
-        "15ml Leite de Amêndoa sem Açúcar",
-        "10g Manteiga sem Sal",
-        "25g Aveia em Flocos",
-        "10g Açúcar Mascavado",
-        ".5c.chá Canela em Pó"
-      ],
-      "steps": [
-        "Para a aveia, corte ou rale a maçã, depois adicione metade da maçã a uma tigela limpa juntamente com os restantes ingredientes da aveia. Misture bem até estar tudo combinado. Distribua a mistura pelos recipientes, cerca de 130g por recipiente. Certifique-se de que a manteiga está bem fria do frigorífico.",
-        "Para a cobertura de iogurte, adicione o iogurte a uma tigela limpa com os restantes ingredientes de cobertura. Misture vigorosamente durante cerca de 2 minutos até a mistura ficar brilhante e ligeiramente arejada. Adicione a restante maçã ralada ou cortada e misture. Coloque suavemente a mistura sobre a aveia, cerca de 100g por recipiente.",
-        "Para o crumble, adicione todos os ingredientes a uma tigela limpa. Com os dedos, misture os ingredientes até não ter grumos de manteiga e ter uma textura granulada. Polvilhe sobre o topo de cada recipiente.",
-        "Cubra e coloque no frigorífico durante a noite. A aveia conserva-se durante 3 dias."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Maçã"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 180,
-          "unit": "ml",
-          "item": "Leite de Amêndoa sem Açúcar"
-        },
-        {
-          "amount": 15,
-          "unit": "ml",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Iogurte Grego 5% de Gordura"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 15,
-          "unit": "ml",
-          "item": "Extrato de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Iogurte Grego 5% de Gordura"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Açúcar Mascavado"
-        },
-        {
-          "amount": 15,
-          "unit": "ml",
-          "item": "Leite de Amêndoa sem Açúcar"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Açúcar Mascavado"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

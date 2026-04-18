@@ -19,64 +19,76 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "jasmine-rice",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "x-145-can-tuna",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "x 145 Can Tuna"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "avocado",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "avocado"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "rice-vinegar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "mayonnaise",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mayonnaise"
     },
     {
+      "id": "sriracha",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "sesame-oil",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "nori-seaweed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Nori Seaweed",
       "note": "to serve"
     },
     {
+      "id": "shichimi-togarashi",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Shichimi Togarashi",
       "note": "to serve"
     }
@@ -110,94 +122,5 @@
   "calories": 590,
   "fat": 26,
   "carbs": 52,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Arroz com Atum Picante",
-      "mealType": "almoço",
-      "ingredients": [
-        "300g Arroz Jasmim",
-        "4 Latas de 145g de Atum",
-        "4 Cebolinhos",
-        "2 Abacates",
-        "1 Pepino",
-        "2c.s. Vinagre de Arroz",
-        "100g Maionese",
-        "1,5c.s. Sriracha",
-        "1c.s. Molho de Soja",
-        "2c.c. Óleo de Sésamo",
-        "Alga Nori (para servir)",
-        "Shichimi Togarashi (para servir)"
-      ],
-      "steps": [
-        "Cozinhe o arroz de acordo com as instruções da embalagem.",
-        "Fatie finamente os cebolinhos e reserve. Descasque e fatie o abacate e reserve. Corte o nori em tiras, se usar, e reserve. Fatie finamente o pepino e coloque numa tigela com o vinagre de arroz e uma pitada de sal. Amasse com as mãos até amolecer ligeiramente.",
-        "Numa tigela, misture o atum escorrido com a maionese, a sriracha, o molho de soja, o óleo de sésamo e os cebolinhos. Prove e ajuste o tempero com mais molho de soja ou sriracha se necessário.",
-        "Distribua o arroz pelas caixas. Cubra com uma boa porção de atum picante, pepino em pickle, abacate e nori, se usar. Polvilhe com togarashi e regue com mais sriracha, se gostar.",
-        "Guarde no frigorífico para uma refeição fácil e saborosa. Conserva-se bem 3 dias no frigorífico."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Lata de Atum"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Maionese"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Alga Nori"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Shichimi Togarashi"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

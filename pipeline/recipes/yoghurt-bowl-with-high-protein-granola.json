@@ -13,36 +13,42 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skyr-natural-yoghurt",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skyr Natural Yoghurt"
     },
     {
+      "id": "high-protein-granola",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "High-Protein Granola"
     },
     {
+      "id": "strawberry",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Strawberry",
       "note": "to serve"
     },
     {
+      "id": "blueberry",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Blueberry",
       "note": "to serve"
     },
     {
+      "id": "kiwi",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Kiwi",
       "note": "to serve"
     },
     {
+      "id": "nut-butter",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Nut Butter",
       "note": "to serve"
     }
@@ -67,56 +73,5 @@
   "calories": 400,
   "fat": 13,
   "carbs": 43,
-  "protein": 32,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Iogurte com Granola Rica em Proteína",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "200g Skyr Natural",
-        "30g Granola Rica em Proteína",
-        "Morangos (para servir)",
-        "Mirtilos (para servir)",
-        "Kiwi (para servir)",
-        "Manteiga de Frutos Secos (para servir)"
-      ],
-      "steps": [
-        "Combina o iogurte numa tigela juntamente com a granola caseira rica em proteína.",
-        "Coloca por cima a fruta fresca à tua escolha — usámos kiwi, mirtilos e morangos.",
-        "Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Skyr Natural"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Granola Rica em Proteína"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Morango"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Mirtilo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Kiwi"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Manteiga de Frutos Secos"
-        }
-      ]
-    }
-  }
+  "protein": 32
 }

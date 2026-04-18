@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "strawberry",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Strawberry"
     },
     {
+      "id": "soft-light-brown-sugar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soft Light Brown Sugar"
     },
     {
+      "id": "soft-light-brown-sugar",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Soft Light Brown Sugar"
     },
     {
+      "id": "salted-butter",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salted Butter"
     },
     {
+      "id": "honey",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "brioche-bun",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "brioche Bun"
     },
     {
+      "id": "double-cream",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Double Cream"
     },
     {
+      "id": "cream-cheese",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cream Cheese"
     },
     {
+      "id": "vanilla-extract",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vanilla Extract"
     }
   ],
@@ -89,77 +98,5 @@
   "calories": 820,
   "fat": 52,
   "carbs": 50,
-  "protein": 10,
-  "i18n": {
-    "pt": {
-      "name": "Torrada de Cheesecake de Morango com Manteiga e Mel",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "400g Morangos",
-        "2c.s. Açúcar Mascavado Claro",
-        "60g Açúcar Mascavado Claro",
-        "100g Manteiga com Sal",
-        "4c.s. Mel",
-        "2 Pãezinhos de Brioche",
-        "150ml Natas para Bater",
-        "100g Creme de Queijo",
-        "2c.c. Extrato de Baunilha"
-      ],
-      "steps": [
-        "Comece por macerar os morangos. Retire os topos e fatie. Transfira para uma tigela, adicione o açúcar mascavado e misture. Deixe 1 hora até os morangos ficarem suculentos.",
-        "Preaqueça o forno a 160°C. Forre um tabuleiro com papel vegetal.",
-        "Bata a manteiga mole, o mel e o açúcar mascavado, depois corte os pãezinhos de brioche ao meio e barre ambos os lados cortados com a mistura de manteiga.",
-        "Disponha o brioche no tabuleiro forrado. Asse no centro do forno 18-20 min, virando a meio, até estarem bem caramelizados e estaladiços. Transfira o brioche de manteiga e mel para uma grelha e deixe arrefecer 10 min.",
-        "Entretanto, bata as natas numa tigela até ficarem firmes. Noutra tigela, bata o queijo creme com o extrato de baunilha para o amolecer, depois incorpore as natas.",
-        "Para servir, coloque uma fatia de brioche em cada prato. Cubra com a mistura de cheesecake e os morangos macerados. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Morango"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Açúcar Mascavado Claro"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Açúcar Mascavado Claro"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Manteiga com Sal"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pãozinho Brioche"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Natas"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Queijo Creme"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Extrato de Baunilha"
-        }
-      ]
-    }
-  }
+  "protein": 10
 }

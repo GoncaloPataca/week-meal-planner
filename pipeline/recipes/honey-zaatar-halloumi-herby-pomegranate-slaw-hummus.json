@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sweetheart-cabbage",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "sweetheart Cabbage"
     },
     {
+      "id": "red-onion",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "fresh-dill",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "pomegranate-molasses",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pomegranate Molasses"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "extra-virgin-olive-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Extra Virgin Olive Oil"
     },
     {
+      "id": "halloumi",
       "amount": 225,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "zaatar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Za’atar"
     },
     {
+      "id": "hummus",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Hummus"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -108,93 +120,5 @@
   "calories": 680,
   "fat": 46,
   "carbs": 34,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Halloumi com Mel e Za'atar com Coleslaw de Ervas e Romã e Hummus",
-      "mealType": "almoço",
-      "ingredients": [
-        "0,5 Couve-Coração",
-        "0,5 Cebola Roxa",
-        "15g de Aneto Fresco",
-        "2 colheres de sopa de Melaço de Romã",
-        "0,5 Limão",
-        "2 colheres de sopa de Azeite Extra Virgem",
-        "225g de Halloumi",
-        "2 colheres de sopa de Mel",
-        "1 colher de sopa de Za'atar",
-        "200g de Hummus",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Corte a couve ao meio no comprimento e corte em tiras finas. Fatie finamente a cebola roxa. Pique grosseiramente três quartos do aneto. Adicione tudo a uma tigela grande.",
-        "Regue com o melaço de romã, esprima o sumo de meio limão e adicione o azeite. Tempere com sal e pimenta, depois misture bem. Deixe o coleslaw repousar e marinar levemente enquanto cozinha o halloumi.",
-        "Corte o halloumi em cubos de 2 cm. Coloque uma frigideira em lume médio-alto (sem óleo). Frite os cubos de halloumi 1 a 2 minutos de cada lado até ficarem dourados e estaladiços. Regue com o mel e polvilhe com o za'atar. Cozinhe 30 segundos, envolvendo para cobrir, e retire do lume.",
-        "Divida o hummus pelos recipientes ou pratos. Coloque o coleslaw com ervas por cima, cubra com o halloumi pegajoso e termine com o aneto restante."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Couve Sweetheart"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Melaço de Romã"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeite Virgem Extra"
-        },
-        {
-          "amount": 225,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Za'atar"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Hummus"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

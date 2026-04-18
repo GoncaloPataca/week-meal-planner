@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sun-dried-tomato-pesto",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sun-Dried Tomato Pesto"
     },
     {
+      "id": "cottage-cheese",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "red-onion",
       "amount": 0.33,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "sumac",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sumac"
     },
     {
+      "id": "fresh-dill",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "fresh-parsley",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "bread",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Bread",
       "note": "to serve"
     }
@@ -82,68 +90,5 @@
   "calories": 300,
   "fat": 16,
   "carbs": 8,
-  "protein": 31,
-  "i18n": {
-    "pt": {
-      "name": "Çılbır de Queijo Cottage com Tomate Seco",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1c.s. Pesto de Tomate Seco",
-        "200g Queijo Cottage",
-        "1 Ovo",
-        "0,33 Cebola Roxa",
-        "1c.c. Sumagre",
-        "5g Endro Fresco",
-        "5g Salsa Fresca",
-        "Pão (para servir)"
-      ],
-      "steps": [
-        "Coloque uma panela com água ao lume. Quando ferver, mergulhe suavemente os ovos e cozinhe 6 min até ficarem cremosos.",
-        "Entretanto, separe as folhas de ervas, descartando os caules. Apare e fatie finamente a cebola, coloque num coador e passe por água fria corrente até ficar crocante. Misture tudo numa tigela e tempere com o sumagre e uma pitada de sal.",
-        "Coloque o queijo cottage numa tigela e misture o pesto. Cubra com o ovo cozido e guarnece com a salada de cebola. Desfrute com pão."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pesto de Tomate Seco"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 0.33,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sumagre"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pão"
-        }
-      ]
-    }
-  }
+  "protein": 31
 }

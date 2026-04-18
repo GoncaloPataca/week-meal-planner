@@ -20,70 +20,83 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "greek-yoghurt",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "cottage-cheese",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "semi-skimmed-milk",
       "amount": 50,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Semi-Skimmed Milk"
     },
     {
+      "id": "vanilla-extract",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vanilla Extract"
     },
     {
+      "id": "plain-flour",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plain Flour"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "baking-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Baking Powder"
     },
     {
+      "id": "salt",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "vegetable-oil-spray",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil Spray"
     },
     {
+      "id": "greek-yoghurt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Greek Yoghurt",
       "note": "to serve"
     },
     {
+      "id": "fresh-fruit",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fresh Fruit",
       "note": "to serve"
     },
     {
+      "id": "honey",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Honey",
       "note": "to serve"
     }
@@ -112,101 +125,5 @@
   "calories": 440,
   "fat": 8,
   "carbs": 54,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Panquecas Proteicas",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "100g Iogurte Grego",
-        "100g Queijo Cottage",
-        "1 Ovo",
-        "50ml Leite Meio-Gordo",
-        "1c.s. Extrato de Baunilha",
-        "100g Farinha de Trigo",
-        "30g Proteína em Pó de Baunilha",
-        "1c.c. Fermento em Pó",
-        "0,25c.c. Sal",
-        "Spray de Óleo Vegetal",
-        "Iogurte Grego (para servir)",
-        "Fruta Fresca (para servir)",
-        "Mel (para servir)"
-      ],
-      "steps": [
-        "Prepare a massa. Adicione o iogurte grego, o queijo cottage, o ovo inteiro, o leite, a proteína em pó e o extrato de baunilha num liquidificador. Misture em velocidade alta até ficar completamente suave, cerca de 45 segundos. Verta a mistura para uma tigela grande.",
-        "Adicione a farinha, o fermento e o sal à tigela com os ingredientes líquidos e misture suavemente até incorporar. Não misture demasiado — alguns grumos pequenos são aceitáveis. Deixe repousar 5 min à temperatura ambiente.",
-        "Cozinhe as panquecas. Coloque uma frigideira antiaderente com tampa em lume baixo a aquecer cerca de um minuto. Pulverize a frigideira levemente com óleo, depois adicione uma concha de massa e tape. Se a frigideira for grande o suficiente, pode cozinhar várias ao mesmo tempo. Cozinhe 2,5 min. Vire com uma espátula, tape novamente e cozinhe mais 2 min. Retire e reserve.",
-        "Repita com a massa restante.",
-        "Quando arrefecerem, coloque num saco hermético e guarde no congelador. Aqueça no micro-ondas 1-2 min para descongelar.",
-        "Sirva com os toppings à sua escolha. Iogurte grego, fruta fresca e mel ficam ótimos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 50,
-          "unit": "ml",
-          "item": "Leite Meio-Gordo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Extrato de Baunilha"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Farinha Simples"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Spray de Óleo Vegetal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Fruta Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Mel"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pitted-date",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pitted Date"
     },
     {
+      "id": "oat-milk",
       "amount": 600,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Oat Milk"
     },
     {
+      "id": "oats",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Oats"
     },
     {
+      "id": "banana",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Banana"
     },
     {
+      "id": "baking-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Baking Powder"
     },
     {
+      "id": "bicarbonate-of-soda",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Bicarbonate of Soda"
     },
     {
+      "id": "plant-based-protein-powder",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plant-Based Protein Powder"
     },
     {
+      "id": "vanilla-essence",
       "amount": 1.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vanilla Essence"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "ground-cardamom",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cardamom"
     },
     {
+      "id": "oat-milk",
       "amount": 240,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Oat Milk"
     },
     {
+      "id": "vanilla-essence",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vanilla Essence"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "sea-salt",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sea Salt"
     },
     {
+      "id": "coconut-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Coconut Oil",
       "optional": true
     }
@@ -130,114 +145,5 @@
   "calories": 520,
   "fat": 12,
   "carbs": 85,
-  "protein": 17,
-  "i18n": {
-    "pt": {
-      "name": "Aveia no Forno de Toffee Pegajoso",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "300g Tâmaras sem Caroço",
-        "600ml Bebida de Aveia",
-        "300g Aveia",
-        "200g Banana",
-        "1c.c. Fermento em Pó",
-        "1c.c. Bicarbonato de Sódio",
-        "60g Proteína em Pó de Origem Vegetal",
-        "1,5c.c. Essência de Baunilha",
-        "1c.c. Canela em Pó",
-        "0,5c.c. Cardamomo em Pó",
-        "240ml Bebida de Aveia",
-        "1c.c. Essência de Baunilha",
-        "1c.s. Xarope de Ácer",
-        "0,25c.c. Sal Marinho",
-        "2c.s. Óleo de Coco (opcional)"
-      ],
-      "steps": [
-        "Preaqueça o forno a 200°C ventilado. Deixe as tâmaras de molho em água a ferver 30 min, depois escorra.",
-        "Triture ½ das tâmaras demolhadas com a bebida de aveia num liquidificador até ficar suave.",
-        "Esmague a banana numa tigela grande. Adicione a aveia, a proteína em pó, o fermento, o bicarbonato, a baunilha, a canela, o cardamomo e uma pitada de sal. Verta o leite de tâmaras triturado e misture bem. Transfira para uma assadeira e asse 40-45 min. Se o topo dourar demasiado rapidamente, cubra com papel de alumínio e continue a assar.",
-        "Para o molho toffee, triture as tâmaras demolhadas restantes com a bebida de aveia, a baunilha, o xarope de ácer, o sal marinho e o óleo de coco (se usar) até ficar suave. Adicione um pouco de água para diluir se necessário.",
-        "Adicione o molho toffee a uma panela e aqueça até borbulhar. Retire do lume.",
-        "Deixe a aveia no forno arrefecer ligeiramente antes de cortar. Regue com o molho toffee e sirva.",
-        "Divida a aveia em caixas para um pequeno-almoço fácil. Guarde no frigorífico até 3 dias e coma fria ou aqueça antes de comer."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Tâmara sem Caroço"
-        },
-        {
-          "amount": 600,
-          "unit": "ml",
-          "item": "Leite de Aveia"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Aveia"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Banana"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Bicarbonato de Sódio"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Proteína em Pó de Origem Vegetal"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. chá",
-          "item": "Essência de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Cardamomo em Pó"
-        },
-        {
-          "amount": 240,
-          "unit": "ml",
-          "item": "Leite de Aveia"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Essência de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Sal Marinho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Óleo de Coco"
-        }
-      ]
-    }
-  }
+  "protein": 17
 }

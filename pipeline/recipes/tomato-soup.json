@@ -19,64 +19,76 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "butter",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "plum-tomatoes",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plum Tomatoes"
     },
     {
+      "id": "vegetable-stock-cube",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "vegetable Stock Cube"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "white-wine-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Wine Vinegar"
     },
     {
+      "id": "double-cream",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Double Cream"
     },
     {
+      "id": "cheddar-cheese",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Cheddar Cheese",
       "note": "to serve"
     },
     {
+      "id": "worcestershire-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Worcestershire Sauce",
       "note": "to serve"
     }
@@ -106,93 +118,5 @@
   "calories": 310,
   "fat": 24,
   "carbs": 17,
-  "protein": 3,
-  "i18n": {
-    "pt": {
-      "name": "Sopa de Tomate",
-      "mealType": "almoço",
-      "ingredients": [
-        "30g Manteiga",
-        "1 Cebola",
-        "1 Cenoura",
-        "3 Dentes de Alho",
-        "1 c. sopa de Concentrado de Tomate",
-        "2x 400g Lata de Tomates Pelados",
-        "1 Cubo de Caldo de Legumes",
-        "1 c. chá de Açúcar",
-        "1 c. sopa de Vinagre de Vinho Branco",
-        "150ml Natas",
-        "Queijo Cheddar Ralado (para servir)",
-        "Molho Worcestershire (para servir)"
-      ],
-      "steps": [
-        "Descasca a cebola e a cenoura e corta em cubos de 1 cm. Adiciona a manteiga a uma panela grande em lume médio, depois adiciona a cebola e as cenouras juntamente com uma boa pitada de sal. Frita suavemente durante 10 minutos até amolecerem.",
-        "Pica o alho finamente e adiciona à panela juntamente com o concentrado de tomate e frita mais 2 minutos. Adiciona os tomates e usa a colher para os partir na panela, enche uma das latas de tomate com água e adiciona à panela juntamente com o cubo de caldo e o açúcar. Leva a ferver, depois reduz para lume brando e cozinha durante 40 minutos.",
-        "Usa uma varinha mágica para triturar até obter um puré suave, prova e tempera com o vinagre. Adiciona as natas e aquece suavemente.",
-        "Verte para as tigelas e coloca por cima um monte de queijo cheddar ralado e um fio de molho Worcestershire. Termina com pimenta preta moída."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Tomates Pelados"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cubo de Caldo de Legumes"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho Branco"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Natas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Queijo Cheddar"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Worcestershire"
-        }
-      ]
-    }
-  }
+  "protein": 3
 }

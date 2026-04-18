@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "spring-onion",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spring Onion"
     },
     {
+      "id": "chestnut-mushroom",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chestnut Mushroom"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "parmesan",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "miso-paste",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Miso Paste"
     },
     {
+      "id": "tahini",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tahini"
     },
     {
+      "id": "chilli-flakes",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "ginger",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Ginger"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "udon-noodle",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Udon Noodle"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -104,95 +116,5 @@
   "calories": 570,
   "fat": 22,
   "carbs": 64,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Udon Cremoso de Miso e Tahini",
-      "ingredients": [
-        "50g Cebolinhas",
-        "400g Cogumelos Castanhos",
-        "4 Ovos",
-        "40g Parmesão",
-        "50g Pasta de Miso",
-        "50g Tahini",
-        "0.5c.chá Flocos de Malagueta",
-        "5g Gengibre",
-        "1c.sopa Molho de Soja",
-        "500g Massa Udon",
-        "Azeite",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Corte as cebolinhas em pedaços grandes e os cogumelos em fatias grossas.",
-        "Cozinhe as cebolinhas numa panela grande em lume alto durante 5 minutos até ficarem tostadas, depois retire-as e reserve. Adicione os cogumelos com um bom fio de azeite e cozinhe durante 8-10 minutos até dourarem. Mantenha os cogumelos na panela com o lume desligado.",
-        "Separe as gemas e claras dos ovos. Numa tigela, bata as gemas com o parmesão, a pasta de miso, o tahini, os flocos de malagueta e pimenta preta fresca. Rale o gengibre e adicione o molho de soja.",
-        "Coza o udon em água a ferver de acordo com as instruções da embalagem. Adicione 150ml da água de cozedura à mistura de ovo, batendo continuamente para que os ovos não coalhem.",
-        "Com o lume desligado, adicione o udon à panela com os cogumelos, depois adicione as cebolinhas e a mistura de ovo e misture bem para envolver a massa. A seguir, ligue o lume no mínimo e continue a mexer para criar um molho espesso e brilhante. Tempere com sal se necessário.",
-        "Sirva a massa num prato com mais parmesão e pimenta preta. Bom proveito!"
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Cogumelos Castanhos"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Pasta de Miso"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Tahini"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Gengibre"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Noodles Udon"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

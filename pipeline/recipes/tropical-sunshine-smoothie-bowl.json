@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-mango",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Mango"
     },
     {
+      "id": "frozen-pineapple",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Pineapple"
     },
     {
+      "id": "frozen-banana",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Banana"
     },
     {
+      "id": "coconut-milk",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "skyr-natural-yoghurt",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skyr Natural Yoghurt"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "ground-turmeric",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "fresh-ginger",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "banana",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Banana"
     },
     {
+      "id": "toasted-coconut-flake",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Toasted Coconut Flake"
     },
     {
+      "id": "granola",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Granola"
     },
     {
+      "id": "chia-seed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chia Seed"
     },
     {
+      "id": "crushed-frozen-raspberries",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Crushed Frozen Raspberries"
     },
     {
+      "id": "almond-butter",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Almond Butter"
     }
   ],
@@ -118,110 +133,5 @@
   "calories": 580,
   "fat": 16,
   "carbs": 68,
-  "protein": 29,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Smoothie Tropical",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "50g Manga Congelada",
-        "100g Ananás Congelado",
-        "50g Banana Congelada",
-        "40ml Leite de Coco",
-        "60g Skyr Natural",
-        "1 Lima",
-        "0,25 c. chá de Cúrcuma em Pó",
-        "5g Gengibre Fresco",
-        "30g Proteína em Pó de Baunilha",
-        "Banana",
-        "Flocos de Coco Tostado",
-        "Granola",
-        "Sementes de Chia",
-        "Framboesas Congeladas Esmagadas",
-        "Manteiga de Amêndoa"
-      ],
-      "steps": [
-        "Coloca a manga, o ananás, a banana, o leite, o iogurte, o sumo da lima, a cúrcuma, o gengibre e a proteína em pó num liquidificador.",
-        "Começa a bater em velocidade baixa. Usa um compactador para empurrar a mistura para baixo — vai ser espessa, mas é isso que queremos. Só adiciona mais líquido se realmente precisares. Adiciona um fio extra de 10ml de leite de cada vez se não se mexer.",
-        "Verte para uma tigela e coloca por cima o que quiseres — fatias de banana, flocos de coco, granola, sementes ou um fio de manteiga de amêndoa."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Manga Congelada"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Ananás Congelado"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Banana Congelada"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Skyr Natural"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Flocos de Coco Tostado"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Granola"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Framboesas Congeladas Esmagadas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Manteiga de Amêndoa"
-        }
-      ]
-    }
-  }
+  "protein": 29
 }

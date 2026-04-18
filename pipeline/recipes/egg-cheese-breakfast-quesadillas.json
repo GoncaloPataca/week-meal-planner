@@ -17,57 +17,67 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 18,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "flour-tortilla",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "light-cream-cheese",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Light Cream Cheese"
     },
     {
+      "id": "butter",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "grated-mozzarella",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Grated Mozzarella"
     },
     {
+      "id": "hot-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Hot Sauce",
       "note": "to serve"
     },
     {
+      "id": "lime",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Lime",
       "note": "to serve"
     },
     {
+      "id": "bacon",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Bacon",
       "note": "to serve"
     },
     {
+      "id": "kimchi",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Kimchi",
       "note": "to serve"
     },
     {
+      "id": "spring-onion",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Spring Onion",
       "note": "to serve"
     }
@@ -103,83 +113,5 @@
   "calories": 420,
   "fat": 24,
   "carbs": 22,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Quesadillas de Ovo e Queijo para o Pequeno-Almoço",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "18 Ovos",
-        "6 Tortilhas de Farinha",
-        "30g de Queijo Creme Light",
-        "20g de Manteiga",
-        "150g de Mozzarella Ralada",
-        "Molho Picante (para servir)",
-        "Lima (para servir)",
-        "Bacon (para servir)",
-        "Kimchi (para servir)",
-        "Cebolinha Verde (para servir)"
-      ],
-      "steps": [
-        "Parta os ovos para uma tigela grande e bata com uma boa pitada de sal.",
-        "Derreta a manteiga numa frigideira grande em lume médio. Quando estiver a borbulhar, verta os ovos. Com uma espátula de borracha, mexa continuamente das bordas para o centro até formar pequenos grumos. Retire do lume e continue a cozinhar com o calor residual da frigideira até ficarem bem secos — mais do que o normal para ovos mexidos.",
-        "Adicione o queijo creme à frigideira e misture. Isto irá humedecer os ovos e ajudar no reaquecimento. Reserve e deixe arrefecer ligeiramente.",
-        "Monte as quesadillas. Estenda as tortilhas e polvilhe a mozzarella ralada uniformemente. Coloque a mistura de ovo por cima e dobre a tortilha ao meio. Empilhe-as num recipiente hermético (ou embrulhe individualmente em película aderente) e guarde no frigorífico até 4 dias.",
-        "Se quiser adicionar extras (bacon crocante, kimchi picado ou cebolinha verde fatiada), abra as quesadillas antes de cozinhar e adicione os ingredientes.",
-        "Quando estiver pronto para comer, coloque uma frigideira antiaderente em lume médio. Adicione a quesadilla e cozinhe 2 minutos de cada lado até estar bem tostada e o queijo derretido. Cubra com molho picante e sirva com uma fatia de lima."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 18,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Queijo Creme Light"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Mozzarella Ralada"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Picante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Bacon"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Kimchi"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Cebolinha"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

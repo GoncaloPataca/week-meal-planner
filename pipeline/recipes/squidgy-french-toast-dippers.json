@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "butter-brioche-roll",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "butter Brioche Roll"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "whole-milk",
       "amount": 75,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Whole Milk"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "raspberry",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raspberry"
     },
     {
+      "id": "blueberry",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Blueberry"
     },
     {
+      "id": "strawberry",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Strawberry"
     },
     {
+      "id": "yoghurt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Yoghurt"
     }
   ],
@@ -84,75 +93,5 @@
   "calories": 550,
   "fat": 18,
   "carbs": 76,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Palitos de Torrada Francesa Fofa",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "4 Pãezinhos de Brioche com Manteiga",
-        "2 Ovos",
-        "75ml Leite Gordo",
-        "1c.c. Canela em Pó",
-        "1c.c. Mel",
-        "50g Framboesas",
-        "50g Mirtilos",
-        "50g Morangos",
-        "Iogurte"
-      ],
-      "steps": [
-        "1 Porção Adulto = 2 Porções Criança\nCorte os pãezinhos de brioche ao meio horizontalmente, ficando com dois pedaços compridos de cada.",
-        "Parta os ovos para um prato fundo. Adicione o leite, a canela e o xarope de ácer ou mel. Bata tudo até ficar bem combinado. Mergulhe o brioche na mistura de ovo, virando para ficar totalmente coberto.",
-        "Derreta uma noz de manteiga numa frigideira grande em lume médio. Deixe escorrer o excesso de ovo do brioche, depois coloque na frigideira. Frite 2 min de cada lado até ficarem dourados e estaladiços. Trabalhe em lotes se necessário.",
-        "Sirva!\nPrato Criança: Corte a torrada francesa em palitos fáceis de pegar com uma colher de iogurte, frutos vermelhos frescos e um fio de mel.\nPrato Adulto: Sirva com iogurte, frutos vermelhos e os seus toppings favoritos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Brioche de Manteiga"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 75,
-          "unit": "ml",
-          "item": "Leite Gordo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Framboesa"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Mirtilo"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Morango"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Iogurte"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "banana",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "banana"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "self-raising-flour",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Self Raising Flour"
     },
     {
+      "id": "milk",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Milk"
     },
     {
+      "id": "frozen-blueberries",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Blueberries"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "unsalted-butter",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Unsalted Butter"
     },
     {
+      "id": "frozen-blueberries",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Blueberries"
     },
     {
+      "id": "water",
       "amount": 50,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     }
   ],
@@ -92,82 +102,5 @@
   "calories": 390,
   "fat": 11,
   "carbs": 58,
-  "protein": 10,
-  "i18n": {
-    "pt": {
-      "name": "Panquecas Fáceis de Banana e Mirtilo",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1 Banana",
-        "1 Ovo",
-        "75g de Farinha com Fermento",
-        "1 colher de sopa de Leite",
-        "100g de Mirtilos Congelados",
-        "100g de Iogurte Grego",
-        "15g de Manteiga sem Sal",
-        "100g de Mirtilos Congelados",
-        "50ml de Água",
-        "1 colher de sopa de Mel"
-      ],
-      "steps": [
-        "1 Porção de Adulto = 2 Porções de Criança\nDescongele os mirtilos congelados para as panquecas (pode saltar este passo se usar frescos).",
-        "Se quiser fazer o compote rápido, coloque os mirtilos congelados na frigideira com a água e o mel e leve a ferver. Deixe fervilhar um minuto, retire do lume e deixe arrefecer.",
-        "Para as panquecas, esmague a banana madura numa tigela até ficar lisa. Parta o ovo e misture bem. Junte a farinha com fermento e uma pitada de sal e misture até estar bem incorporado, adicionando um pouco de leite se a massa estiver muito espessa.",
-        "Derreta um nozinho de manteiga numa frigideira grande em lume médio. Coloque colheradas de massa na frigideira, deixando 2 a 3 cm entre cada uma, e coloque alguns mirtilos descongelados na superfície da massa. Cozinhe 2 minutos do primeiro lado até ficarem levemente dourados, vire e cozinhe mais um minuto. Repita até esgotar a massa.",
-        "Sirva as panquecas com o compote e o iogurte, ou com o acompanhamento preferido das crianças."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Farinha com Fermento"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Leite"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Mirtilos Congelados"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Mirtilos Congelados"
-        },
-        {
-          "amount": 50,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mel"
-        }
-      ]
-    }
-  }
+  "protein": 10
 }

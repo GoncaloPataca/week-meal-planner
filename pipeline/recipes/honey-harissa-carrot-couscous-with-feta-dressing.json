@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "carrot",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Carrot"
     },
     {
+      "id": "harissa-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "couscous",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Couscous"
     },
     {
+      "id": "boiling-water",
       "amount": 300,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Boiling Water"
     },
     {
+      "id": "drained-cooked-chickpeas",
       "amount": 480,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Chickpeas"
     },
     {
+      "id": "feta",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 0.75,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "fresh-parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "green-olive",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Green Olive"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -126,115 +141,5 @@
   "calories": 540,
   "fat": 18,
   "carbs": 68,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Cuscuz de Cenoura com Mel e Harissa e Molho de Feta",
-      "mealType": "almoço",
-      "ingredients": [
-        "500g de Cenouras",
-        "2 colheres de sopa de Pasta de Harissa",
-        "2 colheres de sopa de Mel",
-        "250g de Cuscuz",
-        "300ml de Água a Ferver",
-        "480g de Grão-de-Bico Cozido Escorrido",
-        "150g de Feta",
-        "0,75 colher de chá de Canela em Pó",
-        "1 Limão",
-        "150g de Iogurte Grego",
-        "25g de Salsa Fresca",
-        "80g de Azeitonas Verdes",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 190°C ventilação. Corte as cenouras ao meio no comprimento e em pedaços de 4 cm.",
-        "Numa tigela pequena, misture o mel e a harissa.",
-        "Envolva as cenouras com um fio de azeite, a canela, sal e pimenta preta. Espalhe num tabuleiro e asse 20 a 25 minutos.",
-        "Seque o grão-de-bico e adicione ao tabuleiro. Asse mais 15 minutos até ficar estaladiço. Assim que estiver cozido, envolva com a mistura de harissa e mel.",
-        "Entretanto, coloque o cuscuz numa tigela, tempere com sal e cubra com água a ferver. Coloque um prato por cima para reter o vapor e deixe repousar 5 minutos. Solte com um garfo.",
-        "Misture o cuscuz com a salsa picada e as azeitonas picadas. Tempere a gosto.",
-        "Num liquidificador, triture o feta, o iogurte grego e o sumo de limão até ficar liso. Tempere com sal e pimenta preta.",
-        "Para servir, divida o cuscuz pelos recipientes, cubra com as cenouras e o grão-de-bico assados e regue com o molho de feta. Guarde no frigorífico até precisar. Não é necessário aquecer antes de servir."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Cenoura"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Cuscuz"
-        },
-        {
-          "amount": 300,
-          "unit": "ml",
-          "item": "Água a Ferver"
-        },
-        {
-          "amount": 480,
-          "unit": "g",
-          "item": "Grão-de-Bico Cozido e Escorrido"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 0.75,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Azeitona Verde"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

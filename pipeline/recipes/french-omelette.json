@@ -11,23 +11,27 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "eggs",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "eggs"
     },
     {
+      "id": "unsalted-butter",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Unsalted Butter"
     },
     {
+      "id": "fresh-chive",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "sea-salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sea Salt"
     }
   ],
@@ -54,44 +58,5 @@
   "calories": 340,
   "fat": 30,
   "carbs": 1,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Omelete Francesa",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "3 Ovos",
-        "30g de Manteiga sem Sal",
-        "15g de Cebolinho Fresco",
-        "Flor de Sal"
-      ],
-      "steps": [
-        "Parta os ovos para uma tigela e bata com um garfo. Pique finamente o cebolinho e misture nos ovos.",
-        "Derreta metade da manteiga numa frigideira antiaderente em lume médio. Quando a manteiga estiver a borbulhar e espumar, verta os ovos e use uma espátula para manter os ovos em movimento até começarem a solidificar ligeiramente, depois pare de mexer e deixe cozinhar quase por completo.",
-        "Tempere generosamente com flor de sal, enrole a omelete com a espátula e vire para um prato. Pincele com a manteiga restante e polvilhe com mais flor de sal."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Ovos"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal Marinho"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

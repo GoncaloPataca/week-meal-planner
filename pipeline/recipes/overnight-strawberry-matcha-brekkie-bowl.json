@@ -24,89 +24,106 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "matcha",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Matcha"
     },
     {
+      "id": "tahini",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tahini"
     },
     {
+      "id": "fresh-ginger",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "salt",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "water",
       "amount": 500,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "chia-seed",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "hemp-seeds",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Hemp Seeds"
     },
     {
+      "id": "ground-flaxseed",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Ground Flaxseed"
     },
     {
+      "id": "sunflower-seeds",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sunflower Seeds"
     },
     {
+      "id": "pumpkin-seed",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pumpkin Seed"
     },
     {
+      "id": "honey",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Honey",
       "note": "to serve"
     },
     {
+      "id": "frozen-strawberry",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Strawberry"
     },
     {
+      "id": "apple-juice",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Apple Juice"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "Salt"
     },
     {
+      "id": "cornflour",
       "amount": 1.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cornflour"
     },
     {
+      "id": "water",
       "amount": 25,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "flaked-almond",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Flaked Almond"
     }
   ],
@@ -139,123 +156,5 @@
   "calories": 440,
   "fat": 30,
   "carbs": 28,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Pequeno-Almoço de Morango e Matcha Noturna",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1,5 colheres de sopa de Matcha",
-        "50g de Tahini",
-        "5g de Gengibre Fresco",
-        "0,5 colher de chá de Sal",
-        "500ml de Água",
-        "50g de Sementes de Chia",
-        "30g de Sementes de Cânhamo",
-        "15g de Linhaça Moída",
-        "50g de Sementes de Girassol",
-        "80g de Sementes de Abóbora",
-        "Mel (para servir)",
-        "300g de Morangos Congelados",
-        "100ml de Sumo de Maçã",
-        "1 Pitada de Sal",
-        "1,5 colheres de chá de Amido de Milho",
-        "25ml de Água",
-        "40g de Amêndoas Laminadas"
-      ],
-      "steps": [
-        "Para a base noturna: Adicione o matcha, o tahini, o gengibre fresco, o sal e a água a um liquidificador e triture até ficar liso. Coloque um coador de malha fina sobre uma tigela ou recipiente e verta a mistura de matcha. Tempere a gosto com mel, depois misture os restantes ingredientes da base noturna. Tape e leve ao frigorífico por no mínimo 5 horas, idealmente durante a noite.",
-        "Entretanto, para o topping de morango: Adicione os morangos congelados, o sumo de maçã e o sal a uma panela em lume médio-alto. Leve a ferver, depois reduza para lume médio e deixe fervilhar 3 a 5 minutos até a fruta ter descongelado. Misture o amido de milho e a água numa caneca, depois verta nos morangos, leve a ferver mexendo, e cozinhe até engrossar a gosto. Transfira o compoto de morango para um recipiente, tape e leve ao frigorífico.",
-        "Toste as amêndoas laminadas numa frigideira seca em lume médio durante 4 a 5 minutos até ficarem douradas. Transfira para um recipiente e guarde à temperatura ambiente.",
-        "Quando estiver pronto para servir, coloque um pouco do pudim de matcha numa tigela e cubra com o compoto de morango e as amêndoas laminadas tostadas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Matcha"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Tahini"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 500,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Sementes de Cânhamo"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Linhaça Moída"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes de Girassol"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Sementes de Abóbora"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Mel"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Morango Congelado"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Sumo de Maçã"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "Sal"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. chá",
-          "item": "Farinha Maizena"
-        },
-        {
-          "amount": 25,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Amêndoa em Lâminas"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

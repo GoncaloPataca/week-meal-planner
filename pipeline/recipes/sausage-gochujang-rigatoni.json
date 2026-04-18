@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "shallot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "pork-sausage",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "pork Sausage"
     },
     {
+      "id": "butter",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Butter"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "single-cream",
       "amount": 220,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Single Cream"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "parmesan",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "rigatoni",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rigatoni"
     },
     {
+      "id": "fresh-coriander",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "panko-breadcrumbs",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Panko Breadcrumbs"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -128,116 +143,5 @@
   "calories": 700,
   "fat": 36,
   "carbs": 66,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Rigatoni de Salsicha com Gochujang",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Chalota",
-        "3 Dentes de Alho",
-        "6 Salsichas de Porco",
-        "2c.s. Manteiga",
-        "2c.s. Gochujang",
-        "220ml Natas Simples",
-        "2c.s. Mel",
-        "2 Limas",
-        "40g Parmesão",
-        "400g Rigatoni",
-        "30g Coentros Frescos",
-        "15g Pão Ralado Panko",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite"
-      ],
-      "steps": [
-        "Pique finamente a chalota e o alho.",
-        "Aqueça um fio de azeite numa frigideira grande em lume médio. Tire a tripa das salsichas e esfarele a carne na frigideira. Frite até a carne estar bem alourada, adicionando um pouco de água para deglacear quando estiver bem caramelizada (não faça isto demasiado cedo, pois a caramelização é crucial para o sabor). Retire a carne para um prato e reserve.",
-        "Devolva a frigideira ao lume médio e adicione a manteiga. Quando derretida, junte a chalota e o alho picados e frite alguns minutos até ficarem macios e perfumados.",
-        "Adicione o gochujang, as natas, o mel e o sumo das limas. Rale ¾ do parmesão. Por fim, devolva a carne de salsicha caramelizada à frigideira. Misture bem e tempere com sal e pimenta a gosto. Deixe ferver suavemente enquanto cozinha a massa.",
-        "Leve uma panela grande com água salgada a ferver. Adicione a massa e cozinhe al dente segundo as instruções, depois escorra e reserve a água (a água da massa é essencial para ligar o molho).",
-        "Enquanto a massa cozinha, pique finamente os coentros. Aqueça um fio de azeite noutra frigideira em lume médio, junte o pão ralado e frite um minuto até dourar. Retire do lume, rale o parmesão restante e adicione um pouco de coentros. Misture e reserve.",
-        "Adicione a massa cozida à frigideira com o molho. Junte uma concha pequena de água de cozer e continue a misturar até ficar super brilhante. Se a massa estiver um pouco seca, adicione mais uma concha de água.",
-        "Adicione os coentros restantes à massa e misture mais uma vez.",
-        "Para servir, distribua a massa pelas tigelas. Polvilhe com o pão ralado de coentros e rale um pouco de raspa de lima por cima. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Salsicha de Porco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 220,
-          "unit": "ml",
-          "item": "Natas Simples"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Rigatoni"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Pão Ralado Panko"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

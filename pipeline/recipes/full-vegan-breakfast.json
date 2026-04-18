@@ -25,95 +25,113 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "new-potato",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "New Potato"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "gochujang",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "maple-syrup",
       "amount": 1.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "smoked-tofu",
       "amount": 280,
-      "unit": "g",
+      "unitId": "g",
       "item": "Smoked Tofu"
     },
     {
+      "id": "soy-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "smoked-paprika",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "mushroom",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mushroom"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "baked-bean",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Baked Bean"
     },
     {
+      "id": "vegan-cheese",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegan Cheese",
       "note": "to serve"
     },
     {
+      "id": "avocado",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Avocado"
     },
     {
+      "id": "slice-sourdough",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -148,136 +166,5 @@
   "calories": 520,
   "fat": 12,
   "carbs": 72,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Pequeno-Almoço Vegan Completo",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "350g de Batatas Novas",
-        "200g de Tomates Cherry",
-        "1 colher de sopa de Gochujang",
-        "1 colher de chá de Óleo de Sésamo",
-        "1,25 colheres de chá de Xarope de Ácer",
-        "280g de Tofu Fumado",
-        "3 colheres de sopa de Molho de Soja",
-        "2 colheres de chá de Pimentão Fumado",
-        "1 colher de chá de Concentrado de Tomate",
-        "300g de Cogumelos",
-        "2 Dentes de Alho",
-        "400g de Feijão Cozido",
-        "Queijo Vegan (para servir)",
-        "Abacate",
-        "2 Fatias de Pão de Fermentação Natural (para servir)",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite"
-      ],
-      "steps": [
-        "Comece pelas batatas. Pré-aqueça o forno a 190°C. Corte as batatas em quartos ou metades se forem muito pequenas, garantindo que ficam do mesmo tamanho. Coloque num tabuleiro com os tomates. O ideal é que o tabuleiro não seja demasiado grande, para que tudo caiba bem sem muito espaço vazio.",
-        "Misture o gochujang com 1 colher de chá de óleo de sésamo, 1 colher de sopa de azeite, ¼ colher de chá de sal, ¼ colher de chá de xarope de ácer e bastante pimenta preta. Verta sobre as batatas e os tomates e misture bem para garantir que tudo fica bem coberto.",
-        "Leve ao forno 30 a 35 minutos, mexendo uma ou duas vezes, até as batatas começarem a ficar crocantes nas bordas e os tomates terem soltado o sumo.",
-        "A seguir, marine o tofu. Corte em fatias finas de cerca de 3 cm. Prepare a marinada no recipiente onde o tofu vai caber. Misture 2 colheres de sopa de molho de soja, 1 colher de chá de xarope de ácer, ½ colher de chá de pimentão fumado, 1 colher de chá de concentrado de tomate e 1 colher de sopa de azeite. Verta sobre o tofu e certifique-se de que todas as fatias ficam cobertas. Reserve.",
-        "Para os cogumelos, corte os maiores em pedaços e coloque num tabuleiro. Pique o alho e adicione aos cogumelos com bastante sal, pimenta e um bom fio de azeite. Use bastante azeite — o ideal é que sobre um pouco no fundo do tabuleiro, o que os tornará mais suculentos. Asse durante cerca de 20 minutos até caramelizarem.",
-        "Coloque o tofu num tabuleiro forrado com papel vegetal, sem sobrepor as fatias. Leve ao forno 8 minutos, vire, pincele com a marinada extra e leve mais 8 a 10 minutos até começar a ficar crocante nas bordas.",
-        "Para fazer na fritadeira de ar, cozinhe a 200°C durante 10 minutos, virando e pincelando a marinada a meio.",
-        "Quando sair do forno, pincele novamente com a marinada restante. Devem ter uma textura firme e ser ligeiramente crocantes nas bordas, mas não duros.",
-        "Para aquecer o feijão, passe para um tabuleiro pequeno e junte 1 colher de chá de molho de soja e 1 colher de chá de pimentão fumado e misture. Se usar, polvilhe com queijo vegan ralado e leve ao forno cerca de 10 minutos na prateleira inferior até borbulhar.",
-        "Enquanto tudo está no forno, fatie o abacate e tempere com sal, pimenta e um fio de azeite. Torre e barre o pão com manteiga vegan. Pique finamente o cebolinho.",
-        "Para servir, distribua tudo por dois pratos ou num grande prato de servir. Polvilhe com o cebolinho e sirva."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Batata Nova"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 1.25,
-          "unit": "c. chá",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 280,
-          "unit": "g",
-          "item": "Tofu Fumado"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Cogumelos"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Feijão Cozido"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Queijo Vegan"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

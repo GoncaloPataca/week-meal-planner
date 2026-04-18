@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "bulgur-wheat",
       "amount": 90,
-      "unit": "g",
+      "unitId": "g",
       "item": "Bulgur Wheat"
     },
     {
+      "id": "tomato",
       "amount": 7,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "spring-onion",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "cinnamon",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cinnamon"
     },
     {
+      "id": "ground-coriander",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "mint",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mint"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "tahini",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "halloumi",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "pomegranate-seeds",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pomegranate Seeds"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "water",
       "amount": 250,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     }
   ],
@@ -136,121 +152,5 @@
   "calories": 680,
   "fat": 40,
   "carbs": 38,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Tabbouleh com Halloumi",
-      "mealType": "almoço",
-      "ingredients": [
-        "90g de Trigo Bulgur",
-        "7 Tomates",
-        "8 Cebolinhas Verdes",
-        "1 colher de chá de Canela",
-        "1 colher de chá de Coentros em Pó",
-        "2 Limões",
-        "60g de Hortelã",
-        "100g de Salsa Lisa Fresca",
-        "4 colheres de sopa de Tahini",
-        "1 Dente de Alho",
-        "500g de Halloumi",
-        "150g de Sementes de Romã",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite",
-        "250ml de Água"
-      ],
-      "steps": [
-        "Lave o trigo bulgur em água corrente até a água sair limpa. Leve água limpa a ferver numa panela e tempere com sal. Adicione o bulgur e deixe fervilhar 10 a 15 minutos até a água ser absorvida. Tape e deixe cozer no vapor 2 minutos, depois solte os grãos com um garfo e deixe arrefecer.",
-        "Entretanto, corte os tomates ao meio, retire os talos e retire as sementes com uma colher para ficar apenas com a polpa. Pique finamente a polpa e escorra o excesso de humidade. Coloque numa tigela grande.",
-        "Pique finamente a cebolinha verde e adicione à tigela. Esprima o sumo e rale a casca de um limão e tempere com sal e pimenta. Misture tudo.",
-        "Hora do molho de tahini. Numa chávena, misture o tahini, rale o alho, adicione azeite, sal, pimenta e sumo de limão. Adicione água aos poucos até obter um molho de tahini cremoso e de bom fluxo.",
-        "Fatie o halloumi e coloque numa tigela. Tempere com azeite, sal e pimenta. Aqueça uma frigideira antiaderente em lume médio-alto e coloque o halloumi. Frite cada fatia de ambos os lados até ficar dourada e reserve.",
-        "Enquanto o halloumi frita, pique finamente as ervas. É importante não as esmagar, por isso tente picar o mais finamente possível numa primeira passagem.",
-        "Adicione as ervas e as especiarias à tigela dos tomates com o bulgur arrefecido e a romã. Tempere com sal e pimenta, regue com azeite e misture.",
-        "Sirva imediatamente o tabbouleh com ervas (não convém deixar muito tempo). Cubra com o halloumi dourado e regue com o molho de tahini."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 90,
-          "unit": "g",
-          "item": "Trigo Bulgur"
-        },
-        {
-          "amount": 7,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Canela"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Hortelã"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Sementes de Romã"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": 250,
-          "unit": "ml",
-          "item": "Água"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

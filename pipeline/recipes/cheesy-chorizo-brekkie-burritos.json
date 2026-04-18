@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "potato",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "potato"
     },
     {
+      "id": "chorizo",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chorizo"
     },
     {
+      "id": "extra-mature-cheddar",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Extra Mature Cheddar"
     },
     {
+      "id": "egg",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "butter",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "baby-spinach",
       "amount": 470,
-      "unit": "g",
+      "unitId": "g",
       "item": "Baby Spinach"
     },
     {
+      "id": "soft-cheese",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Soft Cheese"
     },
     {
+      "id": "dried-oregano",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "flour-tortilla",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "hot-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Hot Sauce",
       "note": "to serve"
     }
@@ -113,103 +126,5 @@
   "calories": 610,
   "fat": 36,
   "carbs": 36,
-  "protein": 32,
-  "i18n": {
-    "pt": {
-      "name": "Burritos de Pequeno-Almoço com Queijo e Chouriço",
-      "ingredients": [
-        "2 Batatas",
-        "350g Chouriço",
-        "125g Queijo Cheddar Extra Curado",
-        "12 Ovos",
-        "30g Manteiga",
-        "470g Espinafres Baby",
-        "100g Queijo Mole",
-        "2c.chá Orégãos Secos",
-        "8 Tortilhas de Farinha",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "Molho Picante (para servir)"
-      ],
-      "steps": [
-        "Corte as batatas em palitos e coloque-as numa tigela com água gelada. Reserve enquanto prepara tudo o resto. Escorra e mude a água duas vezes para retirar o amido.",
-        "Entretanto, coloque uma frigideira em lume médio e adicione o chouriço. Frite durante 8-10 minutos até ficar bem caramelizado e ter libertado o azeite. Retire e reserve.",
-        "Coloque os espinafres num passador e regue com água a ferver. Quando murcharem e estiverem suficientemente frios para manusear, esprema o excesso de água.",
-        "Rale o queijo cheddar.",
-        "Aqueça um fio de azeite numa frigideira grande em lume médio. Seque as batatas com papel de cozinha e adicione à frigideira. Tempere com sal, pimenta e os orégãos. Cozinhe até ficarem douradas e macias — faça em lotes para evitar lotar a frigideira. Adicione o restante azeite em terços à medida que vai cozinhando.",
-        "Parta os ovos numa tigela, tempere com sal e pimenta, depois bata. Derreta a manteiga numa frigideira antiaderente grande em lume brando. Verta os ovos e mexa suavemente até estarem a meio da cozedura. Coloque o queijo mole em colheradas e dobre gentilmente com uma espátula até ficar cremoso e apenas solidificado — não exagere. Vão continuar a cozinhar enquanto monta os burritos.",
-        "Estenda as tortilhas numa tábua. Comece com uma camada de batatas crocantes, depois queijo cheddar ralado, espinafres, ovos mexidos e por fim o chouriço. Dobre os lados e enrole firmemente em burritos.",
-        "Para selar, aqueça uma frigideira seca em lume médio. Coloque os burritos com a emenda virada para baixo e cozinhe durante 1-2 minutos até selados. Em alternativa, coloque na air fryer a 200°C durante 5 minutos. Quando prontos, embrulhe cada burrito em papel vegetal e depois em folha de alumínio. Guarde no congelador. Para reaquecimento: retire a folha, embrulhe em papel de cozinha húmido e coloque no micro-ondas 2 minutos. Termine na air fryer 7-8 minutos a 180°C (ou forno 10 minutos a 160°C) até estar bem quente."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Batata"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Chouriço"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Cheddar Extra Curado"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 470,
-          "unit": "g",
-          "item": "Espinafres Baby"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Queijo Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Picante"
-        }
-      ]
-    }
-  }
+  "protein": 32
 }

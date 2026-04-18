@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "extra-firm-smoked-tofu",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Extra Firm Smoked Tofu"
     },
     {
+      "id": "olive-oil",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "smoked-paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "garlic-powder",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "ground-cumin",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "red-onion",
       "amount": 0.25,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "cooked-quinoa",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Quinoa"
     },
     {
+      "id": "0-fat-greek-yoghurt",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "0% Fat Greek Yoghurt⁣"
     },
     {
+      "id": "reduced-fat-feta",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Reduced-Fat Feta"
     },
     {
+      "id": "fresh-mint",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -130,117 +146,5 @@
   "calories": 555,
   "fat": 26,
   "carbs": 39,
-  "protein": 45,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Tofu Gyros (Meal Prep)",
-      "mealType": "almoço",
-      "ingredients": [
-        "200g Tofu Fumado Extra Firme",
-        "0,5 c. sopa de Azeite",
-        "1 c. chá de Pimentão Fumado",
-        "1 c. chá de Orégãos Secos",
-        "0,5 c. chá de Alho em Pó",
-        "0,5 c. chá de Cominhos Moídos",
-        "0,5 Pepino",
-        "0,5 Pepino",
-        "100g Tomates Cherry",
-        "0,25 Cebola Roxa",
-        "100g Quinoa Cozida",
-        "100g Iogurte Grego 0% de Gordura",
-        "50g Feta Light",
-        "10g Hortelã Fresca",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Usa um descascador de legumes para fazer tiras de tofu. Numa tigela, mistura o azeite, o pimentão fumado, os orégãos, o alho em pó, os cominhos e uma boa pitada de sal e pimenta. Adiciona o tofu e envolve para cobrir. Deixa marinar pelo menos 15 minutos.",
-        "Cozinha o tofu na fritadeira de ar a 190°C durante 10 minutos, ou no forno a 200°C durante 10-15 minutos, até ficar dourado e ligeiramente crocante.",
-        "Entretanto, corta o pepino em cubos, corta os tomates cherry ao meio e corta a cebola roxa em fatias finas. Corta o limão em gomos. Adiciona os legumes a uma tigela e esprème ½ do limão, reservando o resto para servir. Cozinha a quinoa seguindo as instruções da embalagem, depois solta-a com um garfo e tempera levemente com sal e pimenta.",
-        "Espalha o iogurte grego numa caixa de refeição. Coloca por cima a quinoa, o tofu crocante, o pepino, os tomates e a cebola roxa. Esmigalha o feta por cima e espalha as folhas de hortelã. Serve com gomos de limão ao lado para espremer. Quando arrefecer, fecha a caixa e guarda no frigorífico — pode ser guardado até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Tofu Fumado Extra Firme"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 0.25,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Quinoa Cozida"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Iogurte Grego 0% de Gordura"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Feta Light"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 45
 }

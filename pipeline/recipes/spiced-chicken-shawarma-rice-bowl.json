@@ -29,113 +29,135 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "chicken-mince",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Mince"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "ground-coriander",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "paprika",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Paprika"
     },
     {
+      "id": "chilli-flakes",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "harissa-paste",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "lemon",
       "amount": 0.25,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "cooked-jasmine-rice",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Jasmine Rice"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "red-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "lemon",
       "amount": 0.25,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -166,156 +188,5 @@
   "calories": 620,
   "fat": 18,
   "carbs": 62,
-  "protein": 52,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Arroz com Frango Shawarma Especiado",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Dentes de Alho",
-        "400g Carne Picada de Frango",
-        "1c.s. Cominhos em Pó",
-        "1c.s. Coentros em Pó",
-        "1c.s. Paprika",
-        "1c.c. Flocos de Malagueta",
-        "1c.s. Pasta de Harissa",
-        "1c.s. Azeite",
-        "Sal",
-        "150g Iogurte Grego",
-        "1c.s. Azeite",
-        "1 Dente de Alho",
-        "0,25 Limão",
-        "Sal",
-        "300g Arroz Jasmim Cozido",
-        "200g Tomates Cherry",
-        "2 Cebolas Roxas",
-        "1 Pepino",
-        "10g Salsa Fresca",
-        "Azeite",
-        "0,25 Limão",
-        "Sal"
-      ],
-      "steps": [
-        "Preaqueça o forno a 210°C e comece a preparar os legumes. Corte a cebola roxa em gomos, rale o alho para o frango, fatie finamente o pepino e pique a salsa fresca.",
-        "Adicione os gomos de cebola roxa e os tomates cherry a um tabuleiro com um fio de azeite e sal, misturando para cobrir. Asse 20-25 min até ficarem macios e ligeiramente carbonizados nas bordas.",
-        "Enquanto os legumes cozinham, prepare o frango. Aqueça o azeite numa frigideira grande em lume médio-alto. Adicione a carne picada de frango e frite 10 min até alourar, desfazendo bem para caramelizar em vez de cozinhar no vapor (pode fazer em lotes para a carne ficar mais estaladiça).",
-        "Quando a carne estiver dourada e estaladiça, misture os cominhos, os coentros, a paprika, os flocos de malagueta, o alho ralado, a harissa e sal. Frite 5 min até perfumar e estar cozinhado.",
-        "Rale o alho restante para o molho numa tigela pequena e esprima o sumo de limão. Misture com o iogurte grego, o azeite e sal até ficar suave e cremoso.",
-        "Misture os tomates e cebolas assados com o pepino e a salsa picada. Adicione uma pitada de sal e mais um esguicho de sumo de limão.",
-        "Aqueça o arroz e distribua pelas tigelas. Coloque a salada de tomate e cebola assados por cima. Cubra generosamente com a carne picada de frango especiada e termine com o iogurte de alho."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Frango Picado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pimentão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 0.25,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Arroz Jasmine Cozido"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": 0.25,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 52
 }

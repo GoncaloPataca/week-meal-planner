@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "portobello-mushroom",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Portobello Mushroom"
     },
     {
+      "id": "chipotle-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chipotle Paste"
     },
     {
+      "id": "egg",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "pumpkin-seed",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pumpkin Seed"
     },
     {
+      "id": "corn-tortilla",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "corn Tortilla"
     },
     {
+      "id": "feta",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "fresh-coriander",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "chilli-flakes",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "fresh-coriander",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "feta",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     }
   ],
@@ -122,112 +137,5 @@
   "calories": 420,
   "fat": 20,
   "carbs": 34,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Tacos de Pequeno-Almoço com Cogumelos Chipotle e Ovo",
-      "ingredients": [
-        "600g Cogumelos Portobello",
-        "2c.sopa Pasta de Chipotle",
-        "6 Ovos",
-        "15g Sementes de Abóbora",
-        "8 Tortilhas de Milho",
-        "60g Queijo Feta",
-        "5g Coentros Frescos",
-        "2c.chá Flocos de Malagueta",
-        "Azeite",
-        "Sal",
-        "70g Iogurte Grego",
-        "25g Coentros Frescos",
-        "40g Queijo Feta",
-        "2c.sopa Azeite",
-        "1 Lima"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C. Corte os cogumelos em fatias de 1cm de espessura. Coloque o chipotle numa tigela grande com um fio generoso de azeite. Tempere com sal e misture com os cogumelos fatiados. Coloque os cogumelos num tabuleiro e asse durante 15-20 minutos até estarem dourados.",
-        "Entretanto, coloque todos os ingredientes do creme (menos a lima) num liquidificador e bata até ficar suave. Rale a raspa de meia lima, depois prove e tempere com sal, pimenta e sumo de lima.",
-        "Parta os ovos para uma tigela, tempere com sal e bata até ficarem suaves. Coloque uma frigideira antiaderente seca em lume médio. Quando estiver quente, torre as sementes (prontas quando começam a saltar) e depois transfira para uma tigela.",
-        "Adicione um fio de azeite à frigideira vazia, depois verta os ovos. Mexa continuamente até se formar um mexido fofo. Retire do lume enquanto os ovos ainda estiverem ligeiramente cremosos.",
-        "Aqueça as tortilhas numa frigideira seca, depois carregue com o creme, os cogumelos chipotle, os ovos mexidos, as sementes tostadas, os coentros e os flocos de malagueta. Sirva com a lima restante cortada em gomos."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Cogumelos Portobello"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Chipotle"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Sementes de Abóbora"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Tortilha de Milho"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

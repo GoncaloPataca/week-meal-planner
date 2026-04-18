@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "spaghetti",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spaghetti"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "jalape-o",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "jalape ño"
     },
     {
+      "id": "in-olive-oil",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "In Olive Oil"
     },
     {
+      "id": "fresh-breadcrumbs",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Breadcrumbs"
     },
     {
+      "id": "butter",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "jalape-o",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "jalape ño"
     },
     {
+      "id": "slice-bread",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Bread"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -106,97 +118,5 @@
   "calories": 680,
   "fat": 30,
   "carbs": 78,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Linguine de Sardinha, Limão e Jalapeño",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Limão",
-        "200g Esparguete",
-        "2 Dentes de Alho",
-        "2 Jalapeños",
-        "1 Lata de 120g de Sardinhas em Azeite",
-        "100g Pão Ralado Fresco",
-        "50g Manteiga",
-        "1 Jalapeño",
-        "2 Fatias de Pão",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Se estiver a preparar o pão ralado, coloque as fatias de pão e ½ jalapeño num mini triturador e processe até obter pão ralado. Adicione azeite a uma frigideira em lume médio-alto e junte o pão ralado. Cozinhe 2-3 min até ficar dourado e estaladiço. Passe para uma tigela pequena. Pique finamente o ½ jalapeño restante e junte ao pão ralado com uma boa pitada de sal. Reserve.",
-        "Leve uma panela grande com água salgada a ferver. Corte o limão em rodelas finas, retirando as sementes. Coloque as rodelas de limão na água a ferver e cozinhe um minuto para amolecer. Retire com uma escumadeira e reserve.",
-        "Na mesma panela, adicione o esparguete e cozinhe segundo as instruções até al dente. Entretanto, fatie finamente o alho e ½ jalapeño.",
-        "Coloque uma frigideira grande em lume médio e adicione a manteiga. Deixe derreter e cozinhe 2-3 min até ficar com cor de avelã. Fique atento para não queimar. Adicione o alho e o jalapeño e cozinhe 1-2 min até perfumar e amolecer.",
-        "Junte as rodelas de limão branqueadas à manteiga avelã e deixe borbulhar 2-3 min para os limões absorverem o sabor e caramelizarem ligeiramente nas bordas.",
-        "Quando a massa estiver pronta, use pinças para a transferir para a frigideira. Misture bem até ficar brilhante e emulsionada, adicionando mais água se necessário. Tempere com sal e bastante pimenta preta.",
-        "Parta as sardinhas em pedaços grandes e junte à frigideira. Dobre cuidadosamente com a massa para ficarem em pedaços e não desaparecerem. Cozinhe 30 segundos apenas para aquecer.",
-        "Distribua pelas tigelas e cubra generosamente com o pão ralado estaladiço e picante."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Esparguete"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Jalapeño"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "em Azeite"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Pão Ralado Fresco"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Jalapeño"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

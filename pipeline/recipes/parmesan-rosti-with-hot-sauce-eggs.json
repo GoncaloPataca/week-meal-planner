@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "maris-piper-potato",
       "amount": 1000,
-      "unit": "g",
+      "unitId": "g",
       "item": "Maris Piper Potato"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "parmesan",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "chive",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chive"
     },
     {
+      "id": "hot-sauce",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Hot Sauce"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -83,75 +91,5 @@
   "calories": 380,
   "fat": 14,
   "carbs": 46,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Rösti de Parmesão com Ovos e Molho Picante",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1000g de Batatas Maris Piper",
-        "1 Cebola",
-        "75g de Parmesão",
-        "4 Ovos",
-        "15g de Cebolinho",
-        "4 colheres de sopa de Molho Picante",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Descasque e rale as batatas na face mais grossa da raladora. Coloque a batata ralada numa tigela e cubra com água fria. Adicione uma colher de sopa de sal e deixe demolhar 30 minutos.",
-        "Pré-aqueça o forno a 160°C.",
-        "Rale a cebola grosseiramente e rale finamente o parmesão.",
-        "Forre um passador com um pano de cozinha limpo. Coloque a batata ralada, depois reúna as pontas do pano para apertar tudo numa bola. Esprema todo o líquido em excesso que conseguir.",
-        "Coloque a batata seca numa tigela, depois adicione a cebola ralada e três quartos do parmesão. Adicione uma pitada de sal e bastante pimenta preta moída, depois misture com as mãos para combinar.",
-        "Aqueça um fio generoso de óleo vegetal numa frigideira. Adicione pequenas porções da mistura de batata de cada vez, pressionando com uma espátula para achatar. Frite cerca de 3 minutos de cada lado até ficarem super estaladiços e dourados.",
-        "Mantenha os röstis quentes num tabuleiro no forno enquanto cozinha os restantes.",
-        "Quando todos os röstis estiverem cozidos, passe para os ovos. Na mesma frigideira, parta os ovos. Polvilhe com um pouco de sal e frite cerca de 2 minutos. A base deve ficar muito dourada e as claras devem borbulhar bem.",
-        "Pique finamente o cebolinho.",
-        "Coloque dois röstis em cada prato e cubra com um ovo estrelado. Polvilhe com o parmesão restante e o cebolinho, depois verta o molho picante. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1000,
-          "unit": "g",
-          "item": "Batata Maris Piper"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Cebolinho"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Molho Picante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

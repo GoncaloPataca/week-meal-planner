@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "butter",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "rigatoni",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rigatoni"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "tomato-pure",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "single-cream",
       "amount": 220,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Single Cream"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "fresh-chive",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "parmesan",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -111,102 +124,5 @@
   "calories": 670,
   "fat": 28,
   "carbs": 62,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Rigatoni de Frango com Mel e Gochujang",
-      "mealType": "jantar",
-      "ingredients": [
-        "4 Peitos de Frango",
-        "40g de Manteiga",
-        "300g de Rigatoni",
-        "2 colheres de sopa de Gochujang",
-        "3 colheres de sopa de Concentrado de Tomate",
-        "220ml de Natas Simples",
-        "2 colheres de sopa de Mel",
-        "2 Limas",
-        "10g de Cebolinho Fresco",
-        "40g de Parmesão",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C. Leve uma panela grande de água salgada a ferver. Fatie finamente o cebolinho e rale o parmesão e reserve.",
-        "Regue os peitos de frango com azeite e tempere com sal e pimenta preta. Embrulhe em papel de alumínio formando um pacote fechado e coloque num tabuleiro. Asse 15 a 20 minutos até estarem completamente cozidos.",
-        "Assim que ferver, adicione a massa à água e cozinhe seguindo as instruções da embalagem até estar al dente.",
-        "Entretanto, derreta a manteiga numa frigideira grande em lume médio. Misture o gochujang e o concentrado de tomate. Deixe cozinhar 2 a 3 minutos até escurecer e ficar aromático. Verta as natas e incorpore o mel e o sumo de lima. Deixe ferver suavemente até engrossar ligeiramente. Prove e tempere com sal e pimenta preta.",
-        "Assim que o frango estiver cozido, desfie a carne com 2 garfos.",
-        "Use uma escumadeira para transferir a massa cozida diretamente para o molho, depois envolva o frango desfiado até tudo estar brilhante e bem coberto.",
-        "Divida a massa pelos pratos e termine com o parmesão ralado, um pouco de sumo de lima e o cebolinho picado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Rigatoni"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 220,
-          "unit": "ml",
-          "item": "Natas Simples"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

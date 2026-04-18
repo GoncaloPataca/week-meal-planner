@@ -25,93 +25,111 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "cooked-quinoa",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Quinoa"
     },
     {
+      "id": "cavolo-nero",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cavolo Nero"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "drained-cooked-cannellini-beans",
       "amount": 480,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Cannellini Beans"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "pickled-jalapeo",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pickled Jalapeño"
     },
     {
+      "id": "pickled-jalapeo-brine",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Pickled Jalapeño Brine"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "fresh-parsley",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "olive-oil",
       "amount": 60,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Olive Oil"
     }
   ],
@@ -139,132 +157,5 @@
   "calories": 620,
   "fat": 26,
   "carbs": 40,
-  "protein": 54,
-  "i18n": {
-    "pt": {
-      "name": "Salada Crocante de Quinoa, Frango e Feijão",
-      "ingredients": [
-        "8 Coxas de Frango Sem Osso e Sem Pele",
-        "2 Dentes de Alho",
-        "0.5 Limão",
-        "1c.chá Orégãos Secos",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "250g Quinoa Cozida",
-        "200g Couve Negra",
-        "4 Cebolinhas",
-        "480g Feijão Branco Cozido Escorrido",
-        "4 Cebolinhas",
-        "1 Dente de Alho",
-        "125g Jalapeños em Conserva",
-        "40ml Salmoura de Jalapeños",
-        "70g Iogurte Grego",
-        "30g Salsa Fresca",
-        "60ml Azeite"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C. Coloque as coxas de frango numa tigela. Rale finamente o alho sobre o frango e esprema o sumo de limão. Adicione os orégãos, regue com azeite e tempere generosamente. Misture e reserve.",
-        "Espalhe a quinoa num tabuleiro, regue com azeite e tempere. Misture e asse durante 15-20 minutos. A quinoa ficará crocante ao arrefecer.",
-        "Entretanto, retire os talos da couve negra, rasgue as folhas em pedaços do tamanho de uma dentada e transfira para uma tigela. Tempere com sal e amasse com as mãos durante cerca de 1 minuto até murchar. Corte as cebolinhas em fatias finas, escorra o feijão branco e misture ambos com a couve negra.",
-        "Adicione todos os ingredientes do molho a um liquidificador e bata até ficar suave. Prove e tempere.",
-        "Coloque uma frigideira em lume médio-alto com um fio de azeite. Quando estiver quente, frite o frango de ambos os lados (10-15 minutos no total) até estar dourado e cozido. Corte o frango em fatias.",
-        "Misture três quartos da quinoa crocante com a mistura de feijão e 2c.sopa do molho.",
-        "Divida a salada pelos recipientes, cubra com o frango e regue com mais molho. Polvilhe com a quinoa crocante restante e folhas de salsa. Dura no frigorífico 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Quinoa Cozida"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Couve Cavolo Nero"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 480,
-          "unit": "g",
-          "item": "Feijão Cannellini Cozido e Escorrido"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Jalapeño em Conserva"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Salmoura de Jalapeño"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 60,
-          "unit": "ml",
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 54
 }

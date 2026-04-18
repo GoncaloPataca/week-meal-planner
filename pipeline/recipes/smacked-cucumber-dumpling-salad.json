@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "tahini",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     },
     {
+      "id": "shoyu-soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Shoyu Soy Sauce"
     },
     {
+      "id": "rice-vinegar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "rice-vinegar",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "sesame-oil",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "cucumber",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "frozen-dumplings",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Dumplings"
     },
     {
+      "id": "radish",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Radish"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "chilli-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chilli Oil"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -126,112 +141,5 @@
   "calories": 390,
   "fat": 22,
   "carbs": 34,
-  "protein": 12,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Pepino Batido com Gyozas",
-      "mealType": "jantar",
-      "ingredients": [
-        "6c.s. Tahini",
-        "2c.s. Molho de Soja Shoyu",
-        "2c.s. Vinagre de Arroz",
-        "1c.c. Açúcar",
-        "3c.s. Vinagre de Arroz",
-        "1c.s. Molho de Soja",
-        "2c.c. Óleo de Sésamo",
-        "2 Pepinos",
-        "300g Gyozas Congeladas",
-        "250g Rabanetes",
-        "2 Cebolinhos",
-        "2c.s. Óleo de Malagueta",
-        "Óleo Vegetal",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Para o molho: misture todos os ingredientes do molho cremoso de tahini numa tigela, adicionando 1 c.s. de água fria de cada vez até o molho ficar cremoso. Prove e ajuste com mais açúcar ou molho de soja, se necessário.",
-        "Para a salada: adicione o vinagre de arroz, o molho de soja e o óleo de sésamo a uma tigela.",
-        "Apare o pepino. Corte-o em quartos no sentido do comprimento. Com um rolo da massa ou algo pesado, bata o pepino até partir. Corte em pedaços de cerca de 2 cm. Apare e fatie finamente os rabanetes e o cebolinho. Junte o pepino, os brancos do cebolinho e os rabanetes ao molho e misture, deixando marinar 5-10 min.",
-        "Entretanto, frite as gyozas de acordo com as instruções da embalagem.",
-        "Espalhe o molho de tahini num prato de partilha. Misture as gyozas na salada de pepino e disponha sobre o molho cremoso. Polvilhe com os cebolinhos restantes e regue com o óleo de malagueta."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Shoyu"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Gyozas Congelados"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Rabanete"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Óleo de Malagueta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 12
 }

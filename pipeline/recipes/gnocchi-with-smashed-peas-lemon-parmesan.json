@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-pea",
       "amount": 160,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Pea"
     },
     {
+      "id": "asparagus",
       "amount": 180,
-      "unit": "g",
+      "unitId": "g",
       "item": "Asparagus"
     },
     {
+      "id": "basil",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basil"
     },
     {
+      "id": "gnocchi",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Gnocchi"
     },
     {
+      "id": "crme-frache",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Crème Fraîche"
     },
     {
+      "id": "parmesan",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "unsalted-butter",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Unsalted Butter"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -108,95 +119,5 @@
   "calories": 450,
   "fat": 18,
   "carbs": 54,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Nhoque com Ervilhas Esmagadas, Limão e Parmesão",
-      "mealType": "jantar",
-      "ingredients": [
-        "160g de Ervilhas Congeladas",
-        "180g de Espargos",
-        "25g de Manjericão",
-        "500g de Nhoque",
-        "3 colheres de sopa de Crème Fraîche",
-        "80g de Parmesão",
-        "2 colheres de sopa de Manteiga sem Sal",
-        "Azeite",
-        "1 Limão",
-        "Pimenta Preta",
-        "Sal"
-      ],
-      "steps": [
-        "Coloque quase todas as ervilhas congeladas num liquidificador ou pilão e triture/esmaghe até ficarem uma pasta.",
-        "Apare e fatie os espargos e pique grosseiramente o manjericão.",
-        "Leve uma panela grande de água a ferver, tempere com sal e coza o nhoque até subir à superfície. Retire para uma tigela e envolva com um pouco de azeite. Guarde uma caneca da água de cozedura para usar mais tarde.",
-        "Rale a casca e esprima o sumo do limão e reserve.",
-        "Escalde os espargos e o punhado de ervilhas reservado durante 1 minuto, escorra e reserve.",
-        "Aqueça uma frigideira grande em lume alto. Adicione um fio de azeite e deixe aquecer bem.",
-        "Adicione o nhoque e cozinhe até ficar dourado. Vá mexendo regularmente.",
-        "Adicione a manteiga e cozinhe até ficar acastanhada e o nhoque ficar envernizado e dourado.",
-        "Adicione um pouco da água de cozedura, as ervilhas esmagadas e o crème fraîche. Misture tudo para criar um molho bem verde. Termine com sumo de limão a gosto.",
-        "Tempere com sal e pimenta preta. Adicione a raspa de limão, o parmesão, os legumes escalados e o manjericão picado.",
-        "Continue a misturar tudo até ficar brilhante e delicioso. Ajuste o tempero se necessário.",
-        "Distribua por pratos quentes, cubra com mais parmesão e pimenta preta."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 160,
-          "unit": "g",
-          "item": "Ervilhas Congeladas"
-        },
-        {
-          "amount": 180,
-          "unit": "g",
-          "item": "Espargos"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Manjericão"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Gnocchi"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Crème Fraîche"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

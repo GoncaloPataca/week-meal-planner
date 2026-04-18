@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "thai-red-curry-paste",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Thai Red Curry Paste"
     },
     {
+      "id": "fresh-coriander",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "chicken-mince",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Mince"
     },
     {
+      "id": "fish-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "lime",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "breadcrumb",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Breadcrumb"
     },
     {
+      "id": "coconut-milk",
       "amount": 300,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "peanut-butter",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Peanut Butter"
     },
     {
+      "id": "sugar",
       "amount": 1.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "green-bean",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Green Bean"
     },
     {
+      "id": "spring-onion",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "basmati-rice",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basmati Rice"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     }
   ],
@@ -122,115 +137,5 @@
   "calories": 750,
   "fat": 24,
   "carbs": 86,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Almôndegas de Frango Tailandesas com Molho de Amendoim",
-      "mealType": "jantar",
-      "ingredients": [
-        "3 c. sopa de Pasta de Caril Vermelho Tailandês",
-        "25g Coentros Frescos",
-        "600g Frango Picado",
-        "3 c. sopa de Molho de Peixe",
-        "3 Limas",
-        "2 Ovos",
-        "150g Pão Ralado",
-        "300ml Leite de Coco",
-        "6 c. sopa de Manteiga de Amendoim",
-        "1,5 c. chá de Açúcar",
-        "450g Feijão Verde",
-        "6 Cebolinhas",
-        "450g Arroz Basmati",
-        "Azeite",
-        "1 Lima"
-      ],
-      "steps": [
-        "Adiciona um fio de óleo a uma frigideira pequena, depois adiciona a pasta de caril e frita durante 3 minutos. Reserva.",
-        "Pica finamente os talos dos coentros e coloca-os numa tigela grande. Adiciona o frango picado e metade do molho de peixe, depois rala a raspa de meia lima. Adiciona a pasta de caril frita, os ovos, o pão ralado e tempera. Mistura muito bem até ficar pegajoso. Forma 12 almôndegas com as mãos molhadas, cerca de 60-70g cada.",
-        "Aquece um fio de óleo numa frigideira grande em lume médio e frita as almôndegas durante 10-15 minutos até dourarem por toda a parte e estarem completamente cozinhadas.",
-        "Para o molho, coloca o leite de coco numa panela com a manteiga de amendoim e o restante molho de peixe. Derrete e leva a ferver em lume brando, depois tempera com sal e o sumo das restantes limas. Adiciona o açúcar, se necessário, para equilibrar o sabor.",
-        "Apara e corta o feijão verde ao meio, pica finamente as cebolinhas e destaca as folhas dos coentros.",
-        "Cozinha o arroz seguindo as instruções da embalagem e adiciona o feijão verde 5 minutos antes do fim do tempo de cozedura.",
-        "Se fizeres em grande quantidade para a semana, serve um terço deste prato ao jantar e guarda o resto em caixas (mantém as almôndegas, o arroz/feijão, o molho de amendoim e as cebolinhas separados).",
-        "Serve o arroz e as almôndegas com o molho de amendoim por cima. Termina com cebolinhas e coentros, com um gomo de lima ao lado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Pasta de Caril Vermelho Tailandês"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Frango Picado"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Pão Ralado"
-        },
-        {
-          "amount": 300,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Feijão Verde"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Arroz Basmati"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

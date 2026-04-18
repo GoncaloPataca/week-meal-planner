@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "thai-red-curry-paste",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Thai Red Curry Paste"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "water",
       "amount": 50,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "jasmine-rice",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "light-coconut-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Light Coconut Milk"
     },
     {
+      "id": "green-bean",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Green Bean"
     },
     {
+      "id": "salmon-fillet",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salmon Fillet"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -111,95 +123,5 @@
   "calories": 695,
   "fat": 24,
   "carbs": 77,
-  "protein": 37,
-  "i18n": {
-    "pt": {
-      "name": "Salmão com Caril Vermelho Tailandês e Arroz de Lima e Coco",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Limas",
-        "4 c. sopa de Pasta de Caril Vermelho Tailandês",
-        "1 c. sopa de Mel",
-        "50ml Água",
-        "150g Arroz Jasmine",
-        "400ml Leite de Coco Light",
-        "100g Feijão Verde",
-        "2x 120g Filetes de Salmão sem Pele",
-        "15g Coentros Frescos",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Rala a casca das duas limas para um prato pequeno e reserva.",
-        "Numa tigela, mistura a pasta de caril vermelho tailandês, o mel e o sumo das duas limas com 50ml de água. Tempera levemente com sal e pimenta.",
-        "Lava o arroz cuidadosamente em água fria, depois escorre bem. Coloca-o numa panela pequena e adiciona o leite de coco. Adiciona a raspa de lima e leva a ferver. Reduz o lume para o mínimo, tapa e cozinha durante 5 minutos. Coloca o feijão verde aparado por cima, tapa novamente e cozinha mais 5 minutos. Desliga o lume e deixa tudo ao vapor por mais alguns minutos com a tampa.",
-        "Corta o salmão em pedaços grandes do tamanho de uma bouchée e tempera com sal.",
-        "Aquece um fio de azeite numa frigideira em lume médio-alto. Adiciona os pedaços de salmão e frita durante 1 minuto de cada lado até dourarem. Reduz o lume e adiciona o molho de caril. Deixa borbulhar até engrossar e ficar pegajoso, envolvendo o salmão.",
-        "Solha o arroz de coco e lima com um garfo e divide pelas tigelas ou caixas. Adiciona o feijão verde, coloca por cima os pedaços de salmão pegajosos e espalha os coentros."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Pasta de Caril Vermelho Tailandês"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 50,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite de Coco Light"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Feijão Verde"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Filete de Salmão"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 37
 }

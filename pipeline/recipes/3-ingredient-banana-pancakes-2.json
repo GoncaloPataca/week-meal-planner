@@ -13,35 +13,41 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "banana",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "banana"
     },
     {
+      "id": "egg",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "oats",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Oats"
     },
     {
+      "id": "banana",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Banana",
       "note": "to serve"
     },
     {
+      "id": "peanut-butter",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Peanut Butter",
       "note": "to serve"
     },
     {
+      "id": "toasted-flaked-almonds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Toasted Flaked Almonds",
       "note": "to serve"
     }
@@ -68,57 +74,5 @@
   "calories": 170,
   "fat": 6,
   "carbs": 23,
-  "protein": 7,
-  "i18n": {
-    "pt": {
-      "name": "Panquecas de Banana com 3 Ingredientes",
-      "ingredients": [
-        "2 Banana",
-        "3 Ovos",
-        "60g Aveia",
-        "Banana (para servir)",
-        "Manteiga de Amendoim (para servir)",
-        "Amêndoas Laminadas Torradas (para servir)"
-      ],
-      "steps": [
-        "Parta os ovos para um liquidificador, depois junte as bananas e a aveia. Ligue o liquidificador em velocidade média e bata durante 1 a 2 minutos até a mistura ser homogénea e semi-suave. Deixe repousar durante 3 minutos.",
-        "Aqueça uma frigideira antiaderente em lume médio. Quando estiver quente, reduza para lume brando e adicione uma pequena noz de manteiga. Quando estiver derretida, adicione 4 colheres de sopa da mistura (para uma panqueca grande).",
-        "Cozinhe em lume brando durante 1 a 2 minutos até aparecerem bolhas. Vire e cozinhe por mais um minuto do outro lado. Retire para um prato e cubra com papel de alumínio (ou coloque na prateleira inferior de um forno quente) para manter quente até servir. Repita com a mistura restante.",
-        "Sirva com as coberturas à sua escolha! Fatias de banana, manteiga de amendoim e amêndoas laminadas torradas são ótimas opções."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Aveia"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Amêndoas em Lâminas Tostadas"
-        }
-      ]
-    }
-  }
+  "protein": 7
 }

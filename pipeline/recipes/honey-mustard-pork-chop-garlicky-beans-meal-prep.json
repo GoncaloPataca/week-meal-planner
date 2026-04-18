@@ -19,64 +19,76 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pork-chop",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "pork Chop"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "chicken-stock",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "sherry-vinegar",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sherry Vinegar",
       "note": "to taste"
     },
     {
+      "id": "wholegrain-mustard",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Wholegrain Mustard"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "chickpeas",
       "amount": 700,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chickpeas"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -107,94 +119,5 @@
   "calories": 550,
   "fat": 22,
   "carbs": 32,
-  "protein": 50,
-  "i18n": {
-    "pt": {
-      "name": "Costeletas de Porco com Mel e Mostarda e Feijão com Alho",
-      "mealType": "almoço",
-      "ingredients": [
-        "4 Costeletas de Porco",
-        "2 colheres de sopa de Azeite",
-        "2 Dentes de Alho",
-        "1 colher de sopa de Mel",
-        "100ml de Caldo de Frango",
-        "Vinagre de Jerez (a gosto)",
-        "2 colheres de sopa de Mostarda Antiga",
-        "2 Dentes de Alho",
-        "1 Frasco de 700g de Grão-de-Bico",
-        "20g de Salsa Lisa Fresca",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Tempere as costeletas de porco generosamente com sal e pimenta dos dois lados e reserve. Separe as folhas de salsa e corte finamente os talos macios. Esmague suavemente o alho para o porco e reserve.",
-        "Rale finamente o alho para o feijão numa panela. Adicione os talos de salsa e o grão-de-bico (com o líquido), depois coloque em lume médio e deixe fervilhar suavemente até estar pronto a servir.",
-        "Esmague o alho para o porco, descartando as peles. Seque as costeletas. Adicione o azeite a uma frigideira e coloque as costeletas de porco com a gordura virada para baixo. Coloque em lume médio-alto e deixe a gordura render 3 a 4 minutos. Assim que estiver dourada, aloure ambos os lados das costeletas durante 5 a 6 minutos até ficarem douradas e bem cozidas. Transfira para um prato para descansar.",
-        "Verta o caldo de frango para a frigideira vazia e adicione o alho esmagado. Deixe borbulhar e reduzir a metade, depois retire do lume e misture o mel e a mostarda antiga. Prove e tempere com sal, pimenta e um fio de vinagre de Jerez.",
-        "Fatie as costeletas e incorpore os sucos do descanso no molho. Coloque o feijão com alho nos recipientes, cubra com o porco e regue com o molho. Termine com as folhas de salsa. Depois de arrefecer, guarde e leve ao frigorífico — dura até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Costeleta de Porco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Vinagre de Xerez"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mostarda de Grão Inteiro"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 700,
-          "unit": "g",
-          "item": "Grão-de-Bico"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 50
 }

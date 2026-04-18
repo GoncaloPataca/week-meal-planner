@@ -26,100 +26,119 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 1000,
-      "unit": "g",
+      "unitId": "g",
       "item": "Boneless Skinless Chicken Thigh"
     },
     {
+      "id": "white-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "white Onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "chipotle-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chipotle Paste"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "garlic-clove",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "butter",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "kale",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kale"
     },
     {
+      "id": "jasmine-rice",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "water",
       "amount": 240,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "cheddar-cheese",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Cheddar Cheese",
       "note": "to serve"
     },
     {
+      "id": "yoghurt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Yoghurt",
       "note": "to serve"
     },
     {
+      "id": "lime-wedge",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Lime Wedge",
       "note": "to serve"
     }
@@ -151,139 +170,5 @@
   "calories": 540,
   "fat": 18,
   "carbs": 40,
-  "protein": 52,
-  "i18n": {
-    "pt": {
-      "name": "Frango com Chipotle e Arroz de Couve com Limão",
-      "mealType": "almoço",
-      "ingredients": [
-        "1000g de Coxas de Frango sem Osso e sem Pele",
-        "3 Cebolas Brancas",
-        "2 Dentes de Alho",
-        "2 colheres de sopa de Pasta de Chipotle",
-        "1 colher de sopa de Orégãos Secos",
-        "1 colher de sopa de Cominhos em Pó",
-        "2 colheres de sopa de Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "3 Dentes de Alho",
-        "10g de Manteiga",
-        "200g de Couve",
-        "200g de Arroz Jasmim",
-        "240ml de Água",
-        "1 Limão",
-        "Sal",
-        "Queijo Cheddar (para servir)",
-        "Iogurte (para servir)",
-        "Gomo de Lima (para servir)"
-      ],
-      "steps": [
-        "Pré-aqueça o grelhador do forno em lume alto.",
-        "Corte as coxas de frango em quartos. Descasque e corte as cebolas em fatias finas. Descasque e rale o alho.",
-        "Coloque o frango, as cebolas, a pasta de chipotle, o alho, os orégãos, os cominhos, o azeite, sal e pimenta numa tigela grande. Envolva até tudo estar coberto.",
-        "Espalhe a mistura de frango num tabuleiro em camada uniforme. Coloque sob o grelhador na prateleira superior e cozinhe 15 a 20 minutos, virando a meio, até o frango estar cozido e começar a carbonizar nas bordas.",
-        "Enquanto o frango grelha, descasque e pique o alho restante finamente. Derreta a manteiga numa panela grande em lume médio. Adicione o alho e frite 1 minuto até ficar aromático.",
-        "Adicione a couve e cozinhe 2 a 3 minutos até começar a murchar. Misture o arroz, a água, uma boa pitada de sal e a raspa de metade do limão.",
-        "Leve a ferver, tape e reduza o lume para baixo. Cozinhe 12 minutos, depois retire do lume e deixe cozer no vapor, tapado, durante 5 minutos. Solte o arroz com um garfo e esprima o sumo do limão.",
-        "Sirva o frango com chipotle sobre o arroz com um gomo de lima, um pouco de cheddar ralado e uma colherada generosa de iogurte."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1000,
-          "unit": "g",
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebola Branca"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Chipotle"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Couve Kale"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 240,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Queijo Cheddar"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Iogurte"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Gomo de Lima"
-        }
-      ]
-    }
-  }
+  "protein": 52
 }

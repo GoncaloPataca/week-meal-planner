@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "5-fat-beef-mince",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Beef Mince"
     },
     {
+      "id": "vegetable-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegetable Oil"
     },
     {
+      "id": "fresh-ginger",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fresh Ginger"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "broccoli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "broccoli"
     },
     {
+      "id": "water",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "sesame-seeds",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "chicken-stock",
       "amount": 75,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "oyster-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Oyster Sauce"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sugar"
     },
     {
+      "id": "ground-white-pepper",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground White Pepper"
     },
     {
+      "id": "cornflour",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Cornflour"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     }
   ],
@@ -131,121 +147,5 @@
   "calories": 380,
   "fat": 18,
   "carbs": 16,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Stir-Fry de Carne Picada e Brócolos",
-      "mealType": "jantar",
-      "ingredients": [
-        "250g de Carne de Vaca Picada 5% de Gordura",
-        "1 colher de sopa de Óleo Vegetal",
-        "1 colher de chá de Gengibre Fresco",
-        "3 Dentes de Alho",
-        "1 Brócolos",
-        "3 colheres de sopa de Água",
-        "1 colher de sopa de Óleo de Sésamo",
-        "2 colheres de chá de Sementes de Sésamo",
-        "75ml de Caldo de Frango",
-        "2 colheres de sopa de Molho de Soja Claro",
-        "1 colher de sopa de Molho de Soja Escuro",
-        "1 colher de sopa de Molho de Ostras",
-        "1 colher de sopa de Açúcar",
-        "0,25 colher de chá de Pimenta Branca em Pó",
-        "1 colher de sopa de Amido de Milho",
-        "2 Ceboletes"
-      ],
-      "steps": [
-        "Misture todos os ingredientes do molho numa tigela e reserve.",
-        "Pique o alho e o gengibre. Corte os brócolos em raminhos. Corte as ceboletes em fatias finas e reserve.",
-        "Coloque os brócolos numa tigela resistente ao calor com a água. Tape e cozinhe no micro-ondas 3 minutos até ficarem tenros. Escorra e reserve. Alternativamente, branqueie em água a ferver durante 2 minutos.",
-        "Coloque um wok ou frigideira grande em lume alto com o óleo vegetal. Quando estiver quente, adicione a carne picada e salteie 3 a 4 minutos até ficar dourada.",
-        "Adicione o gengibre e o alho à frigideira e cozinhe 2 minutos até ficarem aromáticos.",
-        "Adicione os brócolos e verta o molho. Envolva tudo durante 2 a 3 minutos até o molho engrossar e cobrir a carne e os vegetais.",
-        "Regue com o óleo de sésamo e envolva novamente. Retire do lume.",
-        "Sirva coberto com sementes de sésamo, as ceboletes fatiadas e pimenta branca extra."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Carne Picada de Vaca 5% de Gordura"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Brócolos"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 75,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Ostra"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Pimenta Branca em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Farinha Maizena"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

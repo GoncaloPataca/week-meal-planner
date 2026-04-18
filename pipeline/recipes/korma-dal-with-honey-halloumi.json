@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-ginger",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "korma-curry-paste",
       "amount": 140,
-      "unit": "g",
+      "unitId": "g",
       "item": "Korma Curry Paste"
     },
     {
+      "id": "red-lentil",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Red Lentil"
     },
     {
+      "id": "coconut-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "water",
       "amount": 1.1,
-      "unit": "l",
+      "unitId": "l",
       "item": "Water"
     },
     {
+      "id": "halloumi",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "fresh-coriander",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -101,95 +113,5 @@
   "calories": 720,
   "fat": 36,
   "carbs": 58,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Dal de Korma com Halloumi e Mel",
-      "mealType": "jantar",
-      "ingredients": [
-        "4 Dentes de Alho",
-        "20g de Gengibre Fresco",
-        "140g de Pasta de Caril Korma",
-        "500g de Lentilhas Vermelhas",
-        "1 Lata de 400ml de Leite de Coco",
-        "1,1L de Água",
-        "450g de Halloumi",
-        "2 colheres de sopa de Mel",
-        "20g de Coentros Frescos",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Lave as lentilhas vermelhas sob água fria até a água sair limpa, depois rale finamente o alho e o gengibre.",
-        "Aqueça uma panela grande em lume médio com um fio de azeite. Adicione a pasta de caril e frite durante alguns minutos até ficar aromática. Misture o alho e o gengibre e cozinhe mais um minuto.",
-        "Adicione as lentilhas, o leite de coco e a água. Leve a ferver, depois reduza o lume e deixe fervilhar 15 minutos até as lentilhas estarem macias e o dal ter engrossado. Tempere com sal e pimenta a gosto.",
-        "Entretanto, corte o halloumi em cubos de 2 cm. Coloque uma frigideira em lume médio-alto. Adicione o halloumi e cozinhe sem óleo até ficar dourado e carbonizado de todos os lados.",
-        "Reduza ligeiramente o lume e misture o mel para que cubra o halloumi e fique brilhante e pegajoso.",
-        "Pique grosseiramente os coentros. Coloque o dal nas tigelas, cubra com o halloumi pegajoso e termine com os coentros."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 140,
-          "unit": "g",
-          "item": "Pasta de Caril Korma"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Lentilha Vermelha"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 1.1,
-          "unit": "l",
-          "item": "Água"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

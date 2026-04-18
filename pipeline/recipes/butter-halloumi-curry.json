@@ -23,84 +23,100 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "tomato-pure",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "bay-leaf",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "bay Leaf"
     },
     {
+      "id": "chilli-powder",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "garam-masala",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garam Masala"
     },
     {
+      "id": "water",
       "amount": 250,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "double-cream",
       "amount": 60,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Double Cream"
     },
     {
+      "id": "butter",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "fenugreek-leaf",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fenugreek Leaf"
     },
     {
+      "id": "halloumi",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "roti",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "roti",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     }
   ],
@@ -136,122 +152,5 @@
   "calories": 595,
   "fat": 47,
   "carbs": 12,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Caril de Halloumi com Manteiga",
-      "ingredients": [
-        "2 Cebolas",
-        "4 Dentes de Alho",
-        "15g Gengibre Fresco",
-        "6c.sopa Concentrado de Tomate",
-        "1 Folha de Louro",
-        "0.5c.chá Pó de Malagueta",
-        "1c.chá Garam Masala",
-        "250ml Água",
-        "60ml Natas",
-        "60g Manteiga",
-        "1c.chá Folhas de Fenacho",
-        "450g Halloumi",
-        "15g Coentros Frescos",
-        "4 Roti (para servir)",
-        "Sal",
-        "Óleo Vegetal"
-      ],
-      "steps": [
-        "Corte as cebolas em fatias finas. Pique finamente o alho e o gengibre.",
-        "Adicione um bom fio de óleo vegetal à frigideira. Adicione as cebolas e cozinhe durante 15 minutos em lume médio, até estarem completamente macias e terem começado a caramelizar. Adicione o alho, o gengibre e o concentrado de tomate, depois cozinhe por 2 minutos.",
-        "Adicione a folha de louro, o pó de malagueta e o garam masala, depois adicione a água e as natas. Leve a uma fervura suave e cozinhe durante 5 minutos.",
-        "Entretanto, corte o halloumi em pedaços grandes.",
-        "Aqueça uma frigideira em lume médio. Adicione o halloumi e cozinhe durante 5 minutos até cada pedaço estar dourado de todos os lados.",
-        "Retire a folha de louro do molho e verta-o num liquidificador, depois bata até obter uma consistência suave.",
-        "Aqueça o roti numa frigideira quente.",
-        "Verta o molho de volta na frigideira, depois adicione as folhas de fenacho (se usar) e o halloumi. Adicione a manteiga, depois tempere com sal e pimenta a gosto.",
-        "Termine o caril com um fio extra de natas e folhas de coentros. Sirva com roti."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Folha de Louro"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Garam Masala"
-        },
-        {
-          "amount": 250,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 60,
-          "unit": "ml",
-          "item": "Natas"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Folhas de Feno-Grego"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Roti"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

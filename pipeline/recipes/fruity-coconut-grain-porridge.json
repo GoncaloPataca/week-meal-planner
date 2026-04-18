@@ -19,64 +19,76 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pearl-barley",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pearl Barley"
     },
     {
+      "id": "coconut-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "water",
       "amount": 1,
-      "unit": "l",
+      "unitId": "l",
       "item": "Water"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "quinoa",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Quinoa"
     },
     {
+      "id": "pudding-rice",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pudding Rice"
     },
     {
+      "id": "chia-seed",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chia Seed"
     },
     {
+      "id": "honey",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Honey",
       "note": "to serve"
     },
     {
+      "id": "frozen-mango",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Mango"
     },
     {
+      "id": "salt",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "sugar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sugar"
     },
     {
+      "id": "toasted-sesame-seeds",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Toasted Sesame Seeds"
     }
   ],
@@ -110,94 +122,5 @@
   "calories": 440,
   "fat": 18,
   "carbs": 60,
-  "protein": 8,
-  "i18n": {
-    "pt": {
-      "name": "Papas de Grãos com Coco e Fruta",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "75g de Cevada Perlada",
-        "1 Lata de 400ml de Leite de Coco",
-        "1L de Água",
-        "1 colher de chá de Sal",
-        "70g de Quinoa",
-        "70g de Arroz de Pudim",
-        "3 colheres de sopa de Sementes de Chia",
-        "Mel (para servir)",
-        "400g de Manga Congelada",
-        "0,5 colher de chá de Sal",
-        "2 colheres de sopa de Açúcar",
-        "40g de Sementes de Sésamo Torradas"
-      ],
-      "steps": [
-        "Lave a cevada em água fria e coloque numa panela. Adicione metade do leite de coco, a água e o sal. Leve a ferver em lume alto. Quando ferver, reduza para lume médio e cozinhe 10 minutos, mexendo ocasionalmente.",
-        "Entretanto, lave a quinoa e o arroz até a água sair limpa. Após 10 minutos de cozedura da cevada, adicione a quinoa e o arroz com o restante leite de coco. Continue a cozinhar mais 20 minutos até as papas estarem cozidas e cremosas.",
-        "Entretanto, coloque a manga congelada numa tigela e misture com o sal e o açúcar (reduza ou omita o açúcar se preferir). Cubra e reserve para descongelar enquanto as papas cozinham, ou leve ao frigorífico se preparar com antecedência.",
-        "Quando as papas estiverem prontas, incorpore as sementes de chia e adoce com mel a gosto. Pode adicionar um pouco de água se estiver demasiado espesso. Se preparar com antecedência, transfira para caixas e leve ao frigorífico até 4 dias.",
-        "Para servir, distribua as papas pelas tigelas e coloque a fruta com o seu sumo por cima. Termine com sementes de sésamo torradas. Se preparar com antecedência, as papas engrossam ao repousar, pelo que terá de as soltar com um pouco de água ou leite antes de consumir quentes ou frias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Cevada Perlada"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 1,
-          "unit": "l",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Quinoa"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Arroz para Pudim"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Mel"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Manga Congelada"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Sementes de Sésamo Tostadas"
-        }
-      ]
-    }
-  }
+  "protein": 8
 }

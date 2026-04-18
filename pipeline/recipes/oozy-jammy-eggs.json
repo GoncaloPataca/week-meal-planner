@@ -10,18 +10,21 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "water",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Water"
     },
     {
+      "id": "ice",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Ice"
     }
   ],
@@ -58,41 +61,5 @@
   "calories": 80,
   "fat": 6,
   "carbs": 0,
-  "protein": 6,
-  "i18n": {
-    "pt": {
-      "name": "Ovos Moles e Cremosos",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "6 Ovos",
-        "Água",
-        "Gelo"
-      ],
-      "steps": [
-        "Encha uma panela média com água e leve a uma fervura intensa.",
-        "Use uma colher para baixar cuidadosamente os ovos para a água a ferver. Não encha demasiado a panela nem reduza o lume.",
-        "Programe um temporizador para 6 minutos se os ovos estiverem à temperatura ambiente, ou 6 minutos e 30 segundos se estiverem frios.",
-        "Enquanto fervem, encha uma tigela com água fria e gelo. Quando o temporizador acabar, transfira os ovos para o banho de gelo durante 3 minutos para parar a cozedura.",
-        "Descasque se for comê-los agora — passe-os por água fria à medida que descasca para facilitar. Se quiser guardá-los, mantenha os ovos não descascados na casca até 7 dias no frigorífico. Os ovos descascados devem ser guardados submersos em água fria num recipiente fechado — mantêm-se frescos até 4 dias.",
-        "Para reaquecer, coloque um ovo frio numa tigela com água morna durante 5 minutos. A gema fica cremosa e deliciosa."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Água"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Gelo"
-        }
-      ]
-    }
-  }
+  "protein": 6
 }

@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sushi-rice",
       "amount": 275,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sushi Rice"
     },
     {
+      "id": "cod",
       "amount": 560,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cod"
     },
     {
+      "id": "mixed-mushroom",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Mushroom"
     },
     {
+      "id": "butter",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "white-miso",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Miso"
     },
     {
+      "id": "mirin",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mirin"
     },
     {
+      "id": "mushroom-stock",
       "amount": 350,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Mushroom Stock"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "spring-onion",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "toasted-sesame-seeds",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Toasted Sesame Seeds"
     },
     {
+      "id": "toasted-sesame-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Toasted Sesame Oil"
     }
   ],
@@ -102,90 +113,5 @@
   "calories": 510,
   "fat": 16,
   "carbs": 50,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Arroz com Bacalhau e Manteiga de Miso numa Panela",
-      "mealType": "jantar",
-      "ingredients": [
-        "275g de Arroz para Sushi",
-        "4 Filetes de Bacalhau de 140g",
-        "200g de Cogumelos Mistos",
-        "60g de Manteiga",
-        "3 colheres de sopa de Miso Branco",
-        "1 colher de sopa de Mirin",
-        "350ml de Caldo de Cogumelos",
-        "Azeite",
-        "5 Ceboletes",
-        "2 colheres de chá de Sementes de Sésamo Tostadas",
-        "1 colher de chá de Óleo de Sésamo Tostado"
-      ],
-      "steps": [
-        "Certifique-se de que a manteiga está à temperatura ambiente. Prepare os ingredientes: Lave o arroz até a água sair limpa, depois coloque numa tigela, cubra com água e deixe demolhar. Tempere o bacalhau com sal e pimenta e coloque em papel de cozinha. Corte ou rasgue os cogumelos em pedaços de 1 cm. Misture a manteiga amolecida, o miso e o mirin numa tigela e reserve.",
-        "Coloque uma frigideira (com tampa) em lume médio-alto com um fio generoso de azeite. Assim que estiver quente, adicione os cogumelos e cozinhe 10 a 15 minutos até ficarem dourados, mexendo apenas algumas vezes. Transfira os cogumelos para um prato. Não lave a frigideira.",
-        "Escorra o arroz e coloque na frigideira vazia. Coloque em lume alto e verta o caldo. Leve a ferver, depois tape e reduza o lume para baixo. Deixe cozinhar 12 minutos.",
-        "Quando o tempo de cozedura do arroz terminar, seque o bacalhau e coloque os filetes por cima do arroz. Espalhe a manteiga de miso no peixe, tape e cozinhe mais 10 minutos.",
-        "Entretanto, aqueça o grelhador em temperatura alta. Apare e corte as ceboletes em terços, depois corte finamente no comprimento e coloque numa tigela com água gelada até ficarem enroladas.",
-        "Quando o tempo de cozedura do peixe terminar, retire a tampa e polvilhe os cogumelos estaladiços sobre o arroz. Coloque a frigideira sob o grelhador durante 3 a 4 minutos até a manteiga de miso começar a alourar e o peixe estar completamente cozido.",
-        "Escorra as ceboletes e misture com as sementes de sésamo e o óleo numa tigela pequena. Solte o arroz com um garfo e sirva nas tigelas. Cubra com o peixe e o coleslaw de ceboletes."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 275,
-          "unit": "g",
-          "item": "Arroz de Sushi"
-        },
-        {
-          "amount": 560,
-          "unit": "g",
-          "item": "Bacalhau"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Cogumelos Mistos"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mirin"
-        },
-        {
-          "amount": 350,
-          "unit": "ml",
-          "item": "Caldo de Cogumelos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo Tostado"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

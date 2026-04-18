@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "conchiglie",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Conchiglie"
     },
     {
+      "id": "tomato-pasta-sauce",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tomato Pasta Sauce"
     },
     {
+      "id": "cottage-cheese",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "spinach",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "fresh-basil",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "parmesan",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -80,69 +88,5 @@
   "calories": 580,
   "fat": 14,
   "carbs": 76,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Massa Preguiçosa com Queijo Cottage e Tomate",
-      "mealType": "jantar",
-      "ingredients": [
-        "250g de Conchiglie",
-        "1 Frasco de 350g de Molho de Tomate para Massa",
-        "300g de Queijo Cottage",
-        "30g de Espinafres",
-        "15g de Manjericão Fresco",
-        "50g de Parmesão",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Leve uma panela grande de água salgada a ferver e cozinhe a massa seguindo as instruções da embalagem até ficar al dente. Reserve uma caneca de água de cozedura antes de escorrer.",
-        "Entretanto, verta o molho de tomate numa frigideira e aqueça em lume médio durante 2 a 3 minutos até ferver. Adicione o queijo cottage e misture no molho até derreter e ficar cremoso, adicionando um pouco da água de cozedura se estiver demasiado espesso. Junte os espinafres e deixe murchar 1 a 2 minutos. Tempere com sal e bastante pimenta preta.",
-        "Adicione a massa escorrida à frigideira e misture até ficar uniformemente coberta pelo molho, adicionando um pouco mais de água de cozedura para soltar se necessário. Rale a maior parte do parmesão e rasgue a maior parte do manjericão, mexendo.",
-        "Sirva com o parmesão e o manjericão restantes por cima."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Conchiglie"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Molho de Tomate para Massa"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

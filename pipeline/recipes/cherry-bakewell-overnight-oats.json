@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "flaked-almond",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Flaked Almond"
     },
     {
+      "id": "jumbo-oat",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jumbo Oat"
     },
     {
+      "id": "semi-skimmed-milk",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Semi-Skimmed Milk"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "vanilla-extract",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vanilla Extract"
     },
     {
+      "id": "almond-extract",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Almond Extract"
     },
     {
+      "id": "protein-powder",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Protein Powder"
     },
     {
+      "id": "almond-butter",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Almond Butter"
     },
     {
+      "id": "maple-syrup",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "pitted-frozen-cherries",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pitted Frozen Cherries"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -96,89 +107,5 @@
   "calories": 420,
   "fat": 17,
   "carbs": 47,
-  "protein": 17,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna Cherry Bakewell",
-      "ingredients": [
-        "50g Amêndoa Laminada",
-        "150g Aveia em Flocos Grossos",
-        "150ml Leite Meio-Gordo",
-        "200g Iogurte Grego",
-        "1c.chá Extracto de Baunilha",
-        "2c.chá Extracto de Amêndoa",
-        "2c.sopa Proteína em Pó",
-        "3c.sopa Manteiga de Amêndoa",
-        "3c.sopa Xarope de Ácer",
-        "200g Cerejas Congeladas sem Caroço",
-        "Sal"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C ventilado.",
-        "Coloque a aveia numa tigela com o iogurte, o leite, o extracto de baunilha, metade do extracto de amêndoa e a proteína em pó, se usar. Misture bem e reserve.",
-        "Numa tigela pequena, misture a manteiga de amêndoa, o restante extracto de amêndoa, dois terços do xarope de ácer e uma pitada de sal. Reserve.",
-        "Coloque as cerejas congeladas num tacho pequeno com o resto do xarope de ácer. Leve a lume brando-médio e cozinhe até as cerejas estarem descongeladas e começarem a libertar os sucos. Esmague grosseiramente com um esmagador de batatas, deixando alguns pedaços maiores.",
-        "Coloque a mistura de cerejas no fundo dos recipientes. Cubra com a aveia, depois regue com a mistura de manteiga de amêndoa. Termine com uma pitada de amêndoa laminada tostada.",
-        "Cubra e coloque no frigorífico durante a noite."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Amêndoa em Lâminas"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Flocos de Aveia Grandes"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Leite Meio-Gordo"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Extrato de Baunilha"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Extrato de Amêndoa"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Proteína em Pó"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amêndoa"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Cerejas Congeladas sem Caroço"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 17
 }

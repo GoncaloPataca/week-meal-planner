@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "thigh-bone-in-skin-on-chicken-thigh",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "thigh Bone-In Skin-On Chicken Thigh"
     },
     {
+      "id": "cooked-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice"
     },
     {
+      "id": "jalape-o",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "jalape ño"
     },
     {
+      "id": "clove-garlic",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-ginger",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "ground-coriander",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "ground-cumin",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "coriander",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coriander"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "coconut-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "chicken-stock",
       "amount": 200,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "desiccated-coconut",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Desiccated Coconut"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "jalape-o",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "jalape ño"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -129,119 +145,5 @@
   "calories": 670,
   "fat": 28,
   "carbs": 56,
-  "protein": 46,
-  "i18n": {
-    "pt": {
-      "name": "Coxas de Frango com Jalapeño e Coco",
-      "mealType": "jantar",
-      "ingredients": [
-        "8 Coxas de Frango com Osso e Pele",
-        "500g de Arroz Cozido",
-        "5 Jalapeños",
-        "5 Dentes de Alho",
-        "5g de Gengibre Fresco",
-        "2 Chalotas",
-        "2 colheres de chá de Coentros em Pó",
-        "2 colheres de chá de Cominhos em Pó",
-        "50g de Coentros",
-        "1 Lima",
-        "400ml de Leite de Coco",
-        "200ml de Caldo de Frango",
-        "2 colheres de sopa de Coco Ralado",
-        "1 Lima",
-        "1 Jalapeño",
-        "Sal"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 220°C. Tempere as coxas de frango com sal.",
-        "Aqueça uma frigideira grande em lume médio (sem óleo). Adicione o coco ralado e cozinhe, mexendo constantemente, até ficar dourado e tostado, 2 a 4 minutos. Coloque num prato.",
-        "Coloque as coxas de frango na frigideira vazia com a pele para baixo e cozinhe 8 a 10 minutos até a pele ficar bem dourada. Transfira para um tabuleiro.",
-        "Triture os ingredientes do molho até ficar liso. Prove e tempere com sal e pimenta se necessário. Verta no tabuleiro e leve o frango ao forno até estar bem cozido, 30 a 40 minutos.",
-        "Entretanto, aqueça o arroz. Fatie finamente o jalapeño restante e corte a lima em gomos.",
-        "Assim que o frango estiver cozido, sirva o arroz nas tigelas. Coloque o molho e cubra com o frango. Termine com uma pitada de coco tostado, jalapeño e um gomo de lima."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Coxa de Frango com Osso e Pele"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Jalapeño"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Coentros"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 200,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Coco Ralado"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Jalapeño"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 46
 }

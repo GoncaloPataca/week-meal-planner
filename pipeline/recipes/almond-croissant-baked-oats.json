@@ -22,80 +22,95 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "almond-butter",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Almond Butter"
     },
     {
+      "id": "maple-syrup",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "almond-extract",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Almond Extract"
     },
     {
+      "id": "banana",
       "amount": 330,
-      "unit": "g",
+      "unitId": "g",
       "item": "Banana"
     },
     {
+      "id": "oats",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Oats"
     },
     {
+      "id": "vegan-vanilla-protein-powder",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vegan Vanilla Protein Powder"
     },
     {
+      "id": "almond-milk",
       "amount": 700,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Almond Milk"
     },
     {
+      "id": "baking-powder",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Baking Powder"
     },
     {
+      "id": "bicarbonate-of-soda",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Bicarbonate of Soda"
     },
     {
+      "id": "raspberry",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raspberry"
     },
     {
+      "id": "flaked-almond",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Flaked Almond"
     },
     {
+      "id": "flaky-sea-salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Flaky Sea Salt"
     },
     {
+      "id": "icing-sugar",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Icing Sugar",
       "note": "to serve"
     },
     {
+      "id": "mixed-berry-coulis",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Mixed Berry Coulis",
       "note": "to serve"
     },
     {
+      "id": "vegan-yoghurt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegan Yoghurt",
       "note": "to serve"
     }
@@ -131,113 +146,5 @@
   "calories": 320,
   "fat": 10,
   "carbs": 40,
-  "protein": 10,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Assada ao Estilo Croissant de Amêndoa",
-      "ingredients": [
-        "70g Manteiga de Amêndoa",
-        "4c.sopa Xarope de Ácer",
-        "2c.chá Extrato de Amêndoa",
-        "330g Banana",
-        "300g Aveia",
-        "60g Proteína Vegana com Baunilha em Pó",
-        "700ml Leite de Amêndoa",
-        "1c.sopa Fermento em Pó",
-        "1c.chá Bicarbonato de Sódio",
-        "100g Framboesas",
-        "50g Amêndoa Laminada",
-        "Flor de Sal",
-        "Açúcar em Pó (para servir)",
-        "Coulis de Frutos Vermelhos Mistos (para servir)",
-        "Iogurte Vegano (para servir)"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C com ventilação. Forre um tabuleiro de forno fundo (usámos um de 20cm x 20cm) com papel vegetal.",
-        "Numa tigela, adicione a manteiga de amêndoa, ¾ do xarope de ácer, metade do extrato de amêndoa e uma pitada de flor de sal. Misture até combinar e reserve.",
-        "Noutra tigela, amasse a banana com um garfo até ficar suave. Adicione o xarope de ácer e o extrato de amêndoa restantes, juntamente com a aveia, a proteína em pó, o leite de amêndoa, o fermento, o bicarbonato de sódio e uma pitada de flor de sal. Mexa para combinar e incorpore as framboesas.",
-        "Verta metade da mistura de banana e aveia no tabuleiro preparado, regue com metade da mistura de manteiga de amêndoa, depois coloque o restante da aveia e repita com a manteiga de amêndoa antes de espalhar as amêndoas laminadas.",
-        "Leve ao forno durante 45 minutos. Vigie — se o topo ficar demasiado escuro, cubra com papel de alumínio e continue a assar.",
-        "Retire do forno e deixe arrefecer antes de polvilhar com açúcar em pó e cortar em pedaços. Sirva em tigelas com uma colherada de iogurte e um pouco de coulis de frutos vermelhos ou frutos extras, se preferir."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Manteiga de Amêndoa"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Extrato de Amêndoa"
-        },
-        {
-          "amount": 330,
-          "unit": "g",
-          "item": "Banana"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Aveia"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha Vegan"
-        },
-        {
-          "amount": 700,
-          "unit": "ml",
-          "item": "Leite de Amêndoa"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Bicarbonato de Sódio"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Framboesa"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Amêndoa em Lâminas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal Marinho em Escamas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Açúcar em Pó"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Coulis de Frutos Vermelhos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Iogurte Vegan"
-        }
-      ]
-    }
-  }
+  "protein": 10
 }

@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "shelled-edamame",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Shelled Edamame"
     },
     {
+      "id": "frozen-pea",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Pea"
     },
     {
+      "id": "lemon",
       "amount": 1.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "light-cottage-cheese",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Cottage Cheese"
     },
     {
+      "id": "tahini",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     },
     {
+      "id": "water",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "feta",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "cooked-quinoa",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Quinoa"
     },
     {
+      "id": "fresh-mint",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -114,101 +127,5 @@
   "calories": 570,
   "fat": 22,
   "carbs": 40,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Hummus de Edamame e Quinoa",
-      "mealType": "almoço",
-      "ingredients": [
-        "4 Ovos",
-        "300g de Edamame Descascado",
-        "100g de Ervilhas Congeladas",
-        "1,5 Limão",
-        "1 Dente de Alho",
-        "4 colheres de sopa de Queijo Cottage Light",
-        "1 colher de sopa de Tahini",
-        "2 colheres de sopa de Água",
-        "50g de Feta",
-        "150g de Quinoa Cozida",
-        "20g de Hortelã Fresca",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Cozinhe os ovos numa panela de água a ferver durante 7 minutos, até ficarem macios no centro. Escorra e arrefeça em água fria até ser fácil descascar.",
-        "Cozinhe as ervilhas e o edamame em água com sal conforme as instruções da embalagem. Escorra e passe por água fria para parar a cozedura.",
-        "Rale e esprima os limões. Descasque o alho.",
-        "Adicione metade do edamame e das ervilhas a um robot de cozinha com o queijo cottage, o tahini, a raspa e o sumo de limão, o alho e a água. Tempere com sal e pimenta preta e triture até ficar muito liso.",
-        "Aqueça a quinoa conforme as instruções da embalagem ou use fria se preferir. Coloque numa tigela com o restante edamame e ervilhas. Pique a maior parte da hortelã e misture. Tempere bem com sal e pimenta.",
-        "Para servir, espalhe o hummus nos recipientes. Coloque a salada de quinoa por cima, junte os ovos partidos ao meio e esfarele o feta. Termine com as folhas de hortelã reservadas. Depois de arrefecer, guarde na caixa e leve ao frigorífico — dura até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Edamame Descascado"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Ervilhas Congeladas"
-        },
-        {
-          "amount": 1.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Queijo Cottage Light"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Quinoa Cozida"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

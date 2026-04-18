@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "pepper",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "pepper"
     },
     {
+      "id": "ground-coriander",
       "amount": 3,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "chipotle-paste",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chipotle Paste"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "chicken-stock",
       "amount": 300,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -106,94 +118,5 @@
   "calories": 310,
   "fat": 14,
   "carbs": 8,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Frango Desfiado Suculento com Chipotle",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Cebola",
-        "3 Dentes de Alho",
-        "3 Pimentos",
-        "3 colheres de chá de Coentros em Pó",
-        "1 colher de sopa de Cominhos em Pó",
-        "4 colheres de sopa de Pasta de Chipotle",
-        "1 colher de sopa de Concentrado de Tomate",
-        "300ml de Caldo de Frango",
-        "12 Coxas de Frango sem Osso e sem Pele",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente a cebola, rale o alho e corte os pimentos em fatias finas.",
-        "Coloque uma panela grande (uma caçarola rasa é ideal) em lume médio com um fio de azeite. Adicione a cebola e os pimentos. Cozinhe 5 a 7 minutos até amolecerem, depois adicione o alho, os coentros, os cominhos, a pasta de chipotle e o concentrado de tomate. Cozinhe 2 minutos até ficar aromático e ligeiramente escurecido.",
-        "Adicione as coxas de frango à panela e verta o caldo de frango. Tempere com sal e pimenta. Leve a ferver, em lume médio durante 25 a 30 minutos até o frango estar tenro e o molho ter engrossado. Adicione um pouco de água se quiser mais molhado, ou deixe reduzir mais se preferir mais espesso.",
-        "Use dois garfos para desfiar o frango diretamente na panela. Mexa tudo para ficar coberto no molho fumado.",
-        "Se preparar com antecedência, deixe arrefecer à temperatura ambiente, coloque num recipiente e leve ao frigorífico até precisar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Pimento"
-        },
-        {
-          "amount": 3,
-          "unit": "c. chá",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Pasta de Chipotle"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 300,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

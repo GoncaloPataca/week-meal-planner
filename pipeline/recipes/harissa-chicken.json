@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skinless-chicken-thigh",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "skinless Chicken Thigh"
     },
     {
+      "id": "yoghurt",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Yoghurt"
     },
     {
+      "id": "harissa-paste",
       "amount": 5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "giant-couscous",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Giant Couscous"
     },
     {
+      "id": "fresh-mint",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "lime",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -98,88 +109,5 @@
   "calories": 600,
   "fat": 16,
   "carbs": 72,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Frango com Harissa e Cuscuz com Hortelã",
-      "mealType": "jantar",
-      "ingredients": [
-        "4 Coxas de Frango sem Pele",
-        "6 colheres de sopa de Iogurte",
-        "5 colheres de chá de Pasta de Harissa",
-        "400g de Cuscuz Gigante",
-        "15g de Hortelã Fresca",
-        "15g de Coentros Frescos",
-        "0,5 Pepino",
-        "0,5 Lima",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite"
-      ],
-      "steps": [
-        "Corte as coxas de frango em tiras grossas e coloque numa tigela com 2/3 do iogurte e 2/3 da pasta de harissa. Tempere com sal e pimenta e massaje a mistura no frango.",
-        "Coza o cuscuz conforme as instruções da embalagem. Passe um garfo pelos grãos depois de cozinhados e tape com uma tábua ou pano limpo até servir.",
-        "Aqueça um fio de azeite numa frigideira em lume médio e adicione o frango, mexendo ocasionalmente e deixando cozinhar durante cerca de 12 minutos.",
-        "Pique a hortelã e os coentros e corte finamente o pepino. Adicione as ervas e o pepino ao cuscuz com o sumo da lima. Tempere com sal e pimenta e misture para combinar.",
-        "Distribua o cuscuz por quatro pratos e cubra com o frango, uma colherada de iogurte, um fio da harissa restante e as ervas picadas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Coxa de Frango sem Pele"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Iogurte"
-        },
-        {
-          "amount": 5,
-          "unit": "c. chá",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Cuscuz Gigante"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

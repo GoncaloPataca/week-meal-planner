@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "courgette",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Courgette"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "garlic-clove",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "tahini",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     },
     {
+      "id": "harissa-paste",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "cooked-mixed-grains",
       "amount": 750,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Mixed Grains"
     },
     {
+      "id": "dill",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dill"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -97,82 +107,5 @@
   "calories": 460,
   "fat": 18,
   "carbs": 56,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Grãos com Courgette e Harissa com Molho de Tahini",
-      "mealType": "almoço",
-      "ingredients": [
-        "500g de Courgettes",
-        "1 Limão",
-        "3 Dentes de Alho",
-        "4 colheres de sopa de Tahini",
-        "3 colheres de sopa de Pasta de Harissa",
-        "750g de Grãos Mistos Cozidos",
-        "50g de Aneto",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Corte as courgettes em fatias finas em forma de meia-lua. Corte o limão ao meio.",
-        "Coloque uma frigideira em lume alto e regue com um bom fio de azeite. Adicione as courgettes. Esmague os dentes de alho para dentro. Frite, mexendo ocasionalmente, durante 5 minutos até as courgettes estarem macias e ligeiramente tostadas.",
-        "Entretanto, coloque o tahini numa tigela pequena e esprima o sumo das metades do limão. Mexa, depois misture lentamente água morna suficiente para obter uma consistência de molho espesso. (Adicionar o sumo de limão pode fazer o tahini endurecer inicialmente, mas ao adicionar a água ficará liso.) Tempere com sal e pimenta.",
-        "De volta às courgettes. Adicione a pasta de harissa a gosto. Pressione as saquetas de grãos fechadas com as mãos para soltar os grãos, depois abra e verta para a frigideira com um pouco de água. Mexa e deixe aquecer enquanto pica o aneto.",
-        "Misture o aneto picado na mistura de grãos, tempere a gosto com sal e pimenta e coloque num prato de servir grande. Regue com o molho de tahini e sirva com harissa extra, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Courgette"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 750,
-          "unit": "g",
-          "item": "Cereais Mistos Cozidos"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Endro"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

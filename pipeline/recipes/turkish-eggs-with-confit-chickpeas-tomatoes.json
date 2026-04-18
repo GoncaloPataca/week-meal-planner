@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cherry-tomatoes",
       "amount": 330,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "drained-cooked-chickpeas",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Chickpeas"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "fresh-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "harissa-paste",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "slice-sourdough",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough"
     },
     {
+      "id": "extra-virgin-olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Extra Virgin Olive Oil"
     }
   ],
@@ -83,77 +92,5 @@
   "calories": 670,
   "fat": 37,
   "carbs": 54,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Ovos Turcos com Grão-de-Bico e Tomates Confitados",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "330g Tomates Cherry",
-        "240g Grão-de-Bico Cozido e Escorrido",
-        "2 Dentes de Alho",
-        "4 c. sopa de Iogurte Grego",
-        "4 Ovos",
-        "15g Salsa Fresca",
-        "1 c. sopa de Pasta de Harissa",
-        "2 Fatias de Pão de Massa Mãe",
-        "Azeite Virgem Extra"
-      ],
-      "steps": [
-        "Pré-aquece o forno a 170°C.",
-        "Coloca os tomates, o grão-de-bico e o alho num tabuleiro de forno com uma pitada de sal e cobre com azeite. Assa durante cerca de 30 minutos até o alho estar completamente macio e os tomates estarem em calda.",
-        "Combina o iogurte grego com o alho assado (espremendo primeiro a polpa). Tempera a gosto e espalha por dois pratos, deixando um espaço no meio.",
-        "Entretanto, escalfa ou coze os ovos durante 3-4 minutos.",
-        "Coloca os tomates e o grão-de-bico no meio do iogurte antes de colocar os ovos por cima. Rega com um pouco de pasta de harissa e salsa grosseiramente rasgada.",
-        "Serve com torrada e desfruta!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 330,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Grão-de-Bico Cozido e Escorrido"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite Virgem Extra"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

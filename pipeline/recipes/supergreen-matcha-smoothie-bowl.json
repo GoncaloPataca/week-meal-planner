@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-banana",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Banana"
     },
     {
+      "id": "frozen-mango",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Mango"
     },
     {
+      "id": "frozen-pineapple",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Pineapple"
     },
     {
+      "id": "spinach",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "matcha",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Matcha"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "almond-milk",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Almond Milk"
     },
     {
+      "id": "skyr-natural-yoghurt",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skyr Natural Yoghurt"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "chia-seed",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "kiwi",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "kiwi"
     },
     {
+      "id": "strawberry",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Strawberry"
     },
     {
+      "id": "desiccated-coconut",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Desiccated Coconut"
     },
     {
+      "id": "granola",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Granola"
     }
   ],
@@ -111,103 +125,5 @@
   "calories": 610,
   "fat": 10,
   "carbs": 86,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Smoothie Superverde com Matcha",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "100g Banana Congelada",
-        "75g Manga Congelada",
-        "75g Ananás Congelado",
-        "30g Espinafres",
-        "1c.c. Matcha",
-        "30g Proteína em Pó de Baunilha",
-        "40ml Bebida de Amêndoa",
-        "150g Iogurte Skyr Natural",
-        "1c.c. Mel",
-        "10g Sementes de Chia",
-        "1 Kiwi",
-        "Morangos",
-        "Coco Ralado Seco",
-        "Granola"
-      ],
-      "steps": [
-        "Coloque a banana, a manga, o ananás, os espinafres, o matcha, a proteína em pó, a bebida de amêndoa, o skyr, o mel e as sementes de chia num liquidificador. Triture até ficar completamente suave e cremoso — deve ficar bem espesso, por isso use um calcador ou pare e mexa entre as trituradas se necessário.",
-        "Coloque o smoothie numa tigela. Cubra com kiwi fatiado, morangos, uma pitada de coco ralado e granola, se usar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Banana Congelada"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Manga Congelada"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Ananás Congelado"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Matcha"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Leite de Amêndoa"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Skyr Natural"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Kiwi"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Morango"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Coco Ralado"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Granola"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

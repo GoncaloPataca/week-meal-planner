@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Week Meal Planner//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20260416T185624Z
+DTEND:20260416T190624Z
+DTSTAMP:20260416T185624Z
+UID:speedy-smoky-harissa-butter-beans-1776365784238@week-meal-planner
+SUMMARY:Speedy Smoky Harissa Butter Beans
+DESCRIPTION:Speedy Smoky Harissa Butter Beans\n\nServings: 2\nCook time: 10 min\n\nIngredients:\n- 350g Cherry Tomatoes\n- 2 clove Garlic\n- 1.5tbsp Tomato Purée\n- 1tbsp Harissa Paste\n- 0.5tbsp Smoked Paprika\n- 800g Butter Beans\n- 1tbsp Vegan Cream Cheese\n- 2 slice Crusty Bread\n- 10g Fresh Parsley\n- 2tbsp Tahini\n- 2tbsp Flaked Almond\n\nSteps:\n1. Add the cherry tomatoes to a pan with a drizzle of olive oil and a pinch of salt. Set it over a medium-high heat and cook for about 5 mins until starting to soften and burst open. Add a splash of water if they’re catching on the bottom of the pan.\n\n2. Mince the garlic and add it to the tomatoes in the pan along with the tomato paste, ¾ of the harissa and the smoked paprika.\n\n3. Add the tinned butterbeans and ½ their liquid to the pan then stir in the vegan cream cheese. Bring the mixture to a boil then turn down the heat and simmer for 5-10 mins until the beans have softened and the broth has thickened (it should be creamy).\n\n4. Meanwhile, toast the bread and finely chop the herbs.\n\n5. Ladle the beans into bowls or meal-prep boxes. Drizzle over the tahini and some remaining harissa. Finish with the chopped herbs and flaked almonds. It will keep in the fridge for 3 days.\n\n\nURL: https://www.mob.co.uk/recipes/10-minute-smoky-harissa-creamy-butter-beans-lunch\n
+URL:https://www.mob.co.uk/recipes/10-minute-smoky-harissa-creamy-butter-beans-lunch
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

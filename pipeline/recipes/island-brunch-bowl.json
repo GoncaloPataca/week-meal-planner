@@ -33,133 +33,159 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "ground-nutmeg",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Nutmeg"
     },
     {
+      "id": "paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Paprika"
     },
     {
+      "id": "dried-basil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Basil"
     },
     {
+      "id": "dried-parsley",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Parsley"
     },
     {
+      "id": "chilli-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "ackee",
       "amount": 540,
-      "unit": "g",
+      "unitId": "g",
       "item": "Ackee"
     },
     {
+      "id": "onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "yellow-bell-pepper",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "yellow Bell Pepper"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "tomato",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "cherry Tomatoes"
     },
     {
+      "id": "callaloo",
       "amount": 540,
-      "unit": "g",
+      "unitId": "g",
       "item": "Callaloo"
     },
     {
+      "id": "chickpeas",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chickpeas"
     },
     {
+      "id": "coconut-milk",
       "amount": 800,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "scotch-bonnet-chilli",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "scotch Bonnet Chilli"
     },
     {
+      "id": "plantain",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "plantain"
     },
     {
+      "id": "curry-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Curry Powder"
     },
     {
+      "id": "ground-turmeric",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "fresh-thyme",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Thyme"
     },
     {
+      "id": "fresh-coriander",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -196,182 +222,5 @@
   "calories": 560,
   "fat": 28,
   "carbs": 58,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Brunch da Ilha",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1 colher de chá de Noz-Moscada em Pó",
-        "1 colher de chá de Pimentão",
-        "1 colher de chá de Manjericão Seco",
-        "1 colher de chá de Salsa Seca",
-        "1 colher de chá de Pimentão em Pó",
-        "1 colher de chá de Cominhos em Pó",
-        "1 Lata de 540g de Ackee",
-        "3 Cebolas",
-        "3 Ceboletes",
-        "2 Pimentos Amarelos",
-        "2 Dentes de Alho",
-        "2 Tomates",
-        "6 Tomates Cherry",
-        "1 Lata de 540g de Callaloo",
-        "1 Lata de 400g de Grão-de-Bico",
-        "2 Latas de 400ml de Leite de Coco",
-        "2 Malaguetas Scotch Bonnet",
-        "1 Banana-da-Terra",
-        "1 colher de chá de Caril em Pó",
-        "1 colher de chá de Açafrão-da-Índia em Pó",
-        "50g de Tomilho Fresco",
-        "50g de Coentros Frescos",
-        "1 Malagueta Vermelha",
-        "Óleo Vegetal",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Para preparar o ackee refogado, comece por misturar as especiarias e coloque-as num frasco — vai sobrar mistura de especiarias, mas guarda-se bem no armário até à próxima vez. Escorra e lave a lata de ackee.",
-        "Pique grosseiramente as cebolas, as ceboletes e o pimento amarelo.",
-        "Pré-aqueça uma panela grande em lume médio e adicione um fio de óleo vegetal, aguarde que aqueça. Adicione uma cebola picada e o pimento amarelo e cozinhe em lume médio durante 5 minutos. Adicione um dos tomates picados, o ackee lavado e 1 colher de chá da mistura de especiarias — cozinhe e mexa durante 5 minutos, retire do lume e reserve a manter quente.",
-        "Para o Callaloo, pré-aqueça outra panela em lume médio e adicione um fio de óleo vegetal, aguarde que aqueça. Refogue uma das cebolas brancas picadas, uma cebolinha, metade do scotch bonnet, um pimento amarelo e tomilho de um ramo durante 5 minutos. Adicione o tomate restante picado e misture o callaloo. Tempere com a mistura de especiarias, depois adicione uma das latas de leite de coco. Deixe fervilhar cinco minutos e reserve.",
-        "Para o grão-de-bico ao caril, pré-aqueça a panela em lume médio com óleo. Refogue uma cebola branca picada, os dentes de alho picados, uma cebolinha picada, metade do scotch bonnet (picado) e tomilho fresco durante 5 minutos. Adicione todos os temperos (1 colher de chá cada de caril em pó, açafrão e mistura de especiarias) e mexa durante alguns minutos para as especiarias libertarem o aroma. Adicione o grão-de-bico escorrido e mexa.",
-        "Adicione uma lata de leite de coco, tempere com sal e deixe fervilhar pelo menos 10 minutos (quanto mais tempo, melhor). Reserve.",
-        "Descasque a banana-da-terra e corte em fatias diagonais de 1 cm. Verta um fio de óleo suficiente para cobrir o fundo de uma frigideira antiaderente e coloque em lume médio. Quando o óleo começar a brilhar, adicione as fatias de banana-da-terra (trabalhe em lotes). Frite 1,5 minutos de cada lado.",
-        "Retire a banana-da-terra da frigideira e escorra em papel de cozinha. Refogue rapidamente os tomates cherry até rebentarem.",
-        "Por fim, coloque tudo numa tigela, decore com malagueta fresca picada, cebola picada e alguns ramos de coentros. Sirva com roti fresco."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Noz-Moscada em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Manjericão Seco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Salsa Seca"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 540,
-          "unit": "g",
-          "item": "Ackee"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pimento Amarelo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 540,
-          "unit": "g",
-          "item": "Callaloo"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Grão-de-Bico"
-        },
-        {
-          "amount": 800,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Malagueta Scotch Bonnet"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Plantano"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Caril em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Tomilho Fresco"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

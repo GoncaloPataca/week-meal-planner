@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "vegan-butter",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vegan Butter"
     },
     {
+      "id": "ground-flaxseed",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Ground Flaxseed"
     },
     {
+      "id": "ripe-banana",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "ripe Banana"
     },
     {
+      "id": "rolled-oat",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "plant-based-protein-powder",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plant-Based Protein Powder"
     },
     {
+      "id": "baking-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Baking Powder"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "soya-milk",
       "amount": 550,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Soya Milk"
     },
     {
+      "id": "vanilla-extract",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vanilla Extract"
     },
     {
+      "id": "vegan-chocolate",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vegan Chocolate"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "vegan-yoghurt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegan Yoghurt"
     },
     {
+      "id": "mixed-berries",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Mixed Berries"
     },
     {
+      "id": "maple-syrup",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Maple Syrup"
     }
   ],
@@ -122,107 +136,5 @@
   "calories": 390,
   "fat": 10,
   "carbs": 52,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Aveia no Forno de Pão de Banana com Alta Proteína",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1 colher de chá de Manteiga Vegana",
-        "15g de Linhaça Moída",
-        "3 Bananas Maduras",
-        "150g de Flocos de Aveia",
-        "80g de Proteína em Pó de Origem Vegetal",
-        "1 colher de chá de Fermento em Pó",
-        "0,5 colher de chá de Canela em Pó",
-        "550ml de Leite de Soja",
-        "2 colheres de chá de Extrato de Baunilha",
-        "50g de Chocolate Vegano",
-        "Sal (para servir)",
-        "Iogurte Vegano",
-        "Frutos Vermelhos Mistos",
-        "Xarope de Ácer"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C e unte levemente um tabuleiro quadrado de 20 cm x 20 cm com um nozinho de manteiga de origem vegetal.",
-        "Misture a linhaça com 50ml de água numa tigela e mexa bem. Reserve 10 minutos para formar uma pasta (que servirá como substituto do ovo).",
-        "Entretanto, esmague dois terços das bananas diretamente no tabuleiro. Fatie a terceira banana e reserve.",
-        "Adicione os flocos de aveia, a proteína em pó, o fermento em pó, a canela e uma pitada de sal ao tabuleiro. Misture até estar bem combinado. Verta o leite de soja, o extrato de baunilha e a pasta de linhaça na mistura de aveia e mexa até estar tudo bem incorporado.",
-        "Pique grosseiramente o chocolate negro e espalhe por cima da mistura, juntamente com as fatias de banana reservadas. Leve ao forno 30 minutos ou até a superfície estar dourada. Deixe arrefecer completamente antes de cortar.",
-        "Sirva levemente morno, com iogurte de alta proteína de origem vegetal, frutos vermelhos frescos e um fio de xarope de ácer."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Manteiga Vegan"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Linhaça Moída"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Banana Madura"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Proteína em Pó de Origem Vegetal"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 550,
-          "unit": "ml",
-          "item": "Leite de Soja"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Extrato de Baunilha"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Chocolate Vegan"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Iogurte Vegan"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Frutos Vermelhos Mistos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Xarope de Ácer"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

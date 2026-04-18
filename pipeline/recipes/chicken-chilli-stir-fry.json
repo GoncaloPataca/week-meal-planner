@@ -21,76 +21,90 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "jasmine-rice",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "vegetable-oil",
       "amount": 30,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vegetable Oil"
     },
     {
+      "id": "chicken-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Mince"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "thai-basil",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Thai Basil"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "red-chilli",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "garlic-clove",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "sriracha",
       "amount": 3.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "fish-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fish Sauce",
       "note": "to taste"
     },
     {
+      "id": "oyster-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Oyster Sauce",
       "note": "to serve"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce",
       "note": "to serve"
     },
     {
+      "id": "caster-sugar",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Caster Sugar"
     }
   ],
@@ -123,108 +137,5 @@
   "calories": 540,
   "fat": 18,
   "carbs": 46,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Saltado de Frango com Manjericão",
-      "ingredients": [
-        "200g Arroz Jasmim",
-        "30ml Óleo Vegetal",
-        "500g Frango Picado",
-        "200g Brócolos Tenros",
-        "20g Manjericão Tailandês",
-        "4 Ovos",
-        "2 Chalotas",
-        "2 Malaguetas Vermelhas",
-        "5 Dentes de Alho",
-        "3.5c.sopa Sriracha",
-        "Molho de Peixe (a gosto)",
-        "3c.sopa Molho de Ostra (para servir)",
-        "3c.sopa Molho de Soja Escuro (para servir)",
-        "30g Açúcar Refinado"
-      ],
-      "steps": [
-        "Coza o arroz de acordo com as instruções da embalagem.",
-        "Prepare o molho: adicione todos os ingredientes a um processador de alimentos e bata até ficar suave (alguma textura fica bem). Prove e tempere com molho de peixe. Reserve.",
-        "Hora do saltado: coloque uma frigideira grande ou wok em lume alto e adicione o óleo vegetal. Quando estiver quente adicione o frango picado e cozinhe durante 3 minutos, desfazendo-o em pedaços pequenos com uma colher de pau. Adicione o molho e cozinhe por mais 2-3 minutos.",
-        "Corte os brócolos em pedaços do tamanho de uma dentada. Adicione à frigideira e cozinhe durante 3-4 minutos ou até estarem tenros. Adicione as folhas de manjericão e misture para murchar. Prove e tempere com molho de peixe, se necessário.",
-        "Para os ovos, coza-os durante 7 minutos, depois descasque e guarde no frigorífico até servir, ou frite-os frescos de cada vez que comer uma porção. Nada bate um ovo frito crocante.",
-        "Para guardar as porções, divida o arroz igualmente pelos recipientes e cubra com o frango picado. Guarde no frigorífico até 4 dias. Aqueça no micro-ondas durante 3 minutos ou até estar bem quente.",
-        "Para servir, transfira o arroz e o frango reaquecidos para um prato e termine com um ovo, uma cunha de lima e um pouco de sriracha, se quiser."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 30,
-          "unit": "ml",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Frango Picado"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Manjericão Tailandês"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 3.5,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Ostra"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Açúcar Fino"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

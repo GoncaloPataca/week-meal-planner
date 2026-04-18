@@ -26,99 +26,118 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "golden-breadcrumbs",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Golden Breadcrumbs"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "ground-ginger",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Ginger"
     },
     {
+      "id": "chilli-flakes",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "chicken-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Mince"
     },
     {
+      "id": "soy-sauce",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Soy Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "cornflour",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cornflour"
     },
     {
+      "id": "honey",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Honey"
     },
     {
+      "id": "rice-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "sesame-seeds",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "cooked-rice",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice",
       "note": "to serve"
     },
     {
+      "id": "broccoli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "broccoli",
       "note": "to serve"
     }
@@ -144,136 +163,5 @@
   "calories": 560,
   "fat": 15,
   "carbs": 65,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Almôndegas de Frango Pegajosas com Sésamo",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Dentes de Alho",
-        "4 Cebolinhos",
-        "30g Pão Ralado Dourado",
-        "1 Ovo",
-        "1c.c. Gengibre em Pó",
-        "0,5c.c. Flocos de Malagueta",
-        "1c.c. Molho de Soja",
-        "1c.s. Óleo de Sésamo",
-        "500g Carne Picada de Frango",
-        "40ml Molho de Soja",
-        "2c.c. Molho de Soja Escuro",
-        "1c.c. Amido de Milho",
-        "40g Mel",
-        "1c.s. Vinagre de Arroz",
-        "2 Dentes de Alho",
-        "1c.s. Sementes de Sésamo",
-        "2 Cebolinhos",
-        "450g Arroz Cozido (para servir)",
-        "1 Bróculo (para servir)"
-      ],
-      "steps": [
-        "Esmague todo o alho e fatie finamente todos os cebolinhos. Misture todos os ingredientes das almôndegas numa tigela grande, depois forme 12 bolas de tamanho igual com as mãos húmidas.",
-        "Preaqueça a fritadeira de ar ou o forno a 180°C. Cozinhe as almôndegas 16 min (fritadeira de ar) ou 20 min (forno) até estarem cozinhadas.",
-        "Entretanto, bata todos os ingredientes do molho com 2 c.s. de água numa panela. Leve a ferver suavemente e cozinhe cerca de 4 min até ficar pegajoso.",
-        "Misture as almôndegas cozinhadas no molho e mexa para cobrir.",
-        "Sirva sobre arroz com brócolos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Pão Ralado Dourado"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Gengibre em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Frango Picado"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Farinha Maizena"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Brócolos"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

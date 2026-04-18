@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "smoked-streaky-bacon",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Smoked Streaky Bacon"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "tomato-pure",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "brown-sugar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Brown Sugar"
     },
     {
+      "id": "smoked-paprika",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "soy-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "drained-cooked-cannellini-beans",
       "amount": 490,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Cannellini Beans"
     },
     {
+      "id": "passata",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Passata"
     },
     {
+      "id": "kimchi",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kimchi"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "toasted-sesame-seed",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Toasted Sesame Seed"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "sourdough",
       "amount": 560,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sourdough"
     }
   ],
@@ -111,105 +125,5 @@
   "calories": 680,
   "fat": 22,
   "carbs": 76,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Feijão Assado com Kimchi e Ovos Estrelados com Sésamo",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "200g de Bacon Fumado às Tiras",
-        "1 Cebola",
-        "4 Dentes de Alho",
-        "3 colheres de sopa de Concentrado de Tomate",
-        "2 colheres de sopa de Açúcar Mascavado",
-        "2 colheres de chá de Pimentão Fumado",
-        "3 colheres de sopa de Molho de Soja",
-        "490g de Feijão Cannellini Cozido Escorrido",
-        "200g de Passata",
-        "250g de Kimchi",
-        "4 Ovos",
-        "4 colheres de sopa de Sementes de Sésamo Tostadas",
-        "4 Ceboletes",
-        "560g de Pão de Fermentação Natural"
-      ],
-      "steps": [
-        "Comece por picar o bacon em cubos finos, pique a cebola finamente e corte o alho em fatias finas. Aqueça o óleo numa frigideira grande e frite o bacon e a cebola durante 8 minutos, até o bacon estar ligeiramente dourado. Adicione o alho e cozinhe 1 minuto antes de adicionar o concentrado de tomate. Cozinhe 1 minuto até escurecer. Depois adicione o açúcar mascavado, o pimentão fumado e o molho de soja.",
-        "Escorra o feijão e adicione à frigideira com a passata, o kimchi e um fio de água. Cozinhe 5 minutos até reduzir e engrossar, adicionando mais um pouco de água se secar. Prove e ajuste o tempero com sal e pimenta.",
-        "Aqueça 4 colheres de sopa de óleo numa frigideira grande em lume médio-alto. Parta os ovos e polvilhe com as sementes de sésamo. Cozinhe até ficarem estaladiços nas bordas e retire da frigideira, escorrendo em papel de cozinha.",
-        "Pique finamente as ceboletes. Quando o feijão tiver reduzido, toste o pão ou coloque numa grelha, cozinhando até dourar. Sirva o feijão na torrada coberto com um ovo de sésamo e decorado com ceboletes."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Bacon Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Açúcar Mascavado"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 490,
-          "unit": "g",
-          "item": "Feijão Cannellini Cozido e Escorrido"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Passata"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Kimchi"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 560,
-          "unit": "g",
-          "item": "Pão de Massa Mãe"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

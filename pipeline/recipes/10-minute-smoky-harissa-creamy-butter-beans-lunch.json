@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cherry-tomatoes",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "tomato-pure",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "harissa-paste",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "smoked-paprika",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "butter-beans",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter Beans"
     },
     {
+      "id": "vegan-cream-cheese",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegan Cream Cheese"
     },
     {
+      "id": "slice-crusty-bread",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Crusty Bread"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "tahini",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     },
     {
+      "id": "flaked-almond",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Flaked Almond"
     }
   ],
@@ -111,88 +122,5 @@
   "calories": 540,
   "fat": 18,
   "carbs": 60,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Feijão Manteiga Cremoso com Harissa Fumada",
-      "ingredients": [
-        "350g Tomate-Cereja",
-        "2 Dentes de Alho",
-        "1.5c.sopa Concentrado de Tomate",
-        "1c.sopa Pasta de Harissa",
-        ".5c.sopa Colorau Fumado",
-        "2x 400g Lata de Feijão Manteiga",
-        "1c.sopa Queijo Creme Vegano",
-        "2 Fatias de Pão Rústico",
-        "10g Salsa Fresca",
-        "2c.sopa Tahini",
-        "2c.sopa Amêndoa Laminada"
-      ],
-      "steps": [
-        "Adicione os tomates-cereja a uma frigideira com um fio de azeite e uma pitada de sal. Leve a fogo médio-alto e cozinhe durante cerca de 5 minutos até começarem a amolecer e a rebentar. Adicione um pouco de água se estiverem a agarrar ao fundo da frigideira.",
-        "Pique o alho e junte-o aos tomates na frigideira, juntamente com o concentrado de tomate, ¾ da harissa e o colorau fumado.",
-        "Adicione o feijão manteiga em conserva e metade do líquido da lata à frigideira, depois mexa com o queijo creme vegano. Leve a ferver, reduza o lume e deixe cozinhar em lume brando durante 5 a 10 minutos até o feijão amolecer e o molho engrossar (deve ficar cremoso).",
-        "Entretanto, torre o pão e pique finamente as ervas.",
-        "Distribua o feijão por tigelas ou marmitas. Regue com o tahini e um pouco de harissa. Termine com as ervas picadas e as amêndoas laminadas. Conserva-se no frigorífico durante 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Feijão Manteiga"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Queijo Creme Vegan"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão Crocante"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Amêndoa em Lâminas"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

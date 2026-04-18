@@ -3,6 +3,42 @@ export interface Ingredient {
   amount?: string
 }
 
+/**
+ * A single parsed ingredient entry as stored in current_meals.json.
+ * `id` is a stable slug keyed into ingredient-availability.json.
+ * Display name and unit label are resolved at render time from the
+ * ingredient-availability lookup and the `units` i18n namespace.
+ */
+export interface ParsedIngredient {
+  /** Stable slug — e.g. "xo-sauce", "spring-onion" */
+  id: string
+  amount: number | null
+  /** EN unit key — e.g. "tbsp", "g", "tsp". Resolved via t('units.<unitId>'). */
+  unitId?: string | null
+  note?: string
+  optional?: boolean
+}
+
+/**
+ * Entry in src/data/ingredient-availability.json.
+ * Keyed by the same slug as ParsedIngredient.id.
+ * Names live separately in src/data/translations.json under `ingredient:<id>`.
+ */
+export interface IngredientAvailability {
+  continente: boolean | null
+  auchan:     boolean | null
+  pingodoce:  boolean | null
+  lidl:       boolean | null
+  aldi:       boolean | null
+}
+
+/**
+ * A single entry in src/data/translations.json.
+ * Key format: `ingredient:<slug>`, `recipe:<slug>:name`, `recipe:<slug>:step:<n>`, etc.
+ * Each value maps a language code to its translation string.
+ */
+export type TranslationEntry = Record<string, string>
+
 export interface Meal {
   id: string
   label: string // e.g. "Morning", "Evening", "Dinner"

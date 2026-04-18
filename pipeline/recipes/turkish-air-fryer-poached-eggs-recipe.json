@@ -18,60 +18,71 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "greek-yoghurt",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "unsalted-butter",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Unsalted Butter"
     },
     {
+      "id": "extra-virgin-olive-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Extra Virgin Olive Oil"
     },
     {
+      "id": "aleppo-pepper",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Aleppo Pepper"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "fresh-dill",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "flatbread",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Flatbread",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper",
       "note": "to serve"
     }
@@ -101,90 +112,5 @@
   "calories": 790,
   "fat": 76,
   "carbs": 4,
-  "protein": 21,
-  "i18n": {
-    "pt": {
-      "name": "Ovos Escalfados na Fritadeira de Ar à Moda Turca",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "200g Iogurte Grego",
-        "1 Limão",
-        "1 Dente de Alho",
-        "100g Manteiga sem Sal",
-        "3 c. sopa de Azeite Virgem Extra",
-        "1 c. sopa de Pimenta de Aleppo",
-        "4 Ovos",
-        "10g Endro Fresco",
-        "Pão Pita (para servir)",
-        "Sal (para servir)",
-        "Pimenta Preta (para servir)"
-      ],
-      "steps": [
-        "Coloca o iogurte numa tigela, rala a casca do limão e rala finamente o alho. Tempera com sal e pimenta preta e adiciona um pouco de sumo de limão.",
-        "Coloca a manteiga numa panela pequena em lume médio-alto. Continua a bater e a mexer até a manteiga ficar cor de ouro claro, depois retira do lume e adiciona o azeite e a pimenta de Aleppo. Tempera levemente e esprème um pouco de sumo de limão. Reserva.",
-        "Hora de escalfar os ovos. Coloca quatro ramequins próprios para forno no cesto da fritadeira de ar. Ferve a chaleira e enche os ramequins até metade com água a ferver. Parte um ovo para cada ramequim. Define a temperatura para 200°C e cozinha os ovos durante 5 minutos até as claras estarem apenas coaguladas.",
-        "Entretanto, divide o iogurte entre dois pratos rasos, espalhando-o na base dos pratos.",
-        "Usa cuidadosamente um pano de cozinha para retirar os ramequins da fritadeira de ar, depois usa uma colher para soltar os ovos dos ramequins. Seca os ovos ligeiramente com papel de cozinha e coloca-os por cima do iogurte.",
-        "Aquece brevemente a manteiga aromatizada e deita por cima.",
-        "Espalha os ramos de endro e serve com o pão tostado para mergulhar e os gomos de limão para espremer, se quiseres."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Azeite Virgem Extra"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pimenta de Aleppo"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pão Pita"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 21
 }

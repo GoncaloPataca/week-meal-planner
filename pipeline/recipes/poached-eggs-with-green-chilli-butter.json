@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "butter",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "green-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "green Chilli"
     },
     {
+      "id": "mint",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mint"
     },
     {
+      "id": "coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coriander"
     },
     {
+      "id": "garlic-clove",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "kale",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kale"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "slice-sourdough",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough"
     }
   ],
@@ -94,83 +104,5 @@
   "calories": 640,
   "fat": 48,
   "carbs": 26,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Ovos Escalfados com Manteiga de Malagueta Verde",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "80g de Manteiga",
-        "1 Malagueta Verde",
-        "10g de Hortelã",
-        "10g de Coentros",
-        "3 Dentes de Alho",
-        "150g de Couve",
-        "1 Limão",
-        "4 Ovos",
-        "100g de Iogurte Grego",
-        "2 Fatias de Pão de Fermentação Natural"
-      ],
-      "steps": [
-        "Primeiro prepare a manteiga de malagueta. Derreta a manteiga numa panela pequena em lume baixo e cozinhe suavemente até alourar e começar a cheirar a noz.",
-        "Entretanto, pique finamente a hortelã, os talos de coentros e a malagueta verde (sementes incluídas), e coloque numa tigela resistente ao calor. Verta a manteiga quente sobre a mistura de malagueta, tempere com sal.",
-        "Descasque e pique finamente o alho. Aqueça 3 colheres de sopa de óleo na frigideira vazia em lume médio. Adicione o alho e frite 1 a 2 minutos, depois adicione os vegetais. Continue a mexer até murcharem. Tempere com sal, pimenta e sumo de limão. Adicione a um liquidificador com 20ml de azeite e triture até ficar liso. Misture o iogurte.",
-        "Leve uma panela de água a ferver. Entretanto, passe os ovos por um coador para remover as claras aquosas e transfira para um ramequim. Quando a água estiver a borbulhar, reduza o lume, coloque cuidadosamente o ovo na água e cozinhe 4 minutos até firmar, retire o ovo com uma escumadeira e escorra em papel de cozinha.",
-        "Corte duas fatias de pão de fermentação natural e toste.",
-        "Coloque o pão e cubra com o iogurte, os ovos escalfados e o azeite de malagueta verde. Decore com folhas de coentros e raspa de limão antes de comer."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Verde"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Hortelã"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Couve Kale"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

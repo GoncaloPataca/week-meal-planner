@@ -18,59 +18,70 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "dried-mixed-herbs",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Mixed Herbs"
     },
     {
+      "id": "black-bean",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Black Bean"
     },
     {
+      "id": "salsa",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salsa"
     },
     {
+      "id": "slice-cheddar-cheese",
       "amount": 10,
-      "unit": null,
+      "unitId": null,
       "item": "slice Cheddar Cheese"
     },
     {
+      "id": "small-flour-tortilla",
       "amount": 10,
-      "unit": null,
+      "unitId": null,
       "item": "small Flour Tortilla"
     },
     {
+      "id": "hot-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Hot Sauce",
       "note": "to serve"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -99,89 +110,5 @@
   "calories": 540,
   "fat": 21,
   "carbs": 52,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Quesadilla de Feijão e Queijo para o Pequeno-Almoço",
-      "ingredients": [
-        "1 Cebola",
-        "3 Dentes de Alho",
-        "0.5c.chá Ervas Secas Mistas",
-        "1x 400g Lata de Feijão Preto",
-        "300g Salsa",
-        "10 Fatias de Queijo Cheddar",
-        "10 Tortilhas de Farinha Pequenas",
-        "Molho Picante (para servir)",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente a cebola e rale finamente o alho.",
-        "Aqueça uma frigideira em lume médio com um fio de azeite. Adicione a cebola e cozinhe durante 6 a 7 minutos até ficar macia e translúcida. Adicione o alho e as ervas secas mistas, depois cozinhe durante cerca de 30 segundos até o alho ficar aromático.",
-        "Adicione o feijão — com o líquido da lata — juntamente com metade da salsa. Leve à fervura, depois cozinhe em lume brando durante 10 a 15 minutos até engrossar ligeiramente.",
-        "Use um espremedor para esmagar cerca de metade do feijão na frigideira. Isto ajuda a mistura a manter-se junta. Tempere com sal e pimenta, depois deixe arrefecer ligeiramente.",
-        "Coloque 1 fatia de queijo sobre as tortilhas e distribua o feijão por metade de cada uma. Dobre ao meio e empilhe as quesadillas não cozinhadas umas em cima das outras. Se preparar com antecedência, congele num saco ou caixa. Se cozinhar de imediato, toste as quesadillas numa frigideira seca em lume médio até dourarem e o queijo derreter. Se cozinhar a partir do congelado, aqueça um fio de azeite em lume médio-baixo, adicione as quesadillas congeladas, cubra e cozinhe suavemente até descongelar, depois retire a tampa, aumente o lume e cozinhe até ficarem crocantes.",
-        "Sirva com molho picante e a salsa restante."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Ervas Aromáticas Mistas Secas"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Feijão Preto"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Salsa"
-        },
-        {
-          "amount": 10,
-          "unit": null,
-          "item": "Fatia de Queijo Cheddar"
-        },
-        {
-          "amount": 10,
-          "unit": null,
-          "item": "Tortilha de Farinha Pequena"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Picante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

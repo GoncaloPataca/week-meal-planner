@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "chive",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chive"
     },
     {
+      "id": "slice-bread",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "slice Bread"
     },
     {
+      "id": "unsalted-butter",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Unsalted Butter"
     },
     {
+      "id": "cream-cheese",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Cream Cheese"
     },
     {
+      "id": "crisps",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Crisps"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -79,69 +87,5 @@
   "calories": 470,
   "fat": 34,
   "carbs": 20,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Ovos Mexidos Perfeitos e Cremosos com Batatas Fritas",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "3 Ovos",
-        "5g de Cebolinho",
-        "1 Fatia de Pão",
-        "20g de Manteiga sem Sal",
-        "1 colher de sopa de Queijo Creme",
-        "25g de Batatas Fritas de Pacote",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Parta os ovos numa tigela, tempere com sal e bata. Reserve. Corte finamente o cebolinho e toste o pão.",
-        "Verta os ovos numa frigideira fria e adicione a manteiga fria. Coloque a frigideira em lume baixo-médio e cozinhe, mexendo constantemente, até a manteiga ter derretido e os ovos começarem a solidificar. Não deve haver ovo líquido — ainda deve estar solto.",
-        "Retire do lume e misture o queijo creme. Prove e tempere com mais sal se necessário. Coloque os ovos mexidos cremosos na torrada, depois polvilhe com metade do cebolinho. Esmague as batatas fritas por cima e termine com o cebolinho restante e pimenta preta moída.",
-        "Coloque os ovos mexidos cremosos na torrada e polvilhe com metade do cebolinho. Esmague as batatas fritas por cima e termine com o cebolinho restante e pimenta preta moída."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Cebolinho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Fatia de Pão"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Queijo Creme"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Batatas Fritas de Pacote"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

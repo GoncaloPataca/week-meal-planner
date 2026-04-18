@@ -27,103 +27,123 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "banana-shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "banana Shallot"
     },
     {
+      "id": "fresh-ginger",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "green-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "green Chilli"
     },
     {
+      "id": "tomato",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "mustard-seeds",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Mustard Seeds"
     },
     {
+      "id": "fenugreek-seeds",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fenugreek Seeds"
     },
     {
+      "id": "curry-leaf",
       "amount": 15,
-      "unit": null,
+      "unitId": null,
       "item": "curry Leaf"
     },
     {
+      "id": "kashmiri-chilli-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Kashmiri Chilli Powder"
     },
     {
+      "id": "ground-turmeric",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "ground-coriander",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "tamarind-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tamarind Paste"
     },
     {
+      "id": "king-prawns",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "King Prawns"
     },
     {
+      "id": "basmati-rice",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basmati Rice"
     },
     {
+      "id": "coconut-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Coconut Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "black-mustard-seed",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Black Mustard Seed"
     },
     {
+      "id": "curry-leaf",
       "amount": 10,
-      "unit": null,
+      "unitId": null,
       "item": "curry Leaf"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     }
   ],
@@ -160,147 +180,5 @@
   "calories": 420,
   "fat": 10,
   "carbs": 52,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Caril de Gambas Inspirado no Kerala",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Chalotas Banana",
-        "30g de Gengibre Fresco",
-        "4 Dentes de Alho",
-        "1 Malagueta Verde",
-        "4 Tomates",
-        "1 colher de chá de Sementes de Mostarda",
-        "0,5 colher de chá de Sementes de Feno-Grego",
-        "15 Folhas de Caril",
-        "1 colher de chá de Pimentão Caxemira em Pó",
-        "1 colher de chá de Açafrão-da-Índia em Pó",
-        "1 colher de chá de Coentros em Pó",
-        "2 colheres de sopa de Pasta de Tamarindo",
-        "350g de Gambas Grandes",
-        "250g de Arroz Basmati",
-        "Óleo de Coco",
-        "Sal",
-        "Pimenta Preta",
-        "1 colher de chá de Sementes de Mostarda Preta",
-        "10 Folhas de Caril",
-        "15g de Coentros Frescos"
-      ],
-      "steps": [
-        "Corte as chalotas em fatias finas. Corte o gengibre em tiras. Pique o alho. Corte finamente a malagueta verde. Pique finamente os tomates.",
-        "Derreta 2 colheres de sopa de óleo de coco numa panela média em lume médio. Adicione as sementes de mostarda e de feno-grego e cozinhe 1 minuto.",
-        "Adicione as chalotas e as folhas de caril e cozinhe até as chalotas amolecerem, cerca de 5 minutos.",
-        "Adicione o alho, o gengibre e a malagueta verde e cozinhe 1 minuto, depois adicione o pimentão caxemira em pó, o açafrão-da-índia e os coentros em pó e cozinhe 30 segundos. Isto ajuda a evitar que as especiarias queimem.",
-        "Lave o arroz, cubra com água e coza numa panela com tampa durante 10 minutos até ficar fofo.",
-        "Adicione os tomates, 150ml de água e a pasta de tamarindo e tempere com sal e pimenta. Mexa para combinar, tape e deixe fervilhar em lume baixo durante 10 minutos. Deve obter um caril bastante espesso.",
-        "Adicione as gambas, tape e deixe fervilhar em lume baixo até estarem cozidas, 3 a 5 minutos.",
-        "Entretanto, aqueça 1 colher de sopa de óleo de coco numa frigideira pequena. Adicione as sementes de mostarda e cozinhe 1 minuto, depois adicione as folhas de caril e cozinhe até começarem a ficar estaladiças.",
-        "Verta as sementes de mostarda e as folhas de caril sobre o caril e rasgue os coentros por cima.",
-        "Sirva com uma generosa porção de arroz."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Verde"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Mostarda"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sementes de Feno-Grego"
-        },
-        {
-          "amount": 15,
-          "unit": null,
-          "item": "Folha de Caril"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Kashmiri"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Tamarindo"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Gambas Grandes"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Arroz Basmati"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Coco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Mostarda Preta"
-        },
-        {
-          "amount": 10,
-          "unit": null,
-          "item": "Folha de Caril"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

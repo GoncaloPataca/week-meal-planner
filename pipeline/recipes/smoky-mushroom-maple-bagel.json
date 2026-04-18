@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "maple-syrup",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "apple-cider-vinegar",
       "amount": 2.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Apple Cider Vinegar"
     },
     {
+      "id": "soy-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "smoked-paprika",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "white-miso",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "White Miso"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "bagel",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "bagel"
     },
     {
+      "id": "portobello-mushroom",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "portobello Mushroom"
     },
     {
+      "id": "tomato",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "lettuce",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lettuce"
     },
     {
+      "id": "vegan-mayonnaise",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegan Mayonnaise"
     },
     {
+      "id": "vegan-cream-cheese",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegan Cream Cheese"
     }
   ],
@@ -113,101 +126,5 @@
   "calories": 430,
   "fat": 12,
   "carbs": 66,
-  "protein": 12,
-  "i18n": {
-    "pt": {
-      "name": "Bagel de Cogumelos Fumados com Xarope de Ácer",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "2c.s. Azeite",
-        "3c.s. Xarope de Ácer",
-        "2,5c.s. Vinagre de Sidra",
-        "3c.s. Molho de Soja",
-        "2c.c. Paprika Fumada",
-        "1c.c. Miso Branco",
-        "Pimenta Preta",
-        "2 Bagels",
-        "4 Cogumelos Portobello",
-        "1 Tomate",
-        "1 Alface",
-        "1c.s. Maionese Vegan",
-        "1c.s. Creme de Queijo Vegan"
-      ],
-      "steps": [
-        "Preaqueça o forno a 180°C.",
-        "Fatie os cogumelos com cerca de meio centímetro de espessura e coloque numa tigela larga e rasa ou numa caixa hermética grande.",
-        "Misture o azeite, o xarope de ácer, o vinagre de sidra, o molho de soja, a paprika fumada, o miso e a pimenta preta até combinar, formando a marinada.",
-        "Verta a marinada sobre os cogumelos e misture cuidadosamente para garantir que cada fatia fica coberta.",
-        "Disponha os cogumelos em papel vegetal num tabuleiro grande. Se tiver uma grelha, isso ajudará a cozinhar de forma mais uniforme. Asse a 180°C durante 10 min, virando a meio. Em alternativa, frite na fritadeira de ar durante 6 min a 180°C.",
-        "Para servir, corte o bagel ao meio e toste no forno ou numa frigideira quente até ficar estaladiço. Corte o tomate em fatias. Barre o creme de queijo vegan, se usar, na metade inferior do bagel, depois sobreponha os cogumelos, o tomate e a alface. Barre a maionese na metade superior, feche e bom apetite."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 2.5,
-          "unit": "c. sopa",
-          "item": "Vinagre de Cidra de Maçã"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Bagel"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cogumelo Portobello"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Alface"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Maionese Vegan"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Queijo Creme Vegan"
-        }
-      ]
-    }
-  }
+  "protein": 12
 }

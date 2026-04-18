@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 10,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-coriander",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "bavette-steak",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Bavette Steak"
     },
     {
+      "id": "pineapple",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "pineapple"
     },
     {
+      "id": "peanut",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Peanut"
     },
     {
+      "id": "sesame-seeds",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "chilli-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chilli Oil"
     },
     {
+      "id": "jalape-o",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "jalape ño"
     },
     {
+      "id": "avocado",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "avocado"
     },
     {
+      "id": "sour-cream",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sour Cream"
     },
     {
+      "id": "corn-tortilla",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "corn Tortilla"
     },
     {
+      "id": "shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -132,119 +148,5 @@
   "calories": 640,
   "fat": 34,
   "carbs": 50,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Tacos de Bife com Salsa de Malagueta e Ananás",
-      "mealType": "almoço",
-      "ingredients": [
-        "10 Dentes de Alho",
-        "50g Coentros Frescos",
-        "2 Limas",
-        "400g Bife Bavette",
-        "0,5 Ananás",
-        "50g Amendoim",
-        "2c.c. Sementes de Sésamo",
-        "3c.s. Óleo de Malagueta",
-        "2 Jalapeños",
-        "2 Abacates",
-        "4c.s. Natas Azedas",
-        "12 Tortilhas de Milho",
-        "2 Chalotas",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique grosseiramente 8 dos dentes de alho e coloque numa tigela. Pique finamente os coentros e adicione metade à tigela com o alho. Cubra com 4 c.s. de azeite e o sumo e raspa de uma lima. Tempere os bifes com sal e pimenta e coloque na marinada. Deixe 30 min ou até de um dia para o outro.",
-        "Enquanto os bifes marinam, prepare a salsa de ananás. Corte o ananás em cubos finos. Torre os amendoins e as sementes de sésamo numa frigideira seca. Adicione o ananás, os amendoins e as sementes de sésamo a uma tigela. Adicione o óleo de malagueta e bastante sumo de lima.",
-        "Retire os bifes da marinada e preaqueça uma frigideira pesada em lume alto. Quando fumante e quente, adicione um fio de azeite e coloque os bifes. Cozinhe 2-3 min de cada lado até ficarem carbonizados e caramelizados. Não tenha medo de queimar um pouco da marinada. Deixe os bifes repousar 5 min.",
-        "Coloque os abacates num liquidificador com as natas azedas, os dentes de alho restantes, os coentros e um esguicho de sumo de lima. Tempere e triture até ficar suave. Pique finamente as chalotas.",
-        "Aqueça as tortilhas numa frigideira seca ou sobre uma chama aberta. Corte o bife em pedaços de 2 cm e misture com os sucos do repouso. Monte os tacos com crema de abacate, o bife, jalapeños frescos cortados, chalotas em cubos e a salsa de ananás picante.",
-        "Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 10,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Bife de Fraldinha"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Ananás"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Amendoim"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Óleo de Malagueta"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Jalapeño"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Natas Azedas"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Tortilha de Milho"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }

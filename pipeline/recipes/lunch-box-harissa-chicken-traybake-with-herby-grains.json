@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Boneless Skinless Chicken Thigh"
     },
     {
+      "id": "white-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "white Onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "harissa-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "courgette",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "courgette"
     },
     {
+      "id": "mixed-cooked-grains",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Cooked Grains"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "fresh-dill",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "skyr-natural-yoghurt",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Skyr Natural Yoghurt",
       "note": "to serve"
     }
@@ -130,121 +146,5 @@
   "calories": 580,
   "fat": 22,
   "carbs": 36,
-  "protein": 50,
-  "i18n": {
-    "pt": {
-      "name": "Frango com Harissa no Tabuleiro com Grãos com Ervas",
-      "mealType": "almoço",
-      "ingredients": [
-        "500g de Coxas de Frango sem Osso e sem Pele",
-        "2 Cebolas Brancas",
-        "2 Dentes de Alho",
-        "2 colheres de sopa de Pasta de Harissa",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "1 Courgette",
-        "250g de Grãos Cozidos Mistos",
-        "0,5 Limão",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "15g de Aneto Fresco",
-        "15g de Salsa Lisa Fresca",
-        "2 colheres de sopa de Skyr Natural (para servir)"
-      ],
-      "steps": [
-        "Pré-aqueça o grelhador do forno em lume alto.",
-        "Corte as coxas de frango em quartos. Descasque e fatie finamente as cebolas. Rale o alho.",
-        "Adicione o frango, as cebolas, a harissa e o alho ralado a uma tigela grande. Regue com um pouco de azeite, tempere com sal e pimenta preta e envolva para cobrir.",
-        "Transfira tudo para um tabuleiro e espalhe em camada uniforme. Coloque sob o grelhador na prateleira superior e cozinhe 15 a 20 minutos, virando a meio, até o frango estar cozido e as bordas começarem a dourar.",
-        "Enquanto grelha, corte a courgette em cubos. Pique finamente o aneto e a salsa.",
-        "Aqueça um fio de azeite numa frigideira em lume médio. Adicione a courgette e frite 6 a 8 minutos até ficar dourada e macia, temperando enquanto cozinha.",
-        "Adicione os grãos e mexa até estarem quentes. Retire do lume, depois incorpore as ervas e esprima o sumo de meio limão. Prove e ajuste o tempero.",
-        "Sirva o frango grelhado e as cebolas sobre os grãos com ervas com uma boa colherada de Skyr ao lado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebola Branca"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Courgette"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Cereais Mistos Cozidos"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Skyr Natural"
-        }
-      ]
-    }
-  }
+  "protein": 50
 }

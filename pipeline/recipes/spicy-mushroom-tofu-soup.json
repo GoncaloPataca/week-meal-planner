@@ -17,54 +17,64 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pak-choi",
       "amount": 0.5,
-      "unit": "head",
+      "unitId": "head",
       "item": "Pak Choi"
     },
     {
+      "id": "chestnut-mushroom",
       "amount": 130,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chestnut Mushroom"
     },
     {
+      "id": "firm-tofu",
       "amount": 140,
-      "unit": "g",
+      "unitId": "g",
       "item": "Firm Tofu"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "enoki-mushroom",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Enoki Mushroom"
     },
     {
+      "id": "gochujang",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "mushroom-stock",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Mushroom Stock"
     },
     {
+      "id": "sesame-seeds",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Seeds",
       "note": "to serve"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     }
   ],
@@ -102,81 +112,5 @@
   "calories": 230,
   "fat": 10,
   "carbs": 16,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Sopa Picante de Cogumelos e Tofu",
-      "mealType": "almoço",
-      "ingredients": [
-        "0,5 Cabeça de Pak Choi",
-        "130g Cogumelos Castanhos",
-        "140g Tofu Firme",
-        "2 Cebolinhos",
-        "75g Cogumelos Enoki",
-        "1c.s. Gochujang",
-        "1c.s. Molho de Soja",
-        "400ml Caldo de Cogumelos",
-        "0,5c.c. Sementes de Sésamo (para servir)",
-        "1c.c. Óleo de Sésamo"
-      ],
-      "steps": [
-        "Comece por fatiar os cogumelos castanhos e o pak choi. Corte o tofu em cubos pequenos e o cebolinho em pedaços de 2 cm.",
-        "Coloque o pak choi numa caixa hermética juntamente com o tofu, o gochujang, os cebolinhos, o molho de soja, os cogumelos enoki, os cogumelos castanhos e o caldo de cogumelos. Feche e coloque no congelador até estar pronto para usar.",
-        "Quando quiser cozinhar, transfira o conteúdo da caixa para uma panela em lume médio. Tape e deixe o conteúdo da panela derreter.",
-        "Quando estiver derretido, deixe a sopa ferver suavemente 5 minutos até o caldo estar bem quente. Sirva coberto com sementes de sésamo e um fio de óleo de sésamo."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 0.5,
-          "unit": "cabeça",
-          "item": "Pak Choi"
-        },
-        {
-          "amount": 130,
-          "unit": "g",
-          "item": "Cogumelos Castanhos"
-        },
-        {
-          "amount": 140,
-          "unit": "g",
-          "item": "Tofu Firme"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Cogumelos Enoki"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Caldo de Cogumelos"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

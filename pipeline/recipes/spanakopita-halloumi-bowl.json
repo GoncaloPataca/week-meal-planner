@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pine-nuts",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pine Nuts"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "spinach",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "giant-couscous",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Giant Couscous"
     },
     {
+      "id": "halloumi",
       "amount": 225,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "fresh-dill",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "fresh-parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "fresh-mint",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "sumac",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sumac"
     },
     {
+      "id": "natural-yoghurt",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Natural Yoghurt"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -115,102 +128,5 @@
   "calories": 510,
   "fat": 26,
   "carbs": 42,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Spanakopita com Halloumi",
-      "mealType": "almoço",
-      "ingredients": [
-        "4c.s. Pinhões",
-        "1 Cebola Roxa",
-        "2 Dentes de Alho",
-        "350g Espinafres",
-        "200g Cuscuz Pérola",
-        "225g Halloumi",
-        "50g Endro Fresco",
-        "25g Salsa Fresca",
-        "25g Hortelã Fresca",
-        "1 Limão",
-        "1c.s. Sumagre",
-        "4c.s. Iogurte Natural",
-        "Azeite"
-      ],
-      "steps": [
-        "Preaqueça o forno a 160°C. Coloque os pinhões num tabuleiro e asse 10-12 min até dourarem.",
-        "Entretanto, pique finamente a cebola roxa e o alho. Aqueça um fio de azeite na panela maior que tiver em lume médio. Adicione a cebola e frite 5-7 min, depois junte o alho e cozinhe mais 2 min.",
-        "Adicione os espinafres em punhados grandes, mexendo até murcharem antes de adicionar o próximo. Quando todas as folhas estiverem murchadas, retire a mistura de espinafres para um prato e reserve para arrefecer.",
-        "Leve uma panela grande com água salgada a ferver e adicione o cuscuz pérola. Reduza para lume baixo e cozinhe 8 min, depois escorra e transfira para uma tigela grande.",
-        "Entretanto, parta o halloumi ao longo da divisão natural e corte em pedaços de 2 cm. Coloque uma frigideira grande em lume médio. Adicione o halloumi, cozinhando de todos os lados até dourar.",
-        "Esprema o máximo de líquido possível da mistura de espinafres, depois pique finamente e adicione ao cuscuz. Pique finamente o endro, a salsa e a hortelã, reservando um pequeno punhado para guarnição, depois adicione o resto ao cuscuz e misture. Rale a casca do limão com um pouco de sumo e o sumagre, depois tempere com sal e pimenta.",
-        "Para servir, distribua o cuscuz pelas tigelas e cubra com o halloumi, uma colherada de iogurte, pinhões torrados e as ervas frescas restantes."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Pinhões"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Cuscuz Gigante"
-        },
-        {
-          "amount": 225,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sumagre"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Iogurte Natural"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

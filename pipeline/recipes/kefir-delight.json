@@ -13,33 +13,39 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "greek-yoghurt",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "kefir",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Kefir"
     },
     {
+      "id": "lemon-curd",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Lemon Curd"
     },
     {
+      "id": "frozen-raspberry",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Raspberry"
     },
     {
+      "id": "mixed-nuts",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Nuts"
     },
     {
+      "id": "mixed-seeds",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Seeds"
     }
   ],
@@ -63,55 +69,5 @@
   "calories": 130,
   "fat": 6,
   "carbs": 12,
-  "protein": 6,
-  "i18n": {
-    "pt": {
-      "name": "Delícia de Kefir",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "2 colheres de sopa de Iogurte Grego",
-        "2 colheres de sopa de Kefir",
-        "1 colher de chá de Lemon Curd",
-        "15g de Framboesas Congeladas",
-        "5g de Frutos Secos Mistos",
-        "5g de Sementes Mistas"
-      ],
-      "steps": [
-        "Misture o kefir e o lemon curd no iogurte.",
-        "Cubra a mistura cremosa com fruta fresca da época, framboesas congeladas e frutos secos e sementes mistos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Kefir"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Creme de Limão"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Framboesa Congelada"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Frutos Secos Mistos"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Sementes Mistas"
-        }
-      ]
-    }
-  }
+  "protein": 6
 }

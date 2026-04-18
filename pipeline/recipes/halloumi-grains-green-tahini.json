@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cooked-quinoa",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Quinoa"
     },
     {
+      "id": "courgette",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "courgette"
     },
     {
+      "id": "halloumi",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "fresh-basil",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "tahini",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tahini"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "jalape-o",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "jalape ño"
     },
     {
+      "id": "water",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     }
   ],
@@ -94,77 +103,5 @@
   "calories": 640,
   "fat": 40,
   "carbs": 36,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Grãos com Halloumi e Tahini Verde",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Saquetas de 200g de Quinoa Cozida",
-        "4 Courgettes",
-        "450g de Halloumi",
-        "1 colher de sopa de Azeite",
-        "50g de Manjericão Fresco",
-        "75g de Tahini",
-        "2 Limões",
-        "2 Jalapeños",
-        "6 colheres de sopa de Água"
-      ],
-      "steps": [
-        "Corte as courgettes em pedaços irregulares de 4 cm. Parta o halloumi pela sua divisão natural e depois corte em pedaços generosos do mesmo tamanho das courgettes.",
-        "Aqueça uma frigideira grande em lume médio-alto. Adicione o halloumi e cozinhe de todos os lados até ficar dourado — não precisa de óleo. Retire da frigideira.",
-        "Adicione o azeite à frigideira e frite as courgettes de ambos os lados até ficarem tostadas. Retire e tempere com sal e pimenta preta.",
-        "Para o molho, adicione o manjericão, o tahini, o sumo dos limões, metade dos jalapeños e toda a água a um liquidificador e triture até ficar liso. Tempere com sal e pimenta preta e ajuste se necessário.",
-        "Misture a quinoa com as courgettes e tempere com sal e pimenta preta. Corte finamente o jalapeño restante.",
-        "Distribua a quinoa com courgettes e cubra com o halloumi e o jalapeño fatiado. Se for comer mais tarde, guarde o molho separadamente num recipiente hermético. Se for comer agora, regue com o molho. Dura bem no frigorífico até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Quinoa Cozida"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Courgette"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Tahini"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Jalapeño"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Água"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

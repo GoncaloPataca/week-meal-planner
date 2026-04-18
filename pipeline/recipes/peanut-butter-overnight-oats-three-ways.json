@@ -26,103 +26,122 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "crunchy-peanut-butter",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Crunchy Peanut Butter"
     },
     {
+      "id": "rolled-oat",
       "amount": 180,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "unsweetened-almond-milk",
       "amount": 280,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Unsweetened Almond Milk"
     },
     {
+      "id": "honey",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Honey"
     },
     {
+      "id": "0-fat-greek-yoghurt",
       "amount": 225,
-      "unit": "g",
+      "unitId": "g",
       "item": "0% Fat Greek Yoghurt⁣"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "vanilla-extract",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vanilla Extract"
     },
     {
+      "id": "chia-seed",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chia Seed"
     },
     {
+      "id": "blueberry",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Blueberry"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "0-fat-greek-yoghurt",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "0% Fat Greek Yoghurt⁣"
     },
     {
+      "id": "honey",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Honey"
     },
     {
+      "id": "unsweetened-almond-milk",
       "amount": 60,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Unsweetened Almond Milk"
     },
     {
+      "id": "crunchy-nut-cornflakes",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Crunchy Nut Cornflakes",
       "note": "to serve"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon",
       "note": "to serve"
     },
     {
+      "id": "banana",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Banana",
       "note": "to serve"
     },
     {
+      "id": "granola",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Granola",
       "note": "to serve"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey",
       "note": "to serve"
     },
     {
+      "id": "frozen-strawberry",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "frozen Strawberry",
       "note": "to serve"
     }
@@ -153,134 +172,5 @@
   "calories": 320,
   "fat": 8,
   "carbs": 36,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna de Manteiga de Amendoim de Três Formas",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "75g de Manteiga de Amendoim Crocante",
-        "180g de Flocos de Aveia",
-        "280ml de Leite de Amêndoa sem Açúcar",
-        "25g de Mel",
-        "225g de Iogurte Grego 0% de Gordura",
-        "60g de Proteína em Pó de Baunilha",
-        "1 colher de sopa de Extrato de Baunilha",
-        "2 colheres de sopa de Sementes de Chia",
-        "120g de Mirtilos",
-        "1 colher de chá de Sal",
-        "800g de Iogurte Grego 0% de Gordura",
-        "40g de Mel",
-        "60ml de Leite de Amêndoa sem Açúcar",
-        "Cornflakes de Nozes Crocantes (para servir)",
-        "1 colher de chá de Canela em Pó (para servir)",
-        "Banana (para servir)",
-        "25g de Granola (para servir)",
-        "2 colheres de chá de Mel (para servir)",
-        "5 Morangos Congelados (para servir)"
-      ],
-      "steps": [
-        "Para a aveia, misture todos os ingredientes da aveia numa tigela e bata até ficar bem combinado. Verta num recipiente hermético e leve ao frigorífico durante a noite.",
-        "Para o topping de iogurte, adicione o iogurte a uma tigela limpa com o mel e o leite de amêndoa. Bata vigorosamente durante cerca de 2 minutos até a mistura ficar brilhante e ligeiramente arejada. Verta num recipiente hermético separado e leve ao frigorífico durante a noite. A aveia dura 4 dias.",
-        "De manhã, sirva uma porção de aveia numa tigela e cubra com o iogurte. Termine com toppings à sua escolha: adoramos cornflakes de nozes crocantes; um fio de mel e morangos congelados ralados; ou uma pitada de canela, banana fatiada e um punhado de granola."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Manteiga de Amendoim Crocante"
-        },
-        {
-          "amount": 180,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 280,
-          "unit": "ml",
-          "item": "Leite de Amêndoa sem Açúcar"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Mel"
-        },
-        {
-          "amount": 225,
-          "unit": "g",
-          "item": "Iogurte Grego 0% de Gordura"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Extrato de Baunilha"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Mirtilo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Iogurte Grego 0% de Gordura"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Mel"
-        },
-        {
-          "amount": 60,
-          "unit": "ml",
-          "item": "Leite de Amêndoa sem Açúcar"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Cereais Crunchy Nut"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Granola"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Morango Congelado"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

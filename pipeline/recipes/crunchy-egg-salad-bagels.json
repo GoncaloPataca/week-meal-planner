@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "5-fat-greek-yoghurt",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Greek Yoghurt"
     },
     {
+      "id": "dijon-mustard",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dijon Mustard"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "lime-pickle",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Lime Pickle"
     },
     {
+      "id": "roasted-almond",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Roasted Almond"
     },
     {
+      "id": "stick-celery",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "stick Celery"
     },
     {
+      "id": "red-onion",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "fresh-chive",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "bagel",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "bagel"
     },
     {
+      "id": "large-tomato",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "large Tomato"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": 4,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Crispy Chilli Oil",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -116,105 +130,5 @@
   "calories": 490,
   "fat": 18,
   "carbs": 56,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Bagels com Salada de Ovo Crocante",
-      "ingredients": [
-        "6 Ovos",
-        "75g Iogurte Grego 5% Gordura",
-        "0.5c.sopa Mostarda de Dijon",
-        "0.5 Limão",
-        "2c.sopa Pickle de Lima",
-        "50g Amêndoas Torradas",
-        "2 Talos de Aipo",
-        "0.5 Cebola Roxa",
-        "10g Cebolinho Fresco",
-        "4 Bagels",
-        "2 Tomates Grandes",
-        "4c.chá Óleo de Malagueta Crocante (para servir)",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Leve um tacho com água a ferver, depois baixe cuidadosamente os ovos e cozinhe em lume brando durante 8 minutos para solidificar as gemas. Transfira imediatamente para uma tigela com água gelada. Quando estiverem frios, descasque, corte ao meio e separe as gemas das claras.",
-        "Esmague as gemas numa tigela grande até ficarem o mais suaves possível. Adicione o iogurte e a mostarda de Dijon, depois rale finamente a raspa do limão e esprema o sumo. Meça o pickle de lima, pique finamente os pedaços maiores, depois adicione à tigela e misture tudo. Tempere a gosto com sal e pimenta.",
-        "Pique finamente as claras. Pique finamente as amêndoas, o aipo, a cebola roxa e o cebolinho, depois misture tudo na mistura de gemas até estar uniformemente combinado.",
-        "Para servir, torre os bagels. Corte os tomates em fatias. Coloque generosas porções da salada de ovo nos bagels e termine com os tomates por cima."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Iogurte Grego 5% de Gordura"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Mostarda Dijon"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pickle de Lima"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Amêndoa Torrada"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Talo de Aipo"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Bagel"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Tomate Grande"
-        },
-        {
-          "amount": 4,
-          "unit": "c. chá",
-          "item": "Óleo de Malagueta Crocante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

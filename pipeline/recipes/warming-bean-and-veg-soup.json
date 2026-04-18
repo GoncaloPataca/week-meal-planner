@@ -25,93 +25,111 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "porcini-mushroom",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Porcini Mushroom"
     },
     {
+      "id": "white-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "white Onion"
     },
     {
+      "id": "celery",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Celery"
     },
     {
+      "id": "courgette",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "courgette"
     },
     {
+      "id": "carrot",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "rosemary",
       "amount": 2,
-      "unit": "sprig",
+      "unitId": "sprig",
       "item": "Rosemary"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "clove-garlic",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "chilli-flakes",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "vegetable-bouillon-power",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Vegetable Bouillon Power"
     },
     {
+      "id": "drained-cannellini-beans",
       "amount": 570,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cannellini Beans"
     },
     {
+      "id": "vine-tomato",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "vine Tomato"
     },
     {
+      "id": "chard",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chard"
     },
     {
+      "id": "basil",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basil"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -150,133 +168,5 @@
   "calories": 325,
   "fat": 8,
   "carbs": 48,
-  "protein": 11,
-  "i18n": {
-    "pt": {
-      "name": "Sopa Reconfortante de Feijão e Legumes",
-      "mealType": "almoço",
-      "ingredients": [
-        "15g Cogumelos Porcini",
-        "3 Cebolas Brancas",
-        "120g Aipo",
-        "1 Courgette",
-        "3 Cenouras",
-        "2 Ramos de Alecrim",
-        "1 c. chá de Orégãos Secos",
-        "5 Dentes de Alho",
-        "1 Limão",
-        "1 c. chá de Flocos de Malagueta",
-        "2 c. chá de Bouillon de Legumes em Pó",
-        "1x 570g Frasco de Feijão Cannellini Escorrido",
-        "6 Tomates de Videira",
-        "200g Acelga",
-        "30g Manjericão",
-        "Pimenta Preta",
-        "Sal",
-        "Azeite"
-      ],
-      "steps": [
-        "Deixa os cogumelos porcini de molho em cerca de 100ml de água a ferver ou até ficarem cobertos.",
-        "Tempo de preparação. Corta as cebolas, o aipo, a courgette e as cenouras em pedaços e pica finamente as ervas e o alho. Rala a casca e esprème o sumo do limão.",
-        "Adiciona as cebolas e as cenouras numa panela para cozinhar primeiro com um pouco de azeite. Quando amolecerem ligeiramente, adiciona o aipo e a courgette. Após alguns minutos, adiciona também o alho, o alecrim picado, os orégãos e os flocos de malagueta.",
-        "Enquanto isso estiver a cozinhar, escorre os cogumelos porcini, certificando-te de que guardas a água. Pica-os e adiciona à panela juntamente com a raspa de limão.",
-        "Adiciona a água dos cogumelos reservada à panela juntamente com o bouillon de legumes, depois adiciona o feijão cannellini e água diretamente da lata.",
-        "Pica grosseiramente os tomates e adiciona-os. Mistura bem tudo.",
-        "Quando todos os legumes tiverem amolecido, adiciona a água a ferver restante à panela e cozinha em lume brando durante 10 minutos.",
-        "Pica a acelga e o manjericão e adiciona à panela após 5 minutos. Deixa murchar e por fim adiciona o sumo do limão e uma boa moagem de pimenta preta. Tempera a gosto e serve. Fica delicioso com pão tostado crocante. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Cogumelos Porcini"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebola Branca"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Aipo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Courgette"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 2,
-          "unit": "ramo",
-          "item": "Alecrim"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Caldo de Legumes em Pó"
-        },
-        {
-          "amount": 570,
-          "unit": "g",
-          "item": "Feijão Cannellini Escorrido"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Tomate de Videira"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Acelga"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manjericão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 11
 }

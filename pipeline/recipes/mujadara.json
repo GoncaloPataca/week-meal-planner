@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "shallot",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "olive-oil",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Olive Oil"
     },
     {
+      "id": "parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parsley"
     },
     {
+      "id": "nigella-seed",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Nigella Seed"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "cumin-seeds",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cumin Seeds"
     },
     {
+      "id": "cooked-brown-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Brown Rice"
     },
     {
+      "id": "cooked-lentil",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Lentil"
     }
   ],
@@ -88,75 +97,5 @@
   "calories": 580,
   "fat": 28,
   "carbs": 60,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Mujadara",
-      "mealType": "jantar",
-      "ingredients": [
-        "4 Chalotas",
-        "100ml de Azeite",
-        "10g de Salsa",
-        "2 colheres de chá de Sementes de Nigela",
-        "400g de Iogurte Grego",
-        "1 Limão",
-        "1 colher de chá de Sementes de Cominhos",
-        "500g de Arroz Integral Cozido",
-        "250g de Lentilhas Cozidas"
-      ],
-      "steps": [
-        "Corte finamente as chalotas em fatias e separe as camadas. Verta o azeite numa frigideira pequena e coloque em lume médio. Adicione as chalotas e deixe fervilhar, mexendo ocasionalmente, durante 10 a 15 minutos até ficarem douradas. Com uma escumadeira, transfira as chalotas para um prato forrado com papel de cozinha.",
-        "Entretanto, separe as folhas de salsa e corte finamente os talos. Misture as sementes de nigela no iogurte e tempere com sal e o sumo de metade do limão. Reserve.",
-        "Adicione as sementes de cominhos e os talos de salsa ao óleo quente das chalotas e cozinhe 30 segundos até ficarem aromáticos. Adicione o arroz e as lentilhas, mexendo para misturar bem. Cozinhe até ficarem bem quentes, 2 a 3 minutos. Prove e tempere com sal e pimenta. Misture metade das chalotas, retire do lume e tape.",
-        "Corte a metade de limão restante em gomos. Envolva as folhas de salsa na mujadara e divida pelas tigelas. Sirva com iogurte de nigela, as chalotas restantes e um gomo de limão."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Azeite"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Sementes de Nigela"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Cominhos"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Integral Cozido"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Lentilhas Cozidas"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

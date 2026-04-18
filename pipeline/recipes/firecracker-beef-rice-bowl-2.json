@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sushi-rice",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sushi Rice"
     },
     {
+      "id": "water",
       "amount": 120,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "neutral-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Neutral Oil"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "5-fat-beef-mince",
       "amount": 225,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Beef Mince"
     },
     {
+      "id": "sriracha",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "rice-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "red-chilli",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -131,115 +146,5 @@
   "calories": 490,
   "fat": 14,
   "carbs": 48,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Arroz com Carne de Vaca Firecracker",
-      "mealType": "almoço",
-      "ingredients": [
-        "100g de Arroz para Sushi",
-        "120ml de Água",
-        "1 colher de sopa de Óleo Neutro",
-        "1 Cebola",
-        "2 Dentes de Alho",
-        "15g de Gengibre Fresco",
-        "225g de Carne de Vaca Picada 5%",
-        "2 colheres de sopa de Sriracha",
-        "1 colher de sopa de Mel",
-        "1 colher de sopa de Molho de Soja",
-        "1 colher de sopa de Vinagre de Arroz",
-        "2 Malaguetas Vermelhas",
-        "2 Cebolinhas Verdes",
-        "80g de Brócolos Tenros",
-        "Sal"
-      ],
-      "steps": [
-        "Lave o arroz em água fria 2 a 3 vezes até a água sair limpa. Coloque numa panela com tampa com a água e uma pitada de sal em lume médio. Quando começar a fervilhar, cubra, reduza o lume para baixo e cozinhe 10 minutos. Retire do lume e deixe cozer no vapor 10 minutos. Solte com um garfo.",
-        "Entretanto, descasque e fatie finamente a cebola. Descasque o alho e o gengibre e rale para uma tigela. Adicione a sriracha, o mel, o molho de soja e o vinagre de arroz e misture para fazer o molho.",
-        "Fatie finamente as malaguetas vermelhas. Apare e fatie finamente as cebolinhas verdes.",
-        "Coloque uma frigideira grande em lume médio com o óleo. Quando estiver quente, adicione a cebola e cozinhe 3 a 4 minutos até amolecer.",
-        "Suba o lume para alto, adicione a carne picada e cozinhe 3 a 4 minutos, desfazendo com uma colher de pau até estar dourada.",
-        "Verta o molho e deixe borbulhar 2 a 3 minutos até engrossar e ficar pegajoso. Junte as malaguetas vermelhas e cozinhe mais 1 minuto.",
-        "Coloque os brócolos numa tigela resistente ao calor, cubra e leve ao micro-ondas 2 minutos até ficarem tenros.",
-        "Distribua o arroz pelos recipientes. Coloque a carne picante e os brócolos por cima e termine com as cebolinhas verdes. Guarde na caixa e leve ao frigorífico até ser necessário."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Arroz de Sushi"
-        },
-        {
-          "amount": 120,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo Neutro"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 225,
-          "unit": "g",
-          "item": "Carne Picada de Vaca 5% de Gordura"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "chicken-breast",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Breast"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "chicken-stock",
       "amount": 600,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "dried-thyme",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Thyme"
     },
     {
+      "id": "reduced-fat-red-pesto",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Reduced-Fat Red Pesto"
     },
     {
+      "id": "orzo",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Orzo"
     },
     {
+      "id": "single-cream",
       "amount": 120,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Single Cream"
     },
     {
+      "id": "fresh-basil",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "parmesan",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Parmesan",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -117,106 +131,5 @@
   "calories": 620,
   "fat": 20,
   "carbs": 72,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Orzo de Frango 'Marry Me'",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Cebola",
-        "350g de Peitos de Frango",
-        "80g de Tomate Seco",
-        "2 Dentes de Alho",
-        "600ml de Caldo de Frango",
-        "1 colher de chá de Orégãos Secos",
-        "1 colher de chá de Tomilho Seco",
-        "20g de Pesto Vermelho Light",
-        "240g de Orzo",
-        "120ml de Natas Simples",
-        "50g de Manjericão Fresco",
-        "Parmesão (para servir)",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique a cebola finamente e corte os peitos de frango em pedaços. Fatie os tomates secos e esmague os dentes de alho. Reserve.",
-        "Adicione meia colher de sopa de óleo do frasco do tomate seco a qualquer panela funda, depois adicione a cebola e o alho. Cozinhe alguns minutos até amolecerem, depois adicione o frango e cozinhe cerca de 10 minutos até estar completamente cozido.",
-        "Adicione os tomates secos, os orégãos, o tomilho, o pesto e uma pitada de sal e pimenta à panela. Mexa para envolver, depois verta cerca de 90% do caldo. Mexa novamente e leve a ferver.",
-        "Adicione o orzo e reduza o lume para fervilhar. Cozinhe cerca de 7 minutos — a maior parte do líquido deve ter sido absorvida (mas ainda deve parecer bastante líquido, por isso adicione o caldo restante mais um pouco de água extra se não estiver). O orzo continuará a absorver líquido mesmo depois de retirar do lume, por isso não se preocupe se parecer um pouco líquido. Misture as natas e cozinhe mais 3 minutos ou até o orzo estar completamente cozido e a maior parte do líquido ter sido absorvida.",
-        "Misture um pouco de manjericão rasgado, depois divida por três tigelas e cubra com mais manjericão picado e parmesão."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 600,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Tomilho Seco"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Pesto Vermelho Light"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Orzo"
-        },
-        {
-          "amount": 120,
-          "unit": "ml",
-          "item": "Natas Simples"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

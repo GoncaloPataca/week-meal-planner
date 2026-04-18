@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "strong-white-bread-flour",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Strong White Bread Flour"
     },
     {
+      "id": "dried-instant-yeast",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dried Instant Yeast"
     },
     {
+      "id": "sugar",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sugar"
     },
     {
+      "id": "fine-salt",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fine Salt"
     },
     {
+      "id": "warm-water",
       "amount": 320,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Warm Water"
     },
     {
+      "id": "poppy-seed",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Poppy Seed"
     },
     {
+      "id": "black-treacle",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Black Treacle"
     },
     {
+      "id": "bicarbonate-of-soda",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Bicarbonate of Soda"
     },
     {
+      "id": "smoked-trout",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Smoked Trout"
     },
     {
+      "id": "red-onion",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Red Onion"
     },
     {
+      "id": "capers",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Capers"
     },
     {
+      "id": "cream-cheese",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Cream Cheese"
     }
   ],
@@ -105,98 +117,5 @@
   "calories": 420,
   "fat": 14,
   "carbs": 56,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Bagels com Sementes de Papoila ao Estilo Nova Iorque com Lox",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "500g de Farinha de Pão Branca Forte",
-        "10g de Fermento Seco Instantâneo",
-        "20g de Açúcar",
-        "10g de Sal Fino",
-        "320ml de Água Morna",
-        "200g de Sementes de Papoila",
-        "100g de Melaço Preto",
-        "10g de Bicarbonato de Sódio",
-        "Truta Fumada",
-        "Cebola Roxa",
-        "Alcaparras",
-        "Queijo Creme"
-      ],
-      "steps": [
-        "Coloque a farinha e o fermento numa tigela com o açúcar e o sal fino. Misture os ingredientes secos antes de adicionar a água morna. Use a mão para juntar os ingredientes até formar uma massa irregular. Quer incorporar toda a farinha da tigela, por isso continue a misturar até não haver pontos secos!",
-        "Coloque a massa na superfície de trabalho e amasse durante 8 a 10 minutos até ficar lisa, elástica e com bastante força. Pode testar de várias formas, mas o meu favorito é o teste da janela: usando o polegar e o indicador de cada mão, agarre uma ponta da massa e estique o mais fino possível. Deverá conseguir ver a luz através dela (como uma janela) antes de rasgar. Se rasgar facilmente, continue a amassar!",
-        "Assim que estiver satisfeito com o desenvolvimento do glúten, coloque a massa numa tigela e tape. Deixe levedar à temperatura ambiente durante cerca de uma hora, ou até duplicar de tamanho. Assim que tiver levedado, coloque a massa novamente na superfície de trabalho e divida em pedaços de 100 a 110g. Achate cada pedaço num retângulo longo. Enrole a massa formando uma salsicha, com cerca de 20 a 22 cm de comprimento e cerca de 2,5 cm de espessura.",
-        "Para formar o formato clássico de bagel, una as duas extremidades da salsicha na palma da mão, envolvendo a argola à volta do topo da mão. Role as duas extremidades juntas entre a palma e a superfície de trabalho, unindo-as. Role até a união ter aproximadamente o mesmo tamanho que o resto do bagel.",
-        "Forre um par de tabuleiros com papel vegetal e disponha os bagels para levedar. Certifique-se de que dá bastante espaço para crescerem e cubra-os com película aderente. Pode leveda-los à temperatura ambiente durante uma hora (até duplicarem de tamanho) ou durante a noite no frigorífico. Prefiro a levedação durante a noite pois obtém-se uma textura e sabor muito mais agradáveis!",
-        "Quando os bagels estiverem quase levedados, pré-aqueça o forno a 220°C e prepare um tabuleiro cheio com as sementes de papoila. Corte o papel entre os bagels para que cada um fique numa pequena peça de papel vegetal.",
-        "Encha uma panela grande com água (cerca de 5 litros) e adicione o melaço e o bicarbonato de sódio. Mexa para combinar e coloque em lume alto. Leve a ferver e depois coloque cuidadosamente os bagels levedados no papel, retirando-o assim que estiverem a flutuar. Cozinhe cerca de 30 segundos de cada lado (virando para ambos os lados cozinharem) antes de os retirar com uma escumadeira. Coloque-os diretamente no tabuleiro com sementes de papoila e vire-os algumas vezes, cobrindo-os completamente com as sementes. Repita com os bagels restantes.",
-        "Coloque os bagels escalfados novamente num tabuleiro forrado com papel vegetal e leve ao forno durante 20 minutos até ficarem com um dourado intenso. Retire e deixe arrefecer numa grelha pelo menos 15 a 20 minutos.",
-        "Corte os bagels ao meio e recheie com truta fumada fatiada, queijo creme, cebola roxa crua fatiada e alcaparras."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Farinha de Trigo Forte"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Fermento Instantâneo Seco"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Sal Fino"
-        },
-        {
-          "amount": 320,
-          "unit": "ml",
-          "item": "Água Morna"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Sementes de Papoila"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Melaço Negro"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Bicarbonato de Sódio"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Truta Fumada"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Alcaparras"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Queijo Creme"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

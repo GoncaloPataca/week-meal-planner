@@ -29,115 +29,137 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "neutral-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Neutral Oil"
     },
     {
+      "id": "plain-flour",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plain Flour"
     },
     {
+      "id": "cornflour",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Cornflour"
     },
     {
+      "id": "baking-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Baking Powder"
     },
     {
+      "id": "dashi",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Dashi"
     },
     {
+      "id": "white-cabbage",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "White Cabbage"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "shiitake-mushroom",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "shiitake Mushroom"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "salt",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "cheddar-cheese",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cheddar Cheese"
     },
     {
+      "id": "mozzarella",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mozzarella"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "parmesan",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "hp-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "HP Sauce"
     },
     {
+      "id": "kewpie-mayonnaise",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Kewpie Mayonnaise"
     },
     {
+      "id": "toasted-sesame-seed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Toasted Sesame Seed",
       "note": "to serve"
     },
     {
+      "id": "chilli-flakes",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chilli Flakes",
       "note": "to serve"
     },
     {
+      "id": "pickle",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Pickle"
     }
   ],
@@ -163,155 +185,5 @@
   "calories": 590,
   "fat": 36,
   "carbs": 36,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Okonomiyaki com Queijo",
-      "ingredients": [
-        "2c.sopa Óleo Neutro",
-        "125g Farinha de Trigo",
-        "1c.sopa Farinha de Milho",
-        "1c.chá Fermento em Pó",
-        "150ml Dashi",
-        "250g Couve Branca",
-        "4 Cebolinhas",
-        "4 Cogumelos Shiitake",
-        "15g Gengibre Fresco",
-        "2 Ovos",
-        "1c.sopa Óleo de Sésamo",
-        "1c.sopa Molho de Soja",
-        "0.25c.chá Sal",
-        "50g Queijo Cheddar",
-        "50g Mozzarella",
-        "2 Ovos",
-        "50g Parmesão",
-        "2c.sopa Molho HP",
-        "2c.sopa Maionese Kewpie",
-        "Sementes de Sésamo Tostadas (para servir)",
-        "Flocos de Malagueta (para servir)",
-        "Picles"
-      ],
-      "steps": [
-        "Combine os ingredientes da massa húmida numa tigela pequena, mexa até ficar espessa e semelhante a pasta, quase como iogurte grego espesso, e reserve no frigorífico. Corte em fatias o queijo cheddar e a mozzarella e rale o parmesão. O queijo é opcional se quiser manter sem laticínios!",
-        "Corte muito finamente a couve, os cogumelos shiitake e as cebolinhas (reservando a parte verde para decorar mais tarde). Numa tigela grande, adicione o gengibre picado, os ovos, o óleo de sésamo, o molho de soja e o sal, bata vigorosamente durante 1 minuto até os ovos ficarem ligeiramente espumosos. Dobre a couve, os cogumelos e as partes brancas das cebolinhas até estarem combinados, depois misture a massa húmida preparada. Se os legumes não estiverem cobertos de massa, adicione uma colher de sopa de água até ficarem cobertos — não adicione demasiada água, a massa não deve ficar líquida.",
-        "Aqueça uma frigideira de 15cm em lume médio e adicione 1c.sopa de óleo neutro, espalhando pela frigideira. Adicione ¼ da massa e use uma espátula para espalhar, mas não achate a panqueca — mantenha-a fofa! Reduza para lume brando, adicione algumas fatias de cheddar e mozzarella, pressionando levemente na massa, depois cubra o queijo com um pouco mais de massa. Coloque uma tampa e cozinhe durante 2 minutos, ou até o fundo parecer dourado (mantenha a tigela com a massa restante no frigorífico).",
-        "Deslize a panqueca para um prato grande, com o lado cru para cima, depois vire a frigideira sobre o prato e vire de volta para a frigideira. Regue com 1c.chá de óleo pelas bordas e cozinhe durante 4 minutos sem tampa, ou até estar dourada. Entretanto, frite os ovos noutra frigideira e reserve. Vire a panqueca novamente e cozinhe em lume médio apenas 1 minuto para crocantear o outro lado.",
-        "Na mesma frigideira, adicione mais um fio de óleo e frite os ovos restantes para servir por cima da panqueca.",
-        "Coloque a panqueca num prato, com o lado crocante para cima. Para decorar, polvilhe com uma camada fina de parmesão ralado e regue com o molho HP em linhas compridas, depois repita com a maionese. Cubra com o ovo frito, cebolinha e sementes de sésamo tostadas."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Óleo Neutro"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Farinha Simples"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Farinha Maizena"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Dashi"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Couve Branca"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cogumelo Shiitake"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Queijo Cheddar"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Mozzarella"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho HP"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Maionese Kewpie"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pickle"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "jumbo-oat",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jumbo Oat"
     },
     {
+      "id": "milk",
       "amount": 160,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Milk"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "maple-syrup",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "crunchy-peanut-butter",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Crunchy Peanut Butter"
     },
     {
+      "id": "dark-chocolate",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dark Chocolate"
     },
     {
+      "id": "raspberry-jam",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Raspberry Jam"
     },
     {
+      "id": "coconut-oil",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Coconut Oil"
     }
   ],
@@ -77,69 +85,5 @@
   "calories": 680,
   "fat": 36,
   "carbs": 74,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna de Manteiga de Amendoim e Geleia com Tampa de Chocolate",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "100g de Flocos de Aveia Grandes",
-        "160ml de Leite",
-        "50g de Iogurte Grego",
-        "2 colheres de sopa de Xarope de Ácer",
-        "60g de Manteiga de Amendoim Crocante",
-        "100g de Chocolate Negro",
-        "4 colheres de sopa de Compota de Framboesa",
-        "2 colheres de chá de Óleo de Coco"
-      ],
-      "steps": [
-        "Misture a aveia, o leite, o iogurte, o xarope de ácer, a manteiga de amendoim e uma pitada de sal numa tigela até estar combinado.",
-        "Se a compota estiver rígida, aqueça brevemente no micro-ondas ou numa panela pequena em lume baixo para soltar.",
-        "Derreta o chocolate negro com um pouco de óleo de coco numa tigela resistente ao calor colocada sobre uma panela de água a ferver, ou no micro-ondas em intervalos curtos. Mexa até ficar liso.",
-        "Coloque a mistura de aveia e a compota em camadas em copos ou frascos. Verta o chocolate derretido por cima, depois leve ao frigorífico durante a noite ou pelo menos 4 horas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Flocos de Aveia Grandes"
-        },
-        {
-          "amount": 160,
-          "unit": "ml",
-          "item": "Leite"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Manteiga de Amendoim Crocante"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Chocolate Negro"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Compota de Framboesa"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Óleo de Coco"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

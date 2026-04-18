@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "spaghetti",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spaghetti"
     },
     {
+      "id": "anchovies-in-olive-oil",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Anchovies In Olive Oil"
     },
     {
+      "id": "nduja",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Nduja"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "parmesan",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -92,84 +102,5 @@
   "calories": 640,
   "fat": 26,
   "carbs": 72,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Esparguete com 'Nduja e Anchova",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Dentes de Alho",
-        "15g de Salsa Lisa Fresca",
-        "200g de Esparguete",
-        "1 Lata de 30g de Anchovas em Azeite",
-        "60g de 'Nduja",
-        "1 Limão",
-        "30g de Parmesão",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Leve uma panela grande de água salgada a ferver.",
-        "Entretanto, fatie finamente o alho. Pique a maior parte da salsa, reservando algumas folhas para servir. Depois adicione o esparguete à água a ferver e cozinhe 2 minutos a menos do que as instruções da embalagem.",
-        "Enquanto o esparguete cozinha, coloque uma frigideira grande em lume médio e adicione um bom fio de azeite. Adicione a 'nduja e deixe derreter 2 a 3 minutos, mexendo para ficar brilhante.",
-        "Adicione o alho e as anchovas, depois cozinhe 2 a 3 minutos, mexendo, até as anchovas derreterem no azeite. Reduza o lume e rale a casca do limão diretamente para a frigideira.",
-        "Use pinças para transferir o esparguete cozido diretamente para a frigideira com um bom fio de água de cozedura. Envolva tudo 1 a 2 minutos até o molho aderir ao esparguete, adicionando mais água de cozedura se necessário.",
-        "Esprima metade do sumo de limão e rale a maior parte do parmesão, reservando um pouco para servir. Adicione a salsa e envolva novamente, adicionando um pouco mais de água de cozedura se necessário. Prove e tempere com sal e bastante pimenta preta.",
-        "Divida pelas tigelas e termine com mais pimenta preta moída e o parmesão restante ralado. Polvilhe com as folhas de salsa restantes. Sirva com a metade do limão restante cortada em gomos."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Esparguete"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Anchovas em Azeite"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Nduja"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

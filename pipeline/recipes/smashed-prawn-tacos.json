@@ -20,69 +20,82 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "raw-prawn",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raw Prawn"
     },
     {
+      "id": "chipotle-paste",
       "amount": 3,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chipotle Paste"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 65,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "cumin-seeds",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cumin Seeds"
     },
     {
+      "id": "fish-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "cabbage",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cabbage"
     },
     {
+      "id": "lime",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "avocado",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "avocado"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "corn-tortilla",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "corn Tortilla"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     }
@@ -108,100 +121,5 @@
   "calories": 540,
   "fat": 22,
   "carbs": 50,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Tacos de Gambas Esmagadas",
-      "mealType": "jantar",
-      "ingredients": [
-        "500g Gambas Cruas",
-        "3c.c. Pasta de Chipotle",
-        "65g Tomate Seco",
-        "1c.c. Sementes de Cominhos",
-        "1c.s. Molho de Peixe",
-        "15g Coentros Frescos",
-        "200g Couve",
-        "3 Limas",
-        "2 Abacates",
-        "300g Tomates Cherry",
-        "12 Tortilhas de Milho",
-        "Azeite (para servir)",
-        "Sal (para servir)"
-      ],
-      "steps": [
-        "Preaqueça o grelhador ao máximo. Adicione as gambas, o chipotle, os tomates secos, os cominhos e o molho de peixe num robot de cozinha. Triture até as gambas formarem uma pasta. Se não tiver robot de cozinha, pique tudo finamente à mão até ficar pastoso.",
-        "Separe metade das folhas de coentros e pique o resto finamente. Com um descascador de legumes, corte a couve em tiras finas, misture com o sumo de ½ lima e tempere com sal. Fatie finamente os abacates.",
-        "Coloque os tomates cherry num tabuleiro e leve ao grelhador 5-10 min até ficarem bolhosos e carbonizados. Transfira para uma tigela e esmague ainda quentes. Deixe arrefecer e tempere com sal e o sumo de 1 lima. Antes de servir, misture os coentros picados.",
-        "Distribua o recheio de gambas pelas tortilhas (cerca de 1 c.s. cheia cada) e espalhe em camada uniforme até às bordas. Coloque uma frigideira antiaderente em lume médio-alto com um fio de azeite. Quando quente, cozinhe os tacos com as gambas viradas para baixo, 2-3 min até estarem cozidas, depois vire e tostele a tortilha até ficar carbonizada em alguns pontos. Transfira para um prato e cubra. Continue até todos estarem prontos.",
-        "Cubra os tacos com couve, abacate, salsa de tomate carbonizado e os coentros restantes. Sirva com os gomos de lima restantes."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Gamba Crua"
-        },
-        {
-          "amount": 3,
-          "unit": "c. chá",
-          "item": "Pasta de Chipotle"
-        },
-        {
-          "amount": 65,
-          "unit": "g",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Cominhos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Couve"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Tortilha de Milho"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

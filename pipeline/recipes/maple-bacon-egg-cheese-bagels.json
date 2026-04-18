@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "bagel",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "bagel"
     },
     {
+      "id": "rasher-streaky-bacon",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "rasher Streaky Bacon"
     },
     {
+      "id": "maple-syrup",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "egg",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "salt",
       "amount": 0.75,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "american-cheese",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "american Cheese"
     },
     {
+      "id": "cream-cheese",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cream Cheese"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -80,71 +88,5 @@
   "calories": 730,
   "fat": 38,
   "carbs": 58,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Bagels de Bacon com Xarope de Ácer, Ovo e Queijo",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "6 Bagels",
-        "12 Fatias de Bacon às Tiras",
-        "3 colheres de sopa de Xarope de Ácer",
-        "8 Ovos",
-        "0,75 colher de chá de Sal",
-        "12 Fatias de Queijo Americano",
-        "150g de Queijo Creme",
-        "Azeite"
-      ],
-      "steps": [
-        "Parta os ovos numa tigela e bata com o sal. Corte os bagels ao meio e barre o queijo creme nas faces cortadas.",
-        "Coloque uma frigideira em lume médio. Adicione as fatias de bacon e frite 6 a 8 minutos até ficar estaladiço. Retire do lume e regue com o xarope de ácer e envolva para cobrir. Parta o bacon em pedaços e coloque num prato para arrefecer.",
-        "Volte a colocar a frigideira em lume médio-alto com um fio de óleo. Quando estiver quente, adicione uma concha de ovo batido e faça girar para cobrir o fundo da frigideira. Polvilhe com bacon de xarope de ácer e coloque ambas as metades do bagel com a face do queijo creme para baixo sobre os ovos.",
-        "Assim que os ovos estiverem cozidos, coloque um prato sobre a frigideira e vire tudo. Dobre os ovos que sobressaiam e cubra uma metade do bagel com 2 fatias de queijo. Regue com o molho do bacon de xarope de ácer e una as duas metades.",
-        "Embrulhe os bagels em papel de alumínio e deixe o queijo derreter alguns minutos antes de comer.",
-        "Se preparar com antecedência, deixe arrefecer completamente, embrulhe e congele. Descongele no micro-ondas ou de um dia para o outro no frigorífico, depois aqueça num forno a 180°C durante 8 a 15 minutos até estar bem quente."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Bagel"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Fatia de Bacon"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 0.75,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Queijo Americano"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Queijo Creme"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

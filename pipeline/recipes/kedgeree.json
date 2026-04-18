@@ -22,80 +22,95 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "undyed-smoked-haddock",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Undyed Smoked Haddock"
     },
     {
+      "id": "basmati-rice",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basmati Rice"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "butter",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "curry-powder",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Curry Powder"
     },
     {
+      "id": "frozen-pea",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Pea"
     },
     {
+      "id": "fresh-coriander",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "green-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "green Chilli"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "crispy-fried-onion",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Crispy Fried Onion",
       "note": "to serve"
     },
     {
+      "id": "mango-chutney",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Mango Chutney",
       "note": "to serve"
     },
     {
+      "id": "lime-pickle",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Lime Pickle",
       "note": "to serve"
     }
@@ -125,113 +140,5 @@
   "calories": 520,
   "fat": 20,
   "carbs": 42,
-  "protein": 42,
-  "i18n": {
-    "pt": {
-      "name": "Kedgeree",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "2 Ovos",
-        "500g de Hadoque Fumado Não Tingido",
-        "200g de Arroz Basmati",
-        "1 Cebola",
-        "4 Dentes de Alho",
-        "15g de Gengibre Fresco",
-        "75g de Manteiga",
-        "2 colheres de sopa de Caril em Pó",
-        "100g de Ervilhas Congeladas",
-        "50g de Coentros Frescos",
-        "1 Malagueta Verde",
-        "1 Limão",
-        "Cebola Frita Crocante (para servir)",
-        "Chutney de Manga (para servir)",
-        "Pickle de Lima (para servir)"
-      ],
-      "steps": [
-        "Coloque os ovos numa panela pequena com água a ferver e cozinhe 7 minutos. Escorra e passe por água fria, depois descasque e reserve.",
-        "Coloque o hadoque fumado numa frigideira funda e verta 750ml de água fria. Leve a ferver, reduza o lume e deixe fervilhar suavemente durante 5 minutos. Use uma escumadeira para retirar o peixe para um prato, depois desfaça em pedaços.",
-        "Lave o arroz até a água sair limpa, coloque numa panela e meça 500ml do líquido de cozedura do peixe. Leve a ferver, reduza para lume muito brando, coloque a tampa e cozinhe 10 minutos até todo o líquido ser absorvido. Retire do lume e mantenha a tampa enquanto prepara o resto.",
-        "Pique finamente a cebola, o alho e o gengibre. Coloque a manteiga numa frigideira funda em lume médio-alto e adicione a cebola, o alho, o gengibre e uma pitada de sal. Cozinhe suavemente 8 a 10 minutos, mexendo regularmente, até amolecer, depois adicione o caril em pó. Cozinhe um minuto, depois adicione as ervilhas, o peixe desfiado e o arroz cozido. Pique grosseiramente os coentros e corte finamente a malagueta verde.",
-        "Adicione três quartos dos coentros, o sumo do limão e bastante sal e pimenta, depois mexa para combinar.",
-        "Divida por 4 pratos e cubra com as folhas de coentros restantes, as cebolas crocantes e o chutney de manga e pickle de lima ao lado. Corte os ovos ao meio e coloque meio em cada prato."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Hadoque Fumado Natural"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Arroz Basmati"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Caril em Pó"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Ervilhas Congeladas"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Verde"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Cebola Frita Crocante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Chutney de Manga"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pickle de Lima"
-        }
-      ]
-    }
-  }
+  "protein": 42
 }

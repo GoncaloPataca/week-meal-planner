@@ -18,59 +18,70 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "cooked-quinoa",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Quinoa"
     },
     {
+      "id": "kale",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kale"
     },
     {
+      "id": "tomato",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tomato"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "tomato",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tomato"
     },
     {
+      "id": "bacon",
       "amount": 95,
-      "unit": "g",
+      "unitId": "g",
       "item": "Bacon"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "sherry-vinegar",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sherry Vinegar",
       "note": "to taste"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -106,90 +117,5 @@
   "calories": 550,
   "fat": 19,
   "carbs": 27,
-  "protein": 56,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Frango BLT para Marmita",
-      "ingredients": [
-        "4 Peitos de Frango",
-        "400g Quinoa Cozida",
-        "300g Couve-Galega",
-        "150g Tomate",
-        "15g Salsa de Folha Plana Fresca",
-        "100g Tomate",
-        "95g Bacon",
-        "2c.sopa Azeite",
-        "Vinagre de Jerez (a gosto)",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Abra os peitos de frango ao meio em borboleta e tempere generosamente com sal e pimenta.",
-        "Adicione o bacon a uma frigideira e leve a lume médio. Cozinhe durante 4 a 5 minutos até ficar crocante e dourado dos dois lados. Transfira para um prato, mantendo a gordura na frigideira.",
-        "Adicione os peitos de frango à mesma frigideira. Cozinhe durante 10 a 15 minutos, virando ocasionalmente, até ficarem dourados e bem cozinhados.",
-        "Entretanto, retire as folhas de salsa e descarte os talos. Corte os tomates em pedaços do tamanho de uma dentada. Retire os talos duros da couve-galega e adicione as folhas a uma tigela grande. Tempere com sal e massaje durante alguns minutos até amolecer.",
-        "Prepare o molho. Corte o tomate ao meio e rale a parte cortada para uma tigela, descartando as peles. Esmague metade do bacon cozinhado. Adicione o azeite e tempere com sal, pimenta preta e um fio de vinagre de Jerez, a gosto.",
-        "Adicione a salsa, os tomates cortados, a quinoa e o molho de tomate à tigela de couve-galega. Misture tudo até combinar bem.",
-        "Corte os peitos de frango em fatias. Distribua a salada pelos recipientes e coloque o frango por cima. Termine com o bacon esfarelado e bastante pimenta preta. Conserva-se no frigorífico até 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Quinoa Cozida"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Couve Kale"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Tomate"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Tomate"
-        },
-        {
-          "amount": 95,
-          "unit": "g",
-          "item": "Bacon"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Vinagre de Xerez"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 56
 }

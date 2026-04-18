@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "red-pepper",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Pepper"
     },
     {
+      "id": "garlic-clove",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "red-chilli",
       "amount": 1.5,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "paprika",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Paprika"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "ground-coriander",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "drained-cooked-butter-beans",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Butter Beans"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "water",
       "amount": 200,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "fresh-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "sourdough",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sourdough",
       "note": "to serve"
     },
     {
+      "id": "tahini",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     }
   ],
@@ -119,108 +133,5 @@
   "calories": 415,
   "fat": 18,
   "carbs": 30,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Shakshuka de Feijão Manteiga",
-      "ingredients": [
-        "1 Cebola",
-        "1 Pimento Vermelho",
-        "1 Dente de Alho",
-        "1.5 Malagueta Vermelha",
-        "1c.sopa Colorau",
-        "1c.sopa Cominhos em Pó",
-        "1c.sopa Coentros em Pó",
-        "240g Feijão Manteiga Cozido Escorrido",
-        "1x 400g Lata de Tomate Picado",
-        "4 Ovos",
-        "200ml Água",
-        "15g Salsa Fresca",
-        "Pão de Fermentação Natural (para servir)",
-        "0.5c.sopa Tahini"
-      ],
-      "steps": [
-        "Corte a cebola e o pimento em fatias finas. Pique o alho e a malagueta vermelha.",
-        "Frite as cebolas suavemente em azeite durante cerca de 5 minutos até começarem a caramelizar, depois adicione o pimento vermelho em fatias e continue a cozinhar por mais 5 minutos antes de adicionar o alho e ⅔ da malagueta.",
-        "Quando o alho começar a ganhar cor, polvilhe as especiarias e o feijão manteiga escorrido antes de misturar os tomates em lata, a água (via a lata de tomate) e uma pitada generosa de sal marinho.",
-        "Deixe o molho cozinhar em lume brando durante 10 a 15 minutos até engrossar, depois prove para verificar o tempero.",
-        "Use uma colher de pau para fazer pequenos buracos no molho e parta os ovos para dentro. Cubra com uma tampa e cozinhe durante cerca de 5 a 7 minutos até as claras estarem solidificadas e as gemas ainda líquidas.",
-        "Entretanto, pique finamente a salsa e torre o pão.",
-        "Distribua a shakshuka pelas tigelas e cubra com a salsa, a malagueta vermelha restante e um fio de tahini, se quiser. Molhe a torrada e aproveite!"
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pimento Vermelho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1.5,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pimentão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Feijão Manteiga Cozido e Escorrido"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 200,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pão de Massa Mãe"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

@@ -20,69 +20,82 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "chicken-breast",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Breast"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "gnocchi",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Gnocchi"
     },
     {
+      "id": "garlic-italian-seasoning",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Garlic Italian Seasoning"
     },
     {
+      "id": "dried-mixed-herbs",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dried Mixed Herbs"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 90,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "light-soft-cheese",
       "amount": 90,
-      "unit": "g",
+      "unitId": "g",
       "item": "Light Soft Cheese"
     },
     {
+      "id": "grated-cheddar-mozzarella-mix",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Grated Cheddar & Mozzarella Mix"
     },
     {
+      "id": "parmesan",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Parmesan",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -114,101 +127,5 @@
   "calories": 600,
   "fat": 20,
   "carbs": 64,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Nhoque com Frango Cremoso, Alho e Ervas",
-      "ingredients": [
-        "1 Cebola Roxa",
-        "350g Peito de Frango",
-        "2 Dentes de Alho",
-        "10g Salsa Fresca",
-        "500g Nhoque",
-        "1c.sopa Tempero Italiano de Alho",
-        "1c.sopa Ervas Aromáticas Secas Mistas",
-        "90g Tomate Seco",
-        "90g Queijo Creme Light",
-        "50g Mistura de Cheddar e Mozzarella Ralados",
-        "Parmesão (para servir)",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente a cebola. Corte o frango em pedaços. Esmague o alho e pique finamente a salsa.",
-        "Aqueça a air fryer a 180°C, depois coloque o nhoque na air fryer com ½c.sopa de óleo do frasco do tomate seco. Cozinhe durante cerca de 15 minutos até ficar crocante.",
-        "Aqueça uma frigideira grande com mais ½c.sopa de óleo do tomate seco. Adicione a cebola com um pouco de sal, depois cozinhe por alguns minutos até amolecer. Adicione o frango e o alho e cozinhe até estar cozido — cerca de 10 minutos.",
-        "Adicione o tempero italiano, as ervas secas, o tomate seco e o queijo creme à frigideira juntamente com 3c.sopa de água. Misture durante alguns minutos.",
-        "Misture o nhoque crocante, o queijo ralado e uma pequena mão-cheia de salsa.",
-        "Tempere a gosto, depois divida pelas tigelas e cubra com mais salsa e parmesão."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Gnocchi"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Tempero Italiano de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Ervas Aromáticas Mistas Secas"
-        },
-        {
-          "amount": 90,
-          "unit": "g",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 90,
-          "unit": "g",
-          "item": "Queijo Fresco Light"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Mistura de Cheddar e Mozzarella Ralados"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

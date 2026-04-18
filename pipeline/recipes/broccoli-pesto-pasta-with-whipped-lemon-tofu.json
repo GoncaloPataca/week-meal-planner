@@ -20,69 +20,82 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "broccoli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "broccoli"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "pine-nuts",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pine Nuts"
     },
     {
+      "id": "fresh-basil",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "extra-firm-tofu",
       "amount": 140,
-      "unit": "g",
+      "unitId": "g",
       "item": "Extra-Firm Tofu"
     },
     {
+      "id": "olive-oil",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "white-miso",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "White Miso"
     },
     {
+      "id": "nutritional-yeast",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Nutritional Yeast"
     },
     {
+      "id": "garlic-powder",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "spaghetti",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spaghetti"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -116,102 +129,5 @@
   "calories": 590,
   "fat": 22,
   "carbs": 74,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Massa com Pesto de Brócolos e Tofu de Limão Batido",
-      "ingredients": [
-        "1 Brócolos",
-        "4 Dentes de Alho",
-        "30g Pinhões",
-        "20g Manjericão Fresco",
-        "140g Tofu Extra-Firme",
-        "1.5c.sopa Azeite",
-        "1c.chá Miso Branco",
-        "6c.sopa Levedura Nutricional",
-        "0.25c.chá Alho em Pó",
-        "200g Esparguete",
-        "1 Limão",
-        "Sal (para servir)",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Usando um processador de alimentos, uma faca ou um pilão, triture o manjericão e os pinhões com uma pitada de sal até estarem apenas pulverizados. Mantenha alguns pinhões em pedaços maiores.",
-        "Usando o lado maior de um ralador, rale os brócolos inteiros, talo e floretes, deixando apenas a ponta mais dura. Rale o alho no lado mais pequeno.",
-        "Cozinhe os brócolos e o alho numa frigideira grande com metade do azeite e uma pitada de sal, em lume médio-alto, durante cerca de 8 minutos até começarem a tostar.",
-        "Adicione o manjericão e os pinhões à frigideira e cozinhe por mais 2 a 3 minutos.",
-        "Entretanto, coza a massa de acordo com as instruções da embalagem. Escorra e reserve uma chávena de água de cozedura. Misture a massa suavemente com o pesto de brócolos na frigideira. Adicione um pouco de água de cozedura e bastante azeite.",
-        "Para fazer o tofu de limão batido, adicione o tofu, o sumo do limão, o restante azeite, o miso, a levedura nutricional, o alho em pó e água a um liquidificador. Bata até ficar suave e tempere com sal e pimenta. Pode precisar de mais água conforme a marca de tofu usada.",
-        "Para servir, distribua generosamente o tofu batido no fundo de um prato, depois coloque a massa por cima e termine com raspa de limão, bastante pimenta preta e um fio de azeite. Adicione algumas folhas de manjericão e um punhado de pinhões para terminar, se quiser."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Brócolos"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Pinhões"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 140,
-          "unit": "g",
-          "item": "Tofu Extra Firme"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Levedura Nutricional"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Esparguete"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "lemon-curd",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Lemon Curd"
     },
     {
+      "id": "ground-turmeric",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "ground-cardamom",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cardamom"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "poppy-seed",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Poppy Seed"
     },
     {
+      "id": "granola",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Granola"
     }
   ],
@@ -77,69 +85,5 @@
   "calories": 280,
   "fat": 8,
   "carbs": 42,
-  "protein": 10,
-  "i18n": {
-    "pt": {
-      "name": "Copinhos de Sol com Limão e Sementes de Papoila",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "150g de Lemon Curd",
-        "0,5 colher de chá de Açafrão-da-Índia em Pó",
-        "0,25 colher de chá de Canela em Pó",
-        "0,25 colher de chá de Cardamomo em Pó",
-        "350g de Iogurte Grego",
-        "0,5 Limão",
-        "3 colheres de sopa de Sementes de Papoila",
-        "120g de Granola"
-      ],
-      "steps": [
-        "Numa tigela pequena, misture o lemon curd, o açafrão-da-índia, a canela e o cardamomo.",
-        "Rale a casca do limão e, noutra tigela, misture a raspa de limão e as sementes de papoila no iogurte grego.",
-        "Com suavidade, incorpore o lemon curd especiado no iogurte em forma de remoinho, tendo cuidado para não misturar completamente — quer obter um efeito marmorizado.",
-        "Divida a mistura por frascos ou recipientes, tape e leve ao frigorífico até precisar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Creme de Limão"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Cardamomo em Pó"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Sementes de Papoila"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Granola"
-        }
-      ]
-    }
-  }
+  "protein": 10
 }

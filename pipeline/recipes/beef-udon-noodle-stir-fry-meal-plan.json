@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sirloin-steak",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sirloin Steak"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "sunflower-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sunflower Oil"
     },
     {
+      "id": "soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "stir-fry-vegetable-mix",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Stir-Fry Vegetable Mix"
     },
     {
+      "id": "udon-noodle",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Udon Noodle"
     },
     {
+      "id": "fresh-coriander",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fresh Coriander",
       "note": "to serve"
     }
@@ -111,95 +123,5 @@
   "calories": 665,
   "fat": 28,
   "carbs": 53,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Massa Udon com Bife em Saltado",
-      "ingredients": [
-        "300g Bife do Lombo",
-        "1 Malagueta Vermelha",
-        "2 Dentes de Alho",
-        "15g Gengibre Fresco",
-        "2 Cebolinhas",
-        "1c.sopa Óleo de Girassol",
-        "2c.sopa Molho de Soja",
-        "1c.chá Mel",
-        "1 Lima",
-        "300g Mistura de Legumes para Saltear",
-        "300g Massa Udon",
-        "Coentros Frescos (para servir)"
-      ],
-      "steps": [
-        "Corte o bife em fatias finas e tempere com um pouco de sal e bastante pimenta preta. Corte a malagueta em fatias finas e as cebolinhas em quatro pedaços cada. Descasque e corte o alho em fatias finas. Descasque o gengibre e corte em palitos.",
-        "Coloque um wok ou frigideira grande e funda em lume médio-alto com o óleo de girassol. Quando estiver quente, adicione o bife e cozinhe durante 1 a 2 minutos de cada lado até ficar ligeiramente dourado, depois empurre para um lado da frigideira.",
-        "Adicione as cebolinhas ao lado vazio da frigideira e salteie durante 1 minuto até ficarem aromáticas. Adicione a malagueta, o alho e o gengibre e misture durante 1 minuto.",
-        "Adicione os legumes para saltear e misture tudo. Cozinhe durante 2 minutos até os legumes começarem a amolecer.",
-        "Adicione a massa udon e misture novamente. Junte o molho de soja, o mel e o sumo de metade da lima. Salteie por mais 1 a 2 minutos até tudo estar bem quente.",
-        "Distribua por recipientes e cubra com coentros, se usar. Depois de arrefecer, embale e guarde no frigorífico — conservam-se até 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Bife de Lombo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Girassol"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Mistura de Legumes para Stir-Fry"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Noodles Udon"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Coentros Frescos"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

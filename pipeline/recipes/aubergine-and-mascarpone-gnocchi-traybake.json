@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "aubergine",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "aubergine"
     },
     {
+      "id": "rosemary",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rosemary"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "chilli-flakes",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "gnocchi",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Gnocchi"
     },
     {
+      "id": "mascarpone",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mascarpone"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "parmesan",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "water",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "fresh-basil",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -115,102 +128,5 @@
   "calories": 510,
   "fat": 26,
   "carbs": 52,
-  "protein": 12,
-  "i18n": {
-    "pt": {
-      "name": "Nhoque com Beringela e Mascarpone no Tabuleiro",
-      "ingredients": [
-        "1 Beringela",
-        "15g Alecrim",
-        "500g Tomate-Cereja",
-        "0.5c.chá Flocos de Malagueta",
-        "500g Nhoque",
-        "100g Mascarpone",
-        "1 Limão",
-        "50g Parmesão",
-        "150ml Água",
-        "5g Manjericão Fresco",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C.",
-        "Corte a beringela em pedaços de 3cm. Pique finamente o alecrim.",
-        "Coloque as beringelas num tabuleiro de forno grande com os tomates-cereja e o nhoque. Adicione um bom fio de azeite, o alecrim picado, os flocos de malagueta e sal, e misture bem.",
-        "Asse no forno durante 45 minutos, mexendo de vez em quando para que tudo cozinhe de forma uniforme. O nhoque deve ficar crocante e as beringelas muito macias.",
-        "Adicione o mascarpone, a raspa e o sumo de limão e o parmesão a uma tigela. Misture tudo muito bem, acrescentando a água para tornar o molho mais líquido.",
-        "Retire o tabuleiro do forno. Retire os ramos dos tomates e verta a mistura de mascarpone. Misture para combinar.",
-        "Polvilhe com manjericão, um pouco mais de parmesão e flocos de malagueta e sirva."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Beringela"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Alecrim"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Gnocchi"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Mascarpone"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 12
 }

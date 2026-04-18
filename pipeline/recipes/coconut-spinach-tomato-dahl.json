@@ -26,99 +26,118 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "red-lentil",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Red Lentil"
     },
     {
+      "id": "vegetable-stock",
       "amount": 1,
-      "unit": "l",
+      "unitId": "l",
       "item": "Vegetable Stock"
     },
     {
+      "id": "coconut-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "ground-turmeric",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "fresh-ginger",
       "amount": 1,
-      "unit": "knob",
+      "unitId": "knob",
       "item": "Fresh Ginger"
     },
     {
+      "id": "salted-roasted-peanut",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salted Roasted Peanut"
     },
     {
+      "id": "caster-sugar",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Caster Sugar"
     },
     {
+      "id": "chilli-flakes",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "spinach",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg",
       "optional": true
     },
     {
+      "id": "fresh-coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "vegetable-oil",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegetable Oil"
     }
   ],
@@ -150,137 +169,5 @@
   "calories": 520,
   "fat": 26,
   "carbs": 46,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Dal de Coco, Espinafres e Tomate",
-      "ingredients": [
-        "300g Lentilhas Vermelhas",
-        "1L Caldo de Legumes",
-        "400ml Leite de Coco",
-        "1c.chá Curcuma em Pó",
-        "1c.chá Cominhos em Pó",
-        "1 Noz de Gengibre Fresco",
-        "50g Amendoins Torrados Salgados",
-        "0.5c.chá Açúcar Refinado",
-        "2c.chá Flocos de Malagueta",
-        "1 Cebola Roxa",
-        "3 Dentes de Alho",
-        "250g Tomates-Cereja",
-        "200g Espinafres",
-        "1 Lima",
-        "4 Ovos (opcional)",
-        "10g Coentros Frescos",
-        "Sal",
-        "Pimenta Preta",
-        "4c.sopa Óleo Vegetal"
-      ],
-      "steps": [
-        "Adicione as lentilhas a uma panela grande juntamente com o caldo de legumes, o leite de coco e as especiarias em pó. Tempere generosamente, leve a ferver e cozinhe em lume brando durante 10 minutos.",
-        "A seguir, descasque e pique finamente o gengibre e pique grosseiramente os amendoins. Coloque numa tigela juntamente com os flocos de malagueta e o açúcar. Corte finamente a cebola e os dentes de alho — reserve separadamente.",
-        "Volte ao dal — adicione os tomates. Cozinhe por mais 15 minutos, mexendo regularmente, até o dal ter engrossado e as lentilhas estarem macias.",
-        "Entretanto, coloque uma frigideira em lume médio. Adicione metade do óleo vegetal até brilhar, depois adicione a cebola em fatias. Cozinhe durante cerca de 8 minutos, mexendo até ficar crocante, depois retire com uma escumadeira para a tigela com o gengibre, os amendoins, a malagueta e o açúcar. Adicione o alho fatiado ao óleo quente. Cozinhe até o alho começar a dourar, depois retire a frigideira do lume. Verta o alho com o óleo para a tigela com os outros ingredientes. Misture tudo bem.",
-        "Na mesma frigideira, aqueça o resto do óleo em lume médio e parta os ovos. Baste os ovos com o óleo quente usando uma colher até estarem cozidos a gosto, depois retire com uma escumadeira.",
-        "Misture os espinafres no dal e esprema o sumo de lima. Quando os espinafres tiverem murchado, prove e tempere com sal se necessário, depois divida pelas tigelas. Cubra cada um com um ovo, depois regue com o óleo de malagueta crocante. Rasgue coentros por cima para servir."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Lentilha Vermelha"
-        },
-        {
-          "amount": 1,
-          "unit": "l",
-          "item": "Caldo de Legumes"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "noz",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Amendoim Torrado e Salgado"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Açúcar Fino"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Óleo Vegetal"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

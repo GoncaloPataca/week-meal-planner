@@ -19,64 +19,76 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "butter",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "slice-bread",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Bread"
     },
     {
+      "id": "dill",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dill"
     },
     {
+      "id": "feta",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "dried-oregano",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper",
       "note": "to serve"
     }
@@ -104,93 +116,5 @@
   "calories": 520,
   "fat": 36,
   "carbs": 20,
-  "protein": 25,
-  "i18n": {
-    "pt": {
-      "name": "Strapatsada",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "6 Ovos",
-        "200g Tomates Cherry",
-        "2 Dentes de Alho",
-        "1c.s. Concentrado de Tomate",
-        "20g Manteiga",
-        "2 Fatias de Pão",
-        "10g Endro",
-        "50g Feta",
-        "2c.c. Orégãos Secos",
-        "1c.s. Azeite",
-        "Sal (para servir)",
-        "Pimenta Preta (para servir)"
-      ],
-      "steps": [
-        "Ligue o grelhador ao máximo. Corte os tomates ao meio e coloque num tabuleiro, regue com azeite, polvilhe com orégãos e tempere com sal e pimenta. Grelhe os tomates 10 min até ficarem carbonizados e suculentos.",
-        "Parta os ovos para uma tigela e bata bem. Fatie finamente o alho.",
-        "Adicione a manteiga a uma frigideira em lume médio; quando derretida, adicione o alho e cozinhe alguns minutos até perfumar. Adicione o concentrado de tomate e cozinhe mais um minuto, depois reduza para lume baixo. Verta os ovos e cozinhe suavemente mexendo para obter uma textura de ovos mexidos cremosos. Retire do lume e incorpore os tomates antes de temperar com sal e pimenta.",
-        "Toste o pão, cubra com os ovos, o feta, o endro e mais um toque de pimenta preta."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Endro"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 25
 }

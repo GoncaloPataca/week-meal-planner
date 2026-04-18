@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "instant-noodles",
       "amount": 480,
-      "unit": "g",
+      "unitId": "g",
       "item": "Instant Noodles"
     },
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "shiitake-mushroom",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Shiitake Mushroom"
     },
     {
+      "id": "miso-paste",
       "amount": 4,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Miso Paste"
     },
     {
+      "id": "soy-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "sesame-oil",
       "amount": 4,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "edamame",
       "amount": 140,
-      "unit": "g",
+      "unitId": "g",
       "item": "Edamame"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "chilli-flakes",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "silken-tofu",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Silken Tofu"
     }
   ],
@@ -94,80 +104,5 @@
   "calories": 480,
   "fat": 14,
   "carbs": 66,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Ramen Instantâneo de Cogumelos e Miso",
-      "mealType": "almoço",
-      "ingredients": [
-        "480g de Noodles Instantâneos",
-        "1 Cenoura",
-        "200g de Cogumelos Shiitake",
-        "4 colheres de chá de Pasta de Miso",
-        "3 colheres de sopa de Molho de Soja",
-        "4 colheres de chá de Óleo de Sésamo",
-        "140g de Edamame",
-        "2 Ceboletes",
-        "2 colheres de chá de Flocos de Malagueta",
-        "300g de Tofu Sedoso"
-      ],
-      "steps": [
-        "Use um descascador para cortar a cenoura em fitas finas. Corte finamente os cogumelos shiitake e as ceboletes. Corte o tofu em cubos de tamanho uniforme.",
-        "Adicione um quarto do miso, do molho de soja, do óleo de sésamo e dos flocos de malagueta em cada recipiente e mexa para combinar. Disponha o resto dos ingredientes nos recipientes. Pode partir os noodles se necessário.",
-        "Quando estiver pronto para comer, adicione 470ml de água a ferver a cada recipiente e reserve 5 minutos para cozinhar os noodles e amolecer os legumes."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 480,
-          "unit": "g",
-          "item": "Noodles Instantâneos"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Cogumelos Shiitake"
-        },
-        {
-          "amount": 4,
-          "unit": "c. chá",
-          "item": "Pasta de Miso"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 4,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 140,
-          "unit": "g",
-          "item": "Edamame"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Tofu Sedoso"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

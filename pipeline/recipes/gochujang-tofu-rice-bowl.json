@@ -28,109 +28,130 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "radish",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Radish"
     },
     {
+      "id": "sugar",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sugar"
     },
     {
+      "id": "apple-cider-vinegar",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Apple Cider Vinegar"
     },
     {
+      "id": "water",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "firm-tofu",
       "amount": 560,
-      "unit": "g",
+      "unitId": "g",
       "item": "Firm Tofu"
     },
     {
+      "id": "cornflour",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cornflour"
     },
     {
+      "id": "garlic-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "tomato-ketchup",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Ketchup"
     },
     {
+      "id": "maple-syrup",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "rice-wine-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Wine Vinegar"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "water",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "sushi-rice",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sushi Rice"
     },
     {
+      "id": "spring-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "sesame-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sesame Seeds",
       "note": "to serve"
     },
     {
+      "id": "vegetable-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Vegetable Oil"
     }
   ],
@@ -166,153 +187,5 @@
   "calories": 520,
   "fat": 14,
   "carbs": 74,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Arroz com Tofu Gochujang",
-      "mealType": "almoço",
-      "ingredients": [
-        "1 Cenoura",
-        "0,5 Pepino",
-        "30g de Rabanetes",
-        "50g de Açúcar",
-        "150ml de Vinagre de Sidra de Maçã",
-        "150ml de Água",
-        "560g de Tofu Firme",
-        "80g de Amido de Milho",
-        "1 colher de chá de Alho em Pó",
-        "2 Dentes de Alho",
-        "2 colheres de sopa de Gochujang",
-        "2 colheres de sopa de Molho de Soja",
-        "3 colheres de sopa de Ketchup",
-        "2 colheres de sopa de Xarope de Ácer",
-        "1 colher de sopa de Vinagre de Vinho de Arroz",
-        "1 colher de chá de Óleo de Sésamo",
-        "3 colheres de sopa de Água",
-        "400g de Arroz para Sushi",
-        "1 Cebolinha Verde",
-        "Sementes de Sésamo (para servir)",
-        "Óleo Vegetal"
-      ],
-      "steps": [
-        "Pique finamente o alho e fatie a cebolinha verde. Reserve em tigelas separadas.",
-        "Descasque a cenoura e corte em tiras compridas. Corte o pepino ao meio, retire as sementes e corte em tiras compridas como a cenoura. Corte o topo dos rabanetes e fatie finamente. Coloque os legumes preparados num frasco de vidro ou tigela funda.",
-        "Coloque uma panela em lume médio e adicione o açúcar, a água e o vinagre de sidra de maçã. Leve a fervilhar e retire do lume. Deixe arrefecer e verta sobre os legumes.",
-        "Coza o arroz para sushi conforme as instruções da embalagem.",
-        "Corte o tofu em pedaços pequenos e seque com papel de cozinha para absorver a água.",
-        "Coloque o tofu com o amido de milho e o alho em pó num saco de plástico ou recipiente fechado e agite bem.",
-        "Coloque uma frigideira larga e rasa em lume médio, verta bastante óleo — o suficiente para ter cerca de 1,5 cm de altura.",
-        "Quando o óleo estiver pronto, agite o tofu para retirar o excesso de amido e frite até ficar crocante. Coloque o tofu frito num prato forrado com papel de cozinha.",
-        "Entretanto, misture o gochujang, o molho de soja, o ketchup, o xarope de ácer, o vinagre de vinho de arroz, o óleo de sésamo e a água com o alho picado numa tigela pequena. Verta esta mistura numa frigideira e leve a fervilhar. Retire do lume e adicione o tofu frito, envolvendo bem.",
-        "Sirva o tofu com o arroz cozido, os legumes em pickle e decore com cebolinha verde e sementes de sésamo torradas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Rabanete"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Vinagre de Cidra de Maçã"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 560,
-          "unit": "g",
-          "item": "Tofu Firme"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Farinha Maizena"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Ketchup de Tomate"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Arroz de Sushi"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo Vegetal"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

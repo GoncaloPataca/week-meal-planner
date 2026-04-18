@@ -25,93 +25,111 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "lamb-mince",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Lamb Mince"
     },
     {
+      "id": "harissa-paste",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "chilli-flakes",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "birds-eye-green-chilli",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "birds Eye Green Chilli"
     },
     {
+      "id": "red-onion",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "sumac",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sumac"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "hummus",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Hummus"
     },
     {
+      "id": "flatbread",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "flatbread"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "fresh-dill",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "sesame-seeds",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -142,131 +160,5 @@
   "calories": 790,
   "fat": 44,
   "carbs": 50,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Borrego Crocante com Harissa e Hummus",
-      "ingredients": [
-        "1 Limão",
-        "300g Borrego Picado",
-        "1c.sopa Pasta de Harissa",
-        "1c.chá Cominhos em Pó",
-        "0.5c.chá Flocos de Malagueta",
-        "2 Malaguetas Verdes Olho de Pássaro",
-        "0.5 Cebola Roxa",
-        "1c.sopa Sumagre",
-        "100g Tomates-Cereja",
-        "0.5 Pepino",
-        "250g Hummus",
-        "2 Pão Achatado",
-        "25g Salsa Fresca de Folha Lisa",
-        "25g Aneto Fresco",
-        "1c.sopa Sementes de Sésamo",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Rale finamente a raspa do limão, depois esprema metade do limão, guardando o resto para servir.",
-        "Aqueça uma frigideira grande em lume médio-alto com um fio de azeite. Adicione o borrego picado e frite, desfazendo com uma colher, durante cerca de 10 minutos até estar bem dourado e crocante. Misture a pasta de harissa, os cominhos e os flocos de malagueta, se usar. Corte as malaguetas verdes em rodelas finas e coloque metade na frigideira. Deixe cozinhar durante 2 minutos até estar brilhante e aromático, depois tempere a gosto.",
-        "Corte finamente a cebola roxa e misture-a numa tigela com o sumo de metade do limão, o sumagre e uma pitada de sal. Reserve para amolecer e fazer uma conserva rápida.",
-        "Corte os tomates e o pepino em pedaços pequenos. Misture-os com um fio de azeite, uma pitada de sumagre, a raspa de limão e um pouco de salsa picada.",
-        "Espalhe o hummus sobre o fundo de duas taças rasas. Torre o pão achatado na gordura do borrego que ficou na frigideira até ficar dourado e crocante nas bordas.",
-        "Coloque o borrego picante sobre o hummus. Adicione a cebola em conserva e a salada de tomate e pepino. Termine com a salsa picada restante, o aneto picado, as sementes de sésamo e a malagueta verde restante. Sirva com os pães crocantes para mergulhar e os gomos de limão restantes."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Borrego Picado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Malagueta Verde Bird's Eye"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sumagre"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Hummus"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pão Pita"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

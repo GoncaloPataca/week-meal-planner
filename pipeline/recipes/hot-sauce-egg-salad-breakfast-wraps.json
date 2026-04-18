@@ -14,38 +14,45 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 10,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "fresh-chive",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "cottage-cheese",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "hot-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Hot Sauce"
     },
     {
+      "id": "slice-soft-white-bread",
       "amount": 10,
-      "unit": null,
+      "unitId": null,
       "item": "slice Soft White Bread"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -72,62 +79,5 @@
   "calories": 450,
   "fat": 18,
   "carbs": 44,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Sanduíches de Salada de Ovo com Molho Picante",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "10 Ovos",
-        "10g de Cebolinho Fresco",
-        "125g de Queijo Cottage",
-        "Molho Picante",
-        "10 Fatias de Pão de Forma Branco Macio",
-        "Azeite",
-        "Sal"
-      ],
-      "steps": [
-        "Leve uma panela de água a ferver. Coloque cuidadosamente os ovos, reduza para lume brando e cozinhe 6 minutos. Transfira para uma tigela com água gelada e deixe arrefecer completamente antes de descascar.",
-        "Entretanto, fatie finamente o cebolinho. Misture o queijo cottage e as ervas numa tigela com um fio de azeite. Adicione os ovos descascados e esmague numa mistura cremosa e com pedaços. Prove e tempere com molho picante e sal a gosto. Guarde e leve ao frigorífico até usar.",
-        "Coloque a salada de ovo numa fatia de pão e junte outra fatia para fazer uma sandes fofa e picante."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 10,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Picante"
-        },
-        {
-          "amount": 10,
-          "unit": null,
-          "item": "Fatia de Pão Branco Macio"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

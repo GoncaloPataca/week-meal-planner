@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "smoked-streaky-bacon",
       "amount": 180,
-      "unit": "g",
+      "unitId": "g",
       "item": "Smoked Streaky Bacon"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "sweet-gem-lettuce",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "sweet Gem Lettuce"
     },
     {
+      "id": "cooked-quinoa",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Quinoa"
     },
     {
+      "id": "wholegrain-mustard",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Wholegrain Mustard"
     },
     {
+      "id": "lemon",
       "amount": 1.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "olive-oil",
       "amount": 5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     }
@@ -99,84 +109,5 @@
   "calories": 530,
   "fat": 32,
   "carbs": 21,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Salada Picada de Frango e Bacon",
-      "ingredients": [
-        "2 Peitos de Frango",
-        "180g Bacon Fumado em Fatias Finas",
-        "200g Brócolos Tenros",
-        "2 Alfaces Gem",
-        "200g Quinoa Cozida",
-        "1c.chá Mostarda de Grão Inteiro",
-        "1.5 Limão",
-        "5c.sopa Azeite",
-        "2c.sopa Mel",
-        "Sal (para servir)"
-      ],
-      "steps": [
-        "Coza os brócolos tenros num tacho com água salgada a ferver durante 3-4 minutos até estarem quase cozidos. Retire e deixe arrefecer.",
-        "Pré-aqueça o forno a 180°C. Tempere os peitos de frango generosamente com sal e pimenta. Coloque-os num tabuleiro e leve ao forno durante 25 minutos. Deixe arrefecer depois de cozidos — a salada não precisa de estar quente. Adicione o bacon nos últimos 10 minutos até ficar crocante.",
-        "Aqueça a quinoa de acordo com as instruções da embalagem.",
-        "Adicione a alface, os brócolos, o frango e o bacon a uma tábua e pique tudo.",
-        "Adicione tudo a uma tigela com a quinoa.",
-        "Prepare o molho com o azeite, o sumo de limão, a mostarda e o mel. Misture tudo até emulsionar e envolva a salada.",
-        "Misture bem e sirva nos pratos."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 180,
-          "unit": "g",
-          "item": "Bacon Fumado"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Alface Sweet Gem"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Quinoa Cozida"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mostarda de Grão Inteiro"
-        },
-        {
-          "amount": 1.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 5,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

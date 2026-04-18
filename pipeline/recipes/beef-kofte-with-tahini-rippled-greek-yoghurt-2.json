@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "dried-fruit-nut-mix",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dried Fruit & Nut Mix"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "5-fat-beef-mince",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Beef Mince"
     },
     {
+      "id": "zaatar",
       "amount": 1.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Za’atar"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "radish",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Radish"
     },
     {
+      "id": "red-wine-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Red Wine Vinegar"
     },
     {
+      "id": "flatbread",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "flatbread"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "tahini",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -113,100 +126,5 @@
   "calories": 755,
   "fat": 28,
   "carbs": 60,
-  "protein": 51,
-  "i18n": {
-    "pt": {
-      "name": "Kofta de Novilho com Iogurte Grego e Tahini",
-      "ingredients": [
-        "60g Mistura de Frutos Secos",
-        "15g Salsa de Folha Plana Fresca",
-        "300g Carne de Novilho Picada 5% Gordura",
-        "1.5c.chá Za'atar",
-        "1 Cebola Roxa",
-        "0.5 Pepino",
-        "75g Rabanetes",
-        "1c.sopa Vinagre de Vinho Tinto",
-        "2 Pão Plano",
-        "200g Iogurte Grego",
-        "1c.sopa Tahini",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Ligue o grelhador no máximo. Adicione a mistura de frutos secos a um processador de alimentos e triture até picar finamente. Reserve uma pequena colher para usar como guarnição mais tarde.",
-        "Retire as folhas de salsa e adicione quase todas ao processador de alimentos. Triture para picar finamente. Adicione a carne picada, o za'atar, uma boa pitada de sal e pimenta preta, depois triture apenas para combinar.",
-        "Use as mãos para misturar tudo e molde em troncos de cerca de 11cm de comprimento. Transfira para um tabuleiro forrado com papel de alumínio e grelhe durante 6 a 8 minutos, virando a meio, até dourarem e estarem bem cozinhados.",
-        "Entretanto, corte finamente a cebola roxa e coloque numa tigela com o vinagre de vinho tinto e uma boa pitada de sal. Amasse com as mãos e deixe em conserva durante 5 minutos. Corte o pepino e os rabanetes em cubinhos. Misture e tempere a gosto.",
-        "Aqueça os pães planos numa frigideira seca. Espalhe o iogurte grego sobre os pães quentes, depois regue com o tahini. Coloque por cima a salada e os kofta. Espalhe a salsa e a mistura de frutos secos reservadas para terminar."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Mistura de Frutos Secos e Fruta Seca"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Carne Picada de Vaca 5% de Gordura"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. chá",
-          "item": "Za'atar"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Rabanete"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho Tinto"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pão Pita"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 51
 }

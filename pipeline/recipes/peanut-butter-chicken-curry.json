@@ -32,131 +32,156 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "yoghurt",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Yoghurt"
     },
     {
+      "id": "ground-turmeric",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "chilli-powder",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "garam-masala",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garam Masala"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "ginger-paste",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ginger Paste"
     },
     {
+      "id": "garlic-paste",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Paste"
     },
     {
+      "id": "unsalted-butter",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Unsalted Butter"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "fresh-coriander",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "vegetable-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegetable Oil"
     },
     {
+      "id": "ginger-paste",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ginger Paste"
     },
     {
+      "id": "garlic-paste",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Paste"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "ground-coriander",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "garam-masala",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garam Masala"
     },
     {
+      "id": "kasoori-methi",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Kasoori Methi"
     },
     {
+      "id": "kashmiri-chilli-powder",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Kashmiri Chilli Powder"
     },
     {
+      "id": "peanut-butter",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Peanut Butter"
     },
     {
+      "id": "double-cream",
       "amount": 200,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Double Cream",
       "note": "to serve"
     },
     {
+      "id": "butter",
       "amount": 1,
-      "unit": "knob",
+      "unitId": "knob",
       "item": "Butter",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Boneless Skinless Chicken Thigh"
     }
   ],
@@ -182,174 +207,5 @@
   "calories": 680,
   "fat": 46,
   "carbs": 18,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Caril de Frango com Manteiga de Amendoim",
-      "mealType": "jantar",
-      "ingredients": [
-        "100g de Iogurte",
-        "1 colher de chá de Açafrão-da-Índia em Pó",
-        "2 colheres de chá de Pimentão em Pó",
-        "0,5 colher de chá de Garam Masala",
-        "1 Lima",
-        "0,5 colher de chá de Pasta de Gengibre",
-        "0,5 colher de chá de Pasta de Alho",
-        "1 colher de sopa de Manteiga sem Sal",
-        "1 colher de chá de Sal",
-        "1 Cebola",
-        "25g de Coentros Frescos",
-        "2 colheres de sopa de Óleo Vegetal",
-        "1 colher de chá de Pasta de Gengibre",
-        "1 colher de chá de Pasta de Alho",
-        "1 Lata de 400g de Tomate Picado",
-        "1 colher de sopa de Concentrado de Tomate",
-        "1 colher de chá de Coentros em Pó",
-        "1 colher de chá de Garam Masala",
-        "1 colher de chá de Kasoori Methi",
-        "1 colher de sopa de Pimentão Caxemira em Pó",
-        "2 colheres de sopa de Manteiga de Amendoim",
-        "200ml de Natas Duplas (para servir)",
-        "1 Noz de Manteiga (para servir)",
-        "Sal (para servir)",
-        "500g de Coxas de Frango sem Osso e sem Pele"
-      ],
-      "steps": [
-        "Corte o frango em pedaços. Esprima a lima e adicione a uma tigela grande com todos os restantes ingredientes da marinada, misturando para combinar. Adicione os pedaços de frango e envolva, garantindo que ficam bem cobertos. Tape e leve ao frigorífico 1 a 2 horas, ou durante a noite para melhores resultados.",
-        "Depois de marinado, grelhe ou asse na fritadeira de ar na temperatura máxima durante 10 a 15 minutos até ficar carbonizado em alguns pontos. Não se preocupe se o frango não estiver completamente cozido — irá fervilhar no caril depois. Reserve.",
-        "Entretanto, pique finamente a cebola e os coentros. Reserve.",
-        "Aqueça o óleo numa frigideira grande em lume médio e adicione a cebola picada. Cozinhe 5 a 6 minutos até começarem a alourar ligeiramente. Adicione as pastas de gengibre e alho e cozinhe 2 a 3 minutos até ficarem aromáticas. Misture os tomates picados e o concentrado de tomate, depois cozinhe até a mistura engrossar e o óleo começar a separar-se do molho.",
-        "Adicione os coentros em pó, o garam masala, o kasoori methi, o pimentão em pó e 1 colher de chá de sal à mistura de tomate. Cozinhe 2 minutos. Reduza o lume e misture a manteiga de amendoim até estar completamente incorporada. Verta as natas, misturando bem para criar um molho liso e cremoso. Deixe o caril fervilhar 10 minutos, adicionando um pouco de água se ficar muito espesso.",
-        "Volte a colocar o frango cozido na frigideira, mexendo para o cobrir no molho. Deixe fervilhar 6 a 8 minutos para garantir que o frango está bem aquecido.",
-        "Cubra com coentros picados e um fio de natas ou manteiga derretida antes de servir."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Iogurte"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Garam Masala"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Pasta de Gengibre"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Pasta de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pasta de Gengibre"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pasta de Alho"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Garam Masala"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Kasoori Methi"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pimentão Kashmiri"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": 200,
-          "unit": "ml",
-          "item": "Natas"
-        },
-        {
-          "amount": 1,
-          "unit": "noz",
-          "item": "Manteiga"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

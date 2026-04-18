@@ -20,69 +20,82 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "unsalted-butter",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Unsalted Butter"
     },
     {
+      "id": "mature-cheddar-cheese",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mature Cheddar Cheese"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "milk",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Milk"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "worcestershire-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Worcestershire Sauce"
     },
     {
+      "id": "plain-flour",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plain Flour"
     },
     {
+      "id": "baking-powder",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Baking Powder"
     },
     {
+      "id": "salted-butter",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salted Butter"
     },
     {
+      "id": "leaf-sage",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "leaf Sage"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "slice-ham",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "slice Ham",
       "note": "to serve"
     },
     {
+      "id": "worcestershire-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Worcestershire Sauce",
       "note": "to serve"
     }
@@ -115,105 +128,5 @@
   "calories": 610,
   "fat": 38,
   "carbs": 40,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Scones Rarebit com Ovo Estrelado e Fiambre",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "75g de Manteiga sem Sal",
-        "200g de Queijo Cheddar Curado",
-        "1 Ovo",
-        "100ml de Leite",
-        "0,5 Limão",
-        "2 colheres de sopa de Molho Worcestershire",
-        "240g de Farinha sem Fermento",
-        "2 colheres de chá de Fermento em Pó",
-        "50g de Manteiga com Sal",
-        "12 Folhas de Salva",
-        "4 Ovos",
-        "4 Fatias de Fiambre (para servir)",
-        "Molho Worcestershire (para servir)"
-      ],
-      "steps": [
-        "Corte a manteiga em cubos. Certifique-se de que está bem fria (por vezes coloco-a no congelador 10 minutos enquanto mecho nos restantes ingredientes). Rale o Cheddar. Bata o ovo.",
-        "Numa jarra, misture o leite, o sumo de limão e o molho Worcestershire e reserve para engrossar (é uma versão rápida de leitelho).",
-        "Numa tigela, misture a farinha, o fermento e uma pitada de sal. Junte os cubos de manteiga fria e trabalhe com as pontas dos dedos até obter uma mistura semelhante a pão ralado grosseiro, mas com alguns pedaços irregulares (criam as camadas). Adicione metade do Cheddar ralado.",
-        "Verta aos poucos o leitelho espessado e o ovo batido, mexendo com uma colher de metal até estarem apenas incorporados. Amasse suavemente até obter uma massa sem partes secas (evite trabalhar demasiado).",
-        "Coloque a massa numa superfície levemente enfarinhada e achate até obter um retângulo com cerca de 3 cm de espessura.",
-        "Leve a massa ao frigorífico enquanto pré-aquece o forno a 220°C.",
-        "Retire os scones do frigorífico e corte em 4 peças grossas. Pincele os topos com um pouco de leite extra. Coloque um pouco do restante Cheddar ralado em cima de cada scone.",
-        "Leve ao forno 12 a 15 minutos, até crescerem e ficarem dourados. Deixe arrefecer enquanto prepara os ovos (ou coma-os quentes com bastante manteiga e Marmite).",
-        "Aqueça uma frigideira em lume médio-alto. Quando quente, adicione um fio de azeite e a manteiga. Junte as folhas de salva e parta os ovos (se fizer em maior quantidade, faça em lotes). Deixe cozinhar até as bordas ficarem crocantes e tempere com sal e pimenta.",
-        "Coloque os scones nos pratos, abra-os e cubra com os ovos estrelados e a salva. Sirva com uma fatia de fiambre e um pouco de molho Worcestershire, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Queijo Cheddar Curado"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Leite"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho Worcestershire"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Farinha Simples"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Manteiga com Sal"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Folha de Salva"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Fatia de Fiambre"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Worcestershire"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

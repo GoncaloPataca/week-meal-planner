@@ -25,93 +25,111 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "banana-shallot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "banana Shallot"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "lime-juice",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Lime Juice"
     },
     {
+      "id": "fish-sauce",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "sausage",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "sausage"
     },
     {
+      "id": "thai-red-curry-paste",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Thai Red Curry Paste"
     },
     {
+      "id": "fish-sauce",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "cornflour",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cornflour"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "fish-sauce",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "brioche-bun",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "brioche Bun"
     },
     {
+      "id": "kewpie-mayonnaise",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Kewpie Mayonnaise"
     },
     {
+      "id": "fresh-coriander",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     }
   ],
@@ -139,133 +157,5 @@
   "calories": 810,
   "fat": 48,
   "carbs": 47,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Sandes de Pequeno-Almoço com Salsicha Tailandesa",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1 Chalota",
-        "1 Dente de Alho",
-        "1 Malagueta Vermelha",
-        "1 c. sopa de Sumo de Lima",
-        "1 c. chá de Molho de Peixe",
-        "1 c. chá de Açúcar",
-        "4 Salsichas",
-        "1,5 c. sopa de Pasta de Caril Vermelho Tailandês",
-        "1 c. chá de Molho de Peixe",
-        "15g Coentros Frescos",
-        "1 c. chá de Açúcar",
-        "Azeite",
-        "1 c. chá de Farinha Maizena",
-        "4 Ovos",
-        "2 c. chá de Molho de Peixe",
-        "2 Pãezinhos Brioche",
-        "Maionese Kewpie",
-        "25g Coentros Frescos"
-      ],
-      "steps": [
-        "Para a pickle rápida, corta a chalota em anéis finos (usa o polegar para revelar os anéis) e coloca-os numa tigela pequena. Descasca e corta o alho em fatias finas, depois corta a malagueta em fatias e destaca as folhas dos coentros reservando-as para mais tarde, depois pica os talos.",
-        "Coloca um terço dos talos de coentros numa tigela (reserva o resto para o hambúrguer), adiciona todos os restantes ingredientes da pickle e reserva.",
-        "Esprème a carne das salsichas para uma tigela média e adiciona todos os restantes ingredientes do hambúrguer. Mistura bem com as mãos limpas ou um garfo. Divide em duas bolas e deixa no frigorífico.",
-        "Para a omelete tailandesa, mistura a maizena com um pouco de água fria numa tigela pequena (numa proporção de 2:1 água para maizena). Adiciona os ovos e o molho de peixe e bate para combinar. Leva uma frigideira de tamanho médio a lume alto e adiciona um fio de óleo. Quando o óleo estiver quente, adiciona a mistura de ovos, deixando-a alguns segundos para inchar. Depois retira a frigideira do lume e arrasta a mistura de ovos das bordas para o centro para criar pregas onduladas enquanto inclines a frigideira para preencher os espaços com ovo cru. Quando o ovo estiver maioritariamente cozinhado e parecer sedoso, desliga o lume e dobra-o grosseiramente em 2 pedaços aproximadamente do tamanho do pão. Reserva os ovos num prato.",
-        "Cozinha os hambúrgueres de salsicha tailandesa na mesma frigideira, adiciona um fio de óleo e coloca em lume baixo. Achata os hambúrgueres em círculos com cerca de 3 cm de espessura (não mais largos que o pão, embora encolham ligeiramente). Adiciona os hambúrgueres à frigideira, coloca a tampa e cozinha durante 5 minutos — este é o segredo para hambúrgueres suculentos. Remove a tampa e não te assustes com a falta de cor nos hambúrgueres, vira-os, aumenta o lume para médio e cozinha durante 2-3 minutos sem tampa ou até ficarem bem caramelizados.",
-        "Retira os hambúrgueres para um prato para apanhar os sucos. Coloca a frigideira de volta em lume médio e adiciona os pães com o lado da maionese virado para baixo. Pressiona uniformemente com as mãos e tosta até ficarem ligeiramente dourados. Gira os pães pela frigideira para absorver todos os sucos deliciosos.",
-        "Para montar, espalha metade da maionese kewpie na parte de baixo do pão, depois coloca um punhado de folhas de coentros, um hambúrguer de salsicha, o ovo, uma colher de pickle e depois o resto da maionese kewpie no lado tostado da parte de cima do pão.",
-        "Serve cortado ao meio, com mais pickle ao lado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sumo de Lima"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Salsicha"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Pasta de Caril Vermelho Tailandês"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Farinha Maizena"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pãozinho Brioche"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Maionese Kewpie"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

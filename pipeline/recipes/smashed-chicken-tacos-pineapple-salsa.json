@@ -26,101 +26,120 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "white-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "white Onion"
     },
     {
+      "id": "chicken-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Mince"
     },
     {
+      "id": "grated-mozzarella",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Grated Mozzarella"
     },
     {
+      "id": "ground-cumin",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "garlic-powder",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "flour-tortilla",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "jalape-o",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "jalape ño"
     },
     {
+      "id": "fresh-coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "pineapple",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "pineapple"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion",
       "note": "to serve"
     },
     {
+      "id": "hot-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Hot Sauce"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "cabbage",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cabbage"
     },
     {
+      "id": "avocado",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "avocado"
     },
     {
+      "id": "feta",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta",
       "note": "to serve"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime",
       "note": "to serve"
     },
     {
+      "id": "sour-cream",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sour Cream",
       "note": "to serve"
     }
@@ -156,136 +175,5 @@
   "calories": 560,
   "fat": 26,
   "carbs": 36,
-  "protein": 42,
-  "i18n": {
-    "pt": {
-      "name": "Tacos de Frango Esmagado com Salsa de Ananás",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Cebola Branca",
-        "500g Carne Picada de Frango",
-        "80g Mozzarella Ralada",
-        "2c.c. Cominhos em Pó",
-        "1c.s. Alho em Pó",
-        "1c.s. Orégãos Secos",
-        "4 Tortilhas de Trigo",
-        "Azeite",
-        "2 Jalapeños",
-        "10g Coentros Frescos",
-        "0,5 Ananás",
-        "1 Cebola Roxa (para servir)",
-        "2c.s. Molho Picante",
-        "1 Lima",
-        "0,5 Couve",
-        "1 Abacate",
-        "40g Feta (para servir)",
-        "1 Lima (para servir)",
-        "2c.s. Natas Azedas (para servir)"
-      ],
-      "steps": [
-        "Rale a cebola para uma tigela grande. Adicione a carne picada de frango, a mozzarella ralada e as especiarias. Tempere com sal e pimenta e misture bem.",
-        "Estenda as tortilhas e distribua a mistura de frango entre elas. Use um garfo para espalhar o frango pela tortilha, chegando até às bordas. Se preparar com antecedência, empilhe as tortilhas entre folhas de papel vegetal e guarde no frigorífico até 3 dias ou no congelador (embrulhadas em papel de alumínio) até 3 meses.",
-        "Para a salsa, pique o jalapeño, o ananás e a cebola roxa e pique os coentros. Misture e tempere com sumo de lima, molho picante e sal a gosto. Se preparar com antecedência, guarde no frigorífico até 3 dias.",
-        "Quando quiser comer, corte a couve em tiras finas, fatie o abacate e esfarele o feta. Aqueça uma frigideira antiaderente de tamanho médio em lume alto. Quando quente, adicione um pouco de azeite e coloque o taco com o frango virado para baixo. Cozinhe em lume médio 4-6 min até dourar bem. Vire e tostele a tortilha.",
-        "Sirva com a salsa, o abacate, a couve, o feta e um gomo de lima. Regue com o seu molho picante favorito e bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Branca"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Frango Picado"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Mozzarella Ralada"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Jalapeño"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Ananás"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho Picante"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Couve"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Natas Azedas"
-        }
-      ]
-    }
-  }
+  "protein": 42
 }

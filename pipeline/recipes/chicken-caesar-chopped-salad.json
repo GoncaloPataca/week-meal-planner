@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "sourdough",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sourdough"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "romaine-lettuce",
       "amount": 3,
-      "unit": "head",
+      "unitId": "head",
       "item": "Romaine Lettuce"
     },
     {
+      "id": "parmesan",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "capers",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Capers"
     },
     {
+      "id": "mayonnaise",
       "amount": 5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mayonnaise"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "dijon-mustard",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dijon Mustard"
     },
     {
+      "id": "parmesan",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "anchovy",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Anchovy"
     }
   ],
@@ -96,87 +107,5 @@
   "calories": 580,
   "fat": 30,
   "carbs": 38,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Salada Caesar Picada de Frango",
-      "ingredients": [
-        "2 Peitos de Frango",
-        "250g Pão de Fermentação Natural",
-        "200g Brócolos Tenros",
-        "3 Alfaces Romana",
-        "40g Parmesão",
-        "2c.sopa Alcaparras",
-        "5c.sopa Maionese",
-        "1 Limão",
-        "1c.chá Mostarda de Dijon",
-        "30g Parmesão",
-        "25g Anchovas"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C. Coloque os dois peitos de frango num tabuleiro e regue com um pouco de azeite. Tempere bem e leve ao forno durante 20 minutos, até estarem cozidos. Reserve até arrefecer.",
-        "Rasgue o pão em croutons grandes, coloque num tabuleiro e regue com azeite. Tempere com sal e pimenta. Leve ao forno durante 15 minutos.",
-        "Leve um tacho com água salgada a ferver, adicione os brócolos tenros e cozinhe durante 2 minutos, depois retire e reserve num prato para arrefecer.",
-        "Adicione as alfaces romanas a uma tábua com o frango cozido, os brócolos tenros e o parmesão. Pique tudo junto, depois transfira para uma tigela grande. Misture os ingredientes do molho, depois adicione os croutons e as alcaparras e regue com o molho. Misture bem e distribua pelos pratos. Cubra com um ralado extra de parmesão."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Pão de Massa Mãe"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 3,
-          "unit": "cabeça",
-          "item": "Alface Romaine"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Alcaparras"
-        },
-        {
-          "amount": 5,
-          "unit": "c. sopa",
-          "item": "Maionese"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mostarda Dijon"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Anchova"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sausage",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "sausage"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "harissa-paste",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "roasted-red-pepper",
       "amount": 460,
-      "unit": "g",
+      "unitId": "g",
       "item": "Roasted Red Pepper"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "fresh-parsley",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "egg",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -96,90 +107,5 @@
   "calories": 420,
   "fat": 26,
   "carbs": 20,
-  "protein": 26,
-  "i18n": {
-    "pt": {
-      "name": "Shakshuka de Salsicha Picante",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "4 Salsichas",
-        "1 Cebola",
-        "1c.c. Cominhos em Pó",
-        "1c.s. Pasta de Harissa",
-        "460g Pimento Vermelho Assado",
-        "1 Lata de 400g de Tomate Picado",
-        "0,5 Limão",
-        "15g Salsa Fresca",
-        "8 Ovos",
-        "Azeite",
-        "Sal"
-      ],
-      "steps": [
-        "Coloque uma frigideira grande em lume alto e esfarele as salsichas. Aloure durante alguns minutos, desfazendo com uma colher à medida que cozinha.",
-        "Fatie a cebola, adicione à frigideira e reduza para lume médio. Cozinhe cerca de 5 min até a cebola amolecer.",
-        "Escorra e fatie os pimentos e adicione à frigideira juntamente com os cominhos e a harissa e cozinhe mais 3-4 min.",
-        "Adicione o tomate e uma c.c. de sal, misture e deixe ferver suavemente cerca de 10 min até engrossar.",
-        "Reduza para lume baixo, faça 4 pequeníssimos poços no molho e parta 2 ovos em cada e tempere com uma pitada de sal.",
-        "Tape a frigideira e cozinhe mais 5 min ou até os ovos estarem cozidos (fique atento às gemas para garantir que ficam líquidas).",
-        "Retire do lume, esprima o sumo do limão, polvilhe com salsa fresca e um fio de azeite. Sirva quente com pão rústico para mergulhar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Salsicha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 460,
-          "unit": "g",
-          "item": "Pimento Vermelho Assado"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 26
 }

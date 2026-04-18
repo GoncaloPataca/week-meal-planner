@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cauliflower",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cauliflower"
     },
     {
+      "id": "salted-butter",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salted Butter"
     },
     {
+      "id": "plain-flour",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plain Flour"
     },
     {
+      "id": "whole-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Whole Milk"
     },
     {
+      "id": "double-cream",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Double Cream"
     },
     {
+      "id": "mature-cheddar-cheese",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mature Cheddar Cheese"
     },
     {
+      "id": "gruyre",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Gruyère"
     },
     {
+      "id": "english-mustard",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "English Mustard"
     },
     {
+      "id": "nutmeg",
       "amount": 0.25,
-      "unit": null,
+      "unitId": null,
       "item": "nutmeg"
     },
     {
+      "id": "fresh-chive",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     }
   ],
@@ -96,83 +106,5 @@
   "calories": 970,
   "fat": 84,
   "carbs": 29,
-  "protein": 23,
-  "i18n": {
-    "pt": {
-      "name": "Couve-Flor com Queijo Perfeita",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Couve-Flor",
-        "75g Manteiga com Sal",
-        "75g Farinha Simples",
-        "400ml Leite Gordo",
-        "400ml Natas",
-        "100g Queijo Cheddar Curado",
-        "100g Gruyère",
-        "2 c. chá de Mostarda Inglesa",
-        "0,25 Noz-Moscada",
-        "10g Cebolinho Fresco"
-      ],
-      "steps": [
-        "Pré-aquece o forno a 220°C com ventilação. Corta a couve-flor em floretes grandes, depois corta o talo em pedaços de 2 cm. Coloca num tabuleiro juntamente com as folhas mais jovens e bonitas da couve-flor. Rega com um pouco de azeite, tempera bem com sal e pimenta e coloca no forno durante 25 minutos até começar a ficar tostado nas bordas.",
-        "Entretanto, derrete a manteiga numa panela em lume médio-alto. Quando estiver a borbulhar, adiciona a farinha e cozinha, mexendo constantemente, durante 4-5 minutos até a cor ter escurecido notavelmente e cheirar a tostado. Reduz o lume para médio. Mede o leite e as natas num jarro grande, depois adiciona um pouco e bate vigorosamente. Continua a repetir este processo até obteres um molho suave e cremoso.",
-        "Rala grosseiramente o cheddar e o gruyère e distribui ¾ deles no molho, adiciona a mostarda e rala finamente a noz-moscada. Mistura em lume médio até o queijo ter derretido no molho. Tempera com sal e pimenta.",
-        "Quando a couve-flor estiver assada, coloca-a num tabuleiro de bordas altas onde os floretes fiquem relativamente juntos numa camada uniforme. Verte o molho por cima, depois espalha o restante queijo. Nesta fase, podes tapar e refrigerar até 24 horas antes de terminar.",
-        "Coloca ou aquece o forno a 200°C com ventilação. Coloca a couve-flor com queijo no forno (gostamos de colocar num tabuleiro plano para apanhar qualquer gotejamento) e assa durante 20-25 minutos ou até estar dourada e borbulhante.",
-        "Pica finamente o cebolinho e espalha por cima para um toque final de allium."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Couve-Flor"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Manteiga com Sal"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Farinha Simples"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite Gordo"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Natas"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Queijo Cheddar Curado"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Gruyère"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Mostarda Inglesa"
-        },
-        {
-          "amount": 0.25,
-          "unit": null,
-          "item": "Noz-Moscada"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        }
-      ]
-    }
-  }
+  "protein": 23
 }

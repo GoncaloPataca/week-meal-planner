@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "lamb-mince",
       "amount": 1000,
-      "unit": "g",
+      "unitId": "g",
       "item": "Lamb Mince"
     },
     {
+      "id": "red-onion",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "pine-nuts",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pine Nuts"
     },
     {
+      "id": "raisin",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Raisin"
     },
     {
+      "id": "fresh-parsley",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "roasted-red-pepper",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "roasted Red Pepper"
     },
     {
+      "id": "ras-el-hanout",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ras el Hanout"
     },
     {
+      "id": "drained-cooked-chickpeas",
       "amount": 480,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Chickpeas"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "harissa-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -117,108 +131,5 @@
   "calories": 580,
   "fat": 32,
   "carbs": 28,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Almôndegas de Borrego Picante no Tabuleiro",
-      "mealType": "jantar",
-      "ingredients": [
-        "1000g Carne Picada de Borrego",
-        "6 Cebolas Roxas",
-        "2c.s. Pinhões",
-        "3c.s. Passas",
-        "100g Salsa Fresca",
-        "2 Pimentos Vermelhos Assados",
-        "1c.s. Ras el Hanout",
-        "480g Grão-de-Bico Cozido Escorrido",
-        "1 Malagueta Vermelha",
-        "2c.s. Pasta de Harissa",
-        "1 Limão",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Preaqueça o forno a 200°C.",
-        "Deite a carne picada de borrego para uma tigela.",
-        "Pique finamente um terço das cebolas roxas e adicione à carne picada com os pinhões e as passas. Pique finamente metade da salsa juntamente com os pimentos e adicione também à tigela. Junte o ras el hanout e tempere bem com sal e pimenta. Misture vigorosamente até a mistura ficar ligeiramente pegajosa.",
-        "Pegue num tabuleiro grande e coloque o grão-de-bico escorrido. Corte a malagueta ao meio e junte ao tabuleiro. Corte as cebolas restantes em cubos bem grandes e junte ao tabuleiro com a harissa. Misture tudo com uma boa pitada de sal.",
-        "Com as mãos húmidas, forme almôndegas pequenas com a mistura de borrego, do tamanho de bolas de golfe, e distribua sobre o grão-de-bico. Leve ao forno 45-50 min, virando as almôndegas a meio.",
-        "Quando estiver pronto, termine com o restante salsa e a raspa e sumo do limão.",
-        "Distribua pelos pratos e bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1000,
-          "unit": "g",
-          "item": "Borrego Picado"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pinhões"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Passa"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pimento Vermelho Assado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Ras el Hanout"
-        },
-        {
-          "amount": 480,
-          "unit": "g",
-          "item": "Grão-de-Bico Cozido e Escorrido"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

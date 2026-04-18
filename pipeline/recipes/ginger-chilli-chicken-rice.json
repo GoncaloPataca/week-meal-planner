@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "curry-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Curry Powder"
     },
     {
+      "id": "chicken-stock",
       "amount": 350,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "fresh-coriander",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "fresh-mint",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "red-onion",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "microwave-rice",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Microwave Rice"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to taste, to serve"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper",
       "note": "to taste, to serve"
     }
@@ -115,107 +129,5 @@
   "calories": 460,
   "fat": 14,
   "carbs": 48,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Arroz com Caldo de Frango com Gengibre e Malagueta",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Dentes de Alho",
-        "1 Lima",
-        "2 Coxas de Frango sem Osso e sem Pele",
-        "15g de Gengibre Fresco",
-        "1 Malagueta Vermelha",
-        "1 colher de chá de Caril em Pó",
-        "350ml de Caldo de Frango",
-        "25g de Coentros Frescos",
-        "25g de Hortelã Fresca",
-        "0,5 Cebola Roxa",
-        "250g de Arroz de Micro-ondas",
-        "Azeite",
-        "Sal (a gosto, para servir)",
-        "Pimenta Preta (a gosto, para servir)"
-      ],
-      "steps": [
-        "Rale metade do alho para uma tigela grande, esprema o sumo de meia lima e tempere com sal. Adicione o frango e marine no frigorífico pelo menos 30 minutos.",
-        "Entretanto, fatie finamente o alho restante, corte o gengibre em palitos finos e fatie finamente a malagueta.",
-        "Coloque uma frigideira com um fio de azeite em lume médio. Quando estiver quente, adicione o frango marinado e cozinhe de ambos os lados até estar levemente tostado e bem cozido (10 a 15 minutos, dependendo da espessura). Transfira o frango para um prato para descansar.",
-        "Adicione o gengibre, o alho e a malagueta à frigideira e frite 3 minutos, depois adicione o caril em pó. Cozinhe 1 minuto. Verta o caldo e deixe fervilhar 5 minutos. Retire do lume e termine com o sumo da restante meia lima e tempere com sal.",
-        "Separe as folhas das ervas e corte finamente a cebola roxa. Misture numa tigela.",
-        "Aqueça o arroz cozido e distribua pelas tigelas. Verta o caldo de caril e cubra com o frango fatiado e a salada de ervas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Caril em Pó"
-        },
-        {
-          "amount": 350,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Arroz de Micro-ondas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }

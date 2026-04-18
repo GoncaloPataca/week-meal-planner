@@ -24,88 +24,105 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "ramen-noodle",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Ramen Noodle"
     },
     {
+      "id": "spinach",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "beansprouts",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Beansprouts"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "spring-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "pork-mince",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pork Mince"
     },
     {
+      "id": "doubanjiang",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Doubanjiang"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "white-sugar",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "White Sugar"
     },
     {
+      "id": "msg",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "MSG"
     },
     {
+      "id": "sesame-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sesame Oil"
     },
     {
+      "id": "chicken-stock",
       "amount": 500,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "oat-milk",
       "amount": 300,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Oat Milk"
     },
     {
+      "id": "light-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Soy Sauce"
     },
     {
+      "id": "mirin",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mirin"
     },
     {
+      "id": "msg",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "MSG"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Crispy Chilli Oil"
     }
   ],
@@ -140,125 +157,5 @@
   "calories": 680,
   "fat": 34,
   "carbs": 60,
-  "protein": 32,
-  "i18n": {
-    "pt": {
-      "name": "Ramen Cremoso e Picante de Porco",
-      "ingredients": [
-        "200g Massa Ramen",
-        "100g Espinafres",
-        "100g Rebentos de Soja",
-        "1 Dente de Alho",
-        "1 Cebolinha",
-        "200g Porco Picado",
-        "1c.sopa Doubanjiang",
-        "1c.sopa Molho de Soja Light",
-        "0.25c.chá Açúcar Branco",
-        "1 Pitada de MSG",
-        "Óleo de Sésamo",
-        "500ml Caldo de Frango",
-        "300ml Leite de Aveia",
-        "1c.sopa Molho de Soja Light",
-        "1c.sopa Mirin",
-        "1 Pitada de MSG",
-        "1c.sopa Óleo de Malagueta Crocante"
-      ],
-      "steps": [
-        "Leve uma panela com água a ferver. Quando ferver, adicione as folhas de espinafres e escalde durante 30 segundos, mexendo regularmente. Retire os espinafres e transfira para uma tigela com água gelada. Reserve.",
-        "Para a mesma panela, adicione os rebentos de soja e escalde durante 2 minutos. Retire e reserve. Desligue o lume e guarde a panela com a água para cozer a massa mais tarde.",
-        "Para o porco picado: pique finamente o dente de alho e a cebolinha, separando as partes brancas e verdes. Aqueça um fio de óleo de sésamo numa panela em lume alto durante cerca de 1 minuto. Adicione o porco picado e frite durante cerca de 3 minutos até dourar, desfazendo o picado em pedaços pequenos. Adicione o doubanjiang, o molho de soja light, o açúcar branco, o MSG, o alho picado, as partes brancas da cebolinha e uma pitada de sal e pimenta preta. Frite por mais 1-2 minutos. Transfira para uma tigela e reserve.",
-        "Para o caldo: na mesma panela, adicione o caldo de frango, o leite de aveia, o molho de soja light, o mirin, o MSG e uma pitada de sal e pimenta preta. Leve a ferver em lume alto sem tampa. Cozinhe em lume brando durante 5 minutos ou até reduzir a um quarto. Adicione o óleo de malagueta e reduza para o mínimo. Tempere a gosto (deve estar ligeiramente salgado).",
-        "Leve a panela de água de volta a ferver. Quando ferver, coza a massa um minuto a menos do indicado nas instruções, depois escorra e divida pelas tigelas.",
-        "Regue com o caldo por cima da massa para ficar submersa. Adicione uma mão-cheia de rebentos de soja e cubra com uma colher grande de porco picado, depois sirva os espinafres e as partes verdes da cebolinha ao lado."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Noodles Ramen"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Rebentos de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Carne Picada de Porco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Doubanjiang"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Açúcar Branco"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "MSG"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 500,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 300,
-          "unit": "ml",
-          "item": "Leite de Aveia"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Light"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mirin"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "MSG"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Malagueta Crocante"
-        }
-      ]
-    }
-  }
+  "protein": 32
 }

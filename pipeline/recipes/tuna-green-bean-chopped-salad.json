@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "green-bean",
       "amount": 1200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Green Bean"
     },
     {
+      "id": "pickled-guindilla-chilli",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pickled Guindilla Chilli"
     },
     {
+      "id": "capers",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Capers"
     },
     {
+      "id": "tuna",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tuna"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -88,69 +96,5 @@
   "calories": 300,
   "fat": 8,
   "carbs": 20,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Salada Picada de Atum e Feijão Verde",
-      "mealType": "almoço",
-      "ingredients": [
-        "1200g Feijão Verde",
-        "150g Malagueta Guindilla em Conserva",
-        "2 c. sopa de Alcaparras",
-        "450g Atum",
-        "2 Limões",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Ferve o feijão verde em água até amolecer, escorre e deixa arrefecer.",
-        "Corta e descarta as pontas das malaguetas guindilla em conserva. Adiciona os feijões a uma tábua de cortar juntamente com o atum e as malaguetas e pica-os grosseiramente.",
-        "Adiciona as alcaparras e continua a picar.",
-        "Adiciona todos os ingredientes picados a uma tigela e esprème o sumo dos limões. Adiciona um bom fio de azeite e tempera generosamente com sal e pimenta. Serve e desfruta!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1200,
-          "unit": "g",
-          "item": "Feijão Verde"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Malagueta Guindilla em Conserva"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Alcaparras"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Atum"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }

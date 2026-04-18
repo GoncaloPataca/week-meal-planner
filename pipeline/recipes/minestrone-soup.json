@@ -27,104 +27,124 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "stick-celery",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "stick Celery"
     },
     {
+      "id": "potato",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "potato"
     },
     {
+      "id": "garlic-clove",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "tomato-pure",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "smoked-paprika",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "chilli-flakes",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "cooked-butter-beans",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Butter Beans"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "vegetable-stock",
       "amount": 1000,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vegetable Stock"
     },
     {
+      "id": "white-wine",
       "amount": 125,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "White Wine"
     },
     {
+      "id": "pasta",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pasta"
     },
     {
+      "id": "basil",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basil"
     },
     {
+      "id": "spinach",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "nutritional-yeast",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Nutritional Yeast",
       "note": "to serve"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -157,141 +177,5 @@
   "calories": 320,
   "fat": 6,
   "carbs": 50,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Sopa Minestrone 'Cura-Me'",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Cebola Roxa",
-        "1 Cenoura",
-        "1 Talo de Aipo",
-        "1 Batata",
-        "5 Dentes de Alho",
-        "2 colheres de sopa de Concentrado de Tomate",
-        "1 colher de sopa de Orégãos Secos",
-        "1 colher de sopa de Pimentão Fumado",
-        "1 colher de chá de Flocos de Malagueta",
-        "1 Lata de 400g de Feijão Manteiga Cozido",
-        "1 Lata de 400g de Tomate Picado",
-        "1000ml de Caldo de Vegetais",
-        "125ml de Vinho Branco",
-        "150g de Massa",
-        "25g de Manjericão",
-        "50g de Espinafres",
-        "Levedura Nutricional (para servir)",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente a cebola, a cenoura, o aipo e a batata, depois pique o alho. Numa panela grande, aqueça um fio de azeite em lume médio. Assim que estiver quente, adicione a cebola, a cenoura, o aipo e a batata com uma boa pitada de sal. Salteie 5 a 10 minutos até amolecerem, depois adicione o alho e frite até ficar aromático.",
-        "Adicione o concentrado de tomate com os orégãos, o pimentão e os flocos de malagueta, cozinhando mais 2 a 3 minutos. Adicione o vinho e deixe cozinhar também. Adicione o feijão manteiga, o tomate picado e o caldo de vegetais, depois tempere com sal e pimenta e leve a ferver. Reduza para fervilhar durante 10 a 15 minutos.",
-        "Adicione a massa e cozinhe seguindo as instruções da embalagem até quase ficar al dente. Assim que estiver cozida, adicione os espinafres e o manjericão, deixando murchar.",
-        "Para servir, coloque nas tigelas, cubra com manjericão fresco, azeite, levedura nutricional e mais flocos de malagueta. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Talo de Aipo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Batata"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Feijão Manteiga Cozido"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 1000,
-          "unit": "ml",
-          "item": "Caldo de Legumes"
-        },
-        {
-          "amount": 125,
-          "unit": "ml",
-          "item": "Vinho Branco"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Massa"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Manjericão"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Levedura Nutricional"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

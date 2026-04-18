@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "firm-tofu",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Firm Tofu"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-ginger",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "gochujang",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "water",
       "amount": 30,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "basmati-rice",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basmati Rice"
     },
     {
+      "id": "edamame",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Edamame"
     },
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "spring-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "lime",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "fresh-mint",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "sesame-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sesame Seeds",
       "note": "to taste"
     }
@@ -135,119 +151,5 @@
   "calories": 490,
   "fat": 12,
   "carbs": 60,
-  "protein": 32,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Arroz com \"Picado\" de Tofu Gochujang",
-      "mealType": "almoço",
-      "ingredients": [
-        "200g de Tofu Firme",
-        "1 colher de chá de Óleo de Sésamo",
-        "2 Dentes de Alho",
-        "10g de Gengibre Fresco",
-        "1 colher de sopa de Gochujang",
-        "1 colher de sopa de Molho de Soja",
-        "2 colheres de chá de Mel",
-        "30ml de Água",
-        "0,5 Saqueta de 200g de Arroz Basmati",
-        "80g de Edamame",
-        "1 Cenoura",
-        "0,5 Pepino",
-        "1 Cebolinha Verde",
-        "0,5 Lima",
-        "10g de Hortelã Fresca",
-        "Sementes de Sésamo (a gosto)"
-      ],
-      "steps": [
-        "Seque o tofu com papel de cozinha e esfarele-o em pedaços pequenos com as mãos.",
-        "Aqueça o óleo de sésamo numa frigideira antiaderente grande em lume médio-alto. Adicione o tofu e cozinhe 5 a 10 minutos, mexendo ocasionalmente, até estar dourado e crocante nas bordas.",
-        "Rale o alho e o gengibre sem descascar. Descasque a cenoura e corte em palitos finos, e corte o pepino em palitos finos também. Fatie finamente as cebolinhas verdes e separe as folhas de hortelã.",
-        "Numa tigela pequena, misture o gochujang, o molho de soja, o mel, o alho, o gengibre e a água. Verta o molho para a frigideira com o tofu crocante. Salteie durante alguns minutos até ficar brilhante e bem envolvido.",
-        "Aqueça o arroz conforme as instruções da embalagem e distribua pelos recipientes. Cubra com o tofu gochujang, o edamame, a cenoura e o pepino.",
-        "Termine com cebolinha verde, gomos de lima, hortelã e sementes de sésamo, se usar. Depois de arrefecer, guarde na caixa e leve ao frigorífico — dura até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Tofu Firme"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 30,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Arroz Basmati"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Edamame"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo"
-        }
-      ]
-    }
-  }
+  "protein": 32
 }

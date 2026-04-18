@@ -20,72 +20,85 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "unsalted-butter",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Unsalted Butter"
     },
     {
+      "id": "whole-milk",
       "amount": 150,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Whole Milk"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "self-raising-flour",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Self Raising Flour"
     },
     {
+      "id": "baking-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Baking Powder"
     },
     {
+      "id": "caster-sugar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Caster Sugar"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "unsalted-butter",
       "amount": 1,
-      "unit": "knob",
+      "unitId": "knob",
       "item": "Unsalted Butter"
     },
     {
+      "id": "fresh-berries",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fresh Berries",
       "note": "to serve"
     },
     {
+      "id": "maple-syrup",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Maple Syrup",
       "note": "to serve"
     },
     {
+      "id": "nutella",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Nutella",
       "note": "to serve"
     },
     {
+      "id": "peanut-butter",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Peanut Butter",
       "note": "to serve"
     },
     {
+      "id": "bacon",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Bacon",
       "note": "to serve"
     }
@@ -113,101 +126,5 @@
   "calories": 415,
   "fat": 13,
   "carbs": 62,
-  "protein": 11,
-  "i18n": {
-    "pt": {
-      "name": "Panquecas Americanas",
-      "ingredients": [
-        "15g Manteiga sem Sal",
-        "150ml Leite Gordo",
-        "0.5 Limão",
-        "120g Farinha com Fermento",
-        "1c.chá Fermento em Pó",
-        "1c.sopa Açúcar Refinado",
-        "1 Ovo",
-        "1 Noz de Manteiga sem Sal",
-        "Frutos Silvestres Frescos (para servir)",
-        "Xarope de Ácer (para servir)",
-        "Nutella (para servir)",
-        "Manteiga de Amendoim (para servir)",
-        "Bacon (para servir)"
-      ],
-      "steps": [
-        "Derreta a manteiga num tacho pequeno em lume brando e deixe arrefecer ligeiramente.",
-        "Meça o leite numa jarra, esprema o sumo de limão e misture com um garfo. Reserve durante 5 minutos para talhar (voilà, fez leitelho).",
-        "Meça a farinha, o fermento em pó, o açúcar refinado e uma pitada de sal para uma tigela. Misture e abra um buraco no centro. Parta o ovo, junte a manteiga derretida e o leitelho, depois misture tudo até obter uma massa de panquecas suave.",
-        "Derreta uma pequena noz de manteiga numa frigideira antiaderente em lume médio, rodando a frigideira para cobrir a base. Coloque um pouco da massa para fazer 3 panquecas, com cerca de 6cm de diâmetro cada.",
-        "Cozinhe durante 2 a 3 minutos neste primeiro lado até aparecerem bolhas no topo de cada panqueca e a parte inferior estar bem dourada e soltar-se facilmente da frigideira. Vire e cozinhe por mais 1 a 2 minutos no segundo lado.",
-        "Repita com a massa restante. Sirva as panquecas com as coberturas à sua escolha (recomendo frutos silvestres e xarope de ácer com mais manteiga, mas faça como preferir)."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": 150,
-          "unit": "ml",
-          "item": "Leite Gordo"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Farinha com Fermento"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Fermento em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Açúcar Fino"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": "noz",
-          "item": "Manteiga sem Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Frutos Vermelhos Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Nutella"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Bacon"
-        }
-      ]
-    }
-  }
+  "protein": 11
 }

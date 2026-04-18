@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "10-fat-pork-mince",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "10% Fat Pork Mince"
     },
     {
+      "id": "cooked-sushi-rice",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Sushi Rice"
     },
     {
+      "id": "vegetable-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegetable Oil"
     },
     {
+      "id": "gochujang",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "oyster-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Oyster Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "soft-light-brown-sugar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soft Light Brown Sugar"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "sesame-seeds",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -111,101 +124,5 @@
   "calories": 590,
   "fat": 22,
   "carbs": 60,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Arroz com Porco Picante e Brócolos com Sésamo",
-      "mealType": "almoço",
-      "ingredients": [
-        "300g Carne Picada de Porco 10% Gordura",
-        "300g Arroz de Sushi Cozido",
-        "1c.s. Óleo Vegetal",
-        "1c.s. Gochujang",
-        "1c.s. Molho de Ostras",
-        "1c.s. Molho de Soja Escuro",
-        "1 Dente de Alho",
-        "1c.s. Açúcar Mascavado Claro",
-        "200g Brócolos Tenderstem",
-        "1c.c. Sementes de Sésamo",
-        "1c.c. Óleo de Sésamo",
-        "2 Cebolinhos",
-        "Sal"
-      ],
-      "steps": [
-        "Rale finamente o alho e misture com o gochujang, o molho de ostras, o molho de soja escuro e o açúcar numa tigela pequena. Reserve.",
-        "Coloque uma frigideira grande em lume alto com o óleo vegetal. Quando quente, adicione a carne picada de porco e cozinhe 5-7 min, desfazendo com uma colher à medida que cozinha, até ficar dourada e caramelizada.",
-        "Verta o molho e misture. Cozinhe mais 2-3 min até ficar espesso, brilhante e pegajoso.",
-        "Entretanto, cozinhe os brócolos tenderstem no micro-ondas 2 min até ficarem al dente. Misture com uma pitada de sal, o óleo de sésamo e as sementes de sésamo. Em alternativa, cozinhe a vapor ou numa frigideira.",
-        "Apare e fatie finamente os cebolinhos.",
-        "Distribua o arroz pelas caixas. Cubra com o porco, os brócolos com sésamo e um pouco de cebolinhos e sementes de sésamo extra. Deixe arrefecer e guarde no frigorífico até ser necessário."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Carne Picada de Porco 10% de Gordura"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Arroz de Sushi Cozido"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Ostra"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Açúcar Mascavado Claro"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

@@ -12,46 +12,47 @@ import {
 } from '@heroicons/react/24/outline'
 import { Meal } from '../types'
 import { downloadICS, ICSLabels } from '../utils/calendar'
+import translationsData from '../data/translations.json'
+
+type Translations = Record<string, Record<string, string>>
+const tx = translationsData as unknown as Translations
+
+/** Resolve a translation key, falling back through languages then to the key itself. */
+function tr(key: string, lang: string): string {
+  const entry = tx[key]
+  return entry?.[lang] ?? entry?.['en'] ?? key.split(':').pop()?.replace(/-/g, ' ') ?? key
+}
 
 export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: string }) {
   const { t, i18n } = useTranslation()
 
-  // Build a display-friendly ingredients array depending on language.
+  // Build a display-friendly ingredients array using lookup tables.
+  // ingredientsParsed entries carry only { id, amount, unitId } — language-agnostic.
+  // Name resolved via translations.json[`ingredient:<id>`][lang].
+  // Unit label comes from t('units.<unitId>').
   const buildDisplayedIngredients = () => {
     const isPT = i18n.language === 'pt'
-    // recipe translations (if present) live under meal.i18n.pt
-    // parsed form: [{ amount, unit, item }]
-    // plain form: ["1 can tomatoes", ...]
+    const lang = isPT ? 'pt' : 'en'
     const anyMeal = meal as any
-    const parsed = anyMeal?.i18n?.pt?.ingredientsParsed
-    const plain = anyMeal?.i18n?.pt?.ingredients
+    const parsed: Array<{ id: string; amount?: number | null; unitId?: string | null; note?: string }> =
+      anyMeal?.ingredientsParsed || []
 
-    if (isPT && Array.isArray(parsed) && parsed.length > 0) {
-      return parsed.map((p: any) => ({
-        amount: p.amount ? `${p.amount}${p.unit ? ' ' + p.unit : ''}` : undefined,
-        name: p.item || p.name || '',
-      }))
+    if (parsed.length > 0) {
+      return parsed.map((p) => {
+        const name   = tr(`ingredient:${p.id}`, lang)
+        const unit   = p.unitId ? t(`units.${p.unitId}`) : ''
+        const amount = p.amount != null ? `${p.amount}${unit ? '\u00a0' + unit : ''}` : undefined
+        return { amount, name, note: p.note }
+      })
     }
 
-    if (isPT && Array.isArray(plain) && plain.length > 0) {
-      return plain.map((s: string) => ({ name: s }))
-    }
-
-    // For English, prefer root ingredientsParsed (amount/unit/item) over plain strings
-    const rootParsed = (meal as any).ingredientsParsed
-    if (Array.isArray(rootParsed) && rootParsed.length > 0) {
-      return rootParsed.map((p: any) => ({
-        amount: p.amount ? `${p.amount}${p.unit ? ' ' + p.unit : ''}` : undefined,
-        name: p.item || p.name || '',
-      }))
-    }
-
-    const root = (meal.ingredients || []) as any[]
-    if (Array.isArray(root) && root.length > 0) {
-      if (typeof root[0] === 'string') {
-        return root.map((s: string) => ({ name: s }))
-      }
-      return root
+    // Fallback: plain string ingredients list
+    const plain = isPT
+      ? (anyMeal?.i18n?.pt?.ingredients ?? meal.ingredients ?? [])
+      : (meal.ingredients ?? [])
+    if (Array.isArray(plain)) {
+      if (typeof plain[0] === 'string') return (plain as string[]).map((s) => ({ name: s }))
+      return plain as Array<{ name: string; amount?: string }>
     }
     return []
   }
@@ -60,12 +61,17 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
 
   const anyMealOuter = meal as any
   const isPT = i18n.language === 'pt'
-  const displayedTitle = isPT && anyMealOuter?.i18n?.pt?.name
-    ? anyMealOuter.i18n.pt.name
+  const lang = isPT ? 'pt' : 'en'
+  const recipeSlug = (anyMealOuter?.url || '').replace(/\/$/, '').split('/').pop() || ''
+
+  const displayedTitle = recipeSlug
+    ? tr(`recipe:${recipeSlug}:name`, lang)
     : meal.title
-  const displayedSteps: string[] = isPT && Array.isArray(anyMealOuter?.i18n?.pt?.steps) && anyMealOuter.i18n.pt.steps.length > 0
-    ? anyMealOuter.i18n.pt.steps
-    : (meal.steps || [])
+
+  const enSteps: string[] = meal.steps || []
+  const displayedSteps: string[] = enSteps.map((keyOrText) =>
+    keyOrText.startsWith('recipe:') ? tr(keyOrText, lang) : keyOrText
+  )
 
   // Resolve image paths relative to the deployment base URL.
   // Data stores absolute-style paths like /images/recipes/foo.jpg.
@@ -158,6 +164,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                       <span>
                         {ing.amount && <span className="font-medium heading-themed">{ing.amount}</span>}{' '}
                         {ing.name}
+                        {(ing as any).note && <span className="muted-themed italic"> — {(ing as any).note}</span>}
                       </span>
                     </li>
                   ))}

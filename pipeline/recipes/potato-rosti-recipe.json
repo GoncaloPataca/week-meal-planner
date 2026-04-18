@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "maris-piper-potato",
       "amount": 1000,
-      "unit": "g",
+      "unitId": "g",
       "item": "Maris Piper Potato"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "salted-butter",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salted Butter"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "fresh-sage",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Sage"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "hot-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Hot Sauce"
     },
     {
+      "id": "green-salad",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Green Salad"
     }
   ],
@@ -96,84 +106,5 @@
   "calories": 460,
   "fat": 32,
   "carbs": 30,
-  "protein": 10,
-  "i18n": {
-    "pt": {
-      "name": "Rösti de Batata com Ovos Estrelados em Manteiga Avelã e Salva",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1000g Batata Maris Piper",
-        "1 Cebola",
-        "125g Manteiga com Sal",
-        "4 Ovos",
-        "15g Salva Fresca",
-        "1 Limão",
-        "Sal",
-        "Pimenta Preta",
-        "Molho Picante",
-        "Salada Verde"
-      ],
-      "steps": [
-        "Descasque e rale grosseiramente as batatas para um pano de cozinha limpo. Corte a cebola ao meio e fatie finamente. Coloque a manteiga numa taça pequena e derreta no micro-ondas.",
-        "Junte as pontas do pano de modo a encerrar completamente a batata, depois segure sobre o lava-loiça e esprema o máximo de água possível.",
-        "Deite a batata seca para uma tigela limpa. Junte a cebola fatiada e 2 c.s. de manteiga derretida, depois tempere muito bem com sal e pimenta. Misture bem.",
-        "Aqueça um pouco de manteiga numa frigideira média (cerca de 28cm) em lume médio, depois junte toda a batata — o rösti deve ter cerca de 2,5 cm de espessura. Pressione suavemente para garantir bastante contacto com o fundo.",
-        "Frite 6-8 min até o fundo estar dourado e caramelizado. Vire cuidadosamente o rösti para um prato, adicione mais manteiga e deslize o rösti de volta para a frigideira. Continue a cozinhar 6-7 min até o fundo ficar de cor caramelo escura e super estaladiço.",
-        "Depois de virar o rösti, coloque outra frigideira em lume alto. Verta a manteiga derretida e cozinhe 1-2 min, mexendo suavemente, até cheirar a avelã e ficar dourada. Parta os ovos, regue-os com um pouco da manteiga e cozinhe 1-2 min até a clara estar cozida e a gema ainda líquida. Adicione a salva nos espaços entre os ovos e cozinhe 1 min, depois retire do lume.",
-        "Deslize o rösti para uma tábua e corte em quartos. Coloque cada um num prato, cubra com um ovo estrelado e um pouco de salva. Esprema o limão para a manteiga e regue. Sirva com molho picante e salada verde."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1000,
-          "unit": "g",
-          "item": "Batata Maris Piper"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Manteiga com Sal"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Salva Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Picante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Salada Verde"
-        }
-      ]
-    }
-  }
+  "protein": 10
 }

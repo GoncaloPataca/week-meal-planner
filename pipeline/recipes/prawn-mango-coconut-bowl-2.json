@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "mango",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mango"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "prawn",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Prawn"
     },
     {
+      "id": "fresh-coriander",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "cooked-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "desiccated-coconut",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Desiccated Coconut"
     },
     {
+      "id": "chilli-flakes",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "crispy-fried-onion",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Crispy Fried Onion"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -110,95 +122,5 @@
   "calories": 430,
   "fat": 10,
   "carbs": 58,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Gambas com Manga e Coco",
-      "mealType": "almoço",
-      "ingredients": [
-        "4 Dentes de Alho",
-        "1 Cebola Roxa",
-        "150g Manga",
-        "2 Limas",
-        "500g Gambas",
-        "20g Coentros Frescos",
-        "500g Arroz Cozido",
-        "2c.s. Azeite",
-        "10g Coco Ralado Seco",
-        "0,5c.c. Flocos de Malagueta",
-        "10g Cebola Frita Estaladiça",
-        "Sal"
-      ],
-      "steps": [
-        "Descasque e corte a manga em cubos. Corte a cebola roxa em cubos pequenos. Junte ambos numa tigela com o sumo de metade das limas e uma pitada de sal. Misture e reserve para marinar.",
-        "Fatie finamente o alho. Limpe as gambas se necessário. Separe metade das folhas de coentros e pique finamente o resto, incluindo os caules.",
-        "Coloque uma frigideira em lume médio. Quando quente, adicione o coco ralado e toste a seco 2-4 min até dourar. Deite para uma tigela pequena e misture os flocos de malagueta e a cebola frita. Reserve.",
-        "Devolva a frigideira vazia ao lume médio-alto com o azeite. Quando quente, adicione o alho e cozinhe 2-3 min até perfumar e ficar ligeiramente dourado. Junte as gambas e cozinhe 2-4 min, mexendo ocasionalmente, até ficarem rosadas e cozidas. Retire do lume.",
-        "Entretanto, aqueça o arroz. Misture os coentros picados e distribua pelas tigelas.",
-        "Disponha as gambas com alho e a salsa de manga sobre o arroz. Termine com uma generosa camada da mistura de coco e as restantes folhas de coentros. Sirva com gomos de lima."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Manga"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Gamba"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coco Ralado"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Cebola Frita Crocante"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

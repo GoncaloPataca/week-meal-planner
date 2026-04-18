@@ -14,38 +14,45 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sugar-snap-pea",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sugar Snap Pea"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "salted-peanuts",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Salted Peanuts"
     },
     {
+      "id": "smooth-peanut-butter",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Smooth Peanut Butter"
     },
     {
+      "id": "sriracha",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "udon-noodle",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Udon Noodle"
     }
   ],
@@ -78,63 +85,5 @@
   "calories": 520,
   "fat": 18,
   "carbs": 70,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Noodles de Amendoim com Sriracha",
-      "mealType": "almoço",
-      "ingredients": [
-        "100g de Ervilha-Torta",
-        "1 Lima",
-        "10g de Amendoins Salgados",
-        "3 colheres de sopa de Manteiga de Amendoim Lisa",
-        "2 colheres de sopa de Sriracha",
-        "1 colher de sopa de Molho de Soja",
-        "300g de Noodles Udon"
-      ],
-      "steps": [
-        "Leve uma panela de água salgada a ferver. Entretanto, corte finamente as ervilhas-tortas em tiras compridas. Misture numa tigela com metade do sumo de lima. Pique grosseiramente os amendoins.",
-        "Numa tigela grande separada, misture a manteiga de amendoim, a sriracha, o molho de soja e o restante sumo de lima para fazer o molho.",
-        "Separe os noodles com os dedos para a panela de água salgada a ferver e cozinhe 1 minuto, depois use pinças para transferir os noodles diretamente para o molho. Envolva tudo, adicionando um pouco da água de cozedura para criar um molho sedoso e apetitoso.",
-        "Divida pelas tigelas e cubra com as ervilhas-tortas cortadas, os amendoins salgados e mais sriracha e molho de soja, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Ervilhas Tortas"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Amendoins Salgados"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amendoim Suave"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Noodles Udon"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cooked-basmati-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Basmati Rice"
     },
     {
+      "id": "sesame-seeds",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "frozen-shelled-edamame",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Shelled Edamame"
     },
     {
+      "id": "spinach",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "skin-on-salmon-fillet",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skin-On Salmon Fillet"
     },
     {
+      "id": "white-miso",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Miso"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "soy-sauce",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "sesame-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -113,102 +126,5 @@
   "calories": 420,
   "fat": 12,
   "carbs": 52,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Arroz Crocante e Salmão Ponzu",
-      "ingredients": [
-        "500g Arroz Basmati Cozido",
-        "2c.sopa Sementes de Sésamo",
-        "200g Edamame Descascado Congelado",
-        "120g Espinafres",
-        "1 Pepino",
-        "2x 120g Filetes de Salmão com Pele",
-        "1c.sopa Miso Branco",
-        "1 Limão",
-        "4c.sopa Molho de Soja",
-        "1c.sopa Óleo de Sésamo",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 220°C. Forre um tabuleiro com papel vegetal.",
-        "Espalhe o arroz cozido no tabuleiro e misture com as sementes de sésamo, azeite e uma boa pitada de sal. Espalhe numa camada uniforme, leve ao forno e asse durante 30-35 minutos, virando a meio, até estar dourado e bem crocante.",
-        "Entretanto, coloque os espinafres e o edamame congelado num passador. Regue com água recém-fervida até os espinafres estarem murchados e o edamame descongelado. Deixe arrefecer ligeiramente, depois esprema o excesso de água.",
-        "Apare o pepino, corte ao meio no sentido do comprimento e retire as sementes aguadas com uma colher, depois corte em fatias finas.",
-        "Esprema o sumo do limão para uma tigela grande. Adicione o miso branco, o molho de soja e o óleo de sésamo, depois misture até ficar suave. Adicione os espinafres, o edamame e o pepino e misture para envolver.",
-        "Coloque uma frigideira em lume médio com um fio de azeite. Tempere o salmão com sal, depois adicione com a pele para baixo. Cozinhe sem mexer durante 5-7 minutos, até estar cozido a três quartos. Retire do lume, vire o salmão com a pele para cima e deixe acabar de cozinhar no calor residual. Desfaça em lascas grandes.",
-        "Quando o arroz estiver crocante, adicione-o à tigela com os legumes temperados, depois misture suavemente o salmão. Divida pelos pratos e aproveite."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Basmati Cozido"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Edamame Descascado Congelado"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Filete de Salmão com Pele"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

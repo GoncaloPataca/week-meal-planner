@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "basmati-rice",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Basmati Rice"
     },
     {
+      "id": "broccoli",
       "amount": 220,
-      "unit": "g",
+      "unitId": "g",
       "item": "Broccoli"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-dill",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "ground-cumin",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "chicken-stock",
       "amount": 175,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "cottage-cheese",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -109,97 +121,5 @@
   "calories": 500,
   "fat": 10,
   "carbs": 52,
-  "protein": 48,
-  "i18n": {
-    "pt": {
-      "name": "Frango Grelhado com Arroz de Brócolos e Alho",
-      "ingredients": [
-        "2 Peitos de Frango",
-        "120g Arroz Basmati",
-        "220g Brócolos",
-        "4 Dentes de Alho",
-        "10g Aneto Fresco",
-        "1 Limão",
-        "2c.chá Cominhos em Pó",
-        "175ml Caldo de Frango",
-        "40g Queijo Cottage",
-        "2c.chá Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente o alho. Corte os brócolos em floretes pequenos, mais pequenos do que o habitual.",
-        "Adicione metade do azeite a uma panela grande com tampa e leve a lume médio. Adicione o alho e cozinhe por alguns minutos até ficar aromático.",
-        "Adicione o arroz e verta o caldo de frango. Leve a ferver, depois cubra com a tampa, reduza o lume e cozinhe durante 4 minutos.",
-        "Ao fim de 4 minutos, espalhe os brócolos por cima. Mexa rapidamente, volte a colocar a tampa e cozinhe por mais 8 minutos. Desligue o lume e deixe o arroz cozinhar no vapor durante 10 minutos enquanto prepara o frango.",
-        "Coloque um peito de frango entre duas folhas de papel vegetal e bata com um rolo de massa até ter cerca de 1cm de espessura. Repita com o restante frango. Adicione o frango achatado a uma tigela com o restante azeite, os cominhos em pó, uma pitada generosa de sal e pimenta. Misture para envolver.",
-        "Aqueça uma frigideira grande em lume alto. Quando estiver quente, adicione o frango e cozinhe durante 3-4 minutos de cada lado até estar bem marcado e cozido. Transfira para uma folha de alumínio, esprema o sumo do limão por cima e feche levemente para manter quente.",
-        "Pique finamente o aneto e misture com o arroz. Prove e tempere com mais sal e pimenta se necessário.",
-        "Corte o frango em fatias e sirva por cima do arroz em recipientes com uma colher generosa de queijo cottage. Rale um pouco de raspa de limão por cima se quiser. Depois de frio, feche os recipientes e guarde no frigorífico — duram até 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Arroz Basmati"
-        },
-        {
-          "amount": 220,
-          "unit": "g",
-          "item": "Brócolos"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 175,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 48
 }

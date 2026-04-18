@@ -14,38 +14,45 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "plain-flour",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Plain Flour"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "Salt"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "whole-milk",
       "amount": 300,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Whole Milk"
     },
     {
+      "id": "salted-butter",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salted Butter"
     },
     {
+      "id": "caster-sugar",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Caster Sugar"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     }
   ],
@@ -74,63 +81,5 @@
   "calories": 300,
   "fat": 11,
   "carbs": 38,
-  "protein": 11,
-  "i18n": {
-    "pt": {
-      "name": "Crepes Super Fáceis",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "100g de Farinha sem Fermento",
-        "1 Pitada de Sal",
-        "1 Ovo",
-        "300ml de Leite Gordo",
-        "Manteiga com Sal",
-        "Açúcar Branco",
-        "2 Limões"
-      ],
-      "steps": [
-        "Coloque a farinha numa tigela com uma pitada de sal. Parta o ovo, verta o leite e bata tudo até obter uma massa lisa e fina. Deixe repousar pelo menos 15 minutos ou cubra com um prato ou película e leve ao frigorífico até ao dia seguinte.",
-        "Aqueça uma frigideira grande em lume médio-alto e junte um nozinho de manteiga. Espalhe-a pelo fundo da frigideira. Verta uma concha grande de massa, inclinando e rodando a frigideira para cobrir todo o fundo com uma camada fina e uniforme.",
-        "Cozinhe um minuto até a massa estar firme e se soltar da frigideira e ficar levemente dourada. Vire o crepe com um movimento rápido ou com uma espátula e cozinhe mais um minuto.",
-        "Deslize para um prato e polvilhe com açúcar e esprema o limão a gosto. Repita."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Farinha Simples"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "Sal"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 300,
-          "unit": "ml",
-          "item": "Leite Gordo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Manteiga com Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Açúcar Fino"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        }
-      ]
-    }
-  }
+  "protein": 11
 }

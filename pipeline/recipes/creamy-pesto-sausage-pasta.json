@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "brown-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "brown Onion"
     },
     {
+      "id": "sausage",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "sausage"
     },
     {
+      "id": "pasta",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pasta"
     },
     {
+      "id": "garlic-italian-seasoning",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Italian Seasoning"
     },
     {
+      "id": "dried-basil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Basil"
     },
     {
+      "id": "paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Paprika"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "reduced-fat-red-pesto",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Reduced-Fat Red Pesto"
     },
     {
+      "id": "single-cream",
       "amount": 75,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Single Cream"
     },
     {
+      "id": "olive-oil-spray",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil Spray"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "fresh-basil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fresh Basil",
       "note": "to serve"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fresh Flat Leaf Parsley",
       "note": "to serve"
     }
@@ -115,106 +129,5 @@
   "calories": 660,
   "fat": 32,
   "carbs": 62,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Massa de Salsicha com Pesto Vermelho Cremoso",
-      "ingredients": [
-        "1 Cebola Amarela",
-        "6 Salsichas",
-        "300g Massa",
-        "1c.chá Tempero Italiano de Alho",
-        "1c.chá Manjericão Seco",
-        "1c.chá Colorau",
-        "1c.sopa Concentrado de Tomate",
-        "40g Pesto Vermelho Light",
-        "75ml Natas Ligeiras",
-        "Spray de Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "Manjericão Fresco (para servir)",
-        "Salsa Fresca de Folha Lisa (para servir)"
-      ],
-      "steps": [
-        "Pique finamente a cebola e leve um tacho com água salgada a ferver.",
-        "Dê um spray de azeite numa frigideira grande separada e adicione a cebola em lume brando-médio. Retire a pele das salsichas fazendo um corte superficial no sentido do comprimento e puxando a pele. Adicione as salsichas sem pele à frigideira e desfaça-as com uma espátula. Aumente o lume e cozinhe durante cerca de 5 minutos até estarem cozidas.",
-        "Entretanto, adicione a massa à água a ferver.",
-        "Adicione o tempero italiano de alho, o manjericão e o colorau à frigideira das salsichas, seguido do concentrado de tomate e pesto. Mexa para envolver, depois verta as natas e uma concha de água da massa para engrossar.",
-        "Deixe cozinhar em lume brando por alguns minutos até engrossar, depois adicione a massa cozida e escorrida, juntamente com mais água da massa para soltar se necessário. Divida por três tigelas e cubra com manjericão e salsa picados."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Castanha"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Salsicha"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Massa"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Tempero Italiano de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Manjericão Seco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Pesto Vermelho Light"
-        },
-        {
-          "amount": 75,
-          "unit": "ml",
-          "item": "Natas Simples"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Spray de Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Salsa de Folha Plana Fresca"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

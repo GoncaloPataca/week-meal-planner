@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "halloumi",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "bulgur-wheat",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Bulgur Wheat"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "fresh-basil",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "smoked-paprika",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "mixed-seeds",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mixed Seeds"
     },
     {
+      "id": "pomegranate-molasses",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pomegranate Molasses"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -111,101 +124,5 @@
   "calories": 680,
   "fat": 38,
   "carbs": 52,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Halloumi 'Marry Me'",
-      "mealType": "almoço",
-      "ingredients": [
-        "500g de Halloumi",
-        "200g de Tomates Cherry",
-        "200g de Bulgur",
-        "150g de Tomate Seco",
-        "200g de Iogurte Grego",
-        "20g de Manjericão Fresco",
-        "2 colheres de chá de Pimentão Fumado",
-        "1 Limão",
-        "2 colheres de sopa de Sementes Mistas",
-        "3 colheres de sopa de Melaço de Romã",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Aqueça uma panela grande em lume médio. Adicione um fio de azeite, depois mexa o bulgur. Frite 2 minutos até dourar. Adicione o pimentão fumado e cozinhe mais 30 segundos. Cubra com água a ferver até 2 cm acima do bulgur, leve a ferver, depois reduza para fervilhar. Tape e cozinhe 15 minutos.",
-        "Prepare o molho de iogurte e tomate triturando o iogurte grego, os tomates secos e o sumo de limão até ficar liso. Tempere com sal e pimenta preta a gosto.",
-        "Corte o halloumi em pedaços pequenos de 2 cm. Aqueça uma frigideira grande em lume médio-alto. Adicione os pedaços de halloumi e cozinhe de todos os lados até ficarem dourados e carbonizados. Verta o melaço de romã e deixe borbulhar e engrossar, cobrindo o halloumi.",
-        "Monte a tigela: misture os tomates cherry fatiados e a maior parte do manjericão rasgado com o bulgur cozido. Tempere com sal e pimenta preta.",
-        "Divida o bulgur pelos recipientes. Cubra com o halloumi glaceado, o molho de iogurte e tomate e as sementes mistas. Decore com as folhas de manjericão restantes.",
-        "Leve ao frigorífico até precisar. Não é necessário aquecer antes de servir."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Trigo Bulgur"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sementes Mistas"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Melaço de Romã"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

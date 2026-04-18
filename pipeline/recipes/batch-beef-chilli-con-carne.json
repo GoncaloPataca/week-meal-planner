@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "red-bell-pepper",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "red Bell Pepper"
     },
     {
+      "id": "beef-mince",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Beef Mince"
     },
     {
+      "id": "garlic-clove",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "chilli-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "smoked-paprika",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "drained-cooked-kidney-beans",
       "amount": 480,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Kidney Beans"
     },
     {
+      "id": "beef-stock",
       "amount": 500,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Beef Stock"
     },
     {
+      "id": "frozen-sweetcorn",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Sweetcorn"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -123,114 +138,5 @@
   "calories": 360,
   "fat": 17,
   "carbs": 26,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Chili con Carne de Novilho",
-      "ingredients": [
-        "1 Cebola",
-        "3 Pimentos Vermelhos",
-        "400g Carne de Novilho Picada",
-        "3 Dentes de Alho",
-        "1c.sopa Concentrado de Tomate",
-        "1c.chá Pó de Malagueta",
-        "2c.chá Colorau Fumado",
-        "1c.sopa Cominhos em Pó",
-        "2x 400g Lata de Tomate Picado",
-        "480g Feijão Vermelho Cozido Escorrido",
-        "500ml Caldo de Carne",
-        "200g Milho-Doce Congelado",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique finamente a cebola e os pimentos vermelhos. Esmague o alho.",
-        "Adicione um fio de azeite a uma panela grande com tampa em lume médio. Quando estiver quente, frite a carne picada em lotes, certificando-se de que não coza em excesso. Depois de dourar, retire da panela e reserve.",
-        "Adicione mais um fio de azeite à panela. Depois, adicione a cebola e o pimento. Frite até amolecer, 7 minutos, depois adicione o alho e frite até ficar aromático.",
-        "Adicione o concentrado de tomate, o pó de malagueta, o colorau e os cominhos. Cozinhe durante 2 minutos mexendo sempre.",
-        "Adicione os tomates em lata e o feijão vermelho escorrido. Misture bem, depois devolva a carne à panela e junte o caldo de carne. A carne deve ficar toda coberta. Se não, adicione um pouco de água. Tempere com sal e pimenta. Prove o chili — se quiser mais picante, adicione um pouco mais de pó de malagueta.",
-        "Cozinhe o chili até engrossar a seu gosto, ou leve à fervura, reduza para lume brando, coloque a tampa e deixe cozinhar suavemente até 1h30, consoante o tempo disponível. Cozinhar durante mais tempo resultará num chili mais espesso e saboroso, mas também fica delicioso se comer logo.",
-        "Adicione o milho-doce e mexa até descongelar antes de servir. Opcional: se estiver a cozinhar em lote para a semana, transfira para recipientes com tampa."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Pimento Vermelho"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Carne Picada de Vaca"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 480,
-          "unit": "g",
-          "item": "Feijão Vermelho Cozido e Escorrido"
-        },
-        {
-          "amount": 500,
-          "unit": "ml",
-          "item": "Caldo de Carne"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Milho Doce Congelado"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

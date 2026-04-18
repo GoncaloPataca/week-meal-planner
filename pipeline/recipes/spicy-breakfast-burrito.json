@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "chorizo",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chorizo"
     },
     {
+      "id": "tomato",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "red-onion",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "hot-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Hot Sauce"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "cheddar-cheese",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cheddar Cheese"
     },
     {
+      "id": "avocado",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "avocado"
     },
     {
+      "id": "tortilla",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "tortilla"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -113,102 +126,5 @@
   "calories": 600,
   "fat": 36,
   "carbs": 34,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Burrito de Pequeno-Almoço Picante",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "8 Ovos",
-        "200g Chouriço",
-        "3 Tomates",
-        "0,5 Cebola Roxa",
-        "15g Coentros Frescos",
-        "2c.s. Molho Picante",
-        "1 Lima",
-        "50g Queijo Cheddar",
-        "1 Abacate",
-        "4 Tortilhas",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite"
-      ],
-      "steps": [
-        "Bata os ovos numa tigela grande com sal e pimenta.",
-        "Coloque o chouriço numa frigideira quente e cozinhe 8 min. Retire e reserve, deixando o azeite colorido do chouriço na frigideira.",
-        "Reduza para o lume mais baixo e verta os ovos. Com uma espátula, cozinhe 3-5 min em lume muito baixo, mexendo constantemente, até os ovos ficarem apenas coagulados.",
-        "Pique finamente os tomates, a cebola roxa e os coentros. Misture numa tigela com molho picante e o sumo e raspa de uma lima.",
-        "Rale o queijo e retire a polpa do abacate, cortando-a em fatias finas.",
-        "Pegue na tortilha e adicione ¼ dos ovos. Junte algumas colheres de salsa, chouriço, queijo e finalmente abacate. Enrole firmemente à maneira de burrito e toste numa frigideira seca com a dobra para baixo.",
-        "Embrulhe em papel de alumínio para manter quente e bom apetite."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Chouriço"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho Picante"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Queijo Cheddar"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Tortilha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "aubergine",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "aubergine"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "miso-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Miso Paste"
     },
     {
+      "id": "sesame-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "water",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "pomegranate-molasses",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pomegranate Molasses"
     },
     {
+      "id": "jasmine-rice",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "green-bean",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Green Bean"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parsley"
     },
     {
+      "id": "sesame-seeds",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "pomegranate-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Pomegranate Seeds",
       "note": "to serve"
     }
@@ -116,99 +129,5 @@
   "calories": 420,
   "fat": 12,
   "carbs": 66,
-  "protein": 8,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Arroz com Beringela Pegajosa de Mel e Miso",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Beringelas",
-        "2c.s. Mel",
-        "2c.s. Pasta de Miso",
-        "2c.s. Óleo de Sésamo",
-        "1 Limão",
-        "3c.s. Água",
-        "2c.s. Melaço de Romã",
-        "300g Arroz Jasmim",
-        "400g Feijão Verde",
-        "1 Malagueta Vermelha",
-        "25g Salsa",
-        "4c.s. Sementes de Sésamo",
-        "Sementes de Romã (para servir)"
-      ],
-      "steps": [
-        "Preaqueça o forno a 180°C ventilado.",
-        "Corte as beringelas em cunhas e coloque num tabuleiro. Numa tigela, misture o mel, o miso, a água, o óleo de sésamo e o sumo de limão, depois verta sobre as beringelas, misturando para cobrir. Asse 30-35 min até ficarem macias e pegajosas. Quando prontas, retire do forno e regue com o melaço de romã.",
-        "Entretanto, cozinhe o arroz de acordo com as instruções. Quatro minutos antes do fim do tempo de cozedura, adicione o feijão verde. Fatie a malagueta vermelha e separe as folhas de salsa.",
-        "Distribua o arroz pelas tigelas ou caixas de meal prep. Cubra com as beringelas pegajosas, regando com a marinada restante do tabuleiro. Polvilhe com sementes de sésamo, malagueta vermelha e salsa. Termine com sementes de romã, se usar. Conserva-se bem no frigorífico 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Beringela"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Miso"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Melaço de Romã"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Feijão Verde"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Romã"
-        }
-      ]
-    }
-  }
+  "protein": 8
 }

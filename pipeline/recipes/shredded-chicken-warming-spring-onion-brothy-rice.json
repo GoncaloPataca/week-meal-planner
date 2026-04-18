@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "jasmine-rice",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "spring-onion",
       "amount": 7,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "fresh-ginger",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "ground-white-pepper",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground White Pepper"
     },
     {
+      "id": "chicken-stock",
       "amount": 700,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "boneless-skinless-chicken-thigh",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "boneless Skinless Chicken Thigh"
     },
     {
+      "id": "pak-choi",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "pak Choi"
     },
     {
+      "id": "fresh-coriander",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "toasted-sesame-oil",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Toasted Sesame Oil"
     },
     {
+      "id": "chilli-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chilli Oil",
       "note": "to serve"
     }
@@ -99,84 +109,5 @@
   "calories": 430,
   "fat": 14,
   "carbs": 38,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Arroz com Caldo e Frango Desfiado com Cebolinho",
-      "mealType": "jantar",
-      "ingredients": [
-        "200g Arroz Jasmim",
-        "7 Cebolinhos",
-        "30g Gengibre Fresco",
-        "0,25c.c. Pimenta Branca em Pó",
-        "700ml Caldo de Frango",
-        "6 Coxas de Frango Sem Osso e Sem Pele",
-        "4 Pak Choi",
-        "20g Coentros Frescos",
-        "2c.c. Óleo de Sésamo Torrado",
-        "Óleo de Malagueta (para servir)"
-      ],
-      "steps": [
-        "Cozinhe o arroz de acordo com as instruções da embalagem.",
-        "Apare e fatie finamente os cebolinhos. Rale finamente o gengibre. Junte ambos numa panela com um fio de óleo de sésamo. Coloque em lume médio e cozinhe, mexendo ocasionalmente, 5-7 min até os cebolinhos murcharem.",
-        "Adicione a pimenta branca e verta o caldo de frango. Deixe levantar fervura, depois baixe para lume médio-baixo, tempere com sal e mergulhe suavemente as coxas de frango. Deixe 10-15 min até estarem completamente cozidas.",
-        "Entretanto, apare e corte o pak choi em pedaços de 2-3 cm. Separe as folhas de coentros e fatie finamente os caules.",
-        "Quando o frango estiver cozido, use uma escumadeira para o transferir do caldo para uma tigela grande. Deixe arrefecer alguns minutos e depois desfie com dois garfos. Cubra para manter quente.",
-        "Adicione os caules de coentros e o pak choi ao caldo quente e cozinhe 2-4 min até murcharem. Depois transfira os legumes com uma escumadeira para a tigela do frango. Adicione o óleo de sésamo e as folhas de coentros e misture. Prove e tempere o caldo com sal e pimenta branca, se necessário.",
-        "Para servir, distribua o arroz pelas tigelas e adicione o caldo por cima. Cubra com a mistura de frango e um fio de óleo de malagueta."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 7,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Pimenta Branca em Pó"
-        },
-        {
-          "amount": 700,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Coxa de Frango sem Osso e sem Pele"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Pak Choi"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Óleo de Sésamo Tostado"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Malagueta"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

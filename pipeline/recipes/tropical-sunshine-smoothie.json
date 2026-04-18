@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "frozen-mango",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Mango"
     },
     {
+      "id": "frozen-pineapple",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Pineapple"
     },
     {
+      "id": "banana",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Banana"
     },
     {
+      "id": "coconut-milk",
       "amount": 160,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     },
     {
+      "id": "lime",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "ground-turmeric",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "fresh-ginger",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "vanilla-protein-powder",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "cold-water",
       "amount": 5,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Cold Water"
     }
   ],
@@ -82,74 +91,5 @@
   "calories": 280,
   "fat": 3,
   "carbs": 40,
-  "protein": 23,
-  "i18n": {
-    "pt": {
-      "name": "Smoothie Tropical",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "75g Manga Congelada",
-        "75g Ananás Congelado",
-        "50g Banana",
-        "160ml Leite de Coco",
-        "0,5 Lima",
-        "0,25 c. chá de Cúrcuma em Pó",
-        "5g Gengibre Fresco",
-        "30g Proteína em Pó de Baunilha",
-        "5ml Água Fria"
-      ],
-      "steps": [
-        "Coloca a manga, o ananás, a banana, o leite de coco ou amêndoa, o sumo de lima, a cúrcuma, o gengibre e a proteína em pó num liquidificador.",
-        "Bate até obter um smoothie suave e cremoso. Se estiver muito espesso, adiciona um fio de água fria para soltar.",
-        "Verte para um copo e desfruta."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Manga Congelada"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Ananás Congelado"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Banana"
-        },
-        {
-          "amount": 160,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 5,
-          "unit": "ml",
-          "item": "Água Fria"
-        }
-      ]
-    }
-  }
+  "protein": 23
 }

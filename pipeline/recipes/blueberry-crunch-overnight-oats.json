@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "jumbo-oat",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jumbo Oat"
     },
     {
+      "id": "milk",
       "amount": 350,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Milk"
     },
     {
+      "id": "lemon-zest",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Lemon Zest"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "frozen-blueberries",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Blueberries"
     },
     {
+      "id": "apple",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "apple"
     },
     {
+      "id": "frozen-blueberries",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Blueberries"
     },
     {
+      "id": "honey",
       "amount": 30,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Honey"
     },
     {
+      "id": "flaked-almond",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Flaked Almond"
     },
     {
+      "id": "hazelnut",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Hazelnut"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     }
   ],
@@ -102,93 +114,5 @@
   "calories": 450,
   "fat": 22,
   "carbs": 46,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna Crocante de Mirtilo",
-      "ingredients": [
-        "250g Aveia em Flocos Grossos",
-        "350ml Leite",
-        "1c.chá Raspa de Limão",
-        "500g Iogurte Grego",
-        "150g Mirtilos Congelados",
-        "1 Maçã",
-        "250g Mirtilos Congelados",
-        "30ml Mel",
-        "100g Amêndoa Laminada",
-        "150g Avelãs",
-        "0.25c.chá Canela em Pó",
-        "2c.sopa Mel"
-      ],
-      "steps": [
-        "Pique grosseiramente os frutos secos e coloque-os numa frigideira seca. Leve a lume médio e torre, mexendo frequentemente, até dourarem, 5 a 8 minutos. Coloque metade numa tigela e misture o mel e os restantes ingredientes da cobertura. Guarde num recipiente hermético à temperatura ambiente.",
-        "Na frigideira vazia, prepare a base: adicione os mirtilos congelados e o mel em lume médio e mexa até os mirtilos descongelarem. Retire do lume e deixe arrefecer.",
-        "Adicione a aveia e os mirtilos congelados restantes à tigela com os frutos secos. Rale a maçã grosseiramente para a mistura e misture a raspa de limão, o leite e o iogurte. Tempere com mel a gosto e uma pitada de sal.",
-        "Distribua o coulis de mirtilo pelos frascos e coloque a mistura de aveia por cima. Cubra e refrigere durante a noite para a aveia amolecer. Quando estiver pronto, sirva com os frutos secos tostados."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Flocos de Aveia Grandes"
-        },
-        {
-          "amount": 350,
-          "unit": "ml",
-          "item": "Leite"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Raspa de Limão"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Mirtilos Congelados"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Maçã"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Mirtilos Congelados"
-        },
-        {
-          "amount": 30,
-          "unit": "ml",
-          "item": "Mel"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Amêndoa em Lâminas"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Avelã"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

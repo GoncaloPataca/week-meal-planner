@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg-yolk",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg Yolk"
     },
     {
+      "id": "parmesan",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "spaghetti",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spaghetti"
     },
     {
+      "id": "butter",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "anchovy",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Anchovy"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -87,77 +96,5 @@
   "calories": 670,
   "fat": 30,
   "carbs": 71,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Esparguete com Manteiga de Anchova",
-      "ingredients": [
-        "1 Gema de Ovo",
-        "30g Parmesão",
-        "10g Salsa Fresca",
-        "200g Esparguete",
-        "50g Manteiga",
-        "1x 50g Lata de Anchovas",
-        "2 Dentes de Alho",
-        "1 Limão",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Leve uma panela de água com sal à fervura.",
-        "Bata a gema de ovo numa tigela com bastante pimenta preta. Rale finamente o parmesão e adicione à mistura de ovo. Reserve. Pique finamente a salsa e reserve.",
-        "Coza a massa em água a ferver durante 1 minuto a menos do que indicado nas instruções da embalagem.",
-        "Entretanto, coloque uma frigideira grande em lume médio-alto. Adicione a manteiga e, depois de derretida e espumosa, junte todas as anchovas com o óleo das latas. Cozinhe durante 2 minutos, usando uma espátula ou colher de pau para desfazer as anchovas até formar uma pasta. Rale ou esmague o alho diretamente na frigideira. Cozinhe por 1 minuto e retire do lume até o temporizador da massa acabar.",
-        "Se tiver retirado do lume, volte a colocar a frigideira ao lume. Use pinças para transferir a massa cozida para a frigideira e misture com o molho. Adicione uma concha de água de cozedura e continue a misturar até a massa ficar sedosa, depois retire do lume.",
-        "Adicione a mistura de ovo e parmesão e misture bem, acrescentando um pouco de água se precisar de soltar mais. O molho deve aderir à massa. Adicione a salsa e esprima lentamente o sumo de limão até ficar bem temperado. Misture mais, depois sirva nos pratos e termine com mais parmesão ralado e pimenta preta moída."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Gema de Ovo"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Esparguete"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Anchova"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

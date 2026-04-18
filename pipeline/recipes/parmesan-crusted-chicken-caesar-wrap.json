@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Breast"
     },
     {
+      "id": "chargrilled-chicken-seasoning",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chargrilled Chicken Seasoning"
     },
     {
+      "id": "garlic-italian-seasoning",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Italian Seasoning"
     },
     {
+      "id": "romaine-lettuce",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Romaine Lettuce"
     },
     {
+      "id": "parmesan",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "flour-tortilla",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "grated-cheddar-mozzarella-mix",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Grated Cheddar & Mozzarella Mix"
     },
     {
+      "id": "olive-oil-spray",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil Spray"
     },
     {
+      "id": "light-mayonnaise",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Light Mayonnaise"
     },
     {
+      "id": "dijon-mustard",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dijon Mustard"
     },
     {
+      "id": "white-wine-vinegar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "White Wine Vinegar"
     },
     {
+      "id": "garlic-powder",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "worcestershire-sauce",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Worcestershire Sauce"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -125,114 +140,5 @@
   "calories": 530,
   "fat": 24,
   "carbs": 36,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Wrap de Frango com Crosta de Parmesão 'Caesar'",
-      "mealType": "almoço",
-      "ingredients": [
-        "120g de Peito de Frango",
-        "1 colher de chá de Tempero de Frango Grelhado",
-        "1 colher de chá de Tempero Italiano com Alho",
-        "30g de Alface Romana",
-        "25g de Parmesão",
-        "1 Tortilha de Farinha",
-        "25g de Mix Ralado de Cheddar e Mozzarella",
-        "Spray de Azeite",
-        "2 colheres de sopa de Maionese Light",
-        "1 colher de chá de Mostarda de Dijon",
-        "1 colher de chá de Vinagre de Vinho Branco",
-        "0,5 colher de chá de Alho em Pó",
-        "0,5 colher de chá de Molho Worcestershire",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Corte o frango em tiras finas, transfira para uma tigela e adicione o tempero de frango grelhado e o tempero italiano com alho.",
-        "Pique grosseiramente a alface. Rale finamente o parmesão.",
-        "Pulverize uma frigideira antiaderente com o óleo em lume alto, depois adicione as tiras de frango. Deixe ficar bem douradas de um lado, depois vire. Entretanto, misture todos os ingredientes do molho caesar numa tigela e reserve.",
-        "Envolva a salada no molho. Aqueça o wrap 10 a 15 segundos no micro-ondas para o tornar mais flexível. Coloque o frango no centro do wrap, seguido da alface, do parmesão e do mix de queijo.",
-        "Dobre os lados, achate um pouco a mistura, depois vire o wrap sobre o recheio, enfiando-o por baixo e enrolando.",
-        "Limpe rapidamente a frigideira usada para o frango (não é necessário lavar bem), depois adicione mais spray de óleo. Coloque o wrap por cima durante alguns minutos em lume médio até começar a ficar estaladiço.",
-        "Assim que estiver dourado e estaladiço, embrulhe em papel de alumínio e aproveite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Tempero de Frango Grelhado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Tempero Italiano de Alho"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Alface Romaine"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Mistura de Cheddar e Mozzarella Ralados"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Spray de Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Maionese Light"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mostarda Dijon"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Vinagre de Vinho Branco"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Molho Worcestershire"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

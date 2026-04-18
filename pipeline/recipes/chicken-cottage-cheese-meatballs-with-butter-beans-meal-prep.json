@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "chicken-mince",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Mince"
     },
     {
+      "id": "cottage-cheese",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "parmesan",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "butter-beans",
       "amount": 570,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter Beans"
     },
     {
+      "id": "baby-spinach",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Baby Spinach"
     },
     {
+      "id": "chilli-flakes",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -111,96 +123,5 @@
   "calories": 580,
   "fat": 22,
   "carbs": 30,
-  "protein": 56,
-  "i18n": {
-    "pt": {
-      "name": "Almôndegas de Frango e Queijo Cottage com Feijão Manteiga",
-      "ingredients": [
-        "2 Dentes de Alho",
-        "30g Salsa Fresca de Folha Lisa",
-        "250g Frango Picado",
-        "50g Queijo Cottage",
-        "40g Parmesão",
-        "1 Limão",
-        "1x 570g Frasco de Feijão Manteiga",
-        "100g Espinafres Baby",
-        "1c.chá Flocos de Malagueta",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Ligue o grelhador no máximo. Descasque e rale finamente o alho. Retire as folhas de salsa e pique finamente.",
-        "Adicione metade do alho e um terço da salsa picada a uma tigela com o frango picado e o queijo cottage. Rale a raspa de metade do limão e rale finamente metade do parmesão. Tempere bem com sal e pimenta preta.",
-        "Molde em almôndegas do tamanho de uma bola de golfe com as mãos húmidas e coloque-as num tabuleiro forrado com papel de alumínio.",
-        "Grelhe as almôndegas durante cerca de 15 minutos, até estarem douradas e cozidas.",
-        "Entretanto, despeje o feijão manteiga (com o líquido) numa frigideira pequena e leve a lume brando. Misture os espinafres para murchar. Adicione os sucos do frango ao feijão e tempere a gosto.",
-        "Rale a raspa de limão restante e esprema o sumo de um quarto do limão. Corte o resto em gomos para servir.",
-        "Coloque o feijão nos recipientes e cubra com as almôndegas. Polvilhe com a salsa picada restante, o alho e os flocos de malagueta e rale o parmesão restante por cima. Depois de frio, feche e guarde no frigorífico — duram até 3 dias."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Frango Picado"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 570,
-          "unit": "g",
-          "item": "Feijão Manteiga"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Espinafres Baby"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 56
 }

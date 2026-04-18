@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "jumbo-oat",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jumbo Oat"
     },
     {
+      "id": "milk",
       "amount": 280,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Milk"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "blood-orange",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "blood Orange"
     },
     {
+      "id": "rhubarb",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rhubarb"
     },
     {
+      "id": "sugar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sugar"
     },
     {
+      "id": "jumbo-oat",
       "amount": 65,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jumbo Oat"
     },
     {
+      "id": "fennel-seed",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fennel Seed"
     },
     {
+      "id": "maple-syrup",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "walnut",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Walnut"
     },
     {
+      "id": "coconut-oil",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Coconut Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -109,101 +122,5 @@
   "calories": 340,
   "fat": 14,
   "carbs": 42,
-  "protein": 9,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna de Ruibarbo e Laranja Sanguínea",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "150g Aveia Jumbo",
-        "280ml Leite",
-        "1c.s. Xarope de Ácer",
-        "150g Iogurte Grego",
-        "2 Laranjas Sanguíneas",
-        "400g Ruibarbo",
-        "1c.s. Açúcar",
-        "65g Aveia Jumbo",
-        "0,5c.c. Semente de Funcho",
-        "2c.s. Xarope de Ácer",
-        "80g Nozes",
-        "0,5c.s. Óleo de Coco",
-        "Sal"
-      ],
-      "steps": [
-        "Preaqueça o forno a 180°C.",
-        "Coloque a aveia numa tigela com o leite, o iogurte grego, o xarope de ácer e uma pitada de sal. Misture, tape e leve ao frigorífico de um dia para o outro.",
-        "Descasque uma das laranjas sanguíneas e corte a casca em tiras finas. Segmente ambas as laranjas, recolhendo o sumo que escorrer.",
-        "Corte o ruibarbo em pedaços de 3 cm e junte numa panela com 200 ml de água, o sumo das laranjas e o açúcar. Leve a um lume muito suave e cozinhe 6 min, depois retire do lume. Coe o ruibarbo para uma tigela e volte a colocar o sumo no fogão em lume médio, reduzindo até cobrir as costas de uma colher. Deixe arrefecer e verta sobre o ruibarbo, depois junte os gomos de laranja.",
-        "Misture a aveia numa tigela com as nozes, o xarope de ácer, as sementes de funcho e uma pitada de sal. Coloque num tabuleiro, regue com o óleo de coco e leve ao forno. Após 10 min, adicione a casca de laranja e volte ao forno mais 5 min. Retire e deixe arrefecer.",
-        "Encha copos ou recipientes com a aveia, cubra com o compote de ruibarbo e polvilhe com a granola. Se preparar com antecedência, guarde a granola separada e adicione de manhã para manter a textura. Conserva-se até 3 dias no frigorífico."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Flocos de Aveia Grandes"
-        },
-        {
-          "amount": 280,
-          "unit": "ml",
-          "item": "Leite"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Laranja Sanguínea"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Ruibarbo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 65,
-          "unit": "g",
-          "item": "Flocos de Aveia Grandes"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Sementes de Funcho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Noz"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Óleo de Coco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 9
 }

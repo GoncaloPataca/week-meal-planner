@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "oats",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Oats"
     },
     {
+      "id": "chocolate-protein-powder",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chocolate Protein Powder"
     },
     {
+      "id": "cocoa-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Cocoa Powder"
     },
     {
+      "id": "chia-seed",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chia Seed"
     },
     {
+      "id": "almond-milk",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Almond Milk"
     },
     {
+      "id": "0-fat-greek-yoghurt",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "0% Fat Greek Yoghurt⁣"
     },
     {
+      "id": "honey",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "yoghurt",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Yoghurt"
     },
     {
+      "id": "raspberry",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raspberry"
     },
     {
+      "id": "honey",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "square-dark-chocolate",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "square Dark Chocolate"
     }
   ],
@@ -96,87 +107,5 @@
   "calories": 390,
   "fat": 8,
   "carbs": 52,
-  "protein": 27,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna de Proteína com Chocolate e Framboesa",
-      "ingredients": [
-        "60g Aveia",
-        "20g Proteína de Chocolate em Pó",
-        "1c.chá Cacau em Pó",
-        "1c.chá Sementes de Chia",
-        "6c.sopa Leite de Amêndoa",
-        "3c.sopa Iogurte Grego 0% Gordura",
-        "0.5c.chá Mel",
-        "1c.sopa Iogurte",
-        "15g Framboesas",
-        "0.5c.chá Mel",
-        "1 Quadrado de Chocolate Negro"
-      ],
-      "steps": [
-        "Combine a aveia, a proteína em pó, o cacau em pó e as sementes de chia num recipiente com tampa.",
-        "Verta o leite, o iogurte e o mel e misture até estar combinado.",
-        "Coloque a tampa e guarde no frigorífico durante a noite (ou pelo menos 3 horas).",
-        "Quando estiver pronto para comer, retire do frigorífico e cubra com uma camada extra de iogurte, algumas framboesas, um fio de mel e um pouco de chocolate negro raspado ou partido."
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Aveia"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Proteína em Pó de Chocolate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cacau em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Leite de Amêndoa"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Iogurte Grego 0% de Gordura"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Iogurte"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Framboesa"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Quadrado de Chocolate Negro"
-        }
-      ]
-    }
-  }
+  "protein": 27
 }

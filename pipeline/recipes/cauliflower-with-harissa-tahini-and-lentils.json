@@ -18,59 +18,70 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "puy-lentil",
       "amount": 170,
-      "unit": "g",
+      "unitId": "g",
       "item": "Puy Lentil"
     },
     {
+      "id": "water",
       "amount": 750,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "jasmine-rice",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Jasmine Rice"
     },
     {
+      "id": "vegetable-stock",
       "amount": 500,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vegetable Stock"
     },
     {
+      "id": "cauliflower",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cauliflower"
     },
     {
+      "id": "zaatar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Za’atar"
     },
     {
+      "id": "tahini",
       "amount": 65,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tahini"
     },
     {
+      "id": "harissa-paste",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Harissa Paste"
     },
     {
+      "id": "olive-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "pomegranate-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Pomegranate Seeds",
       "note": "to serve"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley",
       "note": "to serve,",
       "optional": true
@@ -108,90 +119,5 @@
   "calories": 480,
   "fat": 18,
   "carbs": 60,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Couve-Flor com Harissa, Tahini e Lentilhas",
-      "ingredients": [
-        "170g Lentilhas du Puy",
-        "750ml Água",
-        "150g Arroz Jasmim",
-        "500ml Caldo de Legumes",
-        "1 Couve-Flor",
-        "2c.sopa Za'atar",
-        "65g Tahini",
-        "2c.sopa Pasta de Harissa",
-        "3c.sopa Azeite",
-        "Sementes de Romã (para servir)",
-        "10g Salsa Fresca (para servir, opcional)"
-      ],
-      "steps": [
-        "Lave bem as lentilhas.",
-        "Adicione a água a um tacho com as lentilhas e leve a ferver. Cozinhe em lume brando durante 15 minutos, tapado. Adicione o arroz e o cubo de caldo e cozinhe por mais 12-15 minutos até estar cozido. Regue com bastante azeite, sal e pimenta e misture bem.",
-        "Corte a couve-flor em pedaços pequenos, incluindo o talo. Regue com azeite, sal, pimenta e za'atar, se usar. Cozinhe na air fryer a 190°C durante 10 minutos ou asse no forno a 180°C durante 25 minutos até estar dourada e estaladiça.",
-        "Corte os talos mais duros das folhas da couve-flor e envolva-os com um pouco de azeite e tempere. Cozinhe na air fryer durante 3 minutos a 180°C ou asse com os floretes durante 8-10 minutos até ficarem crocantes.",
-        "Para fazer o molho de tahini, misture o tahini com 120-150ml de água fria. Vai engrossar mas não se preocupe — continue a mexer e a adicionar água até obter uma consistência cremosa. Adicione a harissa e tempere com sal e pimenta.",
-        "Para servir, coloque as lentilhas e o arroz num prato e cubra com a couve-flor e um bom fio de molho de tahini. Polvilhe com sementes de romã por cima também, se gostar.",
-        "Para marmita, guarde as lentilhas e o arroz com a couve-flor, e mantenha o molho de tahini separado até estar pronto para servir."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 170,
-          "unit": "g",
-          "item": "Lentilha Puy"
-        },
-        {
-          "amount": 750,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Arroz Jasmine"
-        },
-        {
-          "amount": 500,
-          "unit": "ml",
-          "item": "Caldo de Legumes"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Couve-Flor"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Za'atar"
-        },
-        {
-          "amount": 65,
-          "unit": "g",
-          "item": "Tahini"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pasta de Harissa"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Romã"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

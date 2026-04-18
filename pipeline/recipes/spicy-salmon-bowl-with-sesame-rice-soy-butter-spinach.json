@@ -28,108 +28,129 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skinless-salmon-fillet",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skinless Salmon Fillet"
     },
     {
+      "id": "spring-onion",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "miso-paste",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Miso Paste"
     },
     {
+      "id": "sriracha",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "fish-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "rice-wine-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Wine Vinegar"
     },
     {
+      "id": "sushi-rice",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sushi Rice"
     },
     {
+      "id": "water",
       "amount": 250,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "fine-salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fine Salt"
     },
     {
+      "id": "sugar",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "rice-wine-vinegar",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Wine Vinegar"
     },
     {
+      "id": "sheet-nori-seaweed",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "sheet Nori Seaweed"
     },
     {
+      "id": "toasted-sesame-seeds",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Toasted Sesame Seeds"
     },
     {
+      "id": "garlic-clove",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "butter",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "spinach",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "soy-sauce",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "nori-seaweed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Nori Seaweed",
       "note": "to serve"
     }
@@ -168,149 +189,5 @@
   "calories": 560,
   "fat": 22,
   "carbs": 38,
-  "protein": 46,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Salmão Picante com Arroz de Sésamo e Espinafres com Manteiga de Soja",
-      "mealType": "jantar",
-      "ingredients": [
-        "500g Filetes de Salmão sem Pele",
-        "4 Cebolinhos",
-        "4 Dentes de Alho",
-        "3c.s. Pasta de Miso",
-        "3c.s. Sriracha",
-        "2c.s. Molho de Peixe",
-        "2c.s. Mel",
-        "1c.s. Vinagre de Vinho de Arroz",
-        "200g Arroz de Sushi",
-        "250ml Água",
-        "1c.c. Sal Fino",
-        "2c.c. Açúcar",
-        "1,5c.s. Vinagre de Vinho de Arroz",
-        "2 Folhas de Alga Nori",
-        "2c.s. Sementes de Sésamo Torradas",
-        "3 Dentes de Alho",
-        "20g Manteiga",
-        "200g Espinafres",
-        "0,5c.s. Molho de Soja",
-        "0,5 Limão",
-        "Alga Nori (para servir)"
-      ],
-      "steps": [
-        "Lave o arroz de sushi até a água ficar límpida. Coloque o arroz lavado numa panela com a água. Coloque em lume alto e deixe ferver, depois tape, reduza para lume baixo e cozinhe 12 min. Desligue o lume e deixe coberto sem mexer mais 10 min.",
-        "Para o molho, rale o alho para uma tigela grande e adicione os restantes ingredientes do molho, batendo até incorporar. Corte os filetes de salmão em cubos grandes (cerca de 3 por filete) e adicione ao molho. Misture bem para cobrir, depois transfira para uma caixa e deixe marinar no frigorífico.",
-        "Prepare o tempero do arroz. Numa tigela pequena, bata o sal, o açúcar e o vinagre e reserve. Num liquidificador, triture o nori em pedaços pequenos ou corte em pedaços finos. Quando o arroz estiver pronto, misture o líquido de tempero, o nori e as sementes de sésamo.",
-        "Para os espinafres, fatie finamente o alho. Derreta a manteiga numa panela média em lume médio, depois adicione o alho fatiado e cozinhe cerca de 3 min até amolecer e perfumar. Adicione os espinafres e murche suavemente, depois tempere com o molho de soja e um esguicho de limão.",
-        "Quando quiser comer, coloque o salmão na fritadeira de ar e verta o molho por cima. Cozinhe a 240°C durante 3-4 min. Aqueça o arroz no micro-ondas até estar bem quente, se necessário. Fatie finamente os cebolinhos.",
-        "Para servir, coloque o arroz numa tigela, cubra com o salmão e regue com o molho. Termine com os espinafres amanteigados, os cebolinhos e um pouco de nori extra, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Filete de Salmão sem Pele"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Pasta de Miso"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho de Arroz"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Arroz de Sushi"
-        },
-        {
-          "amount": 250,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal Fino"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Vinagre de Vinho de Arroz"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Folha de Alga Nori"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Alga Nori"
-        }
-      ]
-    }
-  }
+  "protein": 46
 }

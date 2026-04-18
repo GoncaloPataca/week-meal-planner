@@ -1,0 +1,1094 @@
+{
+  "xo sauce": {
+    "continente": false,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "clove garlic": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "peanut butter": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "almond butter": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "almond extract": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "mixed berry coulis": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "anchovy": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "5% fat greek yoghurt": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "rasher smoked streaky bacon": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "rasher bacon": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "sherry vinegar": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "slice cheddar cheese": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "small flour tortilla": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "dried fruit & nut mix": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "5% fat beef mince": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "za’atar": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "sirloin steak": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "udon noodle": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "biscoff biscuit": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "frozen blackberry": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "skyr natural yoghurt": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "extra-firm tofu": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "white miso": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "nutritional yeast": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "fenugreek leaf": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "boneless skinless chicken thigh": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "kecap manis": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "neutral oil": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "sambal": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "tamarind paste": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "crispy chilli oil": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "buttermilk": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "dashi": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "shiitake mushroom": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "kewpie mayonnaise": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "pitted frozen cherries": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "smoked streaky bacon": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "skinless chicken thigh": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "ghee": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "green finger chilli": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "thai basil": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "bell pepper": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "red bird's eye chilli": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "chipotle paste": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "0% fat greek yoghurt⁣": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "square dark chocolate": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "salted roasted peanut": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "garlic italian seasoning": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "grated cheddar & mozzarella mix": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "edamame": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "miso paste": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "reduced-fat red pesto": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "ramen noodle": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "doubanjiang": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "msg": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "sun-dried tomato oil": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "rasher streaky bacon": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "shaoxing wine": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "chinese black vinegar": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "choy sum": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "nest fresh wheat noodles": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "bone -in skin-on chicken thigh": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "lamb mince": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "chipotle chilli flake": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "fresh jalapeño": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "frozen shelled edamame": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "skin-on salmon fillet": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "roasted almond": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "thai yellow curry paste": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "curry leaf": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "slice ham": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "shelled edamame": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "kimchi": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "boneless skin-on salmon fillet": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "napa cabbage": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "beef meatball": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "chinese five-spice": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "pudding rice": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "gochujang": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "smoked tofu": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "crunchy peanut butter": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "thai red curry paste": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "tempeh": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "firm tofu": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "jalape ño": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "silken tofu": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "vegan burrata": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "apple juice": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "5% fat pork mince": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "flora": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "50% reduced-fat cheddar⁣": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "mushroom broth": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "pork chop": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "pomegranate molasses": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "hot honey": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "ackee": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "callaloo": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "scotch bonnet chilli": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "plantain": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "thigh bone-in skin-on chicken thigh": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "undyed smoked haddock": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "kefir": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "fenugreek seeds": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "kashmiri chilli powder": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "korma curry paste": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "fresh thai basil": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "thai green curry paste": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "american cheese": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "red miso paste": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "instant noodles": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "anchovies in olive oil": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "smoked trout": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "wrap nori seaweed": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "mushroom stock": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "matcha": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "garlic paste": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "kasoori methi": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "third of peanut curry sauce": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "smooth peanut butter": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "peri peri seasoning": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "pork belly": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "vodka": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "green salad": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "skinless salmon fillet": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "small corn tortilla": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "in olive oil": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "pak choi": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "shoyu soy sauce": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "smoked tempeh": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "sambal oelek": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "vegan fish sauce": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "flat rice noodle": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "enoki mushroom": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "10% fat pork mince": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "korean chilli flake": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "sheet nori seaweed": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "nori seaweed": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "x 145 can tuna": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "shichimi togarashi": {
+    "continente": null,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "patak 's tikka masala paste pots": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "patak's mango chutney": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "bavette steak": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "clove garlic clove": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "sun-dried tomato pesto": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "vanilla greek yoghurt": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "chickpea flour": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "zoe daily30+": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "low-moisture mozzarella cheese": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "extra firm smoked tofu": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "crushed frozen raspberries": {
+    "continente": null,
+    "auchan": false,
+    "pingodoce": null,
+    "lidl": null,
+    "aldi": null
+  },
+  "tuna in spring water": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "sour cream & chive dip": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "aleppo pepper": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "frozen french fry": {
+    "continente": true,
+    "auchan": false,
+    "pingodoce": true,
+    "lidl": null,
+    "aldi": null
+  },
+  "nut butter": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  },
+  "psyllium husk": {
+    "continente": true,
+    "auchan": true,
+    "pingodoce": true,
+    "lidl": true,
+    "aldi": true
+  }
+}

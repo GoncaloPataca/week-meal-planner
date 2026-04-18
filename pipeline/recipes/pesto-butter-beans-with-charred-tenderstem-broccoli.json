@@ -14,40 +14,47 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "tenderstem-broccoli",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "drained-cooked-butter-beans",
       "amount": 480,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Butter Beans"
     },
     {
+      "id": "reserved-butter-bean-liquid",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Reserved Butter Bean Liquid"
     },
     {
+      "id": "pesto",
       "amount": 3.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pesto"
     },
     {
+      "id": "chilli-flakes",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Chilli Flakes",
       "note": "to serve"
     },
     {
+      "id": "parmesan",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Parmesan",
       "note": "to serve"
     },
     {
+      "id": "white-wine-vinegar",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "White Wine Vinegar",
       "note": "to serve"
     }
@@ -72,62 +79,5 @@
   "calories": 380,
   "fat": 14,
   "carbs": 36,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Feijão Manteiga com Pesto e Brócolos Tenderstem Carbonizados",
-      "mealType": "almoço",
-      "ingredients": [
-        "300g de Brócolos Tenderstem",
-        "480g de Feijão Manteiga Cozido Escorrido",
-        "Líquido Reservado do Feijão Manteiga",
-        "3,5 colheres de sopa de Pesto",
-        "Flocos de Malagueta (para servir)",
-        "Parmesão (para servir)",
-        "Vinagre de Vinho Branco (para servir)"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C. Coloque os brócolos num tabuleiro e regue com azeite, tempere com sal e pimenta e leve ao forno 10 a 15 minutos até ficarem carbonizados.",
-        "Coloque o feijão manteiga numa panela com a água das latas e leve a ferver. Adicione o pesto, prove e tempere, adicionando um pouco de vinagre de vinho branco se necessário.",
-        "Sirva o feijão nas tigelas, cubra com os brócolos carbonizados e termine com uma pitada de flocos de malagueta e parmesão ralado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 480,
-          "unit": "g",
-          "item": "Feijão Manteiga Cozido e Escorrido"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Líquido Reservado do Feijão Manteiga"
-        },
-        {
-          "amount": 3.5,
-          "unit": "c. sopa",
-          "item": "Pesto"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Vinagre de Vinho Branco"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

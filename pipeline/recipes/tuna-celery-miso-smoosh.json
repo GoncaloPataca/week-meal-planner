@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "stick-celery",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "stick Celery"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "tuna-in-spring-water",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tuna in Spring Water"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "white-miso",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Miso"
     },
     {
+      "id": "mayonnaise",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mayonnaise"
     },
     {
+      "id": "sesame-oil",
       "amount": 0.75,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Oil"
     },
     {
+      "id": "rice-vinegar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "sesame-seeds",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Seeds"
     }
   ],
@@ -83,74 +92,5 @@
   "calories": 315,
   "fat": 14,
   "carbs": 4,
-  "protein": 39,
-  "i18n": {
-    "pt": {
-      "name": "Pasta de Atum, Aipo e Miso",
-      "mealType": "almoço",
-      "ingredients": [
-        "3 Talos de Aipo",
-        "3 Cebolinhas",
-        "300g Atum em Água",
-        "0,5 Limão",
-        "1 c. sopa de Miso Branco",
-        "1 c. sopa de Maionese",
-        "0,75 c. sopa de Óleo de Sésamo",
-        "2 c. sopa de Vinagre de Arroz",
-        "1 c. sopa de Sementes de Sésamo"
-      ],
-      "steps": [
-        "Corta o aipo e as cebolinhas em pedaços pequenos. Escorre o atum e esprème o sumo do limão.",
-        "Combina todos os ingredientes numa tigela antes de barrar em torradas — ou pão pita, um bagel, ou o que preferires. Coloca por cima cebolinha finamente picada.",
-        "Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Talo de Aipo"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Atum em Água"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Maionese"
-        },
-        {
-          "amount": 0.75,
-          "unit": "c. sopa",
-          "item": "Óleo de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo"
-        }
-      ]
-    }
-  }
+  "protein": 39
 }

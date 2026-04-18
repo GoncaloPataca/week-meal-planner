@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "potato",
       "amount": 120,
-      "unit": "g",
+      "unitId": "g",
       "item": "Potato"
     },
     {
+      "id": "onion-powder",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Onion Powder"
     },
     {
+      "id": "paprika",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Paprika"
     },
     {
+      "id": "5-fat-pork-mince",
       "amount": 90,
-      "unit": "g",
+      "unitId": "g",
       "item": "5% Fat Pork Mince"
     },
     {
+      "id": "worcestershire-sauce",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Worcestershire Sauce"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "egg-white",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Egg White"
     },
     {
+      "id": "flora",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Flora"
     },
     {
+      "id": "flour-tortilla",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "chilli-jam",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chilli Jam"
     },
     {
+      "id": "fresh-chive",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "grated-mozzarella",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Grated Mozzarella"
     },
     {
+      "id": "olive-oil-spray",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil Spray"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -125,119 +141,5 @@
   "calories": 530,
   "fat": 18,
   "carbs": 50,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Burritos de Alta Proteína para o Pequeno-Almoço",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "120g de Batata",
-        "2 colheres de chá de Cebola em Pó",
-        "2 colheres de chá de Pimentão",
-        "90g de Carne de Porco Picada 5%",
-        "1 colher de chá de Molho Worcestershire",
-        "1 colher de chá de Concentrado de Tomate",
-        "1 Ovo",
-        "3 colheres de sopa de Claras de Ovo",
-        "1 colher de chá de Manteiga",
-        "1 Tortilha de Farinha",
-        "1 colher de sopa de Compota de Malagueta",
-        "15g de Cebolinho Fresco",
-        "25g de Mozzarella Ralada",
-        "Spray de Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Corte as batatas em pedaços pequenos de cerca de 1 a 2 cm. Cozinhe no micro-ondas 3 a 4 minutos para amolecer, depois pulverize com spray de baixas calorias e tempere com meia colher de chá de cebola em pó, meia colher de chá de pimentão, sal e pimenta. Frite na fritadeira de ar a 180°C durante 10 a 15 minutos até ficarem crocantes.",
-        "Entretanto, coloque a carne picada e o restante pó de cebola e pimentão numa frigideira em lume médio-alto. Desfaça a carne enquanto cozinha e adicione o molho Worcestershire e o concentrado de tomate. Cozinhe cerca de 5 minutos e reserve a carne, limpando a frigideira.",
-        "Bata o ovo e as claras de ovo com sal e pimenta. Coloque a manteiga na frigideira em lume baixo até começar a derreter. Verta os ovos e deixe solidificar cerca de 10 segundos de cada vez antes de dobrar. Repita durante alguns minutos até estarem quase na consistência desejada e retire do lume. Continuarão a cozinhar um pouco depois de retirados, por isso tenha cuidado.",
-        "Hora de montar o burrito! Aqueça a tortilha para a tornar flexível, depois espalhe meia colher de sopa de compota de malagueta no centro, seguida das batatas e do ovo. Pique o cebolinho e polvilhe sobre o ovo, depois adicione a carne picada, a mozzarella e um fio da restante compota de malagueta. Dobre os lados e enrole, apertando por baixo à medida que avança para que fique bem unido.",
-        "Limpe a frigideira e aqueça em lume médio. Coloque o burrito com a abertura para baixo para manter unido. Cozinhe alguns minutos de cada lado até dourar.",
-        "Deixe arrefecer 5 minutos, corte ao meio e sirva!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 120,
-          "unit": "g",
-          "item": "Batata"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Cebola em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão"
-        },
-        {
-          "amount": 90,
-          "unit": "g",
-          "item": "Carne Picada de Porco 5% de Gordura"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Molho Worcestershire"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Clara de Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Flora"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Compota de Malagueta"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Mozzarella Ralada"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Spray de Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

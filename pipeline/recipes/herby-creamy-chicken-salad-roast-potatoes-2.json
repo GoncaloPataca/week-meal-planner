@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cottage-cheese",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "fresh-chive",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "garlic-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "onion-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Onion Powder"
     },
     {
+      "id": "baby-potato",
       "amount": 1000,
-      "unit": "g",
+      "unitId": "g",
       "item": "Baby Potato"
     },
     {
+      "id": "chicken-breast",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "garlic-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "onion-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Onion Powder"
     },
     {
+      "id": "fresh-chive",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "celery",
       "amount": 4,
-      "unit": "stalk",
+      "unitId": "stalk",
       "item": "Celery"
     },
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "fresh-flat-leaf-parsley",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Flat Leaf Parsley"
     },
     {
+      "id": "olive-oil",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -132,119 +148,5 @@
   "calories": 530,
   "fat": 16,
   "carbs": 48,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Salada de Frango Cremosa com Ervas e Batatas Assadas",
-      "mealType": "almoço",
-      "ingredients": [
-        "250g de Queijo Cottage",
-        "10g de Cebolinho Fresco",
-        "1 Limão",
-        "1 colher de chá de Alho em Pó",
-        "1 colher de chá de Cebola em Pó",
-        "1000g de Batatas Novas",
-        "3 Peitos de Frango",
-        "1 colher de chá de Alho em Pó",
-        "1 colher de chá de Cebola em Pó",
-        "10g de Cebolinho Fresco",
-        "4 Talos de Aipo",
-        "1 Pepino",
-        "25g de Salsa Lisa Fresca",
-        "3 colheres de sopa de Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C. Lave e seque as batatas e coloque-as num tabuleiro. Regue com um terço do azeite, esfregue nas batatas, tempere com sal e pimenta e asse 20 a 25 minutos até ficarem douradas e bem cozidas.",
-        "Coloque os peitos de frango numa tigela com o alho em pó, a cebola em pó e o restante azeite. Misture tudo e coloque o frango num tabuleiro forrado. Asse 15 a 20 minutos até estar bem cozido. Deixe descansar alguns minutos.",
-        "Entretanto, rale a casca do limão. Corte finamente todo o cebolinho. Corte finamente o aipo e o pepino. Separe as folhas de salsa e corte finamente os talos macios.",
-        "Coloque o queijo cottage num liquidificador com o cebolinho, os talos de salsa, o alho em pó e a cebola em pó. Triture até ficar liso e tempere com sal, pimenta e bastante sumo de limão. Incorpore a raspa de limão a gosto.",
-        "Corte o frango cozido em cubos finos. Coloque numa tigela grande com o molho de queijo cottage, o aipo picado, o pepino e metade das folhas de salsa e do cebolinho restante. Prove e ajuste o tempero com mais sal, pimenta, sumo ou raspa de limão se necessário.",
-        "Coloque a salada de frango nos recipientes com as batatas assadas ao lado. Termine com um fio do azeite restante e o restante cebolinho e salsa. Guarde e leve ao frigorífico — dura 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cebola em Pó"
-        },
-        {
-          "amount": 1000,
-          "unit": "g",
-          "item": "Batata Baby"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cebola em Pó"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": 4,
-          "unit": "talo",
-          "item": "Aipo"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Salsa de Folha Plana Fresca"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

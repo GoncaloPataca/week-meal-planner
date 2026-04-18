@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "edamame",
       "amount": 380,
-      "unit": "g",
+      "unitId": "g",
       "item": "Edamame"
     },
     {
+      "id": "cannellini-bean",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cannellini Bean"
     },
     {
+      "id": "microwaveable-quinoa-pouch",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Microwaveable Quinoa Pouch"
     },
     {
+      "id": "romaine-lettuce",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "romaine Lettuce"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "spring-onion",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "fresh-coriander",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "toasted-sesame-seeds",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Toasted Sesame Seeds"
     },
     {
+      "id": "white-miso",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Miso"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "rice-vinegar",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -116,100 +129,5 @@
   "calories": 380,
   "fat": 12,
   "carbs": 42,
-  "protein": 24,
-  "i18n": {
-    "pt": {
-      "name": "Salada Densa de Feijão com Miso Picante",
-      "mealType": "almoço",
-      "ingredients": [
-        "380g Edamame",
-        "2 Latas de 400g de Feijão Cannellini",
-        "1 Saqueta de 250g de Quinoa para Micro-ondas",
-        "1 Alface Romana",
-        "0,5 Pepino",
-        "6 Cebolinhos",
-        "25g Coentros Frescos",
-        "4c.s. Sementes de Sésamo Torradas",
-        "2c.s. Miso Branco",
-        "2c.s. Gochujang",
-        "1c.s. Xarope de Ácer",
-        "3c.s. Vinagre de Arroz",
-        "Sal"
-      ],
-      "steps": [
-        "Leve uma panela com água salgada a ferver. Adicione o edamame e cozinhe 5 min, depois escorra e passe por água fria. Escorra e passe o feijão cannellini por água fria.",
-        "Corte a alface romana em tiras. Corte o pepino ao meio no comprimento, retire as sementes e fatie. Fatie finamente os cebolinhos.",
-        "Numa tigela grande, bata o miso branco, o gochujang, o xarope de ácer e o vinagre de arroz até ficar suave.",
-        "Adicione o feijão cannellini, o edamame, a quinoa, a alface, o pepino e os cebolinhos. Misture tudo e tempere com sal a gosto.",
-        "Cubra com as sementes de sésamo torradas e folhas de coentros rasgadas antes de servir. Se preparar com antecedência, guarde no frigorífico. A salada conserva-se até 3 dias. Guarde o molho separadamente para manter a frescura."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 380,
-          "unit": "g",
-          "item": "Edamame"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Feijão Cannellini"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Saqueta de Quinoa de Micro-ondas"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Alface Romaine"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 24
 }

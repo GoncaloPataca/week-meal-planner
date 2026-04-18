@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skinless-chicken-thigh",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skinless Chicken Thigh"
     },
     {
+      "id": "0-fat-greek-yoghurt",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "0% Fat Greek Yoghurt⁣"
     },
     {
+      "id": "onion-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Onion Powder"
     },
     {
+      "id": "paprika",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Paprika"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "clove-garlic",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "pitta",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "pitta"
     },
     {
+      "id": "frozen-french-fry",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen French Fry",
       "optional": true
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "tomato",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "tomato"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     }
   ],
@@ -119,107 +133,5 @@
   "calories": 630,
   "fat": 16,
   "carbs": 67,
-  "protein": 54,
-  "i18n": {
-    "pt": {
-      "name": "Gyros de Frango para Noites de Semana",
-      "mealType": "jantar",
-      "ingredients": [
-        "300g Coxas de Frango sem Pele",
-        "250g Iogurte Grego 0% de Gordura",
-        "1 c. chá de Cebola em Pó",
-        "1 c. sopa de Pimentão",
-        "1 c. chá de Cominhos Moídos",
-        "1 c. chá de Orégãos Secos",
-        "3 Dentes de Alho",
-        "1 Limão",
-        "1 c. chá de Sal",
-        "2 Pão Pita",
-        "100g Batatas Fritas Congeladas (opcional)",
-        "1 Cebola Roxa",
-        "1 Tomate",
-        "0,5 Pepino"
-      ],
-      "steps": [
-        "Rala finamente dois terços dos dentes de alho. Adiciona a uma tigela com as coxas de frango, metade do iogurte, a cebola em pó, o pimentão, os cominhos, os orégãos, a raspa e o sumo de metade do limão e o sal. Tempera com pimenta preta e mistura bem. Reserva para marinar enquanto preparas o resto.",
-        "Rala o pepino e esprème o excesso de líquido com as mãos ou um pano de cozinha limpo. Adiciona a uma tigela com o iogurte restante, o sumo da outra metade do limão, o último dente de alho (ralado) e uma boa pitada de sal. Mistura para fazer o tzatziki e reserva.",
-        "Corta a cebola roxa e o tomate em fatias finas.",
-        "Coloca as batatas fritas congeladas no fundo do cesto da fritadeira de ar e coloca as coxas de frango marinadas por cima. Cozinha a 200°C durante 10-15 minutos até as batatas fritas estarem crocantes e o frango dourado e completamente cozinhado.",
-        "Tosta o pão pita numa frigideira seca até ficar quente e ligeiramente tostado.",
-        "Para montar, espalha uma colherada generosa de tzatziki em cada pão pita. Coloca por cima o tomate, a cebola roxa e fatias do frango cozinhado. Adiciona as batatas fritas, se usares, e enrola tudo."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Coxa de Frango sem Pele"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Iogurte Grego 0% de Gordura"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cebola em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pimentão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pão Pita"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Batatas Fritas Congeladas"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Tomate"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        }
-      ]
-    }
-  }
+  "protein": 54
 }

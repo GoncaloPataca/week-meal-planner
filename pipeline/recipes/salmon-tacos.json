@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "skinless-salmon-fillet",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "skinless Salmon Fillet"
     },
     {
+      "id": "mango-chutney",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mango Chutney"
     },
     {
+      "id": "chipotle-paste",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Chipotle Paste"
     },
     {
+      "id": "hispi-cabbage",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "hispi Cabbage"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "fresh-dill",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "spring-onion",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spring Onion"
     },
     {
+      "id": "scotch-bonnet-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "scotch Bonnet Chilli"
     },
     {
+      "id": "small-corn-tortilla",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "small Corn Tortilla"
     },
     {
+      "id": "sour-cream",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sour Cream"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "radish",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Radish",
       "note": "to serve"
     }
@@ -129,113 +144,5 @@
   "calories": 570,
   "fat": 22,
   "carbs": 48,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Tacos de Salmão na Fritadeira de Ar com Glaze de Manga e Chipotle",
-      "mealType": "jantar",
-      "ingredients": [
-        "4 Filetes de Salmão sem Pele",
-        "2c.s. Chutney de Manga",
-        "1c.s. Pasta de Chipotle",
-        "1 Couve Hispi",
-        "1 Cebola Roxa",
-        "25g Endro Fresco",
-        "2 Limas",
-        "100g Cebolinhos",
-        "1 Malagueta Scotch Bonnet",
-        "8 Tortilhas de Milho Pequenas",
-        "3c.s. Natas Azedas",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "Rabanetes (para servir)"
-      ],
-      "steps": [
-        "Preaqueça a fritadeira de ar ao máximo (240°C).",
-        "Corte o salmão em cubos de tamanho médio (cerca de 3 por filete). Tempere o salmão com sal e coloque num tabuleiro forrado com papel vegetal. Misture o chutney e a pasta de chipotle e verta sobre o salmão. Coloque na fritadeira 6-8 min ou até estar completamente cozido, deitando a marinada extra sobre o peixe enquanto cozinha.",
-        "Fatie finamente a couve e a cebola roxa e coloque numa tigela. Tempere com um pouco de sal e sumo de lima e misture com endro picado. Fatie finamente a scotch bonnet, tempere com sal e esprima um pouco de sumo de lima por cima.",
-        "Aqueça as tortilhas de acordo com as instruções da embalagem.",
-        "Retire o peixe da fritadeira — deve estar cozido e glaceado com a mistura picante de manga e chipotle. (Desfie em pedaços menores, se preferir.)",
-        "Monte os tacos começando pelas tortilhas, cobertas com natas azedas, peixe, um punhado de coleslaw, as malaguetas, cebolinho picado e rabanetes. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Filete de Salmão sem Pele"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Chutney de Manga"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pasta de Chipotle"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Couve Hispi"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Scotch Bonnet"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Tortilha de Milho Pequena"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Natas Azedas"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Rabanete"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

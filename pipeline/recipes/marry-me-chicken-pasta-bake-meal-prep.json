@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "fusilli",
       "amount": 160,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fusilli"
     },
     {
+      "id": "cooked-chicken-breast",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Chicken Breast"
     },
     {
+      "id": "cottage-cheese",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "gochujang",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "garlic-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "fresh-basil",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "parmesan",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -96,82 +106,5 @@
   "calories": 520,
   "fat": 12,
   "carbs": 70,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Massa no Forno de Frango 'Marry Me' (Meal Prep)",
-      "mealType": "almoço",
-      "ingredients": [
-        "160g de Fusilli",
-        "70g de Peito de Frango Cozido",
-        "150g de Queijo Cottage",
-        "1 colher de sopa de Tomate Seco",
-        "1 colher de sopa de Gochujang",
-        "1 colher de chá de Alho em Pó",
-        "100g de Tomates Cherry",
-        "15g de Manjericão Fresco",
-        "20g de Parmesão",
-        "Sal"
-      ],
-      "steps": [
-        "Leve uma panela grande de água salgada a ferver. Adicione a massa e cozinhe até ficar al dente, seguindo as instruções da embalagem. Retire uma caneca de água de cozedura, depois escorra a massa.",
-        "Entretanto, corte os tomates cherry ao meio e rasgue as folhas de manjericão.",
-        "Adicione o queijo cottage, a pasta de tomate seco, o gochujang e o alho em pó a um liquidificador com um pouco da água de cozedura reservada. Triture até ficar liso e cremoso. Adicione mais água conforme necessário para soltar.",
-        "Coloque a massa escorrida numa tigela grande com o frango cozido, os tomates cherry cortados ao meio e o manjericão. Verta o molho e mexa tudo até ficar bem coberto. Adicione mais água de cozedura se parecer um pouco seco.",
-        "Transfira a massa para um recipiente de forno, rale o parmesão por cima e coloque sob um grelhador quente durante 5 a 10 minutos até ficar dourado e borbulhante. Depois de arrefecer, guarde e leve ao frigorífico — dura até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 160,
-          "unit": "g",
-          "item": "Fusilli"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Peito de Frango Cozido"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

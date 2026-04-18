@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "napa-cabbage",
       "amount": 130,
-      "unit": "g",
+      "unitId": "g",
       "item": "Napa Cabbage"
     },
     {
+      "id": "fresh-ginger",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-chive",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "beef-meatball",
       "amount": 9,
-      "unit": null,
+      "unitId": null,
       "item": "beef Meatball"
     },
     {
+      "id": "chinese-five-spice",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chinese Five-Spice"
     },
     {
+      "id": "soy-sauce",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "beef-stock",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Beef Stock"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Crispy Chilli Oil",
       "note": "to serve"
     }
@@ -92,75 +101,5 @@
   "calories": 380,
   "fat": 22,
   "carbs": 14,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Sopa de Almôndegas com Cinco Especiarias e Couve",
-      "mealType": "almoço",
-      "ingredients": [
-        "130g de Couve Napa",
-        "15g de Gengibre Fresco",
-        "1 Dente de Alho",
-        "5g de Cebolinho Fresco",
-        "9 Almôndegas de Vaca",
-        "0,5 colher de chá de Cinco Especiarias Chinesas",
-        "1,5 colheres de sopa de Molho de Soja",
-        "400ml de Caldo de Vaca",
-        "1 colher de chá de Óleo de Malagueta Crocante (para servir)"
-      ],
-      "steps": [
-        "Corte a couve em pedaços grosseiros. Corte o gengibre em palitos finos e rale o alho. Pique finamente o cebolinho.",
-        "Adicione a couve, as almôndegas, as cinco especiarias, o gengibre, o alho, o molho de soja, o cebolinho e o caldo de vaca a um recipiente hermético e leve ao congelador.",
-        "Quando estiver pronto para cozinhar, transfira o conteúdo congelado do recipiente para uma panela em lume médio. Tape e deixe descongelar antes de fervilhar suavemente durante 10 minutos.",
-        "Quando as almôndegas estiverem bem cozidas, sirva e regue com o óleo de malagueta crocante."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 130,
-          "unit": "g",
-          "item": "Couve Napa"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": 9,
-          "unit": null,
-          "item": "Almôndega de Carne"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Cinco Especiarias Chinesas"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Caldo de Carne"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Malagueta Crocante"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

@@ -22,78 +22,93 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "red-birds-eye-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Bird's Eye Chilli"
     },
     {
+      "id": "clove-garlic",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "vegetable-oil",
       "amount": 30,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vegetable Oil"
     },
     {
+      "id": "chicken-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chicken Mince"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "water",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "fresh-thai-basil",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Thai Basil"
     },
     {
+      "id": "cooked-jasmine-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Jasmine Rice"
     },
     {
+      "id": "eggs",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "eggs"
     },
     {
+      "id": "lime",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Lime"
     },
     {
+      "id": "oyster-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Oyster Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "fish-sauce",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "caster-sugar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Caster Sugar"
     }
   ],
@@ -119,114 +134,5 @@
   "calories": 570,
   "fat": 18,
   "carbs": 58,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Stir-Fry de Frango e Manjericão",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Chalotas",
-        "1 Malagueta Olho-de-Pássaro Vermelha",
-        "5 Dentes de Alho",
-        "30ml de Óleo Vegetal",
-        "500g de Frango Picado",
-        "200g de Brócolos Tenderstem",
-        "100ml de Água",
-        "20g de Manjericão Tailandês Fresco",
-        "500g de Arroz Jasmim Cozido",
-        "4 Ovos",
-        "Lima",
-        "3 colheres de sopa de Molho de Ostras",
-        "3 colheres de sopa de Molho de Soja Escuro",
-        "3 colheres de sopa de Molho de Peixe",
-        "2 colheres de sopa de Açúcar Refinado"
-      ],
-      "steps": [
-        "Comece por fazer o molho. Adicione o molho de ostras, o molho de soja, o molho de peixe e o açúcar a uma tigela. Misture até o açúcar dissolver, depois reserve.",
-        "Corte finamente as chalotas e a malagueta, e pique o alho. Pique grosseiramente os brócolos tenderstem.",
-        "Coloque um wok grande ou frigideira em lume médio e regue com o óleo. Adicione o alho, as chalotas e a malagueta e salteie 2 a 3 minutos até ficar aromático.",
-        "Adicione o frango picado e cozinhe 5 a 8 minutos até ficar dourado, desfazendo-o com uma colher. Verta o molho e deixe borbulhar mais 2 minutos até ficar pegajoso.",
-        "Adicione os brócolos e verta a água. Cozinhe 3 a 4 minutos até os brócolos estarem tenros e a maior parte do líquido ter reduzido. Adicione o manjericão e mexa para murchar. Termine espremendo o sumo de metade das limas.",
-        "Para os ovos, coza 7 minutos, descasque e guarde no frigorífico, ou frite na hora de comer.",
-        "Para servir, divida o arroz cozido por quatro recipientes e cubra com o frango picado. Dura no frigorífico até 4 dias. Sirva com a lima restante. Aqueça bem antes de servir."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Bird's Eye Vermelha"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 30,
-          "unit": "ml",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Frango Picado"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Manjericão Tailandês Fresco"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz Jasmine Cozido"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Ostra"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Açúcar Fino"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

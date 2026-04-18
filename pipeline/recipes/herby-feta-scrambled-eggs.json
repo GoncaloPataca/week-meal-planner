@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "butter",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "parsley",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parsley"
     },
     {
+      "id": "dill",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Dill"
     },
     {
+      "id": "egg",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "feta",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "smoked-paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "slice-brown-bread",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Brown Bread"
     }
   ],
@@ -85,75 +94,5 @@
   "calories": 530,
   "fat": 36,
   "carbs": 20,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Ovos Mexidos com Feta e Ervas",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "30g de Manteiga",
-        "2 Dentes de Alho",
-        "30g de Salsa",
-        "30g de Aneto",
-        "6 Ovos",
-        "100g de Feta",
-        "1 colher de chá de Pimentão Fumado",
-        "Azeite",
-        "2 Fatias de Pão de Centeio"
-      ],
-      "steps": [
-        "Coloque uma frigideira antiaderente em lume médio-baixo e adicione a manteiga. Fatie finamente o alho, junte à frigideira e cozinhe suavemente durante cerca de 2 minutos até amolecer mas sem dourar.",
-        "Entretanto, pique finamente todas as ervas e reserve.",
-        "Bata levemente os ovos numa tigela e misture três quartos das ervas. Verta para a frigideira e esfarele três quartos do feta. Cozinhe suavemente mexendo sempre até a mistura estar apenas solidificada — pretende grumos macios e sedosos.",
-        "Distribua pelos pratos, ou coloque diretamente em cima de torrada. Termine com as ervas e o feta restantes, o pimentão fumado e um bom fio de azeite."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Salsa"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Endro"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão Integral"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

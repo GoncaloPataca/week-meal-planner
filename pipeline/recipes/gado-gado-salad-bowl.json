@@ -35,143 +35,171 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "crunchy-peanut-butter",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Crunchy Peanut Butter"
     },
     {
+      "id": "tamarind-paste",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tamarind Paste"
     },
     {
+      "id": "brown-sugar",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Brown Sugar"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "lime-juice",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Lime Juice"
     },
     {
+      "id": "garlic-clove",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "fish-sauce",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fish Sauce"
     },
     {
+      "id": "thai-red-curry-paste",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Thai Red Curry Paste"
     },
     {
+      "id": "water",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Water"
     },
     {
+      "id": "baby-potato",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "baby Potato"
     },
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "beansprouts",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Beansprouts"
     },
     {
+      "id": "green-bean",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Green Bean"
     },
     {
+      "id": "spinach",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "tempeh",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tempeh"
     },
     {
+      "id": "firm-tofu",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Firm Tofu"
     },
     {
+      "id": "garlic-clove",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "vegetable-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegetable Oil"
     },
     {
+      "id": "sea-salt",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sea Salt"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "roasted-peanuts",
       "amount": 60,
-      "unit": "g",
+      "unitId": "g",
       "item": "Roasted Peanuts"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 12,
-      "unit": null,
+      "unitId": null,
       "item": "cherry Tomatoes"
     },
     {
+      "id": "iceberg-lettuce",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "iceberg Lettuce"
     },
     {
+      "id": "cucumber",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "lime-wedge",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime Wedge"
     },
     {
+      "id": "sweetcorn",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sweetcorn"
     },
     {
+      "id": "fried-shallot",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fried Shallot"
     },
     {
+      "id": "prawn-crackers",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Prawn Crackers",
       "note": "to serve"
     }
@@ -201,192 +229,5 @@
   "calories": 720,
   "fat": 40,
   "carbs": 46,
-  "protein": 44,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Salada Gado Gado",
-      "mealType": "almoço",
-      "ingredients": [
-        "60g de Manteiga de Amendoim Crocante",
-        "1 colher de sopa de Pasta de Tamarindo",
-        "1,5 colheres de sopa de Açúcar Mascavado",
-        "1 colher de chá de Molho de Soja Escuro",
-        "1 colher de sopa de Sumo de Lima",
-        "1 Dente de Alho",
-        "1 colher de chá de Molho de Peixe",
-        "1 colher de chá de Pasta de Caril Vermelho Tailandês",
-        "6 colheres de sopa de Água",
-        "8 Batatas Novas",
-        "2 Ovos",
-        "150g de Rebentos de Soja",
-        "150g de Feijão Verde",
-        "200g de Espinafres",
-        "200g de Tempeh",
-        "200g de Tofu Firme",
-        "1 Dente de Alho",
-        "1 colher de sopa de Óleo Vegetal",
-        "0,25 colher de chá de Flor de Sal",
-        "1 colher de chá de Xarope de Ácer",
-        "60g de Amendoins Torrados",
-        "12 Tomates Cherry",
-        "0,5 Alface Iceberg",
-        "0,5 Pepino",
-        "2 Gomos de Lima",
-        "0,5 Lata de Milho de 100g",
-        "30g de Cebola Frita",
-        "Crackers de Camarão (para servir)"
-      ],
-      "steps": [
-        "Se não tiver amendoins torrados, pré-aqueça o forno a 160°C. Espalhe os amendoins num tabuleiro e torre 15 a 20 minutos até ficarem levemente dourados. Retire e reserve. Não torre demasiado, pois continuam a tostar fora do forno.",
-        "Encha uma panela média com água e tempere como faria para cozinhar massa. Adicione as batatas novas e leve a ferver.",
-        "Entretanto, corte o tempeh em fatias de 1 cm e depois em palitos. Corte o tofu em pedaços de 2 cm em quadrados. Pique finamente o dente de alho e reserve. Adicione um fio de óleo a uma frigideira grande com uma boa pitada de sal, junte o tofu e o tempeh e envolva para cobrir todos os pedaços. Cozinhe de cada lado 2 minutos até ficarem levemente dourados, adicione o alho picado, envolva e cozinhe 1 minuto. Adicione o xarope de ácer, misture 30 segundos e reserve numa tigela pequena.",
-        "Adicione os ovos à água a ferver e cozinhe 7 minutos. Retire as batatas quando estiverem macias e transfira para um prato grande. Retire os ovos para uma tigela de água fria da torneira e lasque ligeiramente a casca para embeber, depois reserve (facilita a descascar). Quando as batatas e os ovos estiverem removidos, adicione os rebentos de soja, cozinhe 2 minutos e retire com uma escumadeira para o prato. Retire as pontas do feijão verde, corte ao meio e coza 2 minutos. Retire para o prato. Coza os espinafres apenas 30 segundos, pressione contra a panela para escorrer o excesso de água e adicione ao prato.",
-        "Corte todos os tomates cherry ao meio e reserve noutro prato grande. Corte a alface em quartos, fatie o pepino finamente, corte as batatas em quartos, corte os gomos de lima, descasque os ovos estalando a casca por todo e descascando debaixo de água, depois corte ao meio, e coloque tudo no mesmo prato grande.",
-        "Misture todos os ingredientes do molho numa tigela pequena e reserve.",
-        "Para servir, coloque uma camada de folhas de alface na base dos pratos formando um padrão de flor. Esprema o excesso de água dos espinafres e coloque-os numa pilha na borda do prato, depois seguindo um padrão circular adicione um punhado de rebentos de soja, feijão verde, tofu crocante, tempeh, tomates cherry, ovos e pepino, mas deixe um espaço no centro para o molho. Coloque metade do molho no centro, depois adicione uma porção de milho ao lado. Decore com amendoins torrados e cebola frita sobre o molho e sirva com um gomo de lima."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Manteiga de Amendoim Crocante"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Pasta de Tamarindo"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Açúcar Mascavado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sumo de Lima"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Molho de Peixe"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pasta de Caril Vermelho Tailandês"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Água"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Batata Baby"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Rebentos de Soja"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Feijão Verde"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Tempeh"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Tofu Firme"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo Vegetal"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Sal Marinho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 60,
-          "unit": "g",
-          "item": "Amendoins Torrados"
-        },
-        {
-          "amount": 12,
-          "unit": null,
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Alface Iceberg"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Gomo de Lima"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Milho Doce"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Chalota Frita"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Crackers de Gambas"
-        }
-      ]
-    }
-  }
+  "protein": 44
 }

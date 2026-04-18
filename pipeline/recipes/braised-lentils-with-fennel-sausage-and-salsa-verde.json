@@ -23,83 +23,99 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "fennel",
       "amount": 230,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fennel"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "brown-lentil",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Brown Lentil"
     },
     {
+      "id": "chicken-stock",
       "amount": 700,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "pork-sausage",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "pork Sausage"
     },
     {
+      "id": "fresh-parsley",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "fresh-coriander",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "fresh-tarragon",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Tarragon"
     },
     {
+      "id": "capers",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Capers"
     },
     {
+      "id": "dijon-mustard",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dijon Mustard"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -133,120 +149,5 @@
   "calories": 580,
   "fat": 30,
   "carbs": 38,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Lentilhas Estufadas com Funcho, Salsicha e Salsa Verde",
-      "ingredients": [
-        "1 Cebola",
-        "1 Cenoura",
-        "230g Funcho",
-        "1c.sopa Concentrado de Tomate",
-        "1 Dente de Alho",
-        "250g Lentilhas Castanhas",
-        "700ml Caldo de Frango",
-        "8 Salsichas de Porco",
-        "50g Salsa Fresca",
-        "20g Coentros Frescos",
-        "20g Estragão Fresco",
-        "1c.sopa Alcaparras",
-        "1c.chá Mostarda de Dijon",
-        "1 Limão",
-        "Sal",
-        "Azeite"
-      ],
-      "steps": [
-        "Primeiro, vamos cozinhar o sofrito. Coloque uma panela em lume médio-baixo antes de adicionar 4 c.sopa de azeite. Pique finamente a cebola e adicione à panela.",
-        "Enquanto a cebola cozinha suavemente durante alguns minutos, corte a cenoura e o funcho em cubos, depois adicione-os à panela com uma boa pitada de sal. Cozinhe esta mistura por mais 5 minutos até ficar macia e ligeiramente dourada.",
-        "Adicione o concentrado de tomate, pique o alho e adicione, depois cozinhe por mais alguns minutos. Lave as lentilhas, adicione à panela e mexa bem. Deixe cozinhar por mais um minuto até ficarem bem cobertas de azeite.",
-        "Adicione o caldo, leve a ferver e deixe cozinhar durante cerca de 25 a 30 minutos até as lentilhas estarem macias mas ainda com um pouco de firmeza.",
-        "Entretanto, frite as salsichas até dourarem, depois mantenha quentes.",
-        "Para fazer o molho verde, pique finamente todas as ervas e as alcaparras, depois misture numa tigela com a mostarda, 50ml de azeite, o sumo de metade do limão e uma pitada de sal.",
-        "Quando as lentilhas estiverem cozidas, adicione o sumo da outra metade do limão, mexa e emprate. Coloque duas salsichas por cima e uma generosa colher de salsa verde."
-      ],
-      "mealType": "almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 230,
-          "unit": "g",
-          "item": "Funcho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Lentilha Castanha"
-        },
-        {
-          "amount": 700,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Salsicha de Porco"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Estragão Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Alcaparras"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mostarda Dijon"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }

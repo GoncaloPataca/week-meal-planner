@@ -16,48 +16,57 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "vegetable-gyoza",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "vegetable Gyoza"
     },
     {
+      "id": "vegetable-stock-cube",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "vegetable Stock Cube"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "balsamic-vinegar",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Balsamic Vinegar"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Crispy Chilli Oil"
     },
     {
+      "id": "egg",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "sesame-seeds",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Crispy Chilli Oil",
       "note": "to taste, to serve,",
       "optional": true
@@ -92,77 +101,5 @@
   "calories": 290,
   "fat": 10,
   "carbs": 32,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Sopa de Gyoza de Emergência",
-      "mealType": "almoço",
-      "ingredients": [
-        "4 Gyoza de Legumes",
-        "1 Cubo de Caldo de Legumes",
-        "1 colher de sopa de Molho de Soja",
-        "1 colher de sopa de Vinagre Balsâmico",
-        "1 colher de chá de Óleo de Malagueta Crocante",
-        "1 Ovo",
-        "3 Cebolinhas Verdes",
-        "1 colher de chá de Sementes de Sésamo",
-        "Óleo de Malagueta Crocante (a gosto, para servir, opcional)"
-      ],
-      "steps": [
-        "Ferva 500ml de água em lume médio. Coza os gyoza congelados na água durante 2 minutos (1 minuto menos do que o tempo indicado na embalagem).",
-        "Entretanto, numa tigela, misture o molho de soja, o vinagre balsâmico e o óleo de malagueta crocante, esfarele o cubo de caldo e mexa.",
-        "Fatie finamente as cebolinhas verdes. Parta o ovo para uma tigela separada e bata.",
-        "Escorra os gyoza cozidos e reserve. Adicione os ingredientes da tigela à água de cozedura (que será a base da sopa).",
-        "Reduza o lume para baixo e verta o ovo em fio para formar finos filamentos, mexendo continuamente.",
-        "Volte a juntar os gyoza. Distribua pelas tigelas e cubra com as cebolinhas verdes fatiadas, sementes de sésamo e um fio de óleo de malagueta crocante, se desejar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Gyoza de Legumes"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cubo de Caldo de Legumes"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Vinagre Balsâmico"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Óleo de Malagueta Crocante"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Malagueta Crocante"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

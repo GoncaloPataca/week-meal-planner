@@ -28,108 +28,129 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "pork-mince",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pork Mince"
     },
     {
+      "id": "fennel-seed",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fennel Seed"
     },
     {
+      "id": "chilli-flakes",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "fusilli",
       "amount": 180,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fusilli"
     },
     {
+      "id": "spinach",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "tomato-pure",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "vodka",
       "amount": 25,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Vodka"
     },
     {
+      "id": "crme-frache",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Crème Fraîche"
     },
     {
+      "id": "parmesan",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "pasta-water",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Pasta Water"
     },
     {
+      "id": "fresh-chive",
       "amount": 5,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Chive"
     },
     {
+      "id": "parmesan",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Parmesan"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -159,149 +180,5 @@
   "calories": 700,
   "fat": 34,
   "carbs": 60,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Massa 'Marry Me' de Porco e Funcho",
-      "mealType": "jantar",
-      "ingredients": [
-        "300g Carne Picada de Porco",
-        "1c.s. Semente de Funcho",
-        "1c.c. Flocos de Malagueta",
-        "1c.c. Orégãos Secos",
-        "1 Limão",
-        "1c.s. Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "180g Fusilli",
-        "80g Espinafres",
-        "2c.s. Azeite",
-        "2 Chalotas",
-        "2 Dentes de Alho",
-        "2c.s. Concentrado de Tomate",
-        "25ml Vodka",
-        "2c.s. Crème Fraîche",
-        "40g Parmesão",
-        "1c.s. Água de Cozer Massa",
-        "5g Cebolinho Fresco",
-        "Parmesão",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Raspe a casca do limão e esmague ligeiramente as sementes de funcho com as costas de uma faca ou num almofariz. Corte o cebolinho para a guarnição e reserve. Pique finamente as chalotas, rale o alho e o parmesão para o molho.",
-        "Aqueça o azeite numa frigideira larga em lume médio-alto. Junte a carne picada de porco e frite durante 10 min, até ficar bem dourada e estaladiça nas bordas, desfazendo enquanto cozinha. Misture as sementes de funcho esmagadas, os flocos de malagueta, os orégãos, a raspa de limão e sal e pimenta generosos. Cozinhe mais um minuto até perfumar, depois retire e reserve.",
-        "Entretanto, leve uma panela grande com água salgada a ferver e cozinhe o fusilli al dente. Reserve um pouco de água de cozer antes de escorrer.",
-        "Na mesma frigideira, adicione o azeite para começar o molho. Junte as chalotas com uma pitada de sal e cozinhe 5 min até ficarem macias e translúcidas, depois adicione o alho e cozinhe suavemente mais 30 segundos. Misture o concentrado de tomate e cozinhe até escurecer e ficar brilhante. Deglaceie com a vodka e deixe borbulhar um minuto.",
-        "Baixe o lume e misture o crème fraîche com um pouco de água de cozer para criar um molho sedoso. Retire do lume e misture o parmesão até derreter e ficar suave. Junte a massa e os espinafres, mexendo até os espinafres murcharem e o molho cobrir tudo. Se necessário, adicione mais água de cozer.",
-        "Distribua pelas tigelas e cubra generosamente com o porco com funcho estaladiço. Termine com cebolinho picado, parmesão extra e bastante pimenta preta."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Carne Picada de Porco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sementes de Funcho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 180,
-          "unit": "g",
-          "item": "Fusilli"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 25,
-          "unit": "ml",
-          "item": "Vodka"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Crème Fraîche"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Água de Cozer Massa"
-        },
-        {
-          "amount": 5,
-          "unit": "g",
-          "item": "Cebolinho Fresco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

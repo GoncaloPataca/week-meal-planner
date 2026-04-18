@@ -17,54 +17,64 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "apple",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "apple"
     },
     {
+      "id": "kefir",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kefir"
     },
     {
+      "id": "greek-yoghurt",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Greek Yoghurt"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "oats",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Oats"
     },
     {
+      "id": "milk",
       "amount": 50,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Milk"
     },
     {
+      "id": "mixed-seeds",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Seeds"
     },
     {
+      "id": "raisin",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raisin"
     },
     {
+      "id": "mixed-nuts",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Mixed Nuts",
       "note": "to serve"
     },
     {
+      "id": "mixed-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Mixed Seeds",
       "note": "to serve"
     }
@@ -92,80 +102,5 @@
   "calories": 420,
   "fat": 14,
   "carbs": 54,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Müsli Bircher Probiótico",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1 Maçã",
-        "100g Kefir",
-        "2c.s. Iogurte Grego",
-        "1c.c. Canela em Pó",
-        "50g Aveia",
-        "50ml Leite",
-        "40g Sementes Variadas",
-        "25g Passas",
-        "Frutos Secos Variados (para servir)",
-        "Sementes Variadas (para servir)"
-      ],
-      "steps": [
-        "Rale a maçã para uma tigela grande e misture com os restantes ingredientes.",
-        "Tape e coloque no frigorífico pelo menos algumas horas, idealmente de um dia para o outro.",
-        "Para servir, polvilhe com os frutos secos ou sementes que preferir. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Maçã"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Kefir"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Iogurte Grego"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Aveia"
-        },
-        {
-          "amount": 50,
-          "unit": "ml",
-          "item": "Leite"
-        },
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Sementes Mistas"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Passa"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Frutos Secos Mistos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes Mistas"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

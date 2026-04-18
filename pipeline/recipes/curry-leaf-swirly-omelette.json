@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "ground-turmeric",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "curry-leaf",
       "amount": 7,
-      "unit": null,
+      "unitId": null,
       "item": "curry Leaf"
     },
     {
+      "id": "cooked-rice",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Rice"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "soy-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Soy Sauce"
     },
     {
+      "id": "ketchup",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Ketchup",
       "note": "to serve"
     }
@@ -87,69 +95,5 @@
   "calories": 340,
   "fat": 14,
   "carbs": 34,
-  "protein": 14,
-  "i18n": {
-    "pt": {
-      "name": "Omelete Enrolada com Folhas de Caril",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Ovos",
-        "0,5 colher de chá de Cúrcuma em Pó",
-        "7 Folhas de Caril",
-        "125g de Arroz Cozido",
-        "Azeite",
-        "Sal",
-        "Molho de Soja",
-        "Ketchup (para servir)"
-      ],
-      "steps": [
-        "Parta os ovos para uma tigela, tempere com sal e misture a cúrcuma. Reserve por alguns minutos.",
-        "Aqueça o arroz.",
-        "Coloque uma frigideira antiaderente em lume médio com um fio de azeite. Adicione as folhas de caril e aguarde até pararem de estalar. Verta os ovos e deixe solidificar 15 segundos antes de mexer. Quando o ovo começar a prender, deixe cozinhar até estar bem cozido e retire do lume.",
-        "Deslize a omelete sobre o arroz, junte um pouco de ketchup e regue com molho de soja por cima. Bom apetite."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 7,
-          "unit": null,
-          "item": "Folha de Caril"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Arroz Cozido"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Ketchup"
-        }
-      ]
-    }
-  }
+  "protein": 14
 }

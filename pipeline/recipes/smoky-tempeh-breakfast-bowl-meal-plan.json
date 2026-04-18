@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "quinoa",
       "amount": 45,
-      "unit": "g",
+      "unitId": "g",
       "item": "Quinoa"
     },
     {
+      "id": "smoked-tempeh",
       "amount": 180,
-      "unit": "g",
+      "unitId": "g",
       "item": "Smoked Tempeh"
     },
     {
+      "id": "smoked-paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "olive-oil",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Olive Oil"
     },
     {
+      "id": "cherry-tomatoes",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cherry Tomatoes"
     },
     {
+      "id": "fresh-parsley",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Parsley"
     },
     {
+      "id": "edamame",
       "amount": 140,
-      "unit": "g",
+      "unitId": "g",
       "item": "Edamame"
     },
     {
+      "id": "lime",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "clove-garlic",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -119,102 +132,5 @@
   "calories": 560,
   "fat": 22,
   "carbs": 42,
-  "protein": 40,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Pequeno-Almoço com Tempeh Fumado (Meal Prep)",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "45g Quinoa",
-        "180g Tempeh Fumado",
-        "1c.c. Paprika Fumada",
-        "1c.s. Molho de Soja",
-        "1c.c. Xarope de Ácer",
-        "2c.c. Azeite",
-        "150g Tomates Cherry",
-        "10g Salsa Fresca",
-        "140g Edamame",
-        "0,5 Lima",
-        "1 Dente de Alho",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Preaqueça o forno a 200°C.",
-        "Passe a quinoa por água fria, depois cozinhe numa panela com água salgada a ferver durante 12-15 min até ficar fofa. Escorra e reserve.",
-        "Corte o tempeh em fatias e coloque numa tigela com a paprika fumada, o molho de soja, o xarope de ácer, metade do azeite e uma pitada de pimenta preta. Misture para cobrir, depois espalhe num lado de um tabuleiro.",
-        "Misture os tomates cherry com o restante azeite e sal e pimenta. Adicione ao outro lado do tabuleiro e leve ao forno 15 min até os tomates estarem macios e com bolhas e o tempeh dourado.",
-        "Pique finamente a maior parte da salsa, reservando algumas folhas para guarnição. Misture a salsa picada com a quinoa cozida.",
-        "Rale o alho e esprima a lima. Adicione ambos a um liquidificador com o edamame e uma pitada de sal e pimenta. Triture até ficar suave, adicionando um pouco de água se necessário para obter a consistência de guacamole.",
-        "Coloque a quinoa numa caixa hermética e cubra com os tomates assados e o tempeh estaladiço. Junte uma colherada generosa do guacamole de edamame e termine com o restante salsa. Sirva com um gomo de lima se gostar. Guarde no frigorífico — conserva-se até 3 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 45,
-          "unit": "g",
-          "item": "Quinoa"
-        },
-        {
-          "amount": 180,
-          "unit": "g",
-          "item": "Tempeh Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Azeite"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Tomates Cherry"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Salsa Fresca"
-        },
-        {
-          "amount": 140,
-          "unit": "g",
-          "item": "Edamame"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 40
 }

@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     },
     {
+      "id": "chicken-thigh",
       "amount": 1,
-      "unit": "kg",
+      "unitId": "kg",
       "item": "Chicken Thigh"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "lemon",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "kalamata-olives",
       "amount": 15,
-      "unit": null,
+      "unitId": null,
       "item": "kalamata Olives"
     },
     {
+      "id": "drained-cooked-butter-beans",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Butter Beans"
     },
     {
+      "id": "black-peppercorn",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Black Peppercorn"
     },
     {
+      "id": "ground-turmeric",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Turmeric"
     },
     {
+      "id": "white-wine",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "White Wine"
     },
     {
+      "id": "chicken-stock",
       "amount": 500,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Chicken Stock"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "bread",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Bread",
       "note": "to serve"
     }
@@ -120,107 +134,5 @@
   "calories": 490,
   "fat": 22,
   "carbs": 22,
-  "protein": 50,
-  "i18n": {
-    "pt": {
-      "name": "Frango Estufado com Limão e Azeitonas",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 colher de sopa de Azeite",
-        "1kg de Coxas de Frango",
-        "1 Cebola",
-        "8 Dentes de Alho",
-        "3 Limões",
-        "15 Azeitonas Kalamata",
-        "400g de Feijão Manteiga Cozido Escorrido",
-        "1 colher de sopa de Grãos de Pimenta Preta",
-        "1 colher de chá de Açafrão-da-Índia em Pó",
-        "100ml de Vinho Branco",
-        "500ml de Caldo de Frango",
-        "Sal",
-        "Pimenta Preta",
-        "Pão (para servir)"
-      ],
-      "steps": [
-        "Verta o azeite numa panela de fundo pesado e coloque em lume muito baixo. Adicione as coxas de frango com a pele para baixo (pode ser necessário fazê-lo em lotes). Cozinhe 10 minutos até a pele do frango estar muito estaladiça e a gordura ter rendido. Retire o frango e reserve num prato.",
-        "Entretanto, corte a cebola em cubos e fatie o alho. Esprima o sumo de 2/3 dos limões (deve ter 100ml de sumo) e corte o limão restante em fatias finas. Esmague as azeitonas com os dedos, retirando os caroços. Escorra o feijão manteiga, reservando o líquido.",
-        "Adicione a cebola à gordura do frango e cozinhe 5 minutos em lume médio-alto até ficar ligeiramente dourada. Adicione o alho, os grãos de pimenta preta e o açafrão-da-índia e cozinhe mais 2 minutos.",
-        "Verta o vinho branco para deglacear a panela e deixe o álcool cozinhar durante 5 minutos, ou até as cebolas estarem pegajosas.",
-        "Adicione o feijão manteiga à panela com o caldo de frango, o sumo de limão, as fatias de limão e as azeitonas. Cubra com o frango com a pele para cima. Tape e cozinhe 15 a 20 minutos até o frango estar cozido. Prove e tempere com sal e pimenta se necessário. Adicione um pouco do líquido do feijão se quiser um molho mais líquido.",
-        "Tempere com sal e pimenta preta antes de servir com pão fresco. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        },
-        {
-          "amount": 1,
-          "unit": "kg",
-          "item": "Coxa de Frango"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 15,
-          "unit": null,
-          "item": "Azeitonas Kalamata"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Feijão Manteiga Cozido e Escorrido"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Grãos de Pimenta Preta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cúrcuma em Pó"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Vinho Branco"
-        },
-        {
-          "amount": 500,
-          "unit": "ml",
-          "item": "Caldo de Frango"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pão"
-        }
-      ]
-    }
-  }
+  "protein": 50
 }

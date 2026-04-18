@@ -25,95 +25,113 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "medjool-date",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "medjool Date"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "carrot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "carrot"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "ground-coriander",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Coriander"
     },
     {
+      "id": "chilli-flakes",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "mushroom-broth",
       "amount": 500,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Mushroom Broth"
     },
     {
+      "id": "sweet-potato",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "sweet Potato"
     },
     {
+      "id": "chickpeas",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chickpeas"
     },
     {
+      "id": "chopped-tomatoes",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chopped Tomatoes"
     },
     {
+      "id": "giant-couscous",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Giant Couscous"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper",
       "note": "to serve"
     }
@@ -151,132 +169,5 @@
   "calories": 480,
   "fat": 6,
   "carbs": 86,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Sopa Marroquina de Batata-Doce e Grão-de-Bico",
-      "mealType": "almoço",
-      "ingredients": [
-        "4 Tâmaras Medjool",
-        "1 Cebola Roxa",
-        "1 Cenoura",
-        "2 Dentes de Alho",
-        "1 colher de chá de Canela em Pó",
-        "1 colher de chá de Cominhos em Pó",
-        "1 colher de chá de Coentros em Pó",
-        "0,5 colher de chá de Flocos de Malagueta",
-        "500ml de Caldo de Cogumelos",
-        "1 Batata-Doce",
-        "1 Lata de 400g de Grão-de-Bico",
-        "1 Lata de 400g de Tomate Picado",
-        "50g de Cuscuz Gigante",
-        "1 Limão",
-        "15g de Coentros Frescos",
-        "Azeite (para servir)",
-        "Sal (para servir)",
-        "Pimenta Preta (para servir)"
-      ],
-      "steps": [
-        "Retire o caroço das tâmaras e pique-as finamente com o alho, a cebola e a cenoura.",
-        "Adicione as cebolas e um fio generoso de azeite a uma panela antiaderente em lume médio-baixo. Cozinhe até ficarem ligeiramente translúcidas. Adicione as cenouras e uma pitada de sal, depois cozinhe mais 2 minutos.",
-        "Adicione o alho, as especiarias e as tâmaras picadas com um pouco de caldo de cogumelos. Refogue lentamente, mexendo, durante 8 a 10 minutos até as cebolas e as cenouras estarem muito macias.",
-        "Entretanto, lave e corte as batatas-doces. Escorra o grão-de-bico.",
-        "Aumente o lume para médio e adicione as batatas-doces, o tomate picado, o grão-de-bico, o caldo de vegetais e o cuscuz gigante. Deixe fervilhar até as batatas-doces estarem macias com um garfo e o cuscuz estiver cozido (cerca de 8 a 10 minutos).",
-        "Desligue o lume. Pique grosseiramente os coentros e misture. Tempere com sal e pimenta preta e esprima o limão diretamente para a panela.",
-        "Deixe a sopa repousar 7 a 8 minutos antes de servir."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Tâmara Medjool"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cenoura"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Coentros em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 500,
-          "unit": "ml",
-          "item": "Caldo de Cogumelos"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Batata-Doce"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Grão-de-Bico"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Tomates Picados"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Cuscuz Gigante"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

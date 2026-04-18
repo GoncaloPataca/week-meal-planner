@@ -17,55 +17,65 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "broccoli",
       "amount": 2,
-      "unit": "head",
+      "unitId": "head",
       "item": "Broccoli"
     },
     {
+      "id": "olive-oil",
       "amount": 75,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Olive Oil"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "black-olive",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Black Olive"
     },
     {
+      "id": "anchovy",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "anchovy"
     },
     {
+      "id": "chilli",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "Chilli"
     },
     {
+      "id": "lemon",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "salt",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "Salt",
       "note": "to serve"
     },
     {
+      "id": "black-pepper",
       "amount": 1,
-      "unit": "pinch",
+      "unitId": "pinch",
       "item": "Black Pepper",
       "note": "to serve"
     },
     {
+      "id": "rigatoni",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rigatoni"
     }
   ],
@@ -95,85 +105,5 @@
   "calories": 540,
   "fat": 22,
   "carbs": 68,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Rigatoni com Brócolos",
-      "mealType": "jantar",
-      "ingredients": [
-        "2 Cabeças de Brócolos",
-        "75ml Azeite",
-        "2 Dentes de Alho",
-        "4c.s. Azeitonas Pretas",
-        "4 Anchovas",
-        "1 Pitada de Malagueta",
-        "0,5 Limão",
-        "1 Pitada de Sal (para servir)",
-        "1 Pitada de Pimenta Preta (para servir)",
-        "400g Rigatoni"
-      ],
-      "steps": [
-        "Leve uma panela grande com água bem salgada a ferver (deve ter um sabor agradavelmente salgado). Corte as flores dos brócolos e corte as maiores ao meio — pode deixar as pequenas inteiras.",
-        "Descasque e descarte a pele dura do caule dos brócolos e corte o caule restante em tiras de cerca de 1 cm de espessura. Corte as tiras ao meio no comprimento e na largura para obter retângulos do tamanho de um polegar.",
-        "Quando a água ferver, junte as flores e os pedaços de caule e cozinhe cerca de 5 min até ficarem bem macios — deve conseguir espetar um garfo facilmente.",
-        "Entretanto, coloque uma frigideira grande em lume médio-baixo e adicione o azeite. Pique grosseiramente as azeitonas. Agora tem duas opções: esmague ligeiramente o alho mas deixe-o inteiro para remover depois (mais suave), ou pique o alho e adicione tudo (mais forte). De qualquer forma, adicione o alho ao azeite com as azeitonas, a malagueta e as anchovas.",
-        "Deixe o alho cozinhar suavemente alguns minutos, mas não deixe alourar. As anchovas dissolverão no azeite e os brócolos devem estar prontos; use uma escumadeira para os tirar da água e colocá-los diretamente na frigideira com o alho, garantindo que entra um bom golpe de água.",
-        "Adicione a massa à água dos brócolos e cozinhe al dente. Entretanto, esmague os brócolos com as costas de uma colher de pau para criar um molho cremoso com o azeite e a água. Esprema o sumo de limão e desligue o lume até a massa estar pronta.",
-        "Quando al dente, adicione a massa à frigideira com os brócolos mais um pouco de água de cozer. Misture bem em lume médio até a massa estar com um bom molho. Prove e adicione mais sal se necessário.",
-        "Sirva com um fio de azeite, pimenta e uma pitada extra de malagueta, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": "cabeça",
-          "item": "Brócolos"
-        },
-        {
-          "amount": 75,
-          "unit": "ml",
-          "item": "Azeite"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Azeitona Preta"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Anchova"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "Malagueta"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "Sal"
-        },
-        {
-          "amount": 1,
-          "unit": "pitada",
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Rigatoni"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

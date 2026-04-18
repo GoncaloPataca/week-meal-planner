@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "peanut-butter",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Peanut Butter"
     },
     {
+      "id": "pitted-date",
       "amount": 80,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pitted Date"
     },
     {
+      "id": "hemp-seeds",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Hemp Seeds"
     },
     {
+      "id": "ground-flaxseed",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Ground Flaxseed"
     },
     {
+      "id": "water",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "frozen-mixed-berries",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Mixed Berries"
     },
     {
+      "id": "chia-seed",
       "amount": 140,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "vanilla-greek-yoghurt",
       "amount": 450,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Greek Yoghurt"
     },
     {
+      "id": "mixed-nuts",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Nuts"
     },
     {
+      "id": "ground-cinnamon",
       "amount": 0.25,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cinnamon"
     },
     {
+      "id": "honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -99,92 +111,5 @@
   "calories": 430,
   "fat": 24,
   "carbs": 38,
-  "protein": 19,
-  "i18n": {
-    "pt": {
-      "name": "Pudim de Chia com Frutos Vermelhos",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "70g Manteiga de Amendoim",
-        "80g Tâmaras sem Caroço",
-        "50g Sementes de Cânhamo",
-        "2c.s. Linhaça Moída",
-        "400ml Água",
-        "250g Frutos Vermelhos Congelados Variados",
-        "140g Sementes de Chia",
-        "450g Iogurte Grego de Baunilha",
-        "100g Frutos Secos Variados",
-        "0,25c.c. Canela em Pó",
-        "2c.s. Mel",
-        "Sal"
-      ],
-      "steps": [
-        "Adicione todos os ingredientes do smoothie a um liquidificador e triture até ficar suave. Misture as sementes de chia e verta para caixas/frascos, tape e leve ao frigorífico até as sementes de chia incharem e a mistura engrossar.",
-        "Pique ou esmague grosseiramente os frutos secos. Coloque numa frigideira seca em lume médio e cozinhe, mexendo, até ficarem torrados, 5-6 min. Retire do lume e misture a canela e o mel até ficarem uniformemente cobertos. Tempere com um toque de sal, coloque num prato e deixe arrefecer completamente. Transfira para um recipiente hermético e conserve à temperatura ambiente.",
-        "Quando quiser servir, cubra o pudim de chia com iogurte grego de baunilha e os frutos secos com canela."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": 80,
-          "unit": "g",
-          "item": "Tâmara sem Caroço"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes de Cânhamo"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Linhaça Moída"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Frutos Vermelhos Mistos Congelados"
-        },
-        {
-          "amount": 140,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 450,
-          "unit": "g",
-          "item": "Iogurte Grego de Baunilha"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Frutos Secos Mistos"
-        },
-        {
-          "amount": 0.25,
-          "unit": "c. chá",
-          "item": "Canela em Pó"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 19
 }

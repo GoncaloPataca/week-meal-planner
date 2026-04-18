@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "roasted-red-pepper",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Roasted Red Pepper"
     },
     {
+      "id": "sweetcorn",
       "amount": 160,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sweetcorn"
     },
     {
+      "id": "halloumi",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "cooked-quinoa",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cooked Quinoa"
     },
     {
+      "id": "hot-honey",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Hot Honey"
     },
     {
+      "id": "lime",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -98,82 +108,5 @@
   "calories": 620,
   "fat": 32,
   "carbs": 48,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Halloumi Picante com Milho e Quinoa",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Frasco de 350g de Pimentos Vermelhos Assados",
-        "160g de Milho Doce",
-        "250g de Halloumi",
-        "250g de Quinoa Cozida",
-        "2 colheres de sopa de Mel Picante",
-        "0,5 Lima",
-        "15g de Coentros Frescos",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Coloque uma frigideira em lume médio com um fio de azeite. Escorra o milho.",
-        "Corte o halloumi ao longo da ranhura e em cubos de 2 cm. Adicione à frigideira quente com o milho e cozinhe 3 a 4 minutos até o halloumi estar dourado de todos os lados.",
-        "Entretanto, aqueça a quinoa. Escorra e pique grosseiramente os pimentos assados e os coentros. Misture os três com um pouco de sumo de lima e um fio de azeite. Tempere com sal e pimenta preta.",
-        "Retire a frigideira do lume e envolva o halloumi com o mel picante. Prove e tempere com sal se necessário.",
-        "Coloque a mistura de quinoa nos pratos e cubra com o halloumi picante e o milho. Termine com raspa de lima e um gomo de lima ao lado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Pimento Vermelho Assado"
-        },
-        {
-          "amount": 160,
-          "unit": "g",
-          "item": "Milho Doce"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Quinoa Cozida"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Mel Picante"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

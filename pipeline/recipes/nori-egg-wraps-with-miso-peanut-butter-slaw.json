@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "peanut-butter",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Peanut Butter"
     },
     {
+      "id": "white-miso",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Miso"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Honey"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "rainbow-slaw-mix",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rainbow Slaw Mix"
     },
     {
+      "id": "fresh-coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "egg",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "wrap-nori-seaweed",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "wrap Nori Seaweed"
     },
     {
+      "id": "sriracha",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sriracha",
       "note": "to serve"
     }
@@ -102,89 +113,5 @@
   "calories": 470,
   "fat": 28,
   "carbs": 22,
-  "protein": 30,
-  "i18n": {
-    "pt": {
-      "name": "Wraps de Nori com Ovo e Coleslaw de Miso e Amendoim",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "1 Lima",
-        "1 colher de sopa de Manteiga de Amendoim",
-        "1 colher de sopa de Miso Branco",
-        "1 colher de sopa de Molho de Soja",
-        "1 colher de chá de Mel",
-        "2 Ceboletes",
-        "200g de Mix de Coleslaw Arco-Íris",
-        "10g de Coentros Frescos",
-        "6 Ovos",
-        "4 Folhas de Alga Nori",
-        "Sriracha (para servir)"
-      ],
-      "steps": [
-        "Rale finamente a lima e depois esprima o sumo para uma tigela. Misture a manteiga de amendoim, o miso, dois terços do molho de soja e o mel.",
-        "Corte finamente as ceboletes. Misture o coleslaw arco-íris no molho. Incorpore as folhas de coentros e metade das ceboletes.",
-        "Bata os ovos com o terço restante de molho de soja.",
-        "Coloque uma folha de nori numa frigideira antiaderente de 26 cm para que o wrap caiba bem na base. Verta metade dos ovos, usando o lado côncavo de uma colher para distribuir uniformemente o ovo pelo wrap, empurrando para os cantos tanto quanto possível.",
-        "Polvilhe com as ceboletes restantes, depois tape bem e cozinhe 2 a 3 minutos até os ovos estarem firmes e fofinhos. Deslize para um prato e repita com a folha de nori restante e a mistura de ovos.",
-        "Assim que tiver terminado toda a mistura de ovos, pegue em cada omelete de nori e coloque outra folha de nori por cima, fazendo um sanduíche com o ovo no meio, depois coloque o coleslaw no centro e enrole. Sirva com sriracha, se gostar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amendoim"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mel"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Mistura de Coleslaw Colorida"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Alga Nori para Wrap"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sriracha"
-        }
-      ]
-    }
-  }
+  "protein": 30
 }

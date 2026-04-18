@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "spinach",
       "amount": 705,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "fresh-dill",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Dill"
     },
     {
+      "id": "fresh-mint",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "cottage-cheese",
       "amount": 600,
-      "unit": "g",
+      "unitId": "g",
       "item": "Cottage Cheese"
     },
     {
+      "id": "egg",
       "amount": 19,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "feta",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Feta"
     },
     {
+      "id": "toasted-sesame-seeds",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Toasted Sesame Seeds"
     },
     {
+      "id": "flour-tortilla",
       "amount": 8,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -121,111 +135,5 @@
   "calories": 520,
   "fat": 26,
   "carbs": 32,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Wraps de Pequeno-Almoço Spanakopita",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "705g Espinafres",
-        "2 Cebolas",
-        "6 Dentes de Alho",
-        "50g Endro Fresco",
-        "50g Hortelã Fresca",
-        "1 Limão",
-        "600g Queijo Cottage",
-        "19 Ovos",
-        "400g Feta",
-        "4c.s. Sementes de Sésamo Torradas",
-        "8 Tortilhas de Trigo",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Preaqueça o forno a 180°C ventilado. Triture o queijo cottage num liquidificador até ficar suave. Parta todos os ovos (menos um) para uma tigela grande e bata bem. Incorpore o queijo cottage triturado e tempere generosamente com sal e pimenta.",
-        "Separe o último ovo — bata a clara e reserve para mais tarde. Adicione a gema à mistura de ovos.",
-        "Forre um tabuleiro grande com papel vegetal. Verta a mistura de ovos e leve ao forno 15 min até ficar fofa e dourada. Rode o tabuleiro e asse mais 5 min para cozinhar uniformemente. Deixe arrefecer ligeiramente se servir imediatamente, ou completamente se preparar com antecedência.",
-        "Enquanto os ovos estão no forno, descasque e pique finamente as cebolas e o alho. Pique finamente o endro e a hortelã. Rale a casca do limão e reserve.",
-        "Aqueça um fio de azeite numa frigideira grande em lume médio. Adicione a cebola e o alho picados, tempere com uma pitada de sal e cozinhe 10 min até ficarem macios e ligeiramente dourados.",
-        "Coloque um escorredor grande sobre o lava-loiça. Adicione os espinafres em lotes e regue com água a ferver para murchar. Quando estiver suficientemente frio para manusear, esprema o máximo de líquido possível. Pique grosseiramente os espinafres murchados e reserve.",
-        "Adicione os espinafres à frigideira com a cebola e o alho. Misture o endro, a hortelã, a raspa de limão e o feta esfarelado. Tempere generosamente — o feta aguenta bem!",
-        "Corte a folha de ovos assada em retângulos iguais. Aqueça as tortilhas numa frigideira seca ou no micro-ondas até ficarem macias. Coloque uma fatia de ovo no centro de cada wrap, cubra com o recheio de espinafres e feta, dobre as laterais e enrole firmemente como um burrito.",
-        "Aqueça uma frigideira seca em lume médio. Coloque cada wrap com a dobra para baixo e cozinhe 2-3 min para selar. Pincele os topos com a clara de ovo reservada, polvilhe com sementes de sésamo e frite na fritadeira de ar a 200°C durante 5 min até ficarem dourados e estaladiços.",
-        "Retire qualquer papel de alumínio, embrulhe em papel de cozinha húmido e aqueça no micro-ondas 2 min. Termine na fritadeira de ar a 180°C durante 7-8 min (ou no forno a 160°C durante 10 min) até estarem bem quentes. Para Meal Prep: monte e sele os wraps, depois guarde no frigorífico num recipiente hermético até 4 dias."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 705,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Endro Fresco"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": 600,
-          "unit": "g",
-          "item": "Queijo Cottage"
-        },
-        {
-          "amount": 19,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Feta"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 8,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

@@ -19,63 +19,75 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sausage",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sausage"
     },
     {
+      "id": "chilli-flakes",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Flakes"
     },
     {
+      "id": "campanelle",
       "amount": 400,
-      "unit": "g",
+      "unitId": "g",
       "item": "Campanelle"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "savoy-cabbage",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Savoy Cabbage"
     },
     {
+      "id": "mirin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Mirin"
     },
     {
+      "id": "red-miso-paste",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Red Miso Paste"
     },
     {
+      "id": "butter",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Butter"
     },
     {
+      "id": "parmesan",
       "amount": 75,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Olive Oil"
     }
   ],
@@ -108,96 +120,5 @@
   "calories": 680,
   "fat": 34,
   "carbs": 64,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Massa com Manteiga de Miso e Salsicha",
-      "mealType": "jantar",
-      "ingredients": [
-        "400g de Salsichas",
-        "0,5 colher de chá de Flocos de Malagueta",
-        "400g de Campanelle",
-        "4 Dentes de Alho",
-        "200g de Couve Savoy",
-        "1 colher de chá de Mirin",
-        "3 colheres de sopa de Pasta de Miso Vermelho",
-        "50g de Manteiga",
-        "75g de Parmesão",
-        "Sal",
-        "Pimenta Preta",
-        "1 colher de sopa de Azeite"
-      ],
-      "steps": [
-        "Aqueça o azeite numa frigideira em lume médio-alto. Retire a carne das salsichas das tripas e adicione à frigideira com os flocos de malagueta, cozinhe até ficar bem dourada, cerca de 6 minutos.",
-        "Adicione a massa em água salgada a ferver e cozinhe durante 8 minutos, ou conforme indicado nas instruções da embalagem.",
-        "Entretanto, corte a couve em pedaços grandes de 5 cm.",
-        "Rale o alho e adicione com a couve. Misture bem até a couve murchar.",
-        "Misture o miso, o mirin e a manteiga com um bom fio de água de cozedura. Depois verta na salsicha dourada.",
-        "Adicione a massa cozida, rale o parmesão e bastante pimenta preta moída. Misture bem, adicionando mais água de cozedura se começar a ficar seco.",
-        "Sirva com mais parmesão e um pouco de pimenta preta."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Salsicha"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Flocos de Malagueta"
-        },
-        {
-          "amount": 400,
-          "unit": "g",
-          "item": "Campanelle"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Couve Savoy"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Mirin"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Pasta de Miso Vermelho"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 75,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

@@ -29,113 +29,135 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "rice-vinegar",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Rice Vinegar"
     },
     {
+      "id": "water",
       "amount": 100,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "salt",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Salt"
     },
     {
+      "id": "sugar",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Sugar"
     },
     {
+      "id": "cucumber",
       "amount": 0.25,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "apple",
       "amount": 0.5,
-      "unit": null,
+      "unitId": null,
       "item": "apple"
     },
     {
+      "id": "green-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "green Chilli"
     },
     {
+      "id": "teriyaki-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Teriyaki Sauce"
     },
     {
+      "id": "dark-soy-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Dark Soy Sauce"
     },
     {
+      "id": "lime-juice",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Lime Juice"
     },
     {
+      "id": "rice-vinegar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "pork-belly",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pork Belly"
     },
     {
+      "id": "egg-yolk",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "egg Yolk"
     },
     {
+      "id": "rice-vinegar",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "butter",
       "amount": 8,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Butter"
     },
     {
+      "id": "gochujang",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Gochujang"
     },
     {
+      "id": "lime-juice",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Lime Juice"
     },
     {
+      "id": "egg",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "crumpet",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "crumpet"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "sesame-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sesame Seeds",
       "note": "to serve"
     }
@@ -165,160 +187,5 @@
   "calories": 760,
   "fat": 52,
   "carbs": 32,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Barriga de Porco Benedict com Hollandaise de Gochujang",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "100ml de Vinagre de Arroz",
-        "100ml de Água",
-        "2 colheres de chá de Sal",
-        "2 colheres de chá de Açúcar",
-        "0,25 Pepino",
-        "0,5 Maçã",
-        "1 Malagueta Verde",
-        "2 colheres de sopa de Molho Teriyaki",
-        "1 colher de sopa de Molho de Soja Escuro",
-        "1 colher de sopa de Sumo de Lima",
-        "1 colher de chá de Vinagre de Arroz",
-        "500g de Barriga de Porco",
-        "2 Gemas de Ovo",
-        "2 colheres de chá de Vinagre de Arroz",
-        "8 colheres de sopa de Manteiga",
-        "2 colheres de sopa de Gochujang",
-        "1 colher de sopa de Sumo de Lima",
-        "4 Ovos",
-        "4 Crumpets",
-        "15g de Coentros Frescos",
-        "3 Ceboletes",
-        "Sementes de Sésamo (para servir)"
-      ],
-      "steps": [
-        "Corte o pepino e a maçã em fitas e fatie finamente a malagueta verde.",
-        "Adicione o acima a uma marinada de vinagre de arroz, água, sal e açúcar.",
-        "Prepare a marinada misturando o teriyaki, o molho de soja escuro, a lima e o vinagre de arroz.",
-        "Marine a barriga de porco (em tiras) antes de colocar num recipiente tapado e assar 45 minutos a 180°C.",
-        "Retire a tampa do recipiente e cozinhe mais 45 minutos até ficar escura e estaladiça.",
-        "Para fazer a hollandaise, bata vigorosamente as gemas de ovo e o vinagre de arroz até ficarem espumosas.",
-        "Noutra panela, derreta lentamente a manteiga e o gochujang juntos até ficarem mornos.",
-        "Verta gradualmente a mistura de manteiga derretida nas gemas e continue a bater. Assim que estiver misturado, reserve. Pode reaquecer lentamente mais tarde se necessário.",
-        "Escale os ovos até estarem quase prontos e reserve, deixando acabar de cozinhar.",
-        "Toste os crumpets e junte tudo.",
-        "Cubra o Benedict com sementes de sésamo (gostamos de uma mistura de brancas e pretas) e fatias compridas de cebolinha."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 100,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Sal"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 0.25,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 0.5,
-          "unit": null,
-          "item": "Maçã"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Verde"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho Teriyaki"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Soja Escuro"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sumo de Lima"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Barriga de Porco"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Gema de Ovo"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 8,
-          "unit": "c. sopa",
-          "item": "Manteiga"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Gochujang"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sumo de Lima"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Crumpet"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

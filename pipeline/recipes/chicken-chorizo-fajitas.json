@@ -20,68 +20,81 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chorizo",
       "amount": 225,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chorizo"
     },
     {
+      "id": "bell-pepper",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "bell Pepper"
     },
     {
+      "id": "red-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "avocado",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "avocado"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "fajita-seasoning",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Fajita Seasoning"
     },
     {
+      "id": "chicken-breast",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "flour-tortilla",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "sour-cream",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sour Cream"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -111,100 +124,5 @@
   "calories": 680,
   "fat": 40,
   "carbs": 38,
-  "protein": 36,
-  "i18n": {
-    "pt": {
-      "name": "Fajitas Picantes de Frango e Chouriço",
-      "ingredients": [
-        "225g Chouriço",
-        "2 Pimentos",
-        "1 Cebola Roxa",
-        "2 Abacates",
-        "1 Lima",
-        "1.5c.sopa Tempero para Fajitas",
-        "2 Peitos de Frango",
-        "4 Tortilhas de Farinha",
-        "100g Natas Azedas",
-        "15g Coentros Frescos",
-        "Sal",
-        "Pimenta Preta",
-        "Azeite"
-      ],
-      "steps": [
-        "Corte o abacate em pedaços e adicione a uma tigela com o sumo da lima. Tempere com sal e pimenta e esmague tudo junto.",
-        "Corte o chouriço em pedaços de 2-3cm e adicione a uma frigideira grande. Coloque em lume médio e frite até a gordura se libertar e ficarem ligeiramente crocantes.",
-        "Entretanto, corte os pimentos e a cebola em fatias. Corte o frango em fatias finas. Quando o chouriço ficar crocante, misture os pimentos e a cebola. Cozinhe, mexendo, até ficarem macios, 4-6 minutos.",
-        "Quando os legumes estiverem macios, adicione o frango e o tempero para fajitas. Tempere com sal e salteie até o frango estar cozido, 4-6 minutos. Prove e ajuste o sal se necessário.",
-        "Coloque uma colher de guacamole na tortilha, depois adicione a mistura de fajita, as natas azedas e polvilhe com coentros. Dobre os lados e enrole firmemente. Para selar, coloque de volta na frigideira em lume médio, com a emenda para baixo, e cozinhe até selar. Embrulhe em papel vegetal ou folha de alumínio antes de servir."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 225,
-          "unit": "g",
-          "item": "Chouriço"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Pimento"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Tempero de Fajita"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Natas Azedas"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 36
 }

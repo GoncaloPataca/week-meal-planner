@@ -15,43 +15,51 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "vanilla-protein-powder",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vanilla Protein Powder"
     },
     {
+      "id": "almond-milk",
       "amount": 200,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Almond Milk"
     },
     {
+      "id": "skyr-natural-yoghurt",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Skyr Natural Yoghurt"
     },
     {
+      "id": "blueberry",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Blueberry"
     },
     {
+      "id": "raspberry",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Raspberry"
     },
     {
+      "id": "pineapple",
       "amount": 100,
-      "unit": "g",
+      "unitId": "g",
       "item": "Pineapple"
     },
     {
+      "id": "chia-seed",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "whole-flaxseed",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Whole Flaxseed"
     }
   ],
@@ -76,67 +84,5 @@
   "calories": 390,
   "fat": 7,
   "carbs": 44,
-  "protein": 38,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Smoothie de Alta Proteína",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "50g de Proteína em Pó de Baunilha",
-        "200ml de Leite de Amêndoa",
-        "350g de Skyr Natural",
-        "100g de Mirtilos",
-        "100g de Framboesas",
-        "100g de Ananás",
-        "10g de Sementes de Chia",
-        "10g de Linhaça Inteira"
-      ],
-      "steps": [
-        "Adicione todos os ingredientes a um liquidificador. Triture até ficar liso e cremoso. Se preferir uma consistência mais fina, adicione um pouco mais de leite de amêndoa. Esprima um pouco de sumo de limão para um extra de frescura e verta para uma tigela.",
-        "Termine com os toppings. Usámos fruta, granola, manteiga de amendoim, um fio de mel e mais sementes de chia para um extra de crocância. Mas adicione o que preferir."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Proteína em Pó de Baunilha"
-        },
-        {
-          "amount": 200,
-          "unit": "ml",
-          "item": "Leite de Amêndoa"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Skyr Natural"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Mirtilo"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Framboesa"
-        },
-        {
-          "amount": 100,
-          "unit": "g",
-          "item": "Ananás"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Linhaça Inteira"
-        }
-      ]
-    }
-  }
+  "protein": 38
 }

@@ -23,84 +23,100 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cucumber",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "baby-gem-lettuce",
       "amount": 2,
-      "unit": "head",
+      "unitId": "head",
       "item": "Baby Gem Lettuce"
     },
     {
+      "id": "celery",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "celery"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "sugar-snap-pea",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sugar Snap Pea"
     },
     {
+      "id": "green-apple",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "green Apple"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "fresh-mint",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "microwavable-brown-rice",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Microwavable Brown Rice"
     },
     {
+      "id": "halloumi",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "toasted-sesame-seed",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Toasted Sesame Seed",
       "note": "to serve"
     },
     {
+      "id": "avocado",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "avocado"
     },
     {
+      "id": "green-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "green Chilli"
     },
     {
+      "id": "fresh-coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "fresh-mint",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Mint"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     }
   ],
@@ -134,117 +150,5 @@
   "calories": 450,
   "fat": 26,
   "carbs": 36,
-  "protein": 16,
-  "i18n": {
-    "pt": {
-      "name": "Salada Picada Green Goddess",
-      "mealType": "almoço",
-      "ingredients": [
-        "1 Pepino",
-        "2 Cabeças de Alface Baby Gem",
-        "4 Talos de Aipo",
-        "3 Cebolinhas Verdes",
-        "200g de Ervilhas Tortas",
-        "1 Maçã Verde",
-        "15g de Coentros Frescos",
-        "15g de Hortelã Fresca",
-        "200g de Arroz Integral de Micro-ondas",
-        "200g de Halloumi",
-        "Sementes de Sésamo Torradas (para servir)",
-        "1 Abacate",
-        "1 Malagueta Verde",
-        "10g de Coentros Frescos",
-        "10g de Hortelã Fresca",
-        "1 Limão"
-      ],
-      "steps": [
-        "Corte o pepino ao meio na vertical e use uma colher para retirar o centro. Coloque o pepino, a alface, os talos de aipo, as cebolinhas verdes e as ervilhas tortas numa tábua. Corte as partes laterais da maçã e adicione à tábua. Pique tudo até ficarem do mesmo tamanho. Coloque numa tigela e adicione o arroz integral.",
-        "Para o molho, corte o abacate ao meio, retire o caroço e coloque a polpa num liquidificador com a malagueta verde, as folhas de ervas e o sumo de limão. Tempere generosamente com sal e pimenta.",
-        "Verta o molho sobre a salada e misture bem.",
-        "Se quiser cobrir com halloumi, corte em cubos de 2 cm e frite numa frigideira seca em lume alto até ficar dourado de todos os lados. Coloque por cima da salada e polvilhe com sementes de sésamo torradas."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 2,
-          "unit": "cabeça",
-          "item": "Alface Baby Gem"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Aipo"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Ervilhas Tortas"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Maçã Verde"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Arroz Integral de Micro-ondas"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo Tostadas"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Abacate"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Verde"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Hortelã Fresca"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        }
-      ]
-    }
-  }
+  "protein": 16
 }

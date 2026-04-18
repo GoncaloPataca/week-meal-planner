@@ -21,74 +21,88 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "clove-garlic",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 70,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "beef-meatball",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "beef Meatball"
     },
     {
+      "id": "dried-oregano",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Oregano"
     },
     {
+      "id": "chicken-stock-cube",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Stock Cube"
     },
     {
+      "id": "dried-thyme",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Dried Thyme"
     },
     {
+      "id": "reduced-fat-red-pesto",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Reduced-Fat Red Pesto"
     },
     {
+      "id": "single-cream",
       "amount": 50,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Single Cream"
     },
     {
+      "id": "spaghetti",
       "amount": 180,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spaghetti"
     },
     {
+      "id": "fresh-basil",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Basil"
     },
     {
+      "id": "parmesan",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Parmesan",
       "note": "to serve"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -118,110 +132,5 @@
   "calories": 670,
   "fat": 28,
   "carbs": 76,
-  "protein": 32,
-  "i18n": {
-    "pt": {
-      "name": "Esparguete com Almôndegas 'Marry Me'",
-      "mealType": "jantar",
-      "ingredients": [
-        "1 Cebola",
-        "2 Dentes de Alho",
-        "1 Frasco de 70g de Tomate Seco",
-        "6 Almôndegas de Vaca",
-        "1 colher de chá de Orégãos Secos",
-        "1 Cubo de Caldo de Frango",
-        "1 colher de chá de Tomilho Seco",
-        "2 colheres de sopa de Pesto Vermelho Light",
-        "50ml de Natas Simples",
-        "180g de Esparguete",
-        "10g de Manjericão Fresco",
-        "30g de Parmesão (para servir)",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pique a cebola finamente, esmague os dentes de alho e corte os tomates secos em pedaços.",
-        "Verta um fio de óleo do frasco do tomate seco numa frigideira grande em lume médio. Adicione as almôndegas e frite cerca de 10 minutos até ficarem bem douradas e cozidas. Transfira as almôndegas para um prato e reserve.",
-        "Entretanto, coloque uma panela grande de água a ferver em lume alto, depois adicione o cubo de caldo e mexa para dissolver.",
-        "Volte a colocar a frigideira vazia no fogão e reduza o lume para baixo-médio. Adicione mais um fio de óleo do tomate seco, depois a cebola e o alho e frite cerca de 7 minutos até amolecerem.",
-        "Adicione o esparguete à água a ferver e cozinhe seguindo as instruções da embalagem.",
-        "Adicione os tomates secos, os orégãos, o tomilho, o pesto, sal e pimenta à frigideira com a cebola e o alho. Volte a colocar as almôndegas e mexa para envolver, depois verta as natas e um par de conchas de água de cozedura. Mexa e leve a um fervilhar suave.",
-        "Entretanto, pique grosseiramente o manjericão.",
-        "Escorra o esparguete cozido e adicione à frigideira com o molho, juntamente com metade do manjericão picado e um pouco da água de cozedura. Misture bem para combinar.",
-        "Para servir, divida o esparguete pelas tigelas e cubra com o manjericão restante e parmesão ralado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 70,
-          "unit": "g",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Almôndega de Carne"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Orégãos Secos"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cubo de Caldo de Frango"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Tomilho Seco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Pesto Vermelho Light"
-        },
-        {
-          "amount": 50,
-          "unit": "ml",
-          "item": "Natas Simples"
-        },
-        {
-          "amount": 180,
-          "unit": "g",
-          "item": "Esparguete"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Manjericão Fresco"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Parmesão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 32
 }

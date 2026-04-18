@@ -27,103 +27,123 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "chicken-breast",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "chicken Breast"
     },
     {
+      "id": "water",
       "amount": 650,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "fine-salt",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Fine Salt"
     },
     {
+      "id": "spring-onion",
       "amount": 3,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "stick-celery",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "stick Celery"
     },
     {
+      "id": "cucumber",
       "amount": 0.75,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     },
     {
+      "id": "fresh-coriander",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "white-miso",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "White Miso"
     },
     {
+      "id": "mayonnaise",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Mayonnaise"
     },
     {
+      "id": "tahini",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Tahini"
     },
     {
+      "id": "tabtbsp-sesame-seeds",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "tabtbsp Sesame Seeds"
     },
     {
+      "id": "slice-sourdough",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "slice Sourdough"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "microwave-rice",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Microwave Rice"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Crispy Chilli Oil"
     },
     {
+      "id": "cucumber",
       "amount": 0.25,
-      "unit": null,
+      "unitId": null,
       "item": "cucumber"
     }
   ],
@@ -148,141 +168,5 @@
   "calories": 610,
   "fat": 22,
   "carbs": 52,
-  "protein": 48,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Arroz com Frango Desfiado, Miso e Cebolinho",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Peitos de Frango",
-        "650ml Água",
-        "2 Cebolinhos",
-        "2 Dentes de Alho",
-        "1c.c. Sal Fino",
-        "3 Cebolinhos",
-        "1 Talo de Aipo",
-        "0,75 Pepino",
-        "10g Coentros Frescos",
-        "1c.s. Miso Branco",
-        "2c.s. Maionese",
-        "1c.c. Tahini",
-        "1c.s. Sementes de Sésamo",
-        "2 Fatias de Pão de Fermentação Lenta",
-        "Sal",
-        "Pimenta Preta",
-        "1 Saqueta de 250g de Arroz para Micro-ondas",
-        "2 Cebolinhos",
-        "1c.s. Óleo de Malagueta Estaladiça",
-        "0,25 Pepino"
-      ],
-      "steps": [
-        "Coloque a água, dois cebolinhos, o alho e o sal fino numa panela grande em lume alto. Leve a ferver, depois junte os peitos de frango. Volte a ferver, tape e desligue o lume. Deixe sem mexer 25 min — o calor residual cozinhará o frango. Com uma pinça, retire o frango e deixe arrefecer.",
-        "Entretanto, fatie finamente os cebolinhos restantes e o aipo. Pique grosseiramente os coentros e 3/4 do pepino, fatiando o resto finamente para guarnição.",
-        "Quando o frango estiver frio o suficiente para manusear, desfie em pedaços com dois garfos. Numa tigela, misture o frango, o miso, a maionese e o tahini até ficar bem coberto. Junte 3/4 dos cebolinhos picados, o aipo, os coentros, o pepino e as sementes de sésamo, mexendo até ficar cremoso e consistente. Tempere com pimenta preta e um pouco de sal se necessário.",
-        "Aqueça o arroz e distribua pelas tigelas. Junte uma colherada da mistura de frango com o pepino fatiado, os cebolinhos restantes e um fio de óleo de malagueta para terminar."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Peito de Frango"
-        },
-        {
-          "amount": 650,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Sal Fino"
-        },
-        {
-          "amount": 3,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Talo de Aipo"
-        },
-        {
-          "amount": 0.75,
-          "unit": null,
-          "item": "Pepino"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Miso Branco"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Maionese"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Tahini"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Fatia de Pão de Massa Mãe"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Arroz de Micro-ondas"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Malagueta Crocante"
-        },
-        {
-          "amount": 0.25,
-          "unit": null,
-          "item": "Pepino"
-        }
-      ]
-    }
-  }
+  "protein": 48
 }

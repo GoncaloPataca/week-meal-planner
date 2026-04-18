@@ -23,84 +23,100 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "rolled-oat",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Rolled Oat"
     },
     {
+      "id": "chia-seed",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chia Seed"
     },
     {
+      "id": "poppy-seed",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Poppy Seed"
     },
     {
+      "id": "water",
       "amount": 750,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "coconut-yoghurt",
       "amount": 350,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coconut Yoghurt"
     },
     {
+      "id": "maple-syrup",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Maple Syrup",
       "note": "to taste"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "coconut-flake",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coconut Flake"
     },
     {
+      "id": "sunflower-seeds",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sunflower Seeds"
     },
     {
+      "id": "sesame-seeds",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sesame Seeds"
     },
     {
+      "id": "maple-syrup",
       "amount": 15,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Maple Syrup"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "banana",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "banana"
     },
     {
+      "id": "coconut-oil",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Coconut Oil"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     }
   ],
@@ -127,118 +143,5 @@
   "calories": 510,
   "fat": 22,
   "carbs": 64,
-  "protein": 11,
-  "i18n": {
-    "pt": {
-      "name": "Aveia Noturna de Banana Caramelizada e Coco",
-      "ingredients": [
-        "250g Aveia em Flocos",
-        "50g Sementes de Chia",
-        "50g Sementes de Papoila",
-        "750ml Água",
-        "350g Iogurte de Coco",
-        "Xarope de Ácer (a gosto)",
-        "Sal",
-        "30g Flocos de Coco",
-        "15g Sementes de Girassol",
-        "30g Sementes de Sésamo",
-        "15ml Xarope de Ácer",
-        "Sal",
-        "4 Banana",
-        "1c.sopa Óleo de Coco",
-        "1c.sopa Xarope de Ácer",
-        "Sal"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C.",
-        "Para a aveia, misture o iogurte, a água, a aveia e as sementes de chia e papoila; tempere com o xarope de ácer e sal a gosto. Cubra e refrigere durante pelo menos 4 horas, ou de um dia para o outro.",
-        "Para a cobertura, adicione os flocos de coco e as sementes de girassol num tabuleiro. Quando o forno estiver quente, coloque no forno e asse durante 7 a 10 minutos até tostarem. Retire, regue com o xarope de ácer e sal, misture e coloque de volta no forno por mais 3 a 5 minutos. Deixe arrefecer completamente antes de transferir para um frasco.",
-        "Para a banana, descasque e corte em rodelas de 1cm. Coloque uma frigideira em lume médio com o óleo de coco. Quando estiver quente, adicione a banana e frite de um lado durante 5 a 7 minutos até caramelizar, depois adicione o xarope de ácer, mexa, tempere com sal e retire do lume.",
-        "Quando a aveia tiver engrossado, distribua por frascos ou recipientes, coloque as bananas por cima e polvilhe com a cobertura de coco tostado. Bom proveito!"
-      ],
-      "mealType": "pequeno-almoço",
-      "ingredientsParsed": [
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Flocos de Aveia"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes de Chia"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Sementes de Papoila"
-        },
-        {
-          "amount": 750,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 350,
-          "unit": "g",
-          "item": "Iogurte de Coco"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Flocos de Coco"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Sementes de Girassol"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": 15,
-          "unit": "ml",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Banana"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Óleo de Coco"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        }
-      ]
-    }
-  }
+  "protein": 11
 }

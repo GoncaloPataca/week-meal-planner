@@ -25,93 +25,111 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "fresh-ginger",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "shallot",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "extra-firm-tofu",
       "amount": 280,
-      "unit": "g",
+      "unitId": "g",
       "item": "Extra-Firm Tofu"
     },
     {
+      "id": "soy-sauce",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "tenderstem-broccoli",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tenderstem Broccoli"
     },
     {
+      "id": "thai-red-curry-paste",
       "amount": 4,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Thai Red Curry Paste"
     },
     {
+      "id": "water",
       "amount": 700,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Water"
     },
     {
+      "id": "sambal-oelek",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sambal Oelek"
     },
     {
+      "id": "smooth-peanut-butter",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Smooth Peanut Butter"
     },
     {
+      "id": "agave-nectar",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Agave Nectar"
     },
     {
+      "id": "vegetable-stock-cube",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "vegetable Stock Cube"
     },
     {
+      "id": "vegan-fish-sauce",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Vegan Fish Sauce"
     },
     {
+      "id": "flat-rice-noodle",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Flat Rice Noodle"
     },
     {
+      "id": "peanut",
       "amount": 20,
-      "unit": "g",
+      "unitId": "g",
       "item": "Peanut"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "coconut-milk",
       "amount": 400,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Coconut Milk"
     }
   ],
@@ -149,131 +167,5 @@
   "calories": 470,
   "fat": 22,
   "carbs": 48,
-  "protein": 18,
-  "i18n": {
-    "pt": {
-      "name": "Sopa de Noodles com Caril Vermelho Tailandês Rápido",
-      "mealType": "jantar",
-      "ingredients": [
-        "4 Dentes de Alho",
-        "20g Gengibre Fresco",
-        "1 Chalota",
-        "280g Tofu Extra-Firme",
-        "2c.c. Molho de Soja",
-        "200g Brócolos Tenderstem",
-        "4c.s. Pasta de Caril Vermelho Tailandês",
-        "700ml Água",
-        "1c.s. Sambal Oelek",
-        "1c.s. Manteiga de Amendoim Lisa",
-        "1c.c. Néctar de Agave",
-        "1 Cubo de Caldo de Legumes",
-        "1c.s. Molho de Peixe Vegan",
-        "200g Noodles de Arroz Planos",
-        "20g Amendoim",
-        "15g Coentros Frescos",
-        "2 Limas",
-        "400ml Leite de Coco"
-      ],
-      "steps": [
-        "Corte o tofu em cubos pequenos. Pique finamente a chalota e triture o alho e o gengibre. Pique grosseiramente os amendoins torrados e reserve.",
-        "Adicione um fio de óleo vegetal a uma frigideira quente. Junte o tofu e metade do molho de soja, depois cozinhe 3-5 min em lume médio até dourar de todos os lados. Retire o tofu e reserve.",
-        "Adicione um pouco mais de óleo à mesma frigideira e frite a chalota picada 5 min até amolecer. Adicione o alho e o gengibre triturados e cozinhe, mexendo frequentemente, 3 min até perfumar mas sem dourar. Adicione a pasta de caril e cozinhe 2-3 min, mexendo frequentemente.",
-        "Adicione a água, o sambal oelek, o restante molho de soja, o cubo de caldo, o agave, a manteiga de amendoim, o molho de peixe vegan e o leite de coco à frigideira, depois ferva suavemente 5 min.",
-        "Adicione os brócolos e cozinhe 5 min, depois adicione os noodles e cozinhe 1 min ou até amolecerem.",
-        "Distribua pelas tigelas e sirva coberto com o tofu, os amendoins picados, os coentros e bastante raspa e sumo de lima."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 280,
-          "unit": "g",
-          "item": "Tofu Extra Firme"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Brócolos Tenderstem"
-        },
-        {
-          "amount": 4,
-          "unit": "c. sopa",
-          "item": "Pasta de Caril Vermelho Tailandês"
-        },
-        {
-          "amount": 700,
-          "unit": "ml",
-          "item": "Água"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sambal Oelek"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Manteiga de Amendoim Suave"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Néctar de Agave"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cubo de Caldo de Legumes"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Molho de Peixe Vegan"
-        },
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Noodles de Arroz Planos"
-        },
-        {
-          "amount": 20,
-          "unit": "g",
-          "item": "Amendoim"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": 400,
-          "unit": "ml",
-          "item": "Leite de Coco"
-        }
-      ]
-    }
-  }
+  "protein": 18
 }

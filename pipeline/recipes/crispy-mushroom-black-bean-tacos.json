@@ -30,120 +30,143 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "mixed-mushroom",
       "amount": 200,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Mushroom"
     },
     {
+      "id": "garlic-powder",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garlic Powder"
     },
     {
+      "id": "chipotle-chilli-flake",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chipotle Chilli Flake"
     },
     {
+      "id": "smoked-paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "onion"
     },
     {
+      "id": "garlic-clove",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "garlic Clove"
     },
     {
+      "id": "tomato-pure",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tomato Purée"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "chilli-powder",
       "amount": 0.5,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Chilli Powder"
     },
     {
+      "id": "sun-dried-tomato",
       "amount": 50,
-      "unit": "g",
+      "unitId": "g",
       "item": "Sun-Dried Tomato"
     },
     {
+      "id": "drained-cooked-black-beans",
       "amount": 240,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Black Beans"
     },
     {
+      "id": "soy-sauce",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "frozen-pea",
       "amount": 220,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Pea"
     },
     {
+      "id": "tahini",
       "amount": 30,
-      "unit": "g",
+      "unitId": "g",
       "item": "Tahini"
     },
     {
+      "id": "lime-juice",
       "amount": 22,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Lime Juice"
     },
     {
+      "id": "fresh-jalapeo",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Jalapeño"
     },
     {
+      "id": "corn-tortilla",
       "amount": 5,
-      "unit": null,
+      "unitId": null,
       "item": "corn Tortilla"
     },
     {
+      "id": "pickled-red-onion",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Pickled Red Onion",
       "note": "to serve"
     },
     {
+      "id": "lime",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lime",
       "note": "to serve"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     }
   ],
@@ -178,161 +201,5 @@
   "calories": 520,
   "fat": 18,
   "carbs": 66,
-  "protein": 22,
-  "i18n": {
-    "pt": {
-      "name": "Tacos de Cogumelos Crocantes e Feijão Preto com Guacamole de Ervilha",
-      "ingredients": [
-        "200g Cogumelos Mistos",
-        "1c.chá Alho em Pó",
-        "1c.chá Flocos de Malagueta Chipotle",
-        "1c.chá Colorau Fumado",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta",
-        "1 Cebola",
-        "2 Dentes de Alho",
-        "1c.sopa Concentrado de Tomate",
-        "1c.chá Cominhos em Pó",
-        "0.5c.chá Pó de Malagueta",
-        "50g Tomate Seco",
-        "240g Feijão Preto Cozido Escorrido",
-        "1c.chá Molho de Soja",
-        "220g Ervilhas Congeladas",
-        "30g Tahini",
-        "22ml Sumo de Lima",
-        "15g Jalapeño Fresco",
-        "5 Tortilhas de Milho",
-        "Cebola Roxa em Conserva (para servir)",
-        "1 Lima (para servir)",
-        "Azeite"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 200°C. Corte grosseiramente os cogumelos e coloque-os num tabuleiro pequeno. Adicione todas as especiarias dos cogumelos e bastante azeite, sal e pimenta preta. Misture e asse durante 25-30 minutos até estarem dourados e caramelizados, mexendo pelo menos duas vezes.",
-        "Entretanto, prepare o feijão. Corte finamente a cebola e pique o alho. Frite a cebola numa panela grande com um pouco de azeite durante 8-10 minutos até amolecer, depois adicione o alho. Adicione o concentrado de tomate, o molho de soja e as especiarias e cozinhe por mais alguns minutos até os sabores se combinarem.",
-        "Adicione o tomate seco e o feijão escorrido. Lave a lata do feijão e encha-a a meio com água, depois adicione à panela. Cozinhe em lume brando durante cerca de 10 minutos até a maior parte do líquido ter evaporado e o feijão estar bem macio.",
-        "Para fazer o guacamole de ervilha, descongele as ervilhas e coloque todos os ingredientes num liquidificador pequeno e bata até ficar quase suave. Reserve.",
-        "Para montar, pincele um lado das tortilhas com azeite e aqueça nesse lado numa frigideira grande. Encha metade de cada tortilha com o feijão e os cogumelos, depois feche-as. Frite-as na frigideira em lume médio durante 2 minutos de cada lado até ficarem crocantes.",
-        "Sirva com o guacamole de ervilha, mais lima e picles, se gostar."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 200,
-          "unit": "g",
-          "item": "Cogumelos Mistos"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Alho em Pó"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Flocos de Chipotle"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Concentrado de Tomate"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. chá",
-          "item": "Pimentão Picante"
-        },
-        {
-          "amount": 50,
-          "unit": "g",
-          "item": "Tomate Seco"
-        },
-        {
-          "amount": 240,
-          "unit": "g",
-          "item": "Feijão Preto Cozido e Escorrido"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 220,
-          "unit": "g",
-          "item": "Ervilhas Congeladas"
-        },
-        {
-          "amount": 30,
-          "unit": "g",
-          "item": "Tahini"
-        },
-        {
-          "amount": 22,
-          "unit": "ml",
-          "item": "Sumo de Lima"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Jalapeño Fresco"
-        },
-        {
-          "amount": 5,
-          "unit": null,
-          "item": "Tortilha de Milho"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Cebola Roxa em Conserva"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        }
-      ]
-    }
-  }
+  "protein": 22
 }

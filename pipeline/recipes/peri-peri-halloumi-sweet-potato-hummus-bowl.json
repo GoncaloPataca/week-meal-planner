@@ -21,76 +21,90 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "sweet-potato",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "sweet Potato"
     },
     {
+      "id": "halloumi",
       "amount": 225,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "honey",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Honey"
     },
     {
+      "id": "peri-peri-seasoning",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Peri Peri Seasoning"
     },
     {
+      "id": "red-cabbage",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Red Cabbage"
     },
     {
+      "id": "lemon",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "hummus",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Hummus"
     },
     {
+      "id": "flatbread",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Flatbread"
     },
     {
+      "id": "red-chilli",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Red Chilli",
       "note": "to serve"
     },
     {
+      "id": "fresh-coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Coriander",
       "note": "to serve"
     },
     {
+      "id": "sesame-seeds",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Sesame Seeds",
       "note": "to serve"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -122,106 +136,5 @@
   "calories": 720,
   "fat": 36,
   "carbs": 64,
-  "protein": 28,
-  "i18n": {
-    "pt": {
-      "name": "Tigela de Halloumi Peri-Peri com Batata-Doce e Hummus",
-      "mealType": "almoço",
-      "ingredients": [
-        "2 Batatas-Doces",
-        "225g de Halloumi",
-        "1 colher de sopa de Mel",
-        "2 colheres de sopa de Tempero Peri-Peri",
-        "150g de Couve Roxa",
-        "2 Limões",
-        "Hummus",
-        "Pão Plano",
-        "Malagueta Vermelha (para servir)",
-        "15g de Coentros Frescos (para servir)",
-        "Sementes de Sésamo (para servir)",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 180°C.",
-        "Corte as batatas-doces em pedaços e coloque-os num tabuleiro. Regue com azeite e o sumo de metade dos limões, depois envolva com metade do tempero peri-peri e uma boa pitada de sal. Asse 25 a 30 minutos até ficarem dourados e macios.",
-        "Corte o halloumi em tiras grossas. Misture o mel e o restante tempero peri-peri numa tigela pequena. Quando os legumes estiverem quase prontos, coloque uma frigideira antiaderente em lume médio-alto com um fio de azeite. Adicione o halloumi e frite 2 a 3 minutos de cada lado até ficar dourado. Barre com a mistura de mel e frite mais 1 a 2 minutos até ficar pegajoso e caramelizado.",
-        "Corte finamente a couve roxa. Coloque numa tigela com um pouco de sumo de limão, ajustando a gosto. Tempere com sal e misture bem.",
-        "Coloque o hummus sobre dois terços da base da tigela e cubra com a batata-doce assada, os legumes cortados e o halloumi pegajoso. Adicione um pouco mais de mel peri-peri se gostar, depois termine com malagueta fatiada, coentros, um gomo de limão e sementes de sésamo. Sirva com pão plano tostado."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Batata-Doce"
-        },
-        {
-          "amount": 225,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Mel"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Tempero Peri-Peri"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Couve Roxa"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Hummus"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pão Pita"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros Frescos"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 28
 }

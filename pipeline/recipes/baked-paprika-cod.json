@@ -21,73 +21,87 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "cod",
       "amount": 4,
-      "unit": "fillet",
+      "unitId": "fillet",
       "item": "Cod"
     },
     {
+      "id": "smoked-paprika",
       "amount": 2,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "clove-garlic",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "clove Garlic"
     },
     {
+      "id": "frozen-pea",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Frozen Pea"
     },
     {
+      "id": "shallot",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "shallot"
     },
     {
+      "id": "chorizo",
       "amount": 125,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chorizo"
     },
     {
+      "id": "sherry-vinegar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sherry Vinegar"
     },
     {
+      "id": "chive",
       "amount": 25,
-      "unit": "g",
+      "unitId": "g",
       "item": "Chive"
     },
     {
+      "id": "yoghurt",
       "amount": 6,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Yoghurt"
     },
     {
+      "id": "mixed-cooked-grains",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mixed Cooked Grains"
     },
     {
+      "id": "lemon",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "lemon"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     }
   ],
@@ -117,108 +131,5 @@
   "calories": 535,
   "fat": 16,
   "carbs": 48,
-  "protein": 47,
-  "i18n": {
-    "pt": {
-      "name": "Bacalhau Assado com Colorau, Ervilhas e Molho Picante de Chouriço",
-      "ingredients": [
-        "4 Filetes de Bacalhau",
-        "2c.chá Colorau Fumado",
-        "4 Dentes de Alho",
-        "300g Ervilhas Congeladas",
-        "2 Chalotas",
-        "125g Chouriço",
-        "2c.sopa Vinagre de Jerez",
-        "25g Cebolinho",
-        "6c.sopa Iogurte",
-        "500g Mistura de Cereais Cozidos",
-        "1 Limão",
-        "Azeite",
-        "Sal",
-        "Pimenta Preta"
-      ],
-      "steps": [
-        "Pré-aqueça o forno a 220°C.",
-        "Seque os filetes de bacalhau com papel de cozinha e coloque-os num tabuleiro forrado com papel vegetal. Polvilhe com sal e o colorau fumado. Rale metade dos dentes de alho sobre o peixe e adicione um bom fio de azeite. Envolva o peixe nas especiarias e no alho. Reserve.",
-        "Cubra as ervilhas com água a ferver da chaleira. Pique finamente os restantes dentes de alho e as chalotas. Corte o chouriço em cubos de 1cm. Coloque o bacalhau no forno durante 10 a 11 minutos.",
-        "Enquanto o bacalhau cozinha, prepare o molho. Aqueça uma frigideira pequena em lume médio. Adicione o chouriço e cozinhe durante 5 a 6 minutos até estar crocante. Adicione as chalotas picadas e metade do alho picado e cozinhe durante 2 minutos. Adicione o vinagre de Jerez e as ervilhas descongeladas. Pique finamente o cebolinho e adicione metade ao molho.",
-        "Misture o iogurte com o restante alho picado, a raspa do limão e sal. Corte o limão em gomos para servir.",
-        "Aqueça os cereais de acordo com as instruções da embalagem. Retire o peixe cozido do forno.",
-        "Distribua os cereais por tigelas quentes. Coloque por cima um pedaço de bacalhau, um pouco de iogurte com alho e regue com o molho de chouriço e ervilhas. Termine com cebolinho e um gomo de limão."
-      ],
-      "mealType": "jantar",
-      "ingredientsParsed": [
-        {
-          "amount": 4,
-          "unit": "filete",
-          "item": "Bacalhau"
-        },
-        {
-          "amount": 2,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Dente de Alho"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Ervilhas Congeladas"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Chalota"
-        },
-        {
-          "amount": 125,
-          "unit": "g",
-          "item": "Chouriço"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinagre de Xerez"
-        },
-        {
-          "amount": 25,
-          "unit": "g",
-          "item": "Cebolinho"
-        },
-        {
-          "amount": 6,
-          "unit": "c. sopa",
-          "item": "Iogurte"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Cereais Mistos Cozidos"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Limão"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        }
-      ]
-    }
-  }
+  "protein": 47
 }

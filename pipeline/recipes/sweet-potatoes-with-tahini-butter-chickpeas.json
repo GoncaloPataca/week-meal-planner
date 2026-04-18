@@ -18,58 +18,69 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "vegan-butter",
       "amount": 40,
-      "unit": "g",
+      "unitId": "g",
       "item": "Vegan Butter"
     },
     {
+      "id": "tahini",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Tahini"
     },
     {
+      "id": "soy-sauce",
       "amount": 0.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "maple-syrup",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Maple Syrup"
     },
     {
+      "id": "lime-juice",
       "amount": 1,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Lime Juice"
     },
     {
+      "id": "sweet-potato",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "sweet Potato"
     },
     {
+      "id": "drained-cooked-chickpeas",
       "amount": 800,
-      "unit": "g",
+      "unitId": "g",
       "item": "Drained Cooked Chickpeas"
     },
     {
+      "id": "kale",
       "amount": 150,
-      "unit": "g",
+      "unitId": "g",
       "item": "Kale"
     },
     {
+      "id": "sesame-seeds",
       "amount": 3,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sesame Seeds"
     },
     {
+      "id": "crispy-chilli-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Crispy Chilli Oil"
     },
     {
+      "id": "spring-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "spring Onion"
     }
   ],
@@ -106,88 +117,5 @@
   "calories": 580,
   "fat": 23,
   "carbs": 75,
-  "protein": 20,
-  "i18n": {
-    "pt": {
-      "name": "Batata-Doce com Grão-de-Bico e Manteiga de Tahini",
-      "mealType": "almoço",
-      "ingredients": [
-        "40g Manteiga Vegan",
-        "3 c. sopa de Tahini",
-        "0,5 c. sopa de Molho de Soja",
-        "1 c. chá de Xarope de Ácer",
-        "1 c. sopa de Sumo de Lima",
-        "4 Batatas-Doces",
-        "2x 400g Lata de Grão-de-Bico Cozido e Escorrido",
-        "150g Couve Kale",
-        "3 c. sopa de Sementes de Sésamo",
-        "Óleo de Malagueta Crocante",
-        "2 Cebolinhas"
-      ],
-      "steps": [
-        "Faz furos nas batatas com um garfo e esfrega com um pouco de azeite, sal e pimenta. Podes cozinhá-las de três formas diferentes. O tempo varia consoante o tamanho da batata, por isso verifica antes do tempo mínimo. Forno: 200°C durante 40-50 minutos. Fritadeira de ar: 190°C durante 30-35 minutos, virando uma ou duas vezes. Micro-ondas: 9 minutos no total, virando a cada 3 minutos. Coloca a batata num prato próprio para micro-ondas com papel de cozinha por baixo para absorver a humidade.",
-        "Derrete a manteiga. Adiciona o tahini, o molho de soja, o xarope de ácer, o sumo de lima e 1 c. sopa de água morna a uma tigela e mistura bem. Pode coalhar mas continua a misturar e adiciona um pouco mais de água se precisares de tornar o molho mais líquido, pois cada marca de tahini é ligeiramente diferente. Continuaa a bater com um garfo ou um batedor pequeno até obteres um molho suave, cerca de 2 minutos.",
-        "Entretanto, prepara o grão-de-bico. Escorre o grão e coloca-o numa frigideira grande com um fio de azeite e tempera bem com sal e pimenta. Frita durante cerca de 8 minutos em lume médio até começar a dourar e a saltar. Adiciona a kale e mexe durante mais alguns minutos até murchar.",
-        "Quando as batatas estiverem cozidas e muito macias, coloca-as num prato e faz um corte longitudinal em cada uma. Podes adicionar um pouco de manteiga vegan ao centro de cada uma neste momento, se quiseres. Usa um garfo para achatar as batatas e tempera com sal e pimenta.",
-        "Distribui o grão-de-bico por cima das batatas e rega com bastante manteiga de tahini. Termina com óleo de malagueta crocante, se usares, sementes de sésamo e cebolinha finamente fatiada."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 40,
-          "unit": "g",
-          "item": "Manteiga Vegan"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Tahini"
-        },
-        {
-          "amount": 0.5,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Xarope de Ácer"
-        },
-        {
-          "amount": 1,
-          "unit": "c. sopa",
-          "item": "Sumo de Lima"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Batata-Doce"
-        },
-        {
-          "amount": 800,
-          "unit": "g",
-          "item": "Grão-de-Bico Cozido e Escorrido"
-        },
-        {
-          "amount": 150,
-          "unit": "g",
-          "item": "Couve Kale"
-        },
-        {
-          "amount": 3,
-          "unit": "c. sopa",
-          "item": "Sementes de Sésamo"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Óleo de Malagueta Crocante"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebolinha"
-        }
-      ]
-    }
-  }
+  "protein": 20
 }

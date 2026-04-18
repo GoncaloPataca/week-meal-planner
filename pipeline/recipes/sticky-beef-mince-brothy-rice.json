@@ -28,108 +28,129 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "beef-stock",
       "amount": 700,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Beef Stock"
     },
     {
+      "id": "fresh-ginger",
       "amount": 10,
-      "unit": "g",
+      "unitId": "g",
       "item": "Fresh Ginger"
     },
     {
+      "id": "star-anise",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "star Anise"
     },
     {
+      "id": "cardamom-pod",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "cardamom Pod"
     },
     {
+      "id": "beef-mince",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Beef Mince"
     },
     {
+      "id": "oyster-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Oyster Sauce"
     },
     {
+      "id": "sugar",
       "amount": 1.5,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sugar"
     },
     {
+      "id": "sriracha",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Sriracha"
     },
     {
+      "id": "beef-stock",
       "amount": 40,
-      "unit": "ml",
+      "unitId": "ml",
       "item": "Beef Stock"
     },
     {
+      "id": "soy-sauce",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Soy Sauce"
     },
     {
+      "id": "rice-vinegar",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Rice Vinegar"
     },
     {
+      "id": "butter",
       "amount": 2,
-      "unit": "tbsp",
+      "unitId": "tbsp",
       "item": "Butter"
     },
     {
+      "id": "olive-oil",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Olive Oil"
     },
     {
+      "id": "black-pepper",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Black Pepper"
     },
     {
+      "id": "salt",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Salt"
     },
     {
+      "id": "microwave-rice",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Microwave Rice"
     },
     {
+      "id": "brown-onion",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "brown Onion"
     },
     {
+      "id": "coriander",
       "amount": 15,
-      "unit": "g",
+      "unitId": "g",
       "item": "Coriander"
     },
     {
+      "id": "red-chilli",
       "amount": 1,
-      "unit": null,
+      "unitId": null,
       "item": "red Chilli"
     },
     {
+      "id": "lime",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "lime"
     },
     {
+      "id": "fish-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Fish Sauce",
       "note": "to taste"
     }
@@ -158,149 +179,5 @@
   "calories": 570,
   "fat": 24,
   "carbs": 52,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Carne Picada de Vaca Pegajosa com Arroz com Caldo",
-      "mealType": "jantar",
-      "ingredients": [
-        "700ml Caldo de Carne",
-        "10g Gengibre Fresco",
-        "1 Anis Estrelado",
-        "4 Vagens de Cardamomo",
-        "500g Carne Picada de Vaca",
-        "2c.s. Molho de Ostras",
-        "1,5c.s. Açúcar",
-        "2c.s. Sriracha",
-        "40ml Caldo de Carne",
-        "2c.s. Molho de Soja",
-        "2c.s. Vinagre de Arroz",
-        "2c.s. Manteiga",
-        "Azeite",
-        "Pimenta Preta",
-        "Sal",
-        "2 Saquetas de 250g de Arroz para Micro-ondas",
-        "1 Cebola",
-        "15g Coentros",
-        "1 Malagueta Vermelha",
-        "2 Limas",
-        "Molho de Peixe (a gosto)"
-      ],
-      "steps": [
-        "Fatie finamente a cebola e coloque numa tigela com água com gelo. Deixe ficar crocante enquanto prepara o resto. Esmague o gengibre com a lateral da faca e esmague suavemente as vagens de cardamomo.",
-        "Coloque uma panela em lume médio-alto e torre o anis estrelado e o cardamomo cerca de um minuto até perfumarem. Adicione o gengibre e um fio de azeite. Deixe ferver 30 segundos, depois verta o caldo de carne. Leve a ferver, reduza o lume e deixe ferver suavemente.",
-        "Coloque uma frigideira em lume alto com um fio de azeite. Adicione a carne picada e cozinhe, desfazendo, até estar bem alourada e começar a ficar estaladiça.",
-        "Misture o molho de ostras, o açúcar, a sriracha, o caldo de carne, o molho de soja e o vinagre de arroz numa tigela pequena. Verta o molho na frigideira com a carne e deixe borbulhar e reduzir até ficar pegajoso e caramelizado. Prove e tempere com sal e pimenta se necessário. Termine misturando a manteiga.",
-        "Distribua o arroz quente pelas tigelas. Mesmo antes de servir, tempere o caldo com sumo de lima e molho de peixe a gosto. Verta o caldo quente sobre o arroz e cubra com a carne.",
-        "Sirva com a cebola fatiada, os coentros e a malagueta vermelha fatiada, e gomos de lima extra se quiser mais acidez. Bom apetite!"
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 700,
-          "unit": "ml",
-          "item": "Caldo de Carne"
-        },
-        {
-          "amount": 10,
-          "unit": "g",
-          "item": "Gengibre Fresco"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Anis Estrelado"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Vagem de Cardamomo"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Carne Picada de Vaca"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Ostra"
-        },
-        {
-          "amount": 1.5,
-          "unit": "c. sopa",
-          "item": "Açúcar"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Sriracha"
-        },
-        {
-          "amount": 40,
-          "unit": "ml",
-          "item": "Caldo de Carne"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Molho de Soja"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Vinagre de Arroz"
-        },
-        {
-          "amount": 2,
-          "unit": "c. sopa",
-          "item": "Manteiga"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Azeite"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Pimenta Preta"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Sal"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Arroz de Micro-ondas"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Cebola Castanha"
-        },
-        {
-          "amount": 15,
-          "unit": "g",
-          "item": "Coentros"
-        },
-        {
-          "amount": 1,
-          "unit": null,
-          "item": "Malagueta Vermelha"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Lima"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho de Peixe"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }

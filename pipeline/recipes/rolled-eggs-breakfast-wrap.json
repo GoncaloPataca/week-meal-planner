@@ -17,53 +17,63 @@
   ],
   "ingredientsParsed": [
     {
+      "id": "egg",
       "amount": 6,
-      "unit": null,
+      "unitId": null,
       "item": "egg"
     },
     {
+      "id": "garam-masala",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Garam Masala"
     },
     {
+      "id": "flour-tortilla",
       "amount": 4,
-      "unit": null,
+      "unitId": null,
       "item": "flour Tortilla"
     },
     {
+      "id": "halloumi",
       "amount": 250,
-      "unit": "g",
+      "unitId": "g",
       "item": "Halloumi"
     },
     {
+      "id": "smoked-paprika",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Smoked Paprika"
     },
     {
+      "id": "ground-cumin",
       "amount": 1,
-      "unit": "tsp",
+      "unitId": "tsp",
       "item": "Ground Cumin"
     },
     {
+      "id": "mushroom",
       "amount": 500,
-      "unit": "g",
+      "unitId": "g",
       "item": "Mushroom"
     },
     {
+      "id": "red-onion",
       "amount": 2,
-      "unit": null,
+      "unitId": null,
       "item": "red Onion"
     },
     {
+      "id": "spinach",
       "amount": 300,
-      "unit": "g",
+      "unitId": "g",
       "item": "Spinach"
     },
     {
+      "id": "hot-sauce",
       "amount": null,
-      "unit": null,
+      "unitId": null,
       "item": "Hot Sauce",
       "note": "to serve"
     }
@@ -97,83 +107,5 @@
   "calories": 540,
   "fat": 28,
   "carbs": 36,
-  "protein": 34,
-  "i18n": {
-    "pt": {
-      "name": "Wrap de Pequeno-Almoço com Ovos Enrolados",
-      "mealType": "pequeno-almoço",
-      "ingredients": [
-        "6 Ovos",
-        "1c.c. Garam Masala",
-        "4 Tortilhas de Trigo",
-        "250g Halloumi",
-        "1c.c. Paprika Fumada",
-        "1c.c. Cominhos em Pó",
-        "500g Cogumelos",
-        "2 Cebolas Roxas",
-        "300g Espinafres",
-        "Molho Picante (para servir)"
-      ],
-      "steps": [
-        "Preaqueça o forno a 200°C.",
-        "Fatie finamente os cogumelos, corte cada cebola em oito gomos e coloque num tabuleiro untado (pode precisar de dois tabuleiros). Tempere com sal, pimenta, paprika fumada e cominhos. Misture e asse até dourarem e ficarem macios, 25-30 min.",
-        "Entretanto, parta os ovos para uma tigela e tempere com sal e garam masala. Bata. Verta água a ferver sobre os espinafres para murchar. Quando arrefecerem um pouco, esprema para retirar o excesso de água.",
-        "Coloque uma frigideira, aproximadamente do tamanho das tortilhas, em lume médio com um fio de azeite. Quando quente, adicione ovos batidos suficientes para cobrir o fundo da frigideira, faça rolar e deixe a base solidificar. Quando a parte de cima ainda estiver húmida, coloque a tortilha por cima e vire. Torre a tortilha alguns segundos, depois passe para um prato. Repita até todas as tortilhas estarem prontas.",
-        "Quando as tortilhas estiverem prontas, rale finamente o halloumi numa tira de um lado de cada omelete e cubra com os legumes assados, espinafres e molho picante. Enrole as tortilhas e embrulhe em papel de alumínio ou vegetal.",
-        "Estes wraps podem ser comidos frescos ou guardados no congelador até serem consumidos. Aqueça no micro-ondas a partir do congelado ou numa frigideira em lume médio-baixo até descongelar e estar bem quente."
-      ],
-      "ingredientsParsed": [
-        {
-          "amount": 6,
-          "unit": null,
-          "item": "Ovo"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Garam Masala"
-        },
-        {
-          "amount": 4,
-          "unit": null,
-          "item": "Tortilha de Farinha"
-        },
-        {
-          "amount": 250,
-          "unit": "g",
-          "item": "Halloumi"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Pimentão Fumado"
-        },
-        {
-          "amount": 1,
-          "unit": "c. chá",
-          "item": "Cominhos em Pó"
-        },
-        {
-          "amount": 500,
-          "unit": "g",
-          "item": "Cogumelos"
-        },
-        {
-          "amount": 2,
-          "unit": null,
-          "item": "Cebola Roxa"
-        },
-        {
-          "amount": 300,
-          "unit": "g",
-          "item": "Espinafres"
-        },
-        {
-          "amount": null,
-          "unit": null,
-          "item": "Molho Picante"
-        }
-      ]
-    }
-  }
+  "protein": 34
 }
