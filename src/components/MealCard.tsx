@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Disclosure } from '@headlessui/react'
 import { useTranslation } from 'react-i18next'
 import {
@@ -13,9 +13,51 @@ import {
 import { Meal } from '../types'
 import { downloadICS, ICSLabels } from '../utils/calendar'
 import translationsData from '../data/translations.json'
+import availabilityData from '../data/ingredient-availability.json'
 
 type Translations = Record<string, Record<string, string>>
 const tx = translationsData as unknown as Translations
+
+type StoreAvailability = { continente: boolean|null; auchan: boolean|null; pingodoce: boolean|null; lidl: boolean|null; aldi: boolean|null }
+const av = availabilityData as Record<string, StoreAvailability>
+
+// Google's favicon service gives reliable 32px icons for any domain
+const gFavicon = (domain: string) => `https://www.google.com/s2/favicons?domain=${domain}&sz=32`
+
+const STORES: { key: keyof StoreAvailability; name: string; logo: string }[] = [
+  { key: 'continente', name: 'Continente', logo: gFavicon('continente.pt') },
+  { key: 'auchan',     name: 'Auchan',     logo: gFavicon('auchan.pt') },
+  { key: 'pingodoce',  name: 'Pingo Doce', logo: gFavicon('pingodoce.pt') },
+  { key: 'lidl',       name: 'Lidl',       logo: gFavicon('lidl.pt') },
+  { key: 'aldi',       name: 'Aldi',       logo: gFavicon('aldi.pt') },
+]
+
+const STORE_NAMES = STORES.map(s => s.name).join(', ')
+
+type DisplayedIngredient = { id?: string; amount?: string; name: string; note?: string }
+
+function IngredientWhereToBuy({ id, open }: { id: string; open: boolean }) {
+  const entry = av[id]
+  if (!entry || STORES.every(s => entry[s.key] === null)) return null
+
+  const available = STORES.filter(s => entry[s.key] === true)
+
+  return (
+    <span className="block">
+      {open && (
+        <span className="flex flex-wrap items-center gap-2 mt-1 ml-0.5">
+          {available.length === 0 ? (
+            <span className="text-[11px] muted-themed italic">Not found at {STORE_NAMES}</span>
+          ) : (
+            available.map(s => (
+              <img key={s.key} src={s.logo} alt={s.name} title={s.name} className="w-5 h-5 rounded" />
+            ))
+          )}
+        </span>
+      )}
+    </span>
+  )
+}
 
 /** Resolve a translation key, falling back through languages then to the key itself. */
 function tr(key: string, lang: string): string {
@@ -42,7 +84,7 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
         const name   = tr(`ingredient:${p.id}`, lang)
         const unit   = p.unitId ? t(`units.${p.unitId}`) : ''
         const amount = p.amount != null ? `${p.amount}${unit ? '\u00a0' + unit : ''}` : undefined
-        return { amount, name, note: p.note }
+        return { id: p.id, amount, name, note: p.note }
       })
     }
 
@@ -158,16 +200,34 @@ export default function MealCard({ meal, dateISO }: { meal: Meal; dateISO: strin
                   {t('meal.ingredients')}
                 </h4>
                 <ul className="space-y-1.5">
-                  {displayedIngredients.map((ing, i) => (
-                    <li key={i} className="text-sm secondary-themed flex gap-2">
-                      <span className="muted-themed">•</span>
-                      <span>
-                        {ing.amount && <span className="font-medium heading-themed">{ing.amount}</span>}{' '}
-                        {ing.name}
-                        {(ing as any).note && <span className="muted-themed italic"> — {(ing as any).note}</span>}
-                      </span>
-                    </li>
-                  ))}
+                  {displayedIngredients.map((ing, i) => {
+                    const ingId: string | undefined = (ing as any).id
+                    const hasAvail = ingId && av[ingId] && STORES.some(s => av[ingId!][s.key] !== null)
+                    const [wtbOpen, setWtbOpen] = useState(false)
+                    return (
+                      <li key={i} className="text-sm secondary-themed">
+                        <div className="flex gap-2">
+                          <span className="muted-themed mt-0.5">•</span>
+                          <span className="flex-1">
+                            {ing.amount && <span className="font-medium heading-themed">{ing.amount}</span>}{' '}
+                            {ing.name}
+                            {(ing as any).note && <span className="muted-themed italic"> — {(ing as any).note}</span>}
+                            {hasAvail && (
+                              <button
+                                onClick={e => { e.stopPropagation(); setWtbOpen(o => !o) }}
+                                className="inline-flex items-center ml-1.5 align-middle tag-themed border rounded px-1 py-0.5 hover:opacity-80 transition-opacity focus:outline-none"
+                                style={{ borderColor: 'var(--border)' }}
+                                title={t('meal.whereToBuy')}
+                              >
+                                <ChevronDownIcon className={`w-2.5 h-2.5 transition-transform duration-150 ${wtbOpen ? '' : '-rotate-90'}`} />
+                              </button>
+                            )}
+                          </span>
+                        </div>
+                        {ingId && <IngredientWhereToBuy id={ingId} open={wtbOpen} />}
+                      </li>
+                    )
+                  })}
                 </ul>
               </div>
             )}
