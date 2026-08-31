@@ -1,2321 +1,4 @@
 {
-  "2026-08-10": [
-    {
-      "id": "breakfast-lemon-poppy-seed-sunshine-pots",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Lemon & Poppy Seed Sunshine Pots",
-      "servings": 4,
-      "cook": 10,
-      "tags": [
-        "breakfast",
-        "brunch",
-        "veggie",
-        "pescatarian",
-        "shellfish-free",
-        "allium-free",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "150g Lemon Curd",
-        "0.5tsp Ground Turmeric",
-        "0.25tsp Ground Cinnamon",
-        "0.25tsp Ground Cardamom",
-        "350g Greek Yoghurt",
-        "0.5 Lemon",
-        "3tbsp Poppy Seed",
-        "120g Granola"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "lemon-curd",
-          "amount": 150,
-          "unitId": "g"
-        },
-        {
-          "id": "ground-turmeric",
-          "amount": 0.5,
-          "unitId": "tsp"
-        },
-        {
-          "id": "ground-cinnamon",
-          "amount": 0.25,
-          "unitId": "tsp"
-        },
-        {
-          "id": "ground-cardamom",
-          "amount": 0.25,
-          "unitId": "tsp"
-        },
-        {
-          "id": "greek-yoghurt",
-          "amount": 350,
-          "unitId": "g"
-        },
-        {
-          "id": "lemon",
-          "amount": 0.5
-        },
-        {
-          "id": "poppy-seed",
-          "amount": 3,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "granola",
-          "amount": 120,
-          "unitId": "g"
-        }
-      ],
-      "steps": [
-        "recipe:lemon-poppy-seed-sunshine-pots:step:0",
-        "recipe:lemon-poppy-seed-sunshine-pots:step:1",
-        "recipe:lemon-poppy-seed-sunshine-pots:step:2",
-        "recipe:lemon-poppy-seed-sunshine-pots:step:3"
-      ],
-      "url": "https://www.mob.co.uk/recipes/lemon-poppy-seed-sunshine-pots",
-      "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Lemon-Poppy-Seed-Sunshine-Pots.jpg",
-      "calories": 280,
-      "protein": 10,
-      "carbs": 42,
-      "fat": 8
-    },
-    {
-      "id": "lunch-thai-red-curry-salmon-bites-with-lime-coconut-rice",
-      "label": "Lunch",
-      "time": "13:00",
-      "title": "Thai Red Curry Salmon with Lime & Coconut Rice",
-      "servings": 2,
-      "cook": 30,
-      "tags": [
-        "lunch",
-        "dinner",
-        "curry",
-        "rice",
-        "fish",
-        "lunch-box",
-        "meal-prep-experiment",
-        "salmon",
-        "meal-prep",
-        "gluten-free",
-        "dairy-free",
-        "nut-free",
-        "pescatarian",
-        "egg-free",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "2 Lime",
-        "4tbsp Thai Red Curry Paste",
-        "1tbsp Honey",
-        "50ml Water",
-        "150g Jasmine Rice",
-        "400ml Light Coconut Milk",
-        "100g Green Bean",
-        "2x 120g Skinless Salmon Fillet",
-        "15g Fresh Coriander",
-        "Olive Oil",
-        "Salt",
-        "Black Pepper"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "lime",
-          "amount": 2
-        },
-        {
-          "id": "thai-red-curry-paste",
-          "amount": 4,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "honey",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "water",
-          "amount": 50,
-          "unitId": "ml"
-        },
-        {
-          "id": "jasmine-rice",
-          "amount": 150,
-          "unitId": "g"
-        },
-        {
-          "id": "light-coconut-milk",
-          "amount": 400,
-          "unitId": "ml"
-        },
-        {
-          "id": "green-bean",
-          "amount": 100,
-          "unitId": "g"
-        },
-        {
-          "id": "salmon-fillet",
-          "amount": 240,
-          "unitId": "g"
-        },
-        {
-          "id": "fresh-coriander",
-          "amount": 15,
-          "unitId": "g"
-        },
-        {
-          "id": "olive-oil",
-          "amount": null
-        },
-        {
-          "id": "salt",
-          "amount": null
-        },
-        {
-          "id": "black-pepper",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:thai-red-curry-salmon-bites-with-lime-coconut-rice:step:0",
-        "recipe:thai-red-curry-salmon-bites-with-lime-coconut-rice:step:1",
-        "recipe:thai-red-curry-salmon-bites-with-lime-coconut-rice:step:2",
-        "recipe:thai-red-curry-salmon-bites-with-lime-coconut-rice:step:3",
-        "recipe:thai-red-curry-salmon-bites-with-lime-coconut-rice:step:4",
-        "recipe:thai-red-curry-salmon-bites-with-lime-coconut-rice:step:5"
-      ],
-      "url": "https://www.mob.co.uk/recipes/thai-red-curry-salmon-bites-with-lime-coconut-rice",
-      "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Thai-Red-Curry-Salmon-Bites-with-Lime-Coconut-Rice.jpg",
-      "calories": 695,
-      "protein": 37,
-      "carbs": 77,
-      "fat": 24
-    },
-    {
-      "id": "dinner-crispy-chicken-brown-rice-chickpeas-tzatziki",
-      "label": "Dinner",
-      "time": "20:00",
-      "title": "Crispy Chicken, Brown Rice, Chickpeas & Tzatziki",
-      "servings": 2,
-      "cook": 30,
-      "tags": [
-        "dinner",
-        "rice",
-        "high-protein-dinners",
-        "high-protein",
-        "most-cooked",
-        "aldi",
-        "content-drop",
-        "healthy",
-        "speedy",
-        "under-30-minutes",
-        "gluten-free",
-        "nut-free",
-        "shellfish-free",
-        "egg-free",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "1 Courgette",
-        "1 Red Onion",
-        "4 Bone-In Skin-On Chicken Thigh",
-        "15g Fresh Parsley",
-        "2 Lemon Wedge (to serve)",
-        ".5 Cucumber",
-        "200g 5% Fat Greek Yoghurt",
-        "1Clove Garlic",
-        "1 Lemon",
-        "250g Cooked Brown Rice",
-        "200g Chickpeas",
-        "1Clove Garlic",
-        "1tsp Smoked Paprika",
-        "1tsp Ground Cumin",
-        "1tsp Ground Coriander"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "courgette",
-          "amount": 1
-        },
-        {
-          "id": "red-onion",
-          "amount": 1
-        },
-        {
-          "id": "bone-in-skin-on-chicken-thigh",
-          "amount": 4
-        },
-        {
-          "id": "fresh-parsley",
-          "amount": 15,
-          "unitId": "g"
-        },
-        {
-          "id": "lemon-wedge",
-          "amount": 2,
-          "note": "to serve"
-        },
-        {
-          "id": "cucumber",
-          "amount": 0.5
-        },
-        {
-          "id": "5-fat-greek-yoghurt",
-          "amount": 200,
-          "unitId": "g"
-        },
-        {
-          "id": "clove-garlic",
-          "amount": 1
-        },
-        {
-          "id": "lemon",
-          "amount": 1
-        },
-        {
-          "id": "cooked-brown-rice",
-          "amount": 250,
-          "unitId": "g"
-        },
-        {
-          "id": "chickpeas",
-          "amount": 200,
-          "unitId": "g"
-        },
-        {
-          "id": "clove-garlic",
-          "amount": 1
-        },
-        {
-          "id": "smoked-paprika",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "ground-cumin",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "ground-coriander",
-          "amount": 1,
-          "unitId": "tsp"
-        }
-      ],
-      "steps": [
-        "recipe:crispy-chicken-brown-rice-chickpeas-tzatziki:step:0",
-        "recipe:crispy-chicken-brown-rice-chickpeas-tzatziki:step:1",
-        "recipe:crispy-chicken-brown-rice-chickpeas-tzatziki:step:2",
-        "recipe:crispy-chicken-brown-rice-chickpeas-tzatziki:step:3",
-        "recipe:crispy-chicken-brown-rice-chickpeas-tzatziki:step:4",
-        "recipe:crispy-chicken-brown-rice-chickpeas-tzatziki:step:5",
-        "recipe:crispy-chicken-brown-rice-chickpeas-tzatziki:step:6",
-        "recipe:crispy-chicken-brown-rice-chickpeas-tzatziki:step:7"
-      ],
-      "url": "https://www.mob.co.uk/recipes/crispy-chicken-brown-rice-chickpeas-tzatziki",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/12/Chicken-Brown-Rice-Tzatziki.jpg",
-      "calories": 680,
-      "protein": 54,
-      "carbs": 56,
-      "fat": 24
-    }
-  ],
-  "2026-08-11": [
-    {
-      "id": "breakfast-blueberry-almond-smoothie",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Blueberry & Almond Smoothie",
-      "servings": 1,
-      "cook": 5,
-      "tags": [
-        "breakfast",
-        "snacks",
-        "smoothies",
-        "healthy",
-        "speedy",
-        "veggie",
-        "pescatarian",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "75g Frozen Blueberries",
-        "75g Frozen Blackberry",
-        "50g Banana",
-        "160ml Almond Milk",
-        "30g Vanilla Protein Powder",
-        "15g Almond Butter",
-        "10g Chia Seed",
-        "5ml Water"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "frozen-blueberries",
-          "amount": 75,
-          "unitId": "g"
-        },
-        {
-          "id": "frozen-blackberry",
-          "amount": 75,
-          "unitId": "g"
-        },
-        {
-          "id": "banana",
-          "amount": 50,
-          "unitId": "g"
-        },
-        {
-          "id": "almond-milk",
-          "amount": 160,
-          "unitId": "ml"
-        },
-        {
-          "id": "vanilla-protein-powder",
-          "amount": 30,
-          "unitId": "g"
-        },
-        {
-          "id": "almond-butter",
-          "amount": 15,
-          "unitId": "g"
-        },
-        {
-          "id": "chia-seed",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "water",
-          "amount": 5,
-          "unitId": "ml"
-        }
-      ],
-      "steps": [
-        "recipe:blueberry-almond-smoothie:step:0",
-        "recipe:blueberry-almond-smoothie:step:1",
-        "recipe:blueberry-almond-smoothie:step:2"
-      ],
-      "url": "https://www.mob.co.uk/recipes/blueberry-almond-smoothie",
-      "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Blueberry-Almond-Smoothie.jpg",
-      "calories": 420,
-      "protein": 27,
-      "carbs": 40,
-      "fat": 12
-    },
-    {
-      "id": "lunch-korean-marinated-eggs",
-      "label": "Lunch",
-      "time": "13:00",
-      "title": "Korean Marinated Eggs (Mayak Eggs)",
-      "servings": 4,
-      "cook": 15,
-      "tags": [
-        "lunch",
-        "snacks",
-        "dinner",
-        "sides",
-        "eggs",
-        "most-cooked",
-        "midweek",
-        "prep-ahead-eggs",
-        "fakeaway",
-        "meal-prep",
-        "speedy",
-        "back-to-uni",
-        "under-30-minutes",
-        "under-20-minutes",
-        "actually-15-minutes",
-        "veggie",
-        "pescatarian",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "12 Egg",
-        "6 Garlic Clove",
-        "6 Spring Onion",
-        "4 Red Chilli",
-        "250ml Soy Sauce",
-        "100ml Water",
-        "3tbsp Rice Wine Vinegar",
-        "2tbsp Fish Sauce",
-        "100g Honey",
-        "40g Sesame Seeds",
-        "Cooked Rice (to serve)"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "egg",
-          "amount": 12
-        },
-        {
-          "id": "garlic-clove",
-          "amount": 6
-        },
-        {
-          "id": "spring-onion",
-          "amount": 6
-        },
-        {
-          "id": "red-chilli",
-          "amount": 4
-        },
-        {
-          "id": "soy-sauce",
-          "amount": 250,
-          "unitId": "ml"
-        },
-        {
-          "id": "water",
-          "amount": 100,
-          "unitId": "ml"
-        },
-        {
-          "id": "rice-wine-vinegar",
-          "amount": 3,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "fish-sauce",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "honey",
-          "amount": 100,
-          "unitId": "g"
-        },
-        {
-          "id": "sesame-seeds",
-          "amount": 40,
-          "unitId": "g"
-        },
-        {
-          "id": "cooked-rice",
-          "amount": null,
-          "note": "to serve"
-        }
-      ],
-      "steps": [
-        "recipe:korean-marinated-eggs:step:0",
-        "recipe:korean-marinated-eggs:step:1",
-        "recipe:korean-marinated-eggs:step:2",
-        "recipe:korean-marinated-eggs:step:3"
-      ],
-      "url": "https://www.mob.co.uk/recipes/korean-marinated-eggs",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/12/Korean-Marinated-Eggs.jpg",
-      "calories": 280,
-      "protein": 18,
-      "carbs": 22,
-      "fat": 14
-    },
-    {
-      "id": "dinner-marry-me-spaghetti-meatballs",
-      "label": "Dinner",
-      "time": "20:00",
-      "title": "“Marry Me” Spaghetti & Meatballs",
-      "servings": 2,
-      "cook": 20,
-      "tags": [
-        "dinner",
-        "pasta",
-        "meatballs",
-        "comfort",
-        "under-20-minutes",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "1 Onion",
-        "2Clove Garlic",
-        "1x 70g Jar Sun-Dried Tomato",
-        "6 Beef Meatball",
-        "1tsp Dried Oregano",
-        "1 Chicken Stock Cube",
-        "1tsp Dried Thyme",
-        "2tbsp Reduced-Fat Red Pesto",
-        "50ml Single Cream",
-        "180g Spaghetti",
-        "10g Fresh Basil",
-        "30g Parmesan (to serve)",
-        "Salt",
-        "Black Pepper"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "onion",
-          "amount": 1
-        },
-        {
-          "id": "clove-garlic",
-          "amount": 2
-        },
-        {
-          "id": "sun-dried-tomato",
-          "amount": 70,
-          "unitId": "g"
-        },
-        {
-          "id": "beef-meatball",
-          "amount": 6
-        },
-        {
-          "id": "dried-oregano",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "chicken-stock-cube",
-          "amount": 1
-        },
-        {
-          "id": "dried-thyme",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "reduced-fat-red-pesto",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "single-cream",
-          "amount": 50,
-          "unitId": "ml"
-        },
-        {
-          "id": "spaghetti",
-          "amount": 180,
-          "unitId": "g"
-        },
-        {
-          "id": "fresh-basil",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "parmesan",
-          "amount": 30,
-          "unitId": "g",
-          "note": "to serve"
-        },
-        {
-          "id": "salt",
-          "amount": null
-        },
-        {
-          "id": "black-pepper",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:marry-me-spaghetti-meatballs:step:0",
-        "recipe:marry-me-spaghetti-meatballs:step:1",
-        "recipe:marry-me-spaghetti-meatballs:step:2",
-        "recipe:marry-me-spaghetti-meatballs:step:3",
-        "recipe:marry-me-spaghetti-meatballs:step:4",
-        "recipe:marry-me-spaghetti-meatballs:step:5",
-        "recipe:marry-me-spaghetti-meatballs:step:6",
-        "recipe:marry-me-spaghetti-meatballs:step:7",
-        "recipe:marry-me-spaghetti-meatballs:step:8"
-      ],
-      "url": "https://www.mob.co.uk/recipes/marry-me-spaghetti-meatballs",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Marry-Me-Spaghetti-Meatballs.jpg",
-      "calories": 670,
-      "protein": 32,
-      "carbs": 76,
-      "fat": 28
-    }
-  ],
-  "2026-08-12": [
-    {
-      "id": "breakfast-pink-power-smoothie-bowl",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Berry Pink Power Smoothie Bowl",
-      "servings": 1,
-      "cook": 10,
-      "tags": [
-        "breakfast",
-        "brunch",
-        "snacks",
-        "drinks",
-        "smoothies",
-        "veggie",
-        "pescatarian",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "100g Frozen Strawberry",
-        "75g Frozen Raspberry",
-        "50g Pitted Frozen Cherries",
-        "100g Frozen Banana",
-        "40ml Almond Milk",
-        "60g Skyr Natural Yoghurt",
-        "30g Vanilla Protein Powder",
-        "10ml Lime Juice",
-        "10g Chia Seed",
-        "Strawberry",
-        "Coconut Flake",
-        "Granola",
-        "Chia Seed",
-        "Almond Butter"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "frozen-strawberry",
-          "amount": 100,
-          "unitId": "g"
-        },
-        {
-          "id": "frozen-raspberry",
-          "amount": 75,
-          "unitId": "g"
-        },
-        {
-          "id": "pitted-frozen-cherries",
-          "amount": 50,
-          "unitId": "g"
-        },
-        {
-          "id": "frozen-banana",
-          "amount": 100,
-          "unitId": "g"
-        },
-        {
-          "id": "almond-milk",
-          "amount": 40,
-          "unitId": "ml"
-        },
-        {
-          "id": "skyr-natural-yoghurt",
-          "amount": 60,
-          "unitId": "g"
-        },
-        {
-          "id": "vanilla-protein-powder",
-          "amount": 30,
-          "unitId": "g"
-        },
-        {
-          "id": "lime-juice",
-          "amount": 10,
-          "unitId": "ml"
-        },
-        {
-          "id": "chia-seed",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "strawberry",
-          "amount": null
-        },
-        {
-          "id": "coconut-flake",
-          "amount": null
-        },
-        {
-          "id": "granola",
-          "amount": null
-        },
-        {
-          "id": "chia-seed",
-          "amount": null
-        },
-        {
-          "id": "almond-butter",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:pink-power-smoothie-bowl:step:0",
-        "recipe:pink-power-smoothie-bowl:step:1",
-        "recipe:pink-power-smoothie-bowl:step:2"
-      ],
-      "url": "https://www.mob.co.uk/recipes/pink-power-smoothie-bowl",
-      "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Berry-Pink-Power-Smoothie-Bowl.jpg",
-      "calories": 390,
-      "protein": 32,
-      "carbs": 48,
-      "fat": 6
-    },
-    {
-      "id": "lunch-gochujang-tofu-rice-bowl",
-      "label": "Lunch",
-      "time": "13:00",
-      "title": "Gochujang Tofu Rice Bowl",
-      "servings": 4,
-      "cook": null,
-      "tags": [
-        "lunch",
-        "dinner",
-        "rice",
-        "midweek",
-        "fakeaway",
-        "healthy",
-        "comfort",
-        "vegan",
-        "veggie",
-        "pescatarian",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "1 Carrot",
-        "0.5 Cucumber",
-        "30g Radish",
-        "50g Sugar",
-        "150ml Apple Cider Vinegar",
-        "150ml Water",
-        "560g Firm Tofu",
-        "80g Cornflour",
-        "1tsp Garlic Powder",
-        "2Clove Garlic",
-        "2tbsp Gochujang",
-        "2tbsp Soy Sauce",
-        "3tbsp Tomato Ketchup",
-        "2tbsp Maple Syrup",
-        "1tbsp Rice Wine Vinegar",
-        "1tsp Sesame Oil",
-        "3tbsp Water",
-        "400g Sushi Rice",
-        "1 Spring Onion",
-        "Sesame Seeds (to serve)",
-        "Vegetable Oil"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "carrot",
-          "amount": 1
-        },
-        {
-          "id": "cucumber",
-          "amount": 0.5
-        },
-        {
-          "id": "radish",
-          "amount": 30,
-          "unitId": "g"
-        },
-        {
-          "id": "sugar",
-          "amount": 50,
-          "unitId": "g"
-        },
-        {
-          "id": "apple-cider-vinegar",
-          "amount": 150,
-          "unitId": "ml"
-        },
-        {
-          "id": "water",
-          "amount": 150,
-          "unitId": "ml"
-        },
-        {
-          "id": "firm-tofu",
-          "amount": 560,
-          "unitId": "g"
-        },
-        {
-          "id": "cornflour",
-          "amount": 80,
-          "unitId": "g"
-        },
-        {
-          "id": "garlic-powder",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "clove-garlic",
-          "amount": 2
-        },
-        {
-          "id": "gochujang",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "soy-sauce",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "tomato-ketchup",
-          "amount": 3,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "maple-syrup",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "rice-wine-vinegar",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "sesame-oil",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "water",
-          "amount": 3,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "sushi-rice",
-          "amount": 400,
-          "unitId": "g"
-        },
-        {
-          "id": "spring-onion",
-          "amount": 1
-        },
-        {
-          "id": "sesame-seeds",
-          "amount": null,
-          "note": "to serve"
-        },
-        {
-          "id": "vegetable-oil",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:gochujang-tofu-rice-bowl:step:0",
-        "recipe:gochujang-tofu-rice-bowl:step:1",
-        "recipe:gochujang-tofu-rice-bowl:step:2",
-        "recipe:gochujang-tofu-rice-bowl:step:3",
-        "recipe:gochujang-tofu-rice-bowl:step:4",
-        "recipe:gochujang-tofu-rice-bowl:step:5",
-        "recipe:gochujang-tofu-rice-bowl:step:6",
-        "recipe:gochujang-tofu-rice-bowl:step:7",
-        "recipe:gochujang-tofu-rice-bowl:step:8",
-        "recipe:gochujang-tofu-rice-bowl:step:9"
-      ],
-      "url": "https://www.mob.co.uk/recipes/gochujang-tofu-rice-bowl",
-      "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Gochujang-Tofu-Rice-Bowl.jpg",
-      "calories": 520,
-      "protein": 22,
-      "carbs": 74,
-      "fat": 14
-    },
-    {
-      "id": "dinner-smashed-prawn-tacos",
-      "label": "Dinner",
-      "time": "20:00",
-      "title": "Smashed Prawn Tacos",
-      "servings": 4,
-      "cook": null,
-      "tags": [
-        "dinner",
-        "tacos",
-        "under-30-minutes",
-        "pescatarian",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "500g Raw Prawn",
-        "3tsp Chipotle Paste",
-        "65g Sun-Dried Tomato",
-        "1tsp Cumin Seeds",
-        "1tbsp Fish Sauce",
-        "15g Fresh Coriander",
-        "200g Cabbage",
-        "3 Lime",
-        "2 Avocado",
-        "300g Cherry Tomatoes",
-        "12 Corn Tortilla",
-        "Olive Oil (to serve)",
-        "Salt (to serve)"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "raw-prawn",
-          "amount": 500,
-          "unitId": "g"
-        },
-        {
-          "id": "chipotle-paste",
-          "amount": 3,
-          "unitId": "tsp"
-        },
-        {
-          "id": "sun-dried-tomato",
-          "amount": 65,
-          "unitId": "g"
-        },
-        {
-          "id": "cumin-seeds",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "fish-sauce",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "fresh-coriander",
-          "amount": 15,
-          "unitId": "g"
-        },
-        {
-          "id": "cabbage",
-          "amount": 200,
-          "unitId": "g"
-        },
-        {
-          "id": "lime",
-          "amount": 3
-        },
-        {
-          "id": "avocado",
-          "amount": 2
-        },
-        {
-          "id": "cherry-tomatoes",
-          "amount": 300,
-          "unitId": "g"
-        },
-        {
-          "id": "corn-tortilla",
-          "amount": 12
-        },
-        {
-          "id": "olive-oil",
-          "amount": null,
-          "note": "to serve"
-        },
-        {
-          "id": "salt",
-          "amount": null,
-          "note": "to serve"
-        }
-      ],
-      "steps": [
-        "recipe:smashed-prawn-tacos:step:0",
-        "recipe:smashed-prawn-tacos:step:1",
-        "recipe:smashed-prawn-tacos:step:2",
-        "recipe:smashed-prawn-tacos:step:3",
-        "recipe:smashed-prawn-tacos:step:4"
-      ],
-      "url": "https://www.mob.co.uk/recipes/smashed-prawn-tacos",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/05/220A1751-1.jpg",
-      "calories": 540,
-      "protein": 28,
-      "carbs": 50,
-      "fat": 22
-    }
-  ],
-  "2026-08-13": [
-    {
-      "id": "breakfast-kedgeree",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Kedgeree",
-      "servings": 4,
-      "cook": 40,
-      "tags": [
-        "breakfast",
-        "brunch",
-        "curry",
-        "rice",
-        "eggs",
-        "fish",
-        "pescatarian",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "2 Egg",
-        "500g Undyed Smoked Haddock",
-        "200g Basmati Rice",
-        "1 Onion",
-        "4 Garlic Clove",
-        "15g Fresh Ginger",
-        "75g Butter",
-        "2tbsp Curry Powder",
-        "100g Frozen Pea",
-        "50g Fresh Coriander",
-        "1 Green Chilli",
-        "1 Lemon",
-        "Crispy Fried Onion (to serve)",
-        "Mango Chutney (to serve)",
-        "Lime Pickle (to serve)"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "egg",
-          "amount": 2
-        },
-        {
-          "id": "undyed-smoked-haddock",
-          "amount": 500,
-          "unitId": "g"
-        },
-        {
-          "id": "basmati-rice",
-          "amount": 200,
-          "unitId": "g"
-        },
-        {
-          "id": "onion",
-          "amount": 1
-        },
-        {
-          "id": "garlic-clove",
-          "amount": 4
-        },
-        {
-          "id": "fresh-ginger",
-          "amount": 15,
-          "unitId": "g"
-        },
-        {
-          "id": "butter",
-          "amount": 75,
-          "unitId": "g"
-        },
-        {
-          "id": "curry-powder",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "frozen-pea",
-          "amount": 100,
-          "unitId": "g"
-        },
-        {
-          "id": "fresh-coriander",
-          "amount": 50,
-          "unitId": "g"
-        },
-        {
-          "id": "green-chilli",
-          "amount": 1
-        },
-        {
-          "id": "lemon",
-          "amount": 1
-        },
-        {
-          "id": "crispy-fried-onion",
-          "amount": null,
-          "note": "to serve"
-        },
-        {
-          "id": "mango-chutney",
-          "amount": null,
-          "note": "to serve"
-        },
-        {
-          "id": "lime-pickle",
-          "amount": null,
-          "note": "to serve"
-        }
-      ],
-      "steps": [
-        "recipe:kedgeree:step:0",
-        "recipe:kedgeree:step:1",
-        "recipe:kedgeree:step:2",
-        "recipe:kedgeree:step:3",
-        "recipe:kedgeree:step:4",
-        "recipe:kedgeree:step:5"
-      ],
-      "url": "https://www.mob.co.uk/recipes/kedgeree",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Kedgeree.jpg",
-      "calories": 520,
-      "protein": 42,
-      "carbs": 42,
-      "fat": 20
-    },
-    {
-      "id": "lunch-emergency-gyoza-soup",
-      "label": "Lunch",
-      "time": "13:00",
-      "title": "Emergency Gyoza Soup",
-      "servings": 1,
-      "cook": null,
-      "tags": [
-        "lunch",
-        "dinner",
-        "soups",
-        "audit",
-        "healthy",
-        "speedy",
-        "under-20-minutes",
-        "wfh-lunch",
-        "actually-15-minutes",
-        "veggie",
-        "pescatarian",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "4 Vegetable Gyoza",
-        "1 Vegetable Stock Cube",
-        "1tbsp Soy Sauce",
-        "1tbsp Balsamic Vinegar",
-        "1tsp Crispy Chilli Oil",
-        "1 Egg",
-        "3 Spring Onion",
-        "1tsp Sesame Seeds",
-        "Crispy Chilli Oil (to taste, to serve, optional)"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "vegetable-gyoza",
-          "amount": 4
-        },
-        {
-          "id": "vegetable-stock-cube",
-          "amount": 1
-        },
-        {
-          "id": "soy-sauce",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "balsamic-vinegar",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "crispy-chilli-oil",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "egg",
-          "amount": 1
-        },
-        {
-          "id": "spring-onion",
-          "amount": 3
-        },
-        {
-          "id": "sesame-seeds",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "crispy-chilli-oil",
-          "amount": null,
-          "note": "to taste, to serve,",
-          "optional": true
-        }
-      ],
-      "steps": [
-        "recipe:emergency-gyoza-soup:step:0",
-        "recipe:emergency-gyoza-soup:step:1",
-        "recipe:emergency-gyoza-soup:step:2",
-        "recipe:emergency-gyoza-soup:step:3",
-        "recipe:emergency-gyoza-soup:step:4",
-        "recipe:emergency-gyoza-soup:step:5"
-      ],
-      "url": "https://www.mob.co.uk/recipes/emergency-gyoza-soup",
-      "image": "https://files.mob-cdn.co.uk/recipes/2021/12/Emergency-gyoza-soup1100.jpg",
-      "calories": 290,
-      "protein": 14,
-      "carbs": 32,
-      "fat": 10
-    },
-    {
-      "id": "dinner-jalepeno-coconut-chicken-thighs",
-      "label": "Dinner",
-      "time": "20:00",
-      "title": "Jalapeño & Coconut Chicken Thighs",
-      "servings": 4,
-      "cook": 45,
-      "tags": [
-        "dinner",
-        "chicken",
-        "traybake",
-        "midweek",
-        "dairy-free",
-        "nut-free",
-        "shellfish-free",
-        "egg-free",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "8Thigh Bone-In Skin-On Chicken Thigh",
-        "500g Cooked Rice",
-        "5 Jalapeño",
-        "5Clove Garlic",
-        "5g Fresh Ginger",
-        "2 Shallot",
-        "2tsp Ground Coriander",
-        "2tsp Ground Cumin",
-        "50g Coriander",
-        "1 Lime",
-        "400ml Coconut Milk",
-        "200ml Chicken Stock",
-        "2tbsp Desiccated Coconut",
-        "1 Lime",
-        "1 Jalapeño",
-        "Salt"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "thigh-bone-in-skin-on-chicken-thigh",
-          "amount": 8
-        },
-        {
-          "id": "cooked-rice",
-          "amount": 500,
-          "unitId": "g"
-        },
-        {
-          "id": "jalape-o",
-          "amount": 5
-        },
-        {
-          "id": "clove-garlic",
-          "amount": 5
-        },
-        {
-          "id": "fresh-ginger",
-          "amount": 5,
-          "unitId": "g"
-        },
-        {
-          "id": "shallot",
-          "amount": 2
-        },
-        {
-          "id": "ground-coriander",
-          "amount": 2,
-          "unitId": "tsp"
-        },
-        {
-          "id": "ground-cumin",
-          "amount": 2,
-          "unitId": "tsp"
-        },
-        {
-          "id": "coriander",
-          "amount": 50,
-          "unitId": "g"
-        },
-        {
-          "id": "lime",
-          "amount": 1
-        },
-        {
-          "id": "coconut-milk",
-          "amount": 400,
-          "unitId": "ml"
-        },
-        {
-          "id": "chicken-stock",
-          "amount": 200,
-          "unitId": "ml"
-        },
-        {
-          "id": "desiccated-coconut",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "lime",
-          "amount": 1
-        },
-        {
-          "id": "jalape-o",
-          "amount": 1
-        },
-        {
-          "id": "salt",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:jalepeno-coconut-chicken-thighs:step:0",
-        "recipe:jalepeno-coconut-chicken-thighs:step:1",
-        "recipe:jalepeno-coconut-chicken-thighs:step:2",
-        "recipe:jalepeno-coconut-chicken-thighs:step:3",
-        "recipe:jalepeno-coconut-chicken-thighs:step:4",
-        "recipe:jalepeno-coconut-chicken-thighs:step:5"
-      ],
-      "url": "https://www.mob.co.uk/recipes/jalepeno-coconut-chicken-thighs",
-      "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Jalapen%CC%83o-Coconut-Chicken-Thighs.jpg",
-      "calories": 670,
-      "protein": 46,
-      "carbs": 56,
-      "fat": 28
-    }
-  ],
-  "2026-08-14": [
-    {
-      "id": "breakfast-cheesy-okonomiyaki-recipe",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Cheesy Okonomiyaki Pancake",
-      "servings": 3,
-      "cook": 25,
-      "tags": [
-        "breakfast",
-        "brunch",
-        "lunch",
-        "pancakes",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "2tbsp Neutral Oil",
-        "125g Plain Flour",
-        "1tbsp Cornflour",
-        "1tsp Baking Powder",
-        "150ml Dashi",
-        "250g White Cabbage",
-        "4 Spring Onion",
-        "4 Shiitake Mushroom",
-        "15g Fresh Ginger",
-        "2 Egg",
-        "1tbsp Sesame Oil",
-        "1tbsp Soy Sauce",
-        "0.25tsp Salt",
-        "50g Cheddar Cheese",
-        "50g Mozzarella",
-        "2 Egg",
-        "50g Parmesan",
-        "2tbsp HP Sauce",
-        "2tbsp Kewpie Mayonnaise",
-        "Toasted Sesame Seed (to serve)",
-        "Chilli Flakes (to serve)",
-        "Pickle"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "neutral-oil",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "plain-flour",
-          "amount": 125,
-          "unitId": "g"
-        },
-        {
-          "id": "cornflour",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "baking-powder",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "dashi",
-          "amount": 150,
-          "unitId": "ml"
-        },
-        {
-          "id": "white-cabbage",
-          "amount": 250,
-          "unitId": "g"
-        },
-        {
-          "id": "spring-onion",
-          "amount": 4
-        },
-        {
-          "id": "shiitake-mushroom",
-          "amount": 4
-        },
-        {
-          "id": "fresh-ginger",
-          "amount": 15,
-          "unitId": "g"
-        },
-        {
-          "id": "egg",
-          "amount": 2
-        },
-        {
-          "id": "sesame-oil",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "soy-sauce",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "salt",
-          "amount": 0.25,
-          "unitId": "tsp"
-        },
-        {
-          "id": "cheddar-cheese",
-          "amount": 50,
-          "unitId": "g"
-        },
-        {
-          "id": "mozzarella",
-          "amount": 50,
-          "unitId": "g"
-        },
-        {
-          "id": "egg",
-          "amount": 2
-        },
-        {
-          "id": "parmesan",
-          "amount": 50,
-          "unitId": "g"
-        },
-        {
-          "id": "hp-sauce",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "kewpie-mayonnaise",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "toasted-sesame-seed",
-          "amount": null,
-          "note": "to serve"
-        },
-        {
-          "id": "chilli-flakes",
-          "amount": null,
-          "note": "to serve"
-        },
-        {
-          "id": "pickle",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:cheesy-okonomiyaki-recipe:step:0",
-        "recipe:cheesy-okonomiyaki-recipe:step:1",
-        "recipe:cheesy-okonomiyaki-recipe:step:2",
-        "recipe:cheesy-okonomiyaki-recipe:step:3",
-        "recipe:cheesy-okonomiyaki-recipe:step:4",
-        "recipe:cheesy-okonomiyaki-recipe:step:5"
-      ],
-      "url": "https://www.mob.co.uk/recipes/cheesy-okonomiyaki-recipe",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Cheesy-Okonomiyaki-Recipe.jpg",
-      "calories": 590,
-      "protein": 26,
-      "carbs": 36,
-      "fat": 36
-    },
-    {
-      "id": "lunch-10-minute-smoky-harissa-creamy-butter-beans-lunch",
-      "label": "Lunch",
-      "time": "13:00",
-      "title": "Speedy Smoky Harissa Butter Beans",
-      "servings": 2,
-      "cook": 10,
-      "tags": [
-        "lunch",
-        "stews",
-        "beans",
-        "lunch-box",
-        "healthy",
-        "meal-prep",
-        "comfort",
-        "speedy",
-        "veganuary",
-        "autumn",
-        "winter",
-        "back-to-uni",
-        "batch-cook",
-        "batch-cooking",
-        "under-30-minutes",
-        "actually-15-minutes",
-        "vegan",
-        "veggie",
-        "dairy-free",
-        "pescatarian",
-        "egg-free",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "350g Cherry Tomatoes",
-        "2Clove Garlic",
-        "1.5tbsp Tomato Purée",
-        "1tbsp Harissa Paste",
-        ".5tbsp Smoked Paprika",
-        "2x 400g Can Butter Beans",
-        "1tbsp Vegan Cream Cheese",
-        "2Slice Crusty Bread",
-        "10g Fresh Parsley",
-        "2tbsp Tahini",
-        "2tbsp Flaked Almond"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "cherry-tomatoes",
-          "amount": 350,
-          "unitId": "g"
-        },
-        {
-          "id": "clove-garlic",
-          "amount": 2
-        },
-        {
-          "id": "tomato-pure",
-          "amount": 1.5,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "harissa-paste",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "smoked-paprika",
-          "amount": 0.5,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "butter-beans",
-          "amount": 800,
-          "unitId": "g"
-        },
-        {
-          "id": "vegan-cream-cheese",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "slice-crusty-bread",
-          "amount": 2
-        },
-        {
-          "id": "fresh-parsley",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "tahini",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "flaked-almond",
-          "amount": 2,
-          "unitId": "tbsp"
-        }
-      ],
-      "steps": [
-        "recipe:10-minute-smoky-harissa-creamy-butter-beans-lunch:step:0",
-        "recipe:10-minute-smoky-harissa-creamy-butter-beans-lunch:step:1",
-        "recipe:10-minute-smoky-harissa-creamy-butter-beans-lunch:step:2",
-        "recipe:10-minute-smoky-harissa-creamy-butter-beans-lunch:step:3",
-        "recipe:10-minute-smoky-harissa-creamy-butter-beans-lunch:step:4"
-      ],
-      "url": "https://www.mob.co.uk/recipes/10-minute-smoky-harissa-creamy-butter-beans-lunch",
-      "image": "https://files.mob-cdn.co.uk/recipes/2025/2/10-Minute-Harissa-Beans.jpg",
-      "calories": 540,
-      "protein": 16,
-      "carbs": 60,
-      "fat": 18
-    },
-    {
-      "id": "dinner-spicy-chorizo-pepper-stew",
-      "label": "Dinner",
-      "time": "20:00",
-      "title": "Spicy Chorizo & Pepper Stew",
-      "servings": 4,
-      "cook": 40,
-      "tags": [
-        "dinner",
-        "stews",
-        "beans",
-        "one-pot-recipes",
-        "high-protein-dinners",
-        "high-protein",
-        "chorizo",
-        "most-cooked",
-        "aldi",
-        "midweek",
-        "autumn",
-        "winter",
-        "dairy-free",
-        "nut-free",
-        "shellfish-free",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "2 Red Onion",
-        "2 Garlic Clove",
-        "200g Spicy Chorizo",
-        "6 Jarred Grilled Red Peppers",
-        "2x Can Cooked Butter Beans",
-        "1x 400g Can Chopped Tomatoes",
-        "25g Fresh Parsley",
-        "2 Lemon",
-        "70g Mayonnaise",
-        "Olive Oil"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "red-onion",
-          "amount": 2
-        },
-        {
-          "id": "garlic-clove",
-          "amount": 2
-        },
-        {
-          "id": "spicy-chorizo",
-          "amount": 200,
-          "unitId": "g"
-        },
-        {
-          "id": "jarred-grilled-red-peppers",
-          "amount": 6
-        },
-        {
-          "id": "cooked-butter-beans",
-          "amount": 2,
-          "unitId": "can"
-        },
-        {
-          "id": "chopped-tomatoes",
-          "amount": 400,
-          "unitId": "g"
-        },
-        {
-          "id": "fresh-parsley",
-          "amount": 25,
-          "unitId": "g"
-        },
-        {
-          "id": "lemon",
-          "amount": 2
-        },
-        {
-          "id": "mayonnaise",
-          "amount": 70,
-          "unitId": "g"
-        },
-        {
-          "id": "olive-oil",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:spicy-chorizo-pepper-stew:step:0",
-        "recipe:spicy-chorizo-pepper-stew:step:1",
-        "recipe:spicy-chorizo-pepper-stew:step:2",
-        "recipe:spicy-chorizo-pepper-stew:step:3",
-        "recipe:spicy-chorizo-pepper-stew:step:4",
-        "recipe:spicy-chorizo-pepper-stew:step:5"
-      ],
-      "url": "https://www.mob.co.uk/recipes/spicy-chorizo-pepper-stew",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Spicy-Chorizo-Pepper-Stew.jpg",
-      "calories": 500,
-      "protein": 22,
-      "carbs": 38,
-      "fat": 26
-    }
-  ],
-  "2026-08-15": [
-    {
-      "id": "breakfast-new-york-style-poppy-seed-bagels-lox",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "New York Style Poppy Seed Bagels & Lox",
-      "servings": 8,
-      "cook": 60,
-      "tags": [
-        "breakfast",
-        "brunch",
-        "bread",
-        "veggie",
-        "pescatarian",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "500g Strong White Bread Flour",
-        "10g Dried Instant Yeast",
-        "20g Sugar",
-        "10g Fine Salt",
-        "320ml Warm Water",
-        "200g Poppy Seed",
-        "100g Black Treacle",
-        "10g Bicarbonate of Soda",
-        "Smoked Trout",
-        "Red Onion",
-        "Capers",
-        "Cream Cheese"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "strong-white-bread-flour",
-          "amount": 500,
-          "unitId": "g"
-        },
-        {
-          "id": "dried-instant-yeast",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "sugar",
-          "amount": 20,
-          "unitId": "g"
-        },
-        {
-          "id": "fine-salt",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "warm-water",
-          "amount": 320,
-          "unitId": "ml"
-        },
-        {
-          "id": "poppy-seed",
-          "amount": 200,
-          "unitId": "g"
-        },
-        {
-          "id": "black-treacle",
-          "amount": 100,
-          "unitId": "g"
-        },
-        {
-          "id": "bicarbonate-of-soda",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "smoked-trout",
-          "amount": null
-        },
-        {
-          "id": "red-onion",
-          "amount": null
-        },
-        {
-          "id": "capers",
-          "amount": null
-        },
-        {
-          "id": "cream-cheese",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:0",
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:1",
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:2",
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:3",
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:4",
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:5",
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:6",
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:7",
-        "recipe:new-york-style-poppy-seed-bagels-lox:step:8"
-      ],
-      "url": "https://www.mob.co.uk/recipes/new-york-style-poppy-seed-bagels-lox",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/10/New-York-Bagels.jpg",
-      "calories": 420,
-      "protein": 18,
-      "carbs": 56,
-      "fat": 14
-    },
-    {
-      "id": "lunch-marry-me-chicken-pasta-bake-meal-prep",
-      "label": "Lunch",
-      "time": "13:00",
-      "title": "Marry Me Chicken Pasta Bake",
-      "servings": 2,
-      "cook": 25,
-      "tags": [
-        "lunch",
-        "pasta",
-        "chicken",
-        "lunch-box",
-        "content-drop",
-        "healthy",
-        "meal-prep",
-        "comfort",
-        "speedy",
-        "nut-free",
-        "shellfish-free",
-        "egg-free",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "160g Fusilli",
-        "70g Cooked Chicken Breast",
-        "150g Cottage Cheese",
-        "1tbsp Sun-Dried Tomato",
-        "1tbsp Gochujang",
-        "1tsp Garlic Powder",
-        "100g Cherry Tomatoes",
-        "15g Fresh Basil",
-        "20g Parmesan",
-        "Salt"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "fusilli",
-          "amount": 160,
-          "unitId": "g"
-        },
-        {
-          "id": "cooked-chicken-breast",
-          "amount": 70,
-          "unitId": "g"
-        },
-        {
-          "id": "cottage-cheese",
-          "amount": 150,
-          "unitId": "g"
-        },
-        {
-          "id": "sun-dried-tomato",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "gochujang",
-          "amount": 1,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "garlic-powder",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "cherry-tomatoes",
-          "amount": 100,
-          "unitId": "g"
-        },
-        {
-          "id": "fresh-basil",
-          "amount": 15,
-          "unitId": "g"
-        },
-        {
-          "id": "parmesan",
-          "amount": 20,
-          "unitId": "g"
-        },
-        {
-          "id": "salt",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:0",
-        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:1",
-        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:2",
-        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:3",
-        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:4"
-      ],
-      "url": "https://www.mob.co.uk/recipes/marry-me-chicken-pasta-bake-meal-prep",
-      "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Marry-Me-Chicken-Pasta-Bake-Meal-Prep.jpg",
-      "calories": 520,
-      "protein": 36,
-      "carbs": 70,
-      "fat": 12
-    },
-    {
-      "id": "dinner-curried-coconut-chicken-rice",
-      "label": "Dinner",
-      "time": "20:00",
-      "title": "Curried Coconut Chicken & Rice",
-      "servings": 4,
-      "cook": 30,
-      "tags": [
-        "dinner",
-        "chicken",
-        "high-protein-dinners",
-        "most-cooked",
-        "midweek",
-        "content-drop",
-        "healthy",
-        "under-30-minutes",
-        "mob-classic",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "8 Skinless Chicken Thigh",
-        "1 Garlic Clove",
-        "4tbsp Oyster Sauce",
-        "10g Fresh Coriander",
-        "400ml Coconut Milk",
-        "2tbsp Thai Yellow Curry Paste",
-        "300ml Water",
-        "2 Lime",
-        "0.5tsp Sugar",
-        "Olive Oil",
-        "Salt",
-        "Black Pepper",
-        "500g Cooked Rice",
-        "25g Crispy Fried Onion",
-        "Chilli Oil"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "skinless-chicken-thigh",
-          "amount": 8
-        },
-        {
-          "id": "garlic-clove",
-          "amount": 1
-        },
-        {
-          "id": "oyster-sauce",
-          "amount": 4,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "fresh-coriander",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "coconut-milk",
-          "amount": 400,
-          "unitId": "ml"
-        },
-        {
-          "id": "thai-yellow-curry-paste",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "water",
-          "amount": 300,
-          "unitId": "ml"
-        },
-        {
-          "id": "lime",
-          "amount": 2
-        },
-        {
-          "id": "sugar",
-          "amount": 0.5,
-          "unitId": "tsp"
-        },
-        {
-          "id": "olive-oil",
-          "amount": null
-        },
-        {
-          "id": "salt",
-          "amount": null
-        },
-        {
-          "id": "black-pepper",
-          "amount": null
-        },
-        {
-          "id": "cooked-rice",
-          "amount": 500,
-          "unitId": "g"
-        },
-        {
-          "id": "crispy-fried-onion",
-          "amount": 25,
-          "unitId": "g"
-        },
-        {
-          "id": "chilli-oil",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:curried-coconut-chicken-rice:step:0",
-        "recipe:curried-coconut-chicken-rice:step:1",
-        "recipe:curried-coconut-chicken-rice:step:2",
-        "recipe:curried-coconut-chicken-rice:step:3"
-      ],
-      "url": "https://www.mob.co.uk/recipes/curried-coconut-chicken-rice",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Curried-Coconut-Chicken-Rice.jpg",
-      "calories": 620,
-      "protein": 44,
-      "carbs": 58,
-      "fat": 22
-    }
-  ],
-  "2026-08-16": [
-    {
-      "id": "breakfast-healthy-chocolate-spread",
-      "label": "Morning",
-      "time": "08:00",
-      "title": "Healthy Chocolate Spread",
-      "servings": 12,
-      "cook": 20,
-      "tags": [
-        "breakfast",
-        "dips",
-        "condiments",
-        "icing",
-        "speedy",
-        "vegan",
-        "veggie",
-        "gluten-free",
-        "dairy-free",
-        "pescatarian",
-        "shellfish-free",
-        "allium-free",
-        "egg-free",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "140g Blanched Hazelnuts",
-        "150g Sunflower Seeds",
-        "100g 70% Dark Chocolate",
-        "1tbsp Maple Syrup"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "blanched-hazelnuts",
-          "amount": 140,
-          "unitId": "g"
-        },
-        {
-          "id": "sunflower-seeds",
-          "amount": 150,
-          "unitId": "g"
-        },
-        {
-          "id": "70-dark-chocolate",
-          "amount": 100,
-          "unitId": "g"
-        },
-        {
-          "id": "maple-syrup",
-          "amount": 1,
-          "unitId": "tbsp"
-        }
-      ],
-      "steps": [
-        "recipe:healthy-chocolate-spread:step:0",
-        "recipe:healthy-chocolate-spread:step:1",
-        "recipe:healthy-chocolate-spread:step:2",
-        "recipe:healthy-chocolate-spread:step:3",
-        "recipe:healthy-chocolate-spread:step:4"
-      ],
-      "url": "https://www.mob.co.uk/recipes/healthy-chocolate-spread",
-      "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Healthy-Chocolate-Spread.jpg",
-      "calories": 210,
-      "protein": 5,
-      "carbs": 10,
-      "fat": 16
-    },
-    {
-      "id": "lunch-chicken-caesar-chopped-salad",
-      "label": "Lunch",
-      "time": "13:00",
-      "title": "Chicken Caesar Chopped Salad",
-      "servings": 4,
-      "cook": 35,
-      "tags": [
-        "lunch",
-        "dinner",
-        "salads",
-        "most-cooked",
-        "chopped-salad",
-        "speedy",
-        "summer",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "2 Chicken Breast",
-        "250g Sourdough",
-        "200g Tenderstem Broccoli",
-        "3Head Romaine Lettuce",
-        "40g Parmesan",
-        "2tbsp Capers",
-        "5tbsp Mayonnaise",
-        "1 Lemon",
-        "1tsp Dijon Mustard",
-        "30g Parmesan",
-        "25g Anchovy"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "chicken-breast",
-          "amount": 2
-        },
-        {
-          "id": "sourdough",
-          "amount": 250,
-          "unitId": "g"
-        },
-        {
-          "id": "tenderstem-broccoli",
-          "amount": 200,
-          "unitId": "g"
-        },
-        {
-          "id": "romaine-lettuce",
-          "amount": 3,
-          "unitId": "head"
-        },
-        {
-          "id": "parmesan",
-          "amount": 40,
-          "unitId": "g"
-        },
-        {
-          "id": "capers",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "mayonnaise",
-          "amount": 5,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "lemon",
-          "amount": 1
-        },
-        {
-          "id": "dijon-mustard",
-          "amount": 1,
-          "unitId": "tsp"
-        },
-        {
-          "id": "parmesan",
-          "amount": 30,
-          "unitId": "g"
-        },
-        {
-          "id": "anchovy",
-          "amount": 25,
-          "unitId": "g"
-        }
-      ],
-      "steps": [
-        "recipe:chicken-caesar-chopped-salad:step:0",
-        "recipe:chicken-caesar-chopped-salad:step:1",
-        "recipe:chicken-caesar-chopped-salad:step:2",
-        "recipe:chicken-caesar-chopped-salad:step:3"
-      ],
-      "url": "https://www.mob.co.uk/recipes/chicken-caesar-chopped-salad",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Chicken-Caesar-Chopped-Salad.jpg",
-      "calories": 580,
-      "protein": 36,
-      "carbs": 38,
-      "fat": 30
-    },
-    {
-      "id": "dinner-garlicky-mustard-chicken-zingy-broth-with-rice",
-      "label": "Dinner",
-      "time": "20:00",
-      "title": "Garlicky Mustard Chicken & Zingy Broth With Rice",
-      "servings": 4,
-      "cook": 25,
-      "tags": [
-        "dinner",
-        "rice",
-        "chicken",
-        "high-protein-dinners",
-        "high-protein",
-        "midweek",
-        "speedy",
-        "summer",
-        "spring",
-        "mob-co-uk"
-      ],
-      "ingredients": [
-        "8 Boneless Skinless Chicken Thigh",
-        "2tbsp Wholegrain Mustard",
-        "2 Garlic Clove",
-        "10g Dill",
-        "25g Parsley",
-        "3 Egg Yolk",
-        "2 Lemon",
-        "700ml Chicken Stock",
-        "500g Cooked Rice",
-        "Olive Oil",
-        "Salt",
-        "Black Pepper"
-      ],
-      "ingredientsParsed": [
-        {
-          "id": "boneless-skinless-chicken-thigh",
-          "amount": 8
-        },
-        {
-          "id": "wholegrain-mustard",
-          "amount": 2,
-          "unitId": "tbsp"
-        },
-        {
-          "id": "garlic-clove",
-          "amount": 2
-        },
-        {
-          "id": "dill",
-          "amount": 10,
-          "unitId": "g"
-        },
-        {
-          "id": "parsley",
-          "amount": 25,
-          "unitId": "g"
-        },
-        {
-          "id": "egg-yolk",
-          "amount": 3
-        },
-        {
-          "id": "lemon",
-          "amount": 2
-        },
-        {
-          "id": "chicken-stock",
-          "amount": 700,
-          "unitId": "ml"
-        },
-        {
-          "id": "cooked-rice",
-          "amount": 500,
-          "unitId": "g"
-        },
-        {
-          "id": "olive-oil",
-          "amount": null
-        },
-        {
-          "id": "salt",
-          "amount": null
-        },
-        {
-          "id": "black-pepper",
-          "amount": null
-        }
-      ],
-      "steps": [
-        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:0",
-        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:1",
-        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:2",
-        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:3",
-        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:4",
-        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:5"
-      ],
-      "url": "https://www.mob.co.uk/recipes/garlicky-mustard-chicken-zingy-broth-with-rice",
-      "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A5827-1.jpg",
-      "calories": 560,
-      "protein": 44,
-      "carbs": 52,
-      "fat": 18
-    }
-  ],
   "2026-08-17": [
     {
       "id": "breakfast-cheesy-okonomiyaki-recipe",
@@ -11877,6 +9560,2289 @@
       "protein": 28,
       "carbs": 36,
       "fat": 40
+    },
+    {
+      "id": "dinner-creamy-spicy-pork-ramen",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Creamy Spicy Pork Ramen",
+      "servings": 2,
+      "cook": 30,
+      "tags": [
+        "dinner",
+        "noodles",
+        "noodle-soups",
+        "pork",
+        "high-protein-dinners",
+        "high-protein",
+        "most-cooked",
+        "midweek",
+        "mince",
+        "comfort",
+        "autumn",
+        "winter",
+        "under-30-minutes",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "200g Ramen Noodle",
+        "100g Spinach",
+        "100g Beansprouts",
+        "1Clove Garlic",
+        "1 Spring Onion",
+        "200g Pork Mince",
+        "1tbsp Doubanjiang",
+        "1tbsp Light Soy Sauce",
+        ".25tsp White Sugar",
+        "1Pinch MSG",
+        "Sesame Oil",
+        "500ml Chicken Stock",
+        "300ml Oat Milk",
+        "1tbsp Light Soy Sauce",
+        "1tbsp Mirin",
+        "1Pinch MSG",
+        "1tbsp Crispy Chilli Oil"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "ramen-noodle",
+          "amount": 200,
+          "unitId": "g"
+        },
+        {
+          "id": "spinach",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "beansprouts",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "clove-garlic",
+          "amount": 1
+        },
+        {
+          "id": "spring-onion",
+          "amount": 1
+        },
+        {
+          "id": "pork-mince",
+          "amount": 200,
+          "unitId": "g"
+        },
+        {
+          "id": "doubanjiang",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "light-soy-sauce",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "white-sugar",
+          "amount": 0.25,
+          "unitId": "tsp"
+        },
+        {
+          "id": "msg",
+          "amount": 1,
+          "unitId": "pinch"
+        },
+        {
+          "id": "sesame-oil",
+          "amount": null
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 500,
+          "unitId": "ml"
+        },
+        {
+          "id": "oat-milk",
+          "amount": 300,
+          "unitId": "ml"
+        },
+        {
+          "id": "light-soy-sauce",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "mirin",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "msg",
+          "amount": 1,
+          "unitId": "pinch"
+        },
+        {
+          "id": "crispy-chilli-oil",
+          "amount": 1,
+          "unitId": "tbsp"
+        }
+      ],
+      "steps": [
+        "recipe:creamy-spicy-pork-ramen:step:0",
+        "recipe:creamy-spicy-pork-ramen:step:1",
+        "recipe:creamy-spicy-pork-ramen:step:2",
+        "recipe:creamy-spicy-pork-ramen:step:3",
+        "recipe:creamy-spicy-pork-ramen:step:4",
+        "recipe:creamy-spicy-pork-ramen:step:5"
+      ],
+      "url": "https://www.mob.co.uk/recipes/creamy-spicy-pork-ramen",
+      "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Creamy-Spicy-Pork-Ramen.jpg",
+      "calories": 680,
+      "protein": 32,
+      "carbs": 60,
+      "fat": 34
+    }
+  ],
+  "2026-09-14": [
+    {
+      "id": "breakfast-healthy-chocolate-spread",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Healthy Chocolate Spread",
+      "servings": 12,
+      "cook": 20,
+      "tags": [
+        "breakfast",
+        "dips",
+        "condiments",
+        "icing",
+        "speedy",
+        "vegan",
+        "veggie",
+        "gluten-free",
+        "dairy-free",
+        "pescatarian",
+        "shellfish-free",
+        "allium-free",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "140g Blanched Hazelnuts",
+        "150g Sunflower Seeds",
+        "100g 70% Dark Chocolate",
+        "1tbsp Maple Syrup"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "blanched-hazelnuts",
+          "amount": 140,
+          "unitId": "g"
+        },
+        {
+          "id": "sunflower-seeds",
+          "amount": 150,
+          "unitId": "g"
+        },
+        {
+          "id": "70-dark-chocolate",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "maple-syrup",
+          "amount": 1,
+          "unitId": "tbsp"
+        }
+      ],
+      "steps": [
+        "recipe:healthy-chocolate-spread:step:0",
+        "recipe:healthy-chocolate-spread:step:1",
+        "recipe:healthy-chocolate-spread:step:2",
+        "recipe:healthy-chocolate-spread:step:3",
+        "recipe:healthy-chocolate-spread:step:4"
+      ],
+      "url": "https://www.mob.co.uk/recipes/healthy-chocolate-spread",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Healthy-Chocolate-Spread.jpg",
+      "calories": 210,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 16
+    },
+    {
+      "id": "lunch-gochujang-tofu-rice-bowl",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Gochujang Tofu Rice Bowl",
+      "servings": 4,
+      "cook": null,
+      "tags": [
+        "lunch",
+        "dinner",
+        "rice",
+        "midweek",
+        "fakeaway",
+        "healthy",
+        "comfort",
+        "vegan",
+        "veggie",
+        "pescatarian",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "1 Carrot",
+        "0.5 Cucumber",
+        "30g Radish",
+        "50g Sugar",
+        "150ml Apple Cider Vinegar",
+        "150ml Water",
+        "560g Firm Tofu",
+        "80g Cornflour",
+        "1tsp Garlic Powder",
+        "2Clove Garlic",
+        "2tbsp Gochujang",
+        "2tbsp Soy Sauce",
+        "3tbsp Tomato Ketchup",
+        "2tbsp Maple Syrup",
+        "1tbsp Rice Wine Vinegar",
+        "1tsp Sesame Oil",
+        "3tbsp Water",
+        "400g Sushi Rice",
+        "1 Spring Onion",
+        "Sesame Seeds (to serve)",
+        "Vegetable Oil"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "carrot",
+          "amount": 1
+        },
+        {
+          "id": "cucumber",
+          "amount": 0.5
+        },
+        {
+          "id": "radish",
+          "amount": 30,
+          "unitId": "g"
+        },
+        {
+          "id": "sugar",
+          "amount": 50,
+          "unitId": "g"
+        },
+        {
+          "id": "apple-cider-vinegar",
+          "amount": 150,
+          "unitId": "ml"
+        },
+        {
+          "id": "water",
+          "amount": 150,
+          "unitId": "ml"
+        },
+        {
+          "id": "firm-tofu",
+          "amount": 560,
+          "unitId": "g"
+        },
+        {
+          "id": "cornflour",
+          "amount": 80,
+          "unitId": "g"
+        },
+        {
+          "id": "garlic-powder",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "clove-garlic",
+          "amount": 2
+        },
+        {
+          "id": "gochujang",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "tomato-ketchup",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "maple-syrup",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "rice-wine-vinegar",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "sesame-oil",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "water",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "sushi-rice",
+          "amount": 400,
+          "unitId": "g"
+        },
+        {
+          "id": "spring-onion",
+          "amount": 1
+        },
+        {
+          "id": "sesame-seeds",
+          "amount": null,
+          "note": "to serve"
+        },
+        {
+          "id": "vegetable-oil",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:gochujang-tofu-rice-bowl:step:0",
+        "recipe:gochujang-tofu-rice-bowl:step:1",
+        "recipe:gochujang-tofu-rice-bowl:step:2",
+        "recipe:gochujang-tofu-rice-bowl:step:3",
+        "recipe:gochujang-tofu-rice-bowl:step:4",
+        "recipe:gochujang-tofu-rice-bowl:step:5",
+        "recipe:gochujang-tofu-rice-bowl:step:6",
+        "recipe:gochujang-tofu-rice-bowl:step:7",
+        "recipe:gochujang-tofu-rice-bowl:step:8",
+        "recipe:gochujang-tofu-rice-bowl:step:9"
+      ],
+      "url": "https://www.mob.co.uk/recipes/gochujang-tofu-rice-bowl",
+      "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Gochujang-Tofu-Rice-Bowl.jpg",
+      "calories": 520,
+      "protein": 22,
+      "carbs": 74,
+      "fat": 14
+    },
+    {
+      "id": "dinner-honey-gochujang-chicken-rigatoni",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Honey Gochujang Chicken Rigatoni",
+      "servings": 4,
+      "cook": 35,
+      "tags": [
+        "dinner",
+        "pasta",
+        "chicken",
+        "protein-pastas",
+        "back-to-uni",
+        "nut-free",
+        "shellfish-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "4 Chicken Breast",
+        "40g Butter",
+        "300g Rigatoni",
+        "2tbsp Gochujang",
+        "3tbsp Tomato Purée",
+        "220ml Single Cream",
+        "2tbsp Honey",
+        "2 Lime",
+        "10g Fresh Chive",
+        "40g Parmesan",
+        "Olive Oil",
+        "Salt",
+        "Black Pepper"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "chicken-breast",
+          "amount": 4
+        },
+        {
+          "id": "butter",
+          "amount": 40,
+          "unitId": "g"
+        },
+        {
+          "id": "rigatoni",
+          "amount": 300,
+          "unitId": "g"
+        },
+        {
+          "id": "gochujang",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "tomato-pure",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "single-cream",
+          "amount": 220,
+          "unitId": "ml"
+        },
+        {
+          "id": "honey",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "lime",
+          "amount": 2
+        },
+        {
+          "id": "fresh-chive",
+          "amount": 10,
+          "unitId": "g"
+        },
+        {
+          "id": "parmesan",
+          "amount": 40,
+          "unitId": "g"
+        },
+        {
+          "id": "olive-oil",
+          "amount": null
+        },
+        {
+          "id": "salt",
+          "amount": null
+        },
+        {
+          "id": "black-pepper",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:honey-gochujang-chicken-rigatoni:step:0",
+        "recipe:honey-gochujang-chicken-rigatoni:step:1",
+        "recipe:honey-gochujang-chicken-rigatoni:step:2",
+        "recipe:honey-gochujang-chicken-rigatoni:step:3",
+        "recipe:honey-gochujang-chicken-rigatoni:step:4",
+        "recipe:honey-gochujang-chicken-rigatoni:step:5",
+        "recipe:honey-gochujang-chicken-rigatoni:step:6"
+      ],
+      "url": "https://www.mob.co.uk/recipes/honey-gochujang-chicken-rigatoni",
+      "image": "https://files.mob-cdn.co.uk/recipes/2026/01/Honey-Gochujang-Chicken-Rigatoni.jpg",
+      "calories": 670,
+      "protein": 44,
+      "carbs": 62,
+      "fat": 28
+    }
+  ],
+  "2026-09-15": [
+    {
+      "id": "breakfast-pink-power-smoothie",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Berry Pink Power Smoothie",
+      "servings": 1,
+      "cook": 5,
+      "tags": [
+        "breakfast",
+        "smoothies",
+        "brunch",
+        "veggie",
+        "pescatarian",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "100g Frozen Strawberry",
+        "75g Frozen Raspberry",
+        "50g Pitted Frozen Cherries",
+        "1 Banana",
+        "100ml Almond Milk",
+        "60g Skyr Natural Yoghurt",
+        "30g Vanilla Protein Powder",
+        "1 Lime"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "frozen-strawberry",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "frozen-raspberry",
+          "amount": 75,
+          "unitId": "g"
+        },
+        {
+          "id": "pitted-frozen-cherries",
+          "amount": 50,
+          "unitId": "g"
+        },
+        {
+          "id": "banana",
+          "amount": 1
+        },
+        {
+          "id": "almond-milk",
+          "amount": 100,
+          "unitId": "ml"
+        },
+        {
+          "id": "skyr-natural-yoghurt",
+          "amount": 60,
+          "unitId": "g"
+        },
+        {
+          "id": "vanilla-protein-powder",
+          "amount": 30,
+          "unitId": "g"
+        },
+        {
+          "id": "lime",
+          "amount": 1
+        }
+      ],
+      "steps": [
+        "recipe:pink-power-smoothie:step:0",
+        "recipe:pink-power-smoothie:step:1",
+        "recipe:pink-power-smoothie:step:2"
+      ],
+      "url": "https://www.mob.co.uk/recipes/pink-power-smoothie",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Berry-Pink-Power-Smoothie.jpg",
+      "calories": 360,
+      "protein": 28,
+      "carbs": 50,
+      "fat": 4
+    },
+    {
+      "id": "lunch-steak-tacos-chilli-pineapple-salsa",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Steak Tacos With Chilli Pineapple Salsa",
+      "servings": 4,
+      "cook": 30,
+      "tags": [
+        "lunch",
+        "dinner",
+        "tacos",
+        "high-protein-dinners",
+        "most-cooked",
+        "summer",
+        "barbecue",
+        "under-30-minutes",
+        "gluten-free",
+        "shellfish-free",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "10Clove Garlic",
+        "50g Fresh Coriander",
+        "2 Lime",
+        "400g Bavette Steak",
+        "0.5 Pineapple",
+        "50g Peanut",
+        "2tsp Sesame Seeds",
+        "3tbsp Chilli Oil",
+        "2 Jalapeño",
+        "2 Avocado",
+        "4tbsp Sour Cream",
+        "12 Corn Tortilla",
+        "2 Shallot",
+        "Olive Oil",
+        "Salt",
+        "Black Pepper"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "clove-garlic",
+          "amount": 10
+        },
+        {
+          "id": "fresh-coriander",
+          "amount": 50,
+          "unitId": "g"
+        },
+        {
+          "id": "lime",
+          "amount": 2
+        },
+        {
+          "id": "bavette-steak",
+          "amount": 400,
+          "unitId": "g"
+        },
+        {
+          "id": "pineapple",
+          "amount": 0.5
+        },
+        {
+          "id": "peanut",
+          "amount": 50,
+          "unitId": "g"
+        },
+        {
+          "id": "sesame-seeds",
+          "amount": 2,
+          "unitId": "tsp"
+        },
+        {
+          "id": "chilli-oil",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "jalape-o",
+          "amount": 2
+        },
+        {
+          "id": "avocado",
+          "amount": 2
+        },
+        {
+          "id": "sour-cream",
+          "amount": 4,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "corn-tortilla",
+          "amount": 12
+        },
+        {
+          "id": "shallot",
+          "amount": 2
+        },
+        {
+          "id": "olive-oil",
+          "amount": null
+        },
+        {
+          "id": "salt",
+          "amount": null
+        },
+        {
+          "id": "black-pepper",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:steak-tacos-chilli-pineapple-salsa:step:0",
+        "recipe:steak-tacos-chilli-pineapple-salsa:step:1",
+        "recipe:steak-tacos-chilli-pineapple-salsa:step:2",
+        "recipe:steak-tacos-chilli-pineapple-salsa:step:3",
+        "recipe:steak-tacos-chilli-pineapple-salsa:step:4",
+        "recipe:steak-tacos-chilli-pineapple-salsa:step:5"
+      ],
+      "url": "https://www.mob.co.uk/recipes/steak-tacos-chilli-pineapple-salsa",
+      "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Steak-Tacos-with-Chilli-Pineapple-Salsa.jpg",
+      "calories": 640,
+      "protein": 34,
+      "carbs": 50,
+      "fat": 34
+    },
+    {
+      "id": "dinner-garlic-butter-shrimp-noodles",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Garlic Butter Prawn Noodles",
+      "servings": 2,
+      "cook": 25,
+      "tags": [
+        "dinner",
+        "noodles",
+        "stir-fry",
+        "content-drop",
+        "healthy",
+        "speedy",
+        "pescatarian",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "400g Raw Peeled King Prawn",
+        "400g Udon Noodle",
+        "30g Butter",
+        "100g Spinach",
+        "3Clove Garlic",
+        "30g Fresh Ginger",
+        "1 Red Chilli",
+        "20g Cashew Nut",
+        "1 Spring Onion",
+        "Chilli Oil (to serve)",
+        "2tbsp Oyster Sauce",
+        "1tbsp Dark Soy Sauce",
+        "1tbsp Light Soy Sauce",
+        "1tbsp Sriracha",
+        "1tbsp Sugar",
+        "1tsp Chinese Black Vinegar",
+        "Olive Oil",
+        "Salt"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "raw-peeled-king-prawn",
+          "amount": 400,
+          "unitId": "g"
+        },
+        {
+          "id": "udon-noodle",
+          "amount": 400,
+          "unitId": "g"
+        },
+        {
+          "id": "butter",
+          "amount": 30,
+          "unitId": "g"
+        },
+        {
+          "id": "spinach",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "clove-garlic",
+          "amount": 3
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 30,
+          "unitId": "g"
+        },
+        {
+          "id": "red-chilli",
+          "amount": 1
+        },
+        {
+          "id": "cashew-nut",
+          "amount": 20,
+          "unitId": "g"
+        },
+        {
+          "id": "spring-onion",
+          "amount": 1
+        },
+        {
+          "id": "chilli-oil",
+          "amount": null,
+          "note": "to serve"
+        },
+        {
+          "id": "oyster-sauce",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "dark-soy-sauce",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "light-soy-sauce",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "sriracha",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "sugar",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "chinese-black-vinegar",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "olive-oil",
+          "amount": null
+        },
+        {
+          "id": "salt",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:garlic-butter-shrimp-noodles:step:0",
+        "recipe:garlic-butter-shrimp-noodles:step:1",
+        "recipe:garlic-butter-shrimp-noodles:step:2",
+        "recipe:garlic-butter-shrimp-noodles:step:3",
+        "recipe:garlic-butter-shrimp-noodles:step:4",
+        "recipe:garlic-butter-shrimp-noodles:step:5",
+        "recipe:garlic-butter-shrimp-noodles:step:6",
+        "recipe:garlic-butter-shrimp-noodles:step:7",
+        "recipe:garlic-butter-shrimp-noodles:step:8"
+      ],
+      "url": "https://www.mob.co.uk/recipes/garlic-butter-shrimp-noodles",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/11/Garlic-Butter-Shrimp-Noodles.jpg",
+      "calories": 620,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 18
+    }
+  ],
+  "2026-09-16": [
+    {
+      "id": "breakfast-high-protein-breakfast-smoothie",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "High-Protein Smoothie Bowl",
+      "servings": 2,
+      "cook": 5,
+      "tags": [
+        "breakfast",
+        "drinks",
+        "high-protein",
+        "smoothies",
+        "healthy",
+        "veggie",
+        "pescatarian",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "50g Vanilla Protein Powder",
+        "200ml Almond Milk",
+        "350g Skyr Natural Yoghurt",
+        "100g Blueberry",
+        "100g Raspberry",
+        "100g Pineapple",
+        "10g Chia Seed",
+        "10g Whole Flaxseed"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "vanilla-protein-powder",
+          "amount": 50,
+          "unitId": "g"
+        },
+        {
+          "id": "almond-milk",
+          "amount": 200,
+          "unitId": "ml"
+        },
+        {
+          "id": "skyr-natural-yoghurt",
+          "amount": 350,
+          "unitId": "g"
+        },
+        {
+          "id": "blueberry",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "raspberry",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "pineapple",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "chia-seed",
+          "amount": 10,
+          "unitId": "g"
+        },
+        {
+          "id": "whole-flaxseed",
+          "amount": 10,
+          "unitId": "g"
+        }
+      ],
+      "steps": [
+        "recipe:high-protein-breakfast-smoothie:step:0",
+        "recipe:high-protein-breakfast-smoothie:step:1"
+      ],
+      "url": "https://www.mob.co.uk/recipes/high-protein-breakfast-smoothie",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/4/High-Protein-Smoothie-Bowl.jpg",
+      "calories": 390,
+      "protein": 38,
+      "carbs": 44,
+      "fat": 7
+    },
+    {
+      "id": "lunch-peanut-sriracha-noodles",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Peanut Sriracha Noodles",
+      "servings": 2,
+      "cook": 10,
+      "tags": [
+        "lunch",
+        "dinner",
+        "noodles",
+        "midweek",
+        "summer",
+        "under-20-minutes",
+        "actually-15-minutes",
+        "vegan",
+        "veggie",
+        "dairy-free",
+        "pescatarian",
+        "shellfish-free",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "100g Sugar Snap Pea",
+        "1 Lime",
+        "10g Salted Peanuts",
+        "3tbsp Smooth Peanut Butter",
+        "2tbsp Sriracha",
+        "1tbsp Soy Sauce",
+        "300g Udon Noodle"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "sugar-snap-pea",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "lime",
+          "amount": 1
+        },
+        {
+          "id": "salted-peanuts",
+          "amount": 10,
+          "unitId": "g"
+        },
+        {
+          "id": "smooth-peanut-butter",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "sriracha",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "udon-noodle",
+          "amount": 300,
+          "unitId": "g"
+        }
+      ],
+      "steps": [
+        "recipe:peanut-sriracha-noodles:step:0",
+        "recipe:peanut-sriracha-noodles:step:1",
+        "recipe:peanut-sriracha-noodles:step:2",
+        "recipe:peanut-sriracha-noodles:step:3"
+      ],
+      "url": "https://www.mob.co.uk/recipes/peanut-sriracha-noodles",
+      "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Peanut-Sriracha-Noodles.jpg",
+      "calories": 520,
+      "protein": 18,
+      "carbs": 70,
+      "fat": 18
+    },
+    {
+      "id": "dinner-spaghetti-with-spicy-tomato-and-pepper-sauce",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Spaghetti with Spicy Tomato & Pepper Sauce",
+      "servings": 4,
+      "cook": 30,
+      "tags": [
+        "dinner",
+        "pasta",
+        "midweek",
+        "healthy",
+        "under-30-minutes",
+        "veggie",
+        "nut-free",
+        "pescatarian",
+        "shellfish-free",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "350g Roasted Red Pepper",
+        "1x 400g Can Chopped Tomatoes",
+        "3tbsp Olive Oil",
+        "3Clove Garlic",
+        "1Pinch Chilli",
+        "400g Spaghetti",
+        "120g Parmesan",
+        "Salt (to serve)",
+        "Black Pepper (to serve)"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "roasted-red-pepper",
+          "amount": 350,
+          "unitId": "g"
+        },
+        {
+          "id": "chopped-tomatoes",
+          "amount": 400,
+          "unitId": "g"
+        },
+        {
+          "id": "olive-oil",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "clove-garlic",
+          "amount": 3
+        },
+        {
+          "id": "chilli",
+          "amount": 1,
+          "unitId": "pinch"
+        },
+        {
+          "id": "spaghetti",
+          "amount": 400,
+          "unitId": "g"
+        },
+        {
+          "id": "parmesan",
+          "amount": 120,
+          "unitId": "g"
+        },
+        {
+          "id": "salt",
+          "amount": null,
+          "note": "to serve"
+        },
+        {
+          "id": "black-pepper",
+          "amount": null,
+          "note": "to serve"
+        }
+      ],
+      "steps": [
+        "recipe:spaghetti-with-spicy-tomato-and-pepper-sauce:step:0",
+        "recipe:spaghetti-with-spicy-tomato-and-pepper-sauce:step:1",
+        "recipe:spaghetti-with-spicy-tomato-and-pepper-sauce:step:2",
+        "recipe:spaghetti-with-spicy-tomato-and-pepper-sauce:step:3",
+        "recipe:spaghetti-with-spicy-tomato-and-pepper-sauce:step:4",
+        "recipe:spaghetti-with-spicy-tomato-and-pepper-sauce:step:5"
+      ],
+      "url": "https://www.mob.co.uk/recipes/spaghetti-with-spicy-tomato-and-pepper-sauce",
+      "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Spaghetti-with-Spicy-Tomato-and-Pepper-Sauce.jpg",
+      "calories": 560,
+      "protein": 20,
+      "carbs": 76,
+      "fat": 18
+    }
+  ],
+  "2026-09-17": [
+    {
+      "id": "breakfast-biscoff-baked-oats",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Biscoff Baked Oats",
+      "servings": 1,
+      "cook": 25,
+      "tags": [
+        "breakfast",
+        "brunch",
+        "meal-prep",
+        "veggie",
+        "nut-free",
+        "pescatarian",
+        "shellfish-free",
+        "allium-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "50g Rolled Oat",
+        "1 Banana",
+        "1tbsp Egg White",
+        "70ml Skimmed Milk",
+        "20g Vanilla Protein Powder",
+        "0.25tsp Baking Powder",
+        "0.5tsp Ground Cinnamon",
+        "3tsp Biscoff Spread",
+        "0.5 Biscoff Biscuit",
+        "Coconut Oil (to serve)",
+        "Salt"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "rolled-oat",
+          "amount": 50,
+          "unitId": "g"
+        },
+        {
+          "id": "banana",
+          "amount": 1
+        },
+        {
+          "id": "egg-white",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "skimmed-milk",
+          "amount": 70,
+          "unitId": "ml"
+        },
+        {
+          "id": "vanilla-protein-powder",
+          "amount": 20,
+          "unitId": "g"
+        },
+        {
+          "id": "baking-powder",
+          "amount": 0.25,
+          "unitId": "tsp"
+        },
+        {
+          "id": "ground-cinnamon",
+          "amount": 0.5,
+          "unitId": "tsp"
+        },
+        {
+          "id": "biscoff-spread",
+          "amount": 3,
+          "unitId": "tsp"
+        },
+        {
+          "id": "biscoff-biscuit",
+          "amount": 0.5
+        },
+        {
+          "id": "coconut-oil",
+          "amount": null,
+          "note": "to serve"
+        },
+        {
+          "id": "salt",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:biscoff-baked-oats:step:0",
+        "recipe:biscoff-baked-oats:step:1",
+        "recipe:biscoff-baked-oats:step:2",
+        "recipe:biscoff-baked-oats:step:3",
+        "recipe:biscoff-baked-oats:step:4"
+      ],
+      "url": "https://www.mob.co.uk/recipes/biscoff-baked-oats",
+      "image": "https://files.mob-cdn.co.uk/recipes/2024/09/220A0237-1.jpg",
+      "calories": 500,
+      "protein": 27,
+      "carbs": 73,
+      "fat": 8
+    },
+    {
+      "id": "lunch-korean-marinated-eggs",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Korean Marinated Eggs (Mayak Eggs)",
+      "servings": 4,
+      "cook": 15,
+      "tags": [
+        "lunch",
+        "snacks",
+        "dinner",
+        "sides",
+        "eggs",
+        "most-cooked",
+        "midweek",
+        "prep-ahead-eggs",
+        "fakeaway",
+        "meal-prep",
+        "speedy",
+        "back-to-uni",
+        "under-30-minutes",
+        "under-20-minutes",
+        "actually-15-minutes",
+        "veggie",
+        "pescatarian",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "12 Egg",
+        "6 Garlic Clove",
+        "6 Spring Onion",
+        "4 Red Chilli",
+        "250ml Soy Sauce",
+        "100ml Water",
+        "3tbsp Rice Wine Vinegar",
+        "2tbsp Fish Sauce",
+        "100g Honey",
+        "40g Sesame Seeds",
+        "Cooked Rice (to serve)"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "egg",
+          "amount": 12
+        },
+        {
+          "id": "garlic-clove",
+          "amount": 6
+        },
+        {
+          "id": "spring-onion",
+          "amount": 6
+        },
+        {
+          "id": "red-chilli",
+          "amount": 4
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 250,
+          "unitId": "ml"
+        },
+        {
+          "id": "water",
+          "amount": 100,
+          "unitId": "ml"
+        },
+        {
+          "id": "rice-wine-vinegar",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "fish-sauce",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "honey",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "sesame-seeds",
+          "amount": 40,
+          "unitId": "g"
+        },
+        {
+          "id": "cooked-rice",
+          "amount": null,
+          "note": "to serve"
+        }
+      ],
+      "steps": [
+        "recipe:korean-marinated-eggs:step:0",
+        "recipe:korean-marinated-eggs:step:1",
+        "recipe:korean-marinated-eggs:step:2",
+        "recipe:korean-marinated-eggs:step:3"
+      ],
+      "url": "https://www.mob.co.uk/recipes/korean-marinated-eggs",
+      "image": "https://files.mob-cdn.co.uk/recipes/2024/12/Korean-Marinated-Eggs.jpg",
+      "calories": 280,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 14
+    },
+    {
+      "id": "dinner-garlicky-mustard-chicken-zingy-broth-with-rice",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Garlicky Mustard Chicken & Zingy Broth With Rice",
+      "servings": 4,
+      "cook": 25,
+      "tags": [
+        "dinner",
+        "rice",
+        "chicken",
+        "high-protein-dinners",
+        "high-protein",
+        "midweek",
+        "speedy",
+        "summer",
+        "spring",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "8 Boneless Skinless Chicken Thigh",
+        "2tbsp Wholegrain Mustard",
+        "2 Garlic Clove",
+        "10g Dill",
+        "25g Parsley",
+        "3 Egg Yolk",
+        "2 Lemon",
+        "700ml Chicken Stock",
+        "500g Cooked Rice",
+        "Olive Oil",
+        "Salt",
+        "Black Pepper"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "boneless-skinless-chicken-thigh",
+          "amount": 8
+        },
+        {
+          "id": "wholegrain-mustard",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "garlic-clove",
+          "amount": 2
+        },
+        {
+          "id": "dill",
+          "amount": 10,
+          "unitId": "g"
+        },
+        {
+          "id": "parsley",
+          "amount": 25,
+          "unitId": "g"
+        },
+        {
+          "id": "egg-yolk",
+          "amount": 3
+        },
+        {
+          "id": "lemon",
+          "amount": 2
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 700,
+          "unitId": "ml"
+        },
+        {
+          "id": "cooked-rice",
+          "amount": 500,
+          "unitId": "g"
+        },
+        {
+          "id": "olive-oil",
+          "amount": null
+        },
+        {
+          "id": "salt",
+          "amount": null
+        },
+        {
+          "id": "black-pepper",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:0",
+        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:1",
+        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:2",
+        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:3",
+        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:4",
+        "recipe:garlicky-mustard-chicken-zingy-broth-with-rice:step:5"
+      ],
+      "url": "https://www.mob.co.uk/recipes/garlicky-mustard-chicken-zingy-broth-with-rice",
+      "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A5827-1.jpg",
+      "calories": 560,
+      "protein": 44,
+      "carbs": 52,
+      "fat": 18
+    }
+  ],
+  "2026-09-18": [
+    {
+      "id": "breakfast-lemon-poppy-seed-sunshine-pots",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Lemon & Poppy Seed Sunshine Pots",
+      "servings": 4,
+      "cook": 10,
+      "tags": [
+        "breakfast",
+        "brunch",
+        "veggie",
+        "pescatarian",
+        "shellfish-free",
+        "allium-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "150g Lemon Curd",
+        "0.5tsp Ground Turmeric",
+        "0.25tsp Ground Cinnamon",
+        "0.25tsp Ground Cardamom",
+        "350g Greek Yoghurt",
+        "0.5 Lemon",
+        "3tbsp Poppy Seed",
+        "120g Granola"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "lemon-curd",
+          "amount": 150,
+          "unitId": "g"
+        },
+        {
+          "id": "ground-turmeric",
+          "amount": 0.5,
+          "unitId": "tsp"
+        },
+        {
+          "id": "ground-cinnamon",
+          "amount": 0.25,
+          "unitId": "tsp"
+        },
+        {
+          "id": "ground-cardamom",
+          "amount": 0.25,
+          "unitId": "tsp"
+        },
+        {
+          "id": "greek-yoghurt",
+          "amount": 350,
+          "unitId": "g"
+        },
+        {
+          "id": "lemon",
+          "amount": 0.5
+        },
+        {
+          "id": "poppy-seed",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "granola",
+          "amount": 120,
+          "unitId": "g"
+        }
+      ],
+      "steps": [
+        "recipe:lemon-poppy-seed-sunshine-pots:step:0",
+        "recipe:lemon-poppy-seed-sunshine-pots:step:1",
+        "recipe:lemon-poppy-seed-sunshine-pots:step:2",
+        "recipe:lemon-poppy-seed-sunshine-pots:step:3"
+      ],
+      "url": "https://www.mob.co.uk/recipes/lemon-poppy-seed-sunshine-pots",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Lemon-Poppy-Seed-Sunshine-Pots.jpg",
+      "calories": 280,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 8
+    },
+    {
+      "id": "lunch-chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Chicken & Cottage Cheese Meatballs with Butter Beans",
+      "servings": 2,
+      "cook": 40,
+      "tags": [
+        "lunch",
+        "chicken",
+        "meatballs",
+        "lunch-box",
+        "lunch-box-high-protein",
+        "content-drop",
+        "healthy",
+        "meal-prep",
+        "comfort",
+        "gluten-free",
+        "nut-free",
+        "shellfish-free",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "2Clove Garlic",
+        "30g Fresh Flat Leaf Parsley",
+        "250g Chicken Mince",
+        "50g Cottage Cheese",
+        "40g Parmesan",
+        "1 Lemon",
+        "1x 570g Jar Butter Beans",
+        "100g Baby Spinach",
+        "1tsp Chilli Flakes",
+        "Olive Oil",
+        "Salt",
+        "Black Pepper"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "clove-garlic",
+          "amount": 2
+        },
+        {
+          "id": "fresh-flat-leaf-parsley",
+          "amount": 30,
+          "unitId": "g"
+        },
+        {
+          "id": "chicken-mince",
+          "amount": 250,
+          "unitId": "g"
+        },
+        {
+          "id": "cottage-cheese",
+          "amount": 50,
+          "unitId": "g"
+        },
+        {
+          "id": "parmesan",
+          "amount": 40,
+          "unitId": "g"
+        },
+        {
+          "id": "lemon",
+          "amount": 1
+        },
+        {
+          "id": "butter-beans",
+          "amount": 570,
+          "unitId": "g"
+        },
+        {
+          "id": "baby-spinach",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "chilli-flakes",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "olive-oil",
+          "amount": null
+        },
+        {
+          "id": "salt",
+          "amount": null
+        },
+        {
+          "id": "black-pepper",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep:step:0",
+        "recipe:chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep:step:1",
+        "recipe:chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep:step:2",
+        "recipe:chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep:step:3",
+        "recipe:chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep:step:4",
+        "recipe:chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep:step:5",
+        "recipe:chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep:step:6"
+      ],
+      "url": "https://www.mob.co.uk/recipes/chicken-cottage-cheese-meatballs-with-butter-beans-meal-prep",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Chicken-Cottage-Cheese-Meatballs-with-Butter-Beans-Meal-Prep.jpg",
+      "calories": 580,
+      "protein": 56,
+      "carbs": 30,
+      "fat": 22
+    },
+    {
+      "id": "dinner-jalepeno-coconut-chicken-thighs",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Jalapeño & Coconut Chicken Thighs",
+      "servings": 4,
+      "cook": 45,
+      "tags": [
+        "dinner",
+        "chicken",
+        "traybake",
+        "midweek",
+        "dairy-free",
+        "nut-free",
+        "shellfish-free",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "8Thigh Bone-In Skin-On Chicken Thigh",
+        "500g Cooked Rice",
+        "5 Jalapeño",
+        "5Clove Garlic",
+        "5g Fresh Ginger",
+        "2 Shallot",
+        "2tsp Ground Coriander",
+        "2tsp Ground Cumin",
+        "50g Coriander",
+        "1 Lime",
+        "400ml Coconut Milk",
+        "200ml Chicken Stock",
+        "2tbsp Desiccated Coconut",
+        "1 Lime",
+        "1 Jalapeño",
+        "Salt"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "thigh-bone-in-skin-on-chicken-thigh",
+          "amount": 8
+        },
+        {
+          "id": "cooked-rice",
+          "amount": 500,
+          "unitId": "g"
+        },
+        {
+          "id": "jalape-o",
+          "amount": 5
+        },
+        {
+          "id": "clove-garlic",
+          "amount": 5
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 5,
+          "unitId": "g"
+        },
+        {
+          "id": "shallot",
+          "amount": 2
+        },
+        {
+          "id": "ground-coriander",
+          "amount": 2,
+          "unitId": "tsp"
+        },
+        {
+          "id": "ground-cumin",
+          "amount": 2,
+          "unitId": "tsp"
+        },
+        {
+          "id": "coriander",
+          "amount": 50,
+          "unitId": "g"
+        },
+        {
+          "id": "lime",
+          "amount": 1
+        },
+        {
+          "id": "coconut-milk",
+          "amount": 400,
+          "unitId": "ml"
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 200,
+          "unitId": "ml"
+        },
+        {
+          "id": "desiccated-coconut",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "lime",
+          "amount": 1
+        },
+        {
+          "id": "jalape-o",
+          "amount": 1
+        },
+        {
+          "id": "salt",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:jalepeno-coconut-chicken-thighs:step:0",
+        "recipe:jalepeno-coconut-chicken-thighs:step:1",
+        "recipe:jalepeno-coconut-chicken-thighs:step:2",
+        "recipe:jalepeno-coconut-chicken-thighs:step:3",
+        "recipe:jalepeno-coconut-chicken-thighs:step:4",
+        "recipe:jalepeno-coconut-chicken-thighs:step:5"
+      ],
+      "url": "https://www.mob.co.uk/recipes/jalepeno-coconut-chicken-thighs",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Jalapen%CC%83o-Coconut-Chicken-Thighs.jpg",
+      "calories": 670,
+      "protein": 46,
+      "carbs": 56,
+      "fat": 28
+    }
+  ],
+  "2026-09-19": [
+    {
+      "id": "breakfast-cheesy-chorizo-brekkie-burritos",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Cheesy Chorizo Brekkie Burritos",
+      "servings": 8,
+      "cook": 45,
+      "tags": [
+        "breakfast",
+        "brunch",
+        "burritos",
+        "chorizo",
+        "meal-prep",
+        "batch-cook",
+        "batch-cooking",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "2 Potato",
+        "350g Chorizo",
+        "125g Extra Mature Cheddar",
+        "12 Egg",
+        "30g Butter",
+        "470g Baby Spinach",
+        "100g Soft Cheese",
+        "2tsp Dried Oregano",
+        "8 Flour Tortilla",
+        "Olive Oil",
+        "Salt",
+        "Black Pepper",
+        "Hot Sauce (to serve)"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "potato",
+          "amount": 2
+        },
+        {
+          "id": "chorizo",
+          "amount": 350,
+          "unitId": "g"
+        },
+        {
+          "id": "extra-mature-cheddar",
+          "amount": 125,
+          "unitId": "g"
+        },
+        {
+          "id": "egg",
+          "amount": 12
+        },
+        {
+          "id": "butter",
+          "amount": 30,
+          "unitId": "g"
+        },
+        {
+          "id": "baby-spinach",
+          "amount": 470,
+          "unitId": "g"
+        },
+        {
+          "id": "soft-cheese",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "dried-oregano",
+          "amount": 2,
+          "unitId": "tsp"
+        },
+        {
+          "id": "flour-tortilla",
+          "amount": 8
+        },
+        {
+          "id": "olive-oil",
+          "amount": null
+        },
+        {
+          "id": "salt",
+          "amount": null
+        },
+        {
+          "id": "black-pepper",
+          "amount": null
+        },
+        {
+          "id": "hot-sauce",
+          "amount": null,
+          "note": "to serve"
+        }
+      ],
+      "steps": [
+        "recipe:cheesy-chorizo-brekkie-burritos:step:0",
+        "recipe:cheesy-chorizo-brekkie-burritos:step:1",
+        "recipe:cheesy-chorizo-brekkie-burritos:step:2",
+        "recipe:cheesy-chorizo-brekkie-burritos:step:3",
+        "recipe:cheesy-chorizo-brekkie-burritos:step:4",
+        "recipe:cheesy-chorizo-brekkie-burritos:step:5",
+        "recipe:cheesy-chorizo-brekkie-burritos:step:6",
+        "recipe:cheesy-chorizo-brekkie-burritos:step:7"
+      ],
+      "url": "https://www.mob.co.uk/recipes/cheesy-chorizo-brekkie-burritos",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Cheesy-Chorizo-Breakfast-Burritos.jpg",
+      "calories": 610,
+      "protein": 32,
+      "carbs": 36,
+      "fat": 36
+    },
+    {
+      "id": "lunch-marry-me-chicken-pasta-bake-meal-prep",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Marry Me Chicken Pasta Bake",
+      "servings": 2,
+      "cook": 25,
+      "tags": [
+        "lunch",
+        "pasta",
+        "chicken",
+        "lunch-box",
+        "content-drop",
+        "healthy",
+        "meal-prep",
+        "comfort",
+        "speedy",
+        "nut-free",
+        "shellfish-free",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "160g Fusilli",
+        "70g Cooked Chicken Breast",
+        "150g Cottage Cheese",
+        "1tbsp Sun-Dried Tomato",
+        "1tbsp Gochujang",
+        "1tsp Garlic Powder",
+        "100g Cherry Tomatoes",
+        "15g Fresh Basil",
+        "20g Parmesan",
+        "Salt"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "fusilli",
+          "amount": 160,
+          "unitId": "g"
+        },
+        {
+          "id": "cooked-chicken-breast",
+          "amount": 70,
+          "unitId": "g"
+        },
+        {
+          "id": "cottage-cheese",
+          "amount": 150,
+          "unitId": "g"
+        },
+        {
+          "id": "sun-dried-tomato",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "gochujang",
+          "amount": 1,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "garlic-powder",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "cherry-tomatoes",
+          "amount": 100,
+          "unitId": "g"
+        },
+        {
+          "id": "fresh-basil",
+          "amount": 15,
+          "unitId": "g"
+        },
+        {
+          "id": "parmesan",
+          "amount": 20,
+          "unitId": "g"
+        },
+        {
+          "id": "salt",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:0",
+        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:1",
+        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:2",
+        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:3",
+        "recipe:marry-me-chicken-pasta-bake-meal-prep:step:4"
+      ],
+      "url": "https://www.mob.co.uk/recipes/marry-me-chicken-pasta-bake-meal-prep",
+      "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Marry-Me-Chicken-Pasta-Bake-Meal-Prep.jpg",
+      "calories": 520,
+      "protein": 36,
+      "carbs": 70,
+      "fat": 12
+    },
+    {
+      "id": "dinner-keralan-inspired-prawn-curry",
+      "label": "Dinner",
+      "time": "20:00",
+      "title": "Kerala-Inspired Prawn Curry",
+      "servings": 4,
+      "cook": null,
+      "tags": [
+        "dinner",
+        "curry",
+        "audit",
+        "healthy",
+        "comfort",
+        "under-20-minutes",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "pescatarian",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "2 Banana Shallot",
+        "30g Fresh Ginger",
+        "4Clove Garlic",
+        "1 Green Chilli",
+        "4 Tomato",
+        "1tsp Mustard Seeds",
+        "0.5tsp Fenugreek Seeds",
+        "15 Curry Leaf",
+        "1tsp Kashmiri Chilli Powder",
+        "1tsp Ground Turmeric",
+        "1tsp Ground Coriander",
+        "2tbsp Tamarind Paste",
+        "350g King Prawns",
+        "250g Basmati Rice",
+        "Coconut Oil",
+        "Salt",
+        "Black Pepper",
+        "1tsp Black Mustard Seed",
+        "10 Curry Leaf",
+        "15g Fresh Coriander"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "banana-shallot",
+          "amount": 2
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 30,
+          "unitId": "g"
+        },
+        {
+          "id": "clove-garlic",
+          "amount": 4
+        },
+        {
+          "id": "green-chilli",
+          "amount": 1
+        },
+        {
+          "id": "tomato",
+          "amount": 4
+        },
+        {
+          "id": "mustard-seeds",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "fenugreek-seeds",
+          "amount": 0.5,
+          "unitId": "tsp"
+        },
+        {
+          "id": "curry-leaf",
+          "amount": 15
+        },
+        {
+          "id": "kashmiri-chilli-powder",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "ground-turmeric",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "ground-coriander",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "tamarind-paste",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "king-prawns",
+          "amount": 350,
+          "unitId": "g"
+        },
+        {
+          "id": "basmati-rice",
+          "amount": 250,
+          "unitId": "g"
+        },
+        {
+          "id": "coconut-oil",
+          "amount": null
+        },
+        {
+          "id": "salt",
+          "amount": null
+        },
+        {
+          "id": "black-pepper",
+          "amount": null
+        },
+        {
+          "id": "black-mustard-seed",
+          "amount": 1,
+          "unitId": "tsp"
+        },
+        {
+          "id": "curry-leaf",
+          "amount": 10
+        },
+        {
+          "id": "fresh-coriander",
+          "amount": 15,
+          "unitId": "g"
+        }
+      ],
+      "steps": [
+        "recipe:keralan-inspired-prawn-curry:step:0",
+        "recipe:keralan-inspired-prawn-curry:step:1",
+        "recipe:keralan-inspired-prawn-curry:step:2",
+        "recipe:keralan-inspired-prawn-curry:step:3",
+        "recipe:keralan-inspired-prawn-curry:step:4",
+        "recipe:keralan-inspired-prawn-curry:step:5",
+        "recipe:keralan-inspired-prawn-curry:step:6",
+        "recipe:keralan-inspired-prawn-curry:step:7",
+        "recipe:keralan-inspired-prawn-curry:step:8",
+        "recipe:keralan-inspired-prawn-curry:step:9"
+      ],
+      "url": "https://www.mob.co.uk/recipes/keralan-inspired-prawn-curry",
+      "image": "https://files.mob-cdn.co.uk/recipes/2026/01/KERALAN-INSPIRED-PRAWN-CURRY1221-7.jpg",
+      "calories": 420,
+      "protein": 30,
+      "carbs": 52,
+      "fat": 10
+    }
+  ],
+  "2026-09-20": [
+    {
+      "id": "breakfast-potato-rosti-recipe",
+      "label": "Morning",
+      "time": "08:00",
+      "title": "Potato Rosti Recipe With Brown Butter Fried Eggs & Sage",
+      "servings": 4,
+      "cook": 35,
+      "tags": [
+        "breakfast",
+        "brunch",
+        "lunch",
+        "eggs",
+        "potatoes",
+        "veggie",
+        "gluten-free",
+        "nut-free",
+        "pescatarian",
+        "shellfish-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "1000g Maris Piper Potato",
+        "1 Onion",
+        "125g Salted Butter",
+        "4 Egg",
+        "15g Fresh Sage",
+        "1 Lemon",
+        "Salt",
+        "Black Pepper",
+        "Hot Sauce",
+        "Green Salad"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "maris-piper-potato",
+          "amount": 1000,
+          "unitId": "g"
+        },
+        {
+          "id": "onion",
+          "amount": 1
+        },
+        {
+          "id": "salted-butter",
+          "amount": 125,
+          "unitId": "g"
+        },
+        {
+          "id": "egg",
+          "amount": 4
+        },
+        {
+          "id": "fresh-sage",
+          "amount": 15,
+          "unitId": "g"
+        },
+        {
+          "id": "lemon",
+          "amount": 1
+        },
+        {
+          "id": "salt",
+          "amount": null
+        },
+        {
+          "id": "black-pepper",
+          "amount": null
+        },
+        {
+          "id": "hot-sauce",
+          "amount": null
+        },
+        {
+          "id": "green-salad",
+          "amount": null
+        }
+      ],
+      "steps": [
+        "recipe:potato-rosti-recipe:step:0",
+        "recipe:potato-rosti-recipe:step:1",
+        "recipe:potato-rosti-recipe:step:2",
+        "recipe:potato-rosti-recipe:step:3",
+        "recipe:potato-rosti-recipe:step:4",
+        "recipe:potato-rosti-recipe:step:5",
+        "recipe:potato-rosti-recipe:step:6"
+      ],
+      "url": "https://www.mob.co.uk/recipes/potato-rosti-recipe",
+      "image": "https://files.mob-cdn.co.uk/recipes/2024/08/220A3871-2-1.jpg",
+      "calories": 460,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 32
+    },
+    {
+      "id": "lunch-cauliflower-with-harissa-tahini-and-lentils",
+      "label": "Lunch",
+      "time": "13:00",
+      "title": "Cauliflower With Harissa Tahini And Lentils",
+      "servings": 4,
+      "cook": 30,
+      "tags": [
+        "lunch",
+        "dinner",
+        "rice",
+        "audit",
+        "healthy",
+        "speedy",
+        "under-30-minutes",
+        "vegan",
+        "veggie",
+        "gluten-free",
+        "dairy-free",
+        "pescatarian",
+        "egg-free",
+        "mob-co-uk"
+      ],
+      "ingredients": [
+        "170g Puy Lentil",
+        "750ml Water",
+        "150g Jasmine Rice",
+        "500ml Vegetable Stock",
+        "1 Cauliflower",
+        "2tbsp Za’atar",
+        "65g Tahini",
+        "2tbsp Harissa Paste",
+        "3tbsp Olive Oil",
+        "Pomegranate Seeds (to serve)",
+        "10g Fresh Parsley (to serve, optional)"
+      ],
+      "ingredientsParsed": [
+        {
+          "id": "puy-lentil",
+          "amount": 170,
+          "unitId": "g"
+        },
+        {
+          "id": "water",
+          "amount": 750,
+          "unitId": "ml"
+        },
+        {
+          "id": "jasmine-rice",
+          "amount": 150,
+          "unitId": "g"
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 500,
+          "unitId": "ml"
+        },
+        {
+          "id": "cauliflower",
+          "amount": 1
+        },
+        {
+          "id": "zaatar",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "tahini",
+          "amount": 65,
+          "unitId": "g"
+        },
+        {
+          "id": "harissa-paste",
+          "amount": 2,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "olive-oil",
+          "amount": 3,
+          "unitId": "tbsp"
+        },
+        {
+          "id": "pomegranate-seeds",
+          "amount": null,
+          "note": "to serve"
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 10,
+          "unitId": "g",
+          "note": "to serve,",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "recipe:cauliflower-with-harissa-tahini-and-lentils:step:0",
+        "recipe:cauliflower-with-harissa-tahini-and-lentils:step:1",
+        "recipe:cauliflower-with-harissa-tahini-and-lentils:step:2",
+        "recipe:cauliflower-with-harissa-tahini-and-lentils:step:3",
+        "recipe:cauliflower-with-harissa-tahini-and-lentils:step:4",
+        "recipe:cauliflower-with-harissa-tahini-and-lentils:step:5",
+        "recipe:cauliflower-with-harissa-tahini-and-lentils:step:6"
+      ],
+      "url": "https://www.mob.co.uk/recipes/cauliflower-with-harissa-tahini-and-lentils",
+      "image": "https://files.mob-cdn.co.uk/recipes/2023/08/CAULIFLOWER-WITH-HARISSA-TAHINI-_-LENTILS1430.jpg",
+      "calories": 480,
+      "protein": 18,
+      "carbs": 60,
+      "fat": 18
     },
     {
       "id": "dinner-creamy-spicy-pork-ramen",
